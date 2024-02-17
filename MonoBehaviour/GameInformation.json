@@ -6,7 +6,7 @@
   "m_Enabled": 1,
   "m_Script": {
     "m_FileID": 1,
-    "m_PathID": 2911
+    "m_PathID": 1394
   },
   "m_Name": "",
   "isGameServiceAvailable": true,
@@ -44,18 +44,18 @@
   },
   "sceneSwitchMask": {
     "m_FileID": 0,
-    "m_PathID": 87
+    "m_PathID": 53
   },
   "noteCodes": [],
   "nowChallengeIndex": 0,
   "challengeSongItems": [],
   "moneyControl": {
     "m_FileID": 0,
-    "m_PathID": 81
+    "m_PathID": 47
   },
   "getCollectionControl": {
     "m_FileID": 0,
-    "m_PathID": 82
+    "m_PathID": 48
   },
   "hitFxIsOn": true,
   "offset": 0.0,
@@ -75,20 +75,106 @@
         "banner": "Single",
         "songs": [
           {
-            "songsId": "NowIsTheTimeDoIt.RoyMikelate.0",
+            "songsId": "CrushBETA.shadow_bling.0",
             "unlockType": 1,
             "unlockInfo": [
-              "4"
+              "4",
+              "prev@2/2/2024 17:00:00 +8:00"
             ],
+            "secretType": 0,
+            "secretInfo": []
+          },
+          {
+            "songsId": "GVNGlitterVomitusandNeon.SaltySaltUnfold33.0",
+            "unlockType": 1,
+            "unlockInfo": [
+              "4",
+              "prev@2/2/2024 17:00:00 +8:00"
+            ],
+            "secretType": 0,
+            "secretInfo": []
+          },
+          {
+            "songsId": "聖夜讃歌.A39沙包P.0",
+            "unlockType": 1,
+            "unlockInfo": [],
+            "secretType": 0,
+            "secretInfo": []
+          },
+          {
+            "songsId": "bye.DingerBox.0",
+            "unlockType": 1,
+            "unlockInfo": [],
+            "secretType": 0,
+            "secretInfo": []
+          },
+          {
+            "songsId": "FracturedAngel.DJRaisei.0",
+            "unlockType": 1,
+            "unlockInfo": [],
+            "secretType": 0,
+            "secretInfo": []
+          },
+          {
+            "songsId": "SilenceisGoldenSpeechisGolden.NIWASHI.0",
+            "unlockType": 1,
+            "unlockInfo": [],
+            "secretType": 0,
+            "secretInfo": []
+          },
+          {
+            "songsId": "Bitterblossom.imvi.0",
+            "unlockType": 1,
+            "unlockInfo": [],
+            "secretType": 0,
+            "secretInfo": []
+          },
+          {
+            "songsId": "DiamondEyes.SYNTHETIC.0",
+            "unlockType": 1,
+            "unlockInfo": [],
+            "secretType": 0,
+            "secretInfo": []
+          },
+          {
+            "songsId": "TriumphRegret.typeMARS.0",
+            "unlockType": 1,
+            "unlockInfo": [],
+            "secretType": 0,
+            "secretInfo": []
+          },
+          {
+            "songsId": "ぱぴぷぴぷぴぱ.ころねぽちWith立秋.0",
+            "unlockType": 1,
+            "unlockInfo": [],
+            "secretType": 0,
+            "secretInfo": []
+          },
+          {
+            "songsId": "Realms.HinkikAHimitsu.0",
+            "unlockType": 1,
+            "unlockInfo": [],
+            "secretType": 0,
+            "secretInfo": []
+          },
+          {
+            "songsId": "RainyHeart.BelieverInYou阿卡姆巫师.0",
+            "unlockType": 1,
+            "unlockInfo": [],
+            "secretType": 0,
+            "secretInfo": []
+          },
+          {
+            "songsId": "NowIsTheTimeDoIt.RoyMikelate.0",
+            "unlockType": 1,
+            "unlockInfo": [],
             "secretType": 0,
             "secretInfo": []
           },
           {
             "songsId": "Bougainvillea.Jade.0",
             "unlockType": 1,
-            "unlockInfo": [
-              "4"
-            ],
+            "unlockInfo": [],
             "secretType": 0,
             "secretInfo": []
           },
@@ -1221,62 +1307,154 @@
       }
     },
     {
-      "chapterCode": "OverRapid",
+      "chapterCode": "CHUNITHM",
       "songInfo": {
-        "title": "\\ChapterOverRapidTitle",
+        "title": "\\ChapterCHUNITHMTitle",
         "subTitle": "\\ChapterExtraSubTitle",
-        "banner": "OverRapid",
+        "banner": "CHUNITHM",
         "songs": [
           {
-            "songsId": "神話.PicaM2U.0",
+            "songsId": "テリトリーバトル.ツユ.0",
+            "unlockType": 0,
+            "unlockInfo": [],
+            "secretType": 0,
+            "secretInfo": []
+          },
+          {
+            "songsId": "TECHNOPOLIS2085.PRASTIKDANCEFLOOR.0",
+            "unlockType": 0,
+            "unlockInfo": [],
+            "secretType": 0,
+            "secretInfo": []
+          },
+          {
+            "songsId": "祈-我ら神祖と共に歩む者なり-.光吉猛修VS穴山大輔VSKaiVS水野健治VS大国奏音.0",
+            "unlockType": 0,
+            "unlockInfo": [],
+            "secretType": 0,
+            "secretInfo": []
+          }
+        ]
+      },
+      "unlockInfo": {
+        "unlockMode": 0,
+        "unlockFlag": "",
+        "unlockTip": "",
+        "fakeCoverFlag": "",
+        "fakeCoverCode": "",
+        "fakeCoverBlurCode": ""
+      }
+    },
+    {
+      "chapterCode": "Rotaeno",
+      "songInfo": {
+        "title": "\\ChapterRotaenoTitle",
+        "subTitle": "\\ChapterExtraSubTitle",
+        "banner": "Rotaeno",
+        "songs": [
+          {
+            "songsId": "JourneywithYou.Iris.0",
+            "unlockType": 0,
+            "unlockInfo": [],
+            "secretType": 0,
+            "secretInfo": []
+          },
+          {
+            "songsId": "SecretIllumination.Yooh.0",
+            "unlockType": 0,
+            "unlockInfo": [],
+            "secretType": 0,
+            "secretInfo": []
+          },
+          {
+            "songsId": "InvertedWorld.ARForest.0",
+            "unlockType": 0,
+            "unlockInfo": [],
+            "secretType": 0,
+            "secretInfo": []
+          },
+          {
+            "songsId": "ストレイソウルアラウンド.みーに.0",
             "unlockType": 0,
             "unlockInfo": [
-              "prev@6/9/2023 17:00:00 +8:00"
+              "prev@1/19/2024 17:00:00 +8:00"
             ],
             "secretType": 0,
             "secretInfo": []
           },
           {
-            "songsId": "Elúltimobaile.Θ.0",
+            "songsId": "ManifoldHypothesis.cybermisofeattigerlily.0",
+            "unlockType": 0,
+            "unlockInfo": [],
+            "secretType": 0,
+            "secretInfo": []
+          },
+          {
+            "songsId": "KMoeVIP.ZxNX.0",
+            "unlockType": 0,
+            "unlockInfo": [],
+            "secretType": 0,
+            "secretInfo": []
+          }
+        ]
+      },
+      "unlockInfo": {
+        "unlockMode": 0,
+        "unlockFlag": "",
+        "unlockTip": "",
+        "fakeCoverFlag": "",
+        "fakeCoverCode": "",
+        "fakeCoverBlurCode": ""
+      }
+    },
+    {
+      "chapterCode": "Camellia",
+      "songInfo": {
+        "title": "\\ChapterCamelliaTitle",
+        "subTitle": "\\ChapterCamelliaSubTitle",
+        "banner": "かめりあ",
+        "songs": [
+          {
+            "songsId": "SATELLITE.かめりあ.0",
             "unlockType": 0,
             "unlockInfo": [
-              "prev@6/9/2023 17:00:00 +8:00"
+              "prev@8/31/2023 17:00:00 +8:00"
             ],
             "secretType": 0,
             "secretInfo": []
           },
           {
-            "songsId": "Trojan.litmus.0",
+            "songsId": "DancewithSilence.かめりあ.0",
             "unlockType": 0,
             "unlockInfo": [
-              "prev@6/9/2023 17:00:00 +8:00"
+              "prev@8/31/2023 17:00:00 +8:00"
             ],
             "secretType": 0,
             "secretInfo": []
           },
           {
-            "songsId": "TemporalShifting.LureRabbitVC.0",
+            "songsId": "LabyrinthinKowloonWalledWorld.かめりあ.0",
             "unlockType": 0,
             "unlockInfo": [
-              "prev@6/9/2023 17:00:00 +8:00"
+              "prev@8/31/2023 17:00:00 +8:00"
             ],
             "secretType": 0,
             "secretInfo": []
           },
           {
-            "songsId": "Adastraperaspera.RabbitHouse.0",
+            "songsId": "ComputeItWithSomeDevilishAlcoholicSteampunkEngines.かめりあ.0",
             "unlockType": 0,
             "unlockInfo": [
-              "prev@6/9/2023 17:00:00 +8:00"
+              "prev@8/31/2023 17:00:00 +8:00"
             ],
             "secretType": 0,
             "secretInfo": []
           },
           {
-            "songsId": "Ajourneytothemoonlight.Yesod.0",
+            "songsId": "ERABYECONNEC10N.かめりあ.0",
             "unlockType": 0,
             "unlockInfo": [
-              "prev@6/9/2023 17:00:00 +8:00"
+              "prev@8/31/2023 17:00:00 +8:00"
             ],
             "secretType": 0,
             "secretInfo": []
@@ -1286,7 +1464,67 @@
       "unlockInfo": {
         "unlockMode": 0,
         "unlockFlag": "",
-        "unlockTip": "prev@6/9/2023 17:00:00 +8:00",
+        "unlockTip": "",
+        "fakeCoverFlag": "",
+        "fakeCoverCode": "",
+        "fakeCoverBlurCode": ""
+      }
+    },
+    {
+      "chapterCode": "OverRapid",
+      "songInfo": {
+        "title": "\\ChapterOverRapidTitle",
+        "subTitle": "\\ChapterExtraSubTitle",
+        "banner": "OverRapid",
+        "songs": [
+          {
+            "songsId": "神話.PicaM2U.0",
+            "unlockType": 0,
+            "unlockInfo": [],
+            "secretType": 0,
+            "secretInfo": []
+          },
+          {
+            "songsId": "Elúltimobaile.Θ.0",
+            "unlockType": 0,
+            "unlockInfo": [],
+            "secretType": 0,
+            "secretInfo": []
+          },
+          {
+            "songsId": "Trojan.litmus.0",
+            "unlockType": 0,
+            "unlockInfo": [],
+            "secretType": 0,
+            "secretInfo": []
+          },
+          {
+            "songsId": "TemporalShifting.LureRabbitVC.0",
+            "unlockType": 0,
+            "unlockInfo": [],
+            "secretType": 0,
+            "secretInfo": []
+          },
+          {
+            "songsId": "Adastraperaspera.RabbitHouse.0",
+            "unlockType": 0,
+            "unlockInfo": [],
+            "secretType": 0,
+            "secretInfo": []
+          },
+          {
+            "songsId": "Ajourneytothemoonlight.Yesod.0",
+            "unlockType": 0,
+            "unlockInfo": [],
+            "secretType": 0,
+            "secretInfo": []
+          }
+        ]
+      },
+      "unlockInfo": {
+        "unlockMode": 0,
+        "unlockFlag": "",
+        "unlockTip": "",
         "fakeCoverFlag": "",
         "fakeCoverCode": "",
         "fakeCoverBlurCode": ""
@@ -1853,14 +2091,14 @@
           4.5,
           10.4,
           13.7,
-          0.0
+          15.5
         ],
         "illustrator": "Ctymax",
         "charter": [
           "Ctymax",
           "Ctymax",
           "Ctymax",
-          ""
+          "_鉄 (Isotope 59)"
         ],
         "composer": "Frums",
         "levels": [
@@ -5538,8 +5776,8 @@
         "songsTitle": "",
         "difficulty": [
           7.0,
-          10.8,
-          14.4,
+          11.7,
+          14.5,
           16.1
         ],
         "illustrator": "DoublePian",
@@ -5787,7 +6025,7 @@
         "difficulty": [
           4.0,
           10.6,
-          14.8,
+          14.9,
           0.0
         ],
         "illustrator": "knife美工刀",
@@ -5980,7 +6218,7 @@
         "difficulty": [
           3.5,
           9.4,
-          12.8,
+          13.2,
           0.0
         ],
         "illustrator": "knife美工刀",
@@ -6731,7 +6969,7 @@
         "difficulty": [
           6.5,
           11.4,
-          13.8,
+          14.1,
           0.0
         ],
         "illustrator": "TNiK",
@@ -8777,7 +9015,7 @@
         "difficulty": [
           3.0,
           9.6,
-          13.6,
+          13.8,
           0.0
         ],
         "illustrator": "佑木いずみ & Ctymax",
@@ -9025,7 +9263,7 @@
         "difficulty": [
           5.5,
           9.7,
-          12.1,
+          12.6,
           0.0
         ],
         "illustrator": "Hachimitsu☆Boy",
@@ -9459,7 +9697,7 @@
         "difficulty": [
           5.0,
           9.2,
-          15.5,
+          15.4,
           0.0
         ],
         "illustrator": "ZG",
@@ -9893,7 +10131,7 @@
         "difficulty": [
           5.5,
           9.3,
-          14.4,
+          14.5,
           0.0
         ],
         "illustrator": "鲸弑",
@@ -10394,7 +10632,7 @@
         "difficulty": [
           5.0,
           11.1,
-          15.5,
+          15.4,
           16.4
         ],
         "illustrator": "Lanota © Noxy Games Inc. ",
@@ -11703,7 +11941,7 @@
         "difficulty": [
           5.0,
           11.2,
-          15.7,
+          15.6,
           0.0
         ],
         "illustrator": "LESYEF & 藍瀬 まなみ",
@@ -11950,7 +12188,7 @@
         "songsTitle": "",
         "difficulty": [
           7.0,
-          12.8,
+          12.3,
           15.8,
           0.0
         ],
@@ -12465,6 +12703,1620 @@
           "AT"
         ],
         "previewTime": 55.896,
+        "unlockInfo": [
+          {
+            "unlockType": 0,
+            "unlockInfo": []
+          },
+          {
+            "unlockType": 0,
+            "unlockInfo": []
+          },
+          {
+            "unlockType": 0,
+            "unlockInfo": []
+          },
+          {
+            "unlockType": 0,
+            "unlockInfo": []
+          }
+        ],
+        "levelMods": [
+          {
+            "levelMods": []
+          },
+          {
+            "levelMods": []
+          },
+          {
+            "levelMods": []
+          },
+          {
+            "levelMods": []
+          },
+          {
+            "levelMods": []
+          }
+        ]
+      },
+      {
+        "songsId": "RainyHeart.BelieverInYou阿卡姆巫师.0",
+        "songsKey": "Rainy Heart",
+        "songsName": "Rainy Heart",
+        "songsTitle": "",
+        "difficulty": [
+          4.0,
+          10.2,
+          12.9,
+          0.0
+        ],
+        "illustrator": "Sodhelium",
+        "charter": [
+          "Su1fuR",
+          "Barbarianerman",
+          "HaraKuma",
+          ""
+        ],
+        "composer": "BelieverInYou(阿卡姆巫师)",
+        "levels": [
+          "EZ",
+          "HD",
+          "IN",
+          "AT"
+        ],
+        "previewTime": 29.0,
+        "unlockInfo": [
+          {
+            "unlockType": 0,
+            "unlockInfo": []
+          },
+          {
+            "unlockType": 0,
+            "unlockInfo": []
+          },
+          {
+            "unlockType": 0,
+            "unlockInfo": []
+          },
+          {
+            "unlockType": 0,
+            "unlockInfo": []
+          }
+        ],
+        "levelMods": [
+          {
+            "levelMods": []
+          },
+          {
+            "levelMods": []
+          },
+          {
+            "levelMods": []
+          },
+          {
+            "levelMods": []
+          },
+          {
+            "levelMods": []
+          }
+        ]
+      },
+      {
+        "songsId": "Realms.HinkikAHimitsu.0",
+        "songsKey": "Realms",
+        "songsName": "Realms",
+        "songsTitle": "",
+        "difficulty": [
+          4.5,
+          10.8,
+          14.1,
+          0.0
+        ],
+        "illustrator": "圆规compasses",
+        "charter": [
+          "Barbarianerman",
+          "Barbarianerman",
+          "NerSAN",
+          ""
+        ],
+        "composer": "Hinkik & A Himitsu",
+        "levels": [
+          "EZ",
+          "HD",
+          "IN",
+          "AT"
+        ],
+        "previewTime": 47.068,
+        "unlockInfo": [
+          {
+            "unlockType": 0,
+            "unlockInfo": []
+          },
+          {
+            "unlockType": 0,
+            "unlockInfo": []
+          },
+          {
+            "unlockType": 0,
+            "unlockInfo": []
+          },
+          {
+            "unlockType": 0,
+            "unlockInfo": []
+          }
+        ],
+        "levelMods": [
+          {
+            "levelMods": []
+          },
+          {
+            "levelMods": []
+          },
+          {
+            "levelMods": []
+          },
+          {
+            "levelMods": []
+          },
+          {
+            "levelMods": []
+          }
+        ]
+      },
+      {
+        "songsId": "ぱぴぷぴぷぴぱ.ころねぽちWith立秋.0",
+        "songsKey": "ぱぴぷぴぷぴぱ",
+        "songsName": "ぱぴぷぴぷぴぱ",
+        "songsTitle": "",
+        "difficulty": [
+          5.0,
+          11.3,
+          15.5,
+          0.0
+        ],
+        "illustrator": "上倉エク",
+        "charter": [
+          "ParParianerman",
+          "ParParianerman",
+          "さるふるふるさ",
+          ""
+        ],
+        "composer": "ころねぽち With 立秋",
+        "levels": [
+          "EZ",
+          "HD",
+          "IN",
+          "AT"
+        ],
+        "previewTime": 92.6,
+        "unlockInfo": [
+          {
+            "unlockType": 0,
+            "unlockInfo": []
+          },
+          {
+            "unlockType": 0,
+            "unlockInfo": []
+          },
+          {
+            "unlockType": 0,
+            "unlockInfo": []
+          },
+          {
+            "unlockType": 0,
+            "unlockInfo": []
+          }
+        ],
+        "levelMods": [
+          {
+            "levelMods": []
+          },
+          {
+            "levelMods": []
+          },
+          {
+            "levelMods": []
+          },
+          {
+            "levelMods": []
+          },
+          {
+            "levelMods": []
+          }
+        ]
+      },
+      {
+        "songsId": "TriumphRegret.typeMARS.0",
+        "songsKey": "Triumph & Regret",
+        "songsName": "Triumph & Regret",
+        "songsTitle": "",
+        "difficulty": [
+          5.0,
+          9.4,
+          14.7,
+          0.0
+        ],
+        "illustrator": "何呵",
+        "charter": [
+          "Barbarianerman & Regret",
+          "Barbarianerman & Regret",
+          "TimiTini & HaraKuma",
+          ""
+        ],
+        "composer": "typeMARS",
+        "levels": [
+          "EZ",
+          "HD",
+          "IN",
+          "AT"
+        ],
+        "previewTime": 76.793,
+        "unlockInfo": [
+          {
+            "unlockType": 0,
+            "unlockInfo": []
+          },
+          {
+            "unlockType": 0,
+            "unlockInfo": []
+          },
+          {
+            "unlockType": 0,
+            "unlockInfo": []
+          },
+          {
+            "unlockType": 0,
+            "unlockInfo": []
+          }
+        ],
+        "levelMods": [
+          {
+            "levelMods": []
+          },
+          {
+            "levelMods": []
+          },
+          {
+            "levelMods": []
+          },
+          {
+            "levelMods": []
+          },
+          {
+            "levelMods": []
+          }
+        ]
+      },
+      {
+        "songsId": "SATELLITE.かめりあ.0",
+        "songsKey": "S.A.T.E.L.L.I.T.E.",
+        "songsName": "S.A.T.E.L.L.I.T.E.",
+        "songsTitle": "",
+        "difficulty": [
+          5.0,
+          9.9,
+          14.6,
+          15.8
+        ],
+        "illustrator": "青鸟",
+        "charter": [
+          "XMT wishing upon a satellite",
+          "B.A.R.B.A.R.I.A.N.E.R.M.A.N.",
+          "L.I.K.E.Y.",
+          "N.E.R.1.9.8."
+        ],
+        "composer": "かめりあ",
+        "levels": [
+          "EZ",
+          "HD",
+          "IN",
+          "AT"
+        ],
+        "previewTime": 81.2,
+        "unlockInfo": [
+          {
+            "unlockType": 0,
+            "unlockInfo": []
+          },
+          {
+            "unlockType": 0,
+            "unlockInfo": []
+          },
+          {
+            "unlockType": 0,
+            "unlockInfo": []
+          },
+          {
+            "unlockType": 2,
+            "unlockInfo": [
+              "ReadbassareusEgg"
+            ]
+          }
+        ],
+        "levelMods": [
+          {
+            "levelMods": []
+          },
+          {
+            "levelMods": []
+          },
+          {
+            "levelMods": []
+          },
+          {
+            "levelMods": []
+          },
+          {
+            "levelMods": []
+          }
+        ]
+      },
+      {
+        "songsId": "DancewithSilence.かめりあ.0",
+        "songsKey": "Dance with Silence",
+        "songsName": "Dance with Silence",
+        "songsTitle": "",
+        "difficulty": [
+          7.0,
+          10.9,
+          15.2,
+          0.0
+        ],
+        "illustrator": "林语",
+        "charter": [
+          "Su1fuR",
+          "Su1fuR",
+          "晨_鉄",
+          ""
+        ],
+        "composer": "かめりあ",
+        "levels": [
+          "EZ",
+          "HD",
+          "IN",
+          "AT"
+        ],
+        "previewTime": 114.4,
+        "unlockInfo": [
+          {
+            "unlockType": 0,
+            "unlockInfo": []
+          },
+          {
+            "unlockType": 0,
+            "unlockInfo": []
+          },
+          {
+            "unlockType": 0,
+            "unlockInfo": []
+          },
+          {
+            "unlockType": 0,
+            "unlockInfo": []
+          }
+        ],
+        "levelMods": [
+          {
+            "levelMods": []
+          },
+          {
+            "levelMods": []
+          },
+          {
+            "levelMods": []
+          },
+          {
+            "levelMods": []
+          },
+          {
+            "levelMods": []
+          }
+        ]
+      },
+      {
+        "songsId": "LabyrinthinKowloonWalledWorld.かめりあ.0",
+        "songsKey": "Labyrinth in Kowloon: Walled World",
+        "songsName": "Labyrinth in Kowloon: Walled World",
+        "songsTitle": "",
+        "difficulty": [
+          6.0,
+          11.6,
+          15.4,
+          0.0
+        ],
+        "illustrator": "鲸弑",
+        "charter": [
+          "VikingNexus",
+          "VikingNexus",
+          "198 in Kowloon",
+          ""
+        ],
+        "composer": "かめりあ",
+        "levels": [
+          "EZ",
+          "HD",
+          "IN",
+          "AT"
+        ],
+        "previewTime": 41.0,
+        "unlockInfo": [
+          {
+            "unlockType": 0,
+            "unlockInfo": []
+          },
+          {
+            "unlockType": 0,
+            "unlockInfo": []
+          },
+          {
+            "unlockType": 0,
+            "unlockInfo": []
+          },
+          {
+            "unlockType": 0,
+            "unlockInfo": []
+          }
+        ],
+        "levelMods": [
+          {
+            "levelMods": []
+          },
+          {
+            "levelMods": []
+          },
+          {
+            "levelMods": []
+          },
+          {
+            "levelMods": []
+          },
+          {
+            "levelMods": []
+          }
+        ]
+      },
+      {
+        "songsId": "ComputeItWithSomeDevilishAlcoholicSteampunkEngines.かめりあ.0",
+        "songsKey": "Compute It With Some Devilish Alcoholic Steampunk Engines",
+        "songsName": "Compute It With Some Devilish Alcoholic Steampunk Engines",
+        "songsTitle": "",
+        "difficulty": [
+          5.5,
+          10.6,
+          15.6,
+          0.0
+        ],
+        "illustrator": "山崎团",
+        "charter": [
+          "Clutter",
+          "Clutter",
+          "Gausbon vs. XMT小咩兔",
+          ""
+        ],
+        "composer": "かめりあ",
+        "levels": [
+          "EZ",
+          "HD",
+          "IN",
+          "AT"
+        ],
+        "previewTime": 112.0,
+        "unlockInfo": [
+          {
+            "unlockType": 0,
+            "unlockInfo": []
+          },
+          {
+            "unlockType": 0,
+            "unlockInfo": []
+          },
+          {
+            "unlockType": 0,
+            "unlockInfo": []
+          },
+          {
+            "unlockType": 0,
+            "unlockInfo": []
+          }
+        ],
+        "levelMods": [
+          {
+            "levelMods": []
+          },
+          {
+            "levelMods": []
+          },
+          {
+            "levelMods": []
+          },
+          {
+            "levelMods": []
+          },
+          {
+            "levelMods": []
+          }
+        ]
+      },
+      {
+        "songsId": "ERABYECONNEC10N.かめりあ.0",
+        "songsKey": "+ERABY+E CONNEC+10N",
+        "songsName": "+ERABY+E CONNEC+10N",
+        "songsTitle": "",
+        "difficulty": [
+          5.5,
+          11.5,
+          15.8,
+          16.5
+        ],
+        "illustrator": "猫箱Catbox feat. 祈莲",
+        "charter": [
+          "4B314C3042592B45",
+          "4D45474142592B45",
+          "4731474142592B45",
+          "2B45524142592B45"
+        ],
+        "composer": "かめりあ",
+        "levels": [
+          "EZ",
+          "HD",
+          "IN",
+          "AT"
+        ],
+        "previewTime": 75.13,
+        "unlockInfo": [
+          {
+            "unlockType": 0,
+            "unlockInfo": []
+          },
+          {
+            "unlockType": 0,
+            "unlockInfo": []
+          },
+          {
+            "unlockType": 0,
+            "unlockInfo": []
+          },
+          {
+            "unlockType": 0,
+            "unlockInfo": []
+          }
+        ],
+        "levelMods": [
+          {
+            "levelMods": []
+          },
+          {
+            "levelMods": []
+          },
+          {
+            "levelMods": []
+          },
+          {
+            "levelMods": []
+          },
+          {
+            "levelMods": []
+          }
+        ]
+      },
+      {
+        "songsId": "DiamondEyes.SYNTHETIC.0",
+        "songsKey": "Diamond Eyes",
+        "songsName": "Diamond Eyes",
+        "songsTitle": "",
+        "difficulty": [
+          4.0,
+          8.2,
+          13.4,
+          0.0
+        ],
+        "illustrator": "彗星 feat. 祈莲",
+        "charter": [
+          "Su1fuR",
+          "Su1fuR",
+          "Clutter",
+          ""
+        ],
+        "composer": "SYNTHETIC",
+        "levels": [
+          "EZ",
+          "HD",
+          "IN",
+          "AT"
+        ],
+        "previewTime": 97.285,
+        "unlockInfo": [
+          {
+            "unlockType": 0,
+            "unlockInfo": []
+          },
+          {
+            "unlockType": 0,
+            "unlockInfo": []
+          },
+          {
+            "unlockType": 0,
+            "unlockInfo": []
+          },
+          {
+            "unlockType": 0,
+            "unlockInfo": []
+          }
+        ],
+        "levelMods": [
+          {
+            "levelMods": []
+          },
+          {
+            "levelMods": []
+          },
+          {
+            "levelMods": []
+          },
+          {
+            "levelMods": []
+          },
+          {
+            "levelMods": []
+          }
+        ]
+      },
+      {
+        "songsId": "Bitterblossom.imvi.0",
+        "songsKey": "Bitterblossom",
+        "songsName": "Bitterblossom",
+        "songsTitle": "",
+        "difficulty": [
+          3.0,
+          9.6,
+          13.7,
+          0.0
+        ],
+        "illustrator": "鲸弑",
+        "charter": [
+          "Su1fuR",
+          "Barbarianerman",
+          "百九十八",
+          ""
+        ],
+        "composer": "imvi",
+        "levels": [
+          "EZ",
+          "HD",
+          "IN",
+          "AT"
+        ],
+        "previewTime": 21.333,
+        "unlockInfo": [
+          {
+            "unlockType": 0,
+            "unlockInfo": []
+          },
+          {
+            "unlockType": 0,
+            "unlockInfo": []
+          },
+          {
+            "unlockType": 0,
+            "unlockInfo": []
+          },
+          {
+            "unlockType": 0,
+            "unlockInfo": []
+          }
+        ],
+        "levelMods": [
+          {
+            "levelMods": []
+          },
+          {
+            "levelMods": []
+          },
+          {
+            "levelMods": []
+          },
+          {
+            "levelMods": []
+          },
+          {
+            "levelMods": []
+          }
+        ]
+      },
+      {
+        "songsId": "SilenceisGoldenSpeechisGolden.NIWASHI.0",
+        "songsKey": "Silence is Golden, Speech is Golden",
+        "songsName": "Silence is Golden, Speech is Golden",
+        "songsTitle": "",
+        "difficulty": [
+          5.0,
+          9.7,
+          15.5,
+          0.0
+        ],
+        "illustrator": "Jerry & OsuMe65",
+        "charter": [
+          "Clutter is coppery，Tumult is coppery",
+          "XMT is silvery, 小咩兔 is silvery",
+          "Hara is golden, Kuma is golden",
+          ""
+        ],
+        "composer": "NIWASHI",
+        "levels": [
+          "EZ",
+          "HD",
+          "IN",
+          "AT"
+        ],
+        "previewTime": 68.986,
+        "unlockInfo": [
+          {
+            "unlockType": 0,
+            "unlockInfo": []
+          },
+          {
+            "unlockType": 0,
+            "unlockInfo": []
+          },
+          {
+            "unlockType": 0,
+            "unlockInfo": []
+          },
+          {
+            "unlockType": 0,
+            "unlockInfo": []
+          }
+        ],
+        "levelMods": [
+          {
+            "levelMods": []
+          },
+          {
+            "levelMods": []
+          },
+          {
+            "levelMods": []
+          },
+          {
+            "levelMods": []
+          },
+          {
+            "levelMods": []
+          }
+        ]
+      },
+      {
+        "songsId": "FracturedAngel.DJRaisei.0",
+        "songsKey": "Fractured Angel",
+        "songsName": "Fractured Angel",
+        "songsTitle": "",
+        "difficulty": [
+          4.0,
+          10.9,
+          15.9,
+          0.0
+        ],
+        "illustrator": "OsuMe65",
+        "charter": [
+          "Su1fuR",
+          "Su1fuR",
+          "逆天使の悪魔 【Likey】",
+          ""
+        ],
+        "composer": "DJ Raisei",
+        "levels": [
+          "EZ",
+          "HD",
+          "IN",
+          "AT"
+        ],
+        "previewTime": 67.0,
+        "unlockInfo": [
+          {
+            "unlockType": 0,
+            "unlockInfo": []
+          },
+          {
+            "unlockType": 0,
+            "unlockInfo": []
+          },
+          {
+            "unlockType": 0,
+            "unlockInfo": []
+          },
+          {
+            "unlockType": 0,
+            "unlockInfo": []
+          }
+        ],
+        "levelMods": [
+          {
+            "levelMods": []
+          },
+          {
+            "levelMods": []
+          },
+          {
+            "levelMods": []
+          },
+          {
+            "levelMods": []
+          },
+          {
+            "levelMods": []
+          }
+        ]
+      },
+      {
+        "songsId": "JourneywithYou.Iris.0",
+        "songsKey": "Journey with You",
+        "songsName": "Journey with You",
+        "songsTitle": "",
+        "difficulty": [
+          5.5,
+          10.1,
+          13.8,
+          0.0
+        ],
+        "illustrator": "BTKCyber (青鸟 modified)",
+        "charter": [
+          "jouR.ney with hold",
+          "jouR.ney to the end【COVERED】",
+          "Su1fuR -All about YOU & ME-",
+          ""
+        ],
+        "composer": "Iris",
+        "levels": [
+          "EZ",
+          "HD",
+          "IN",
+          "AT"
+        ],
+        "previewTime": 40.5,
+        "unlockInfo": [
+          {
+            "unlockType": 0,
+            "unlockInfo": []
+          },
+          {
+            "unlockType": 0,
+            "unlockInfo": []
+          },
+          {
+            "unlockType": 0,
+            "unlockInfo": []
+          },
+          {
+            "unlockType": 0,
+            "unlockInfo": []
+          }
+        ],
+        "levelMods": [
+          {
+            "levelMods": []
+          },
+          {
+            "levelMods": []
+          },
+          {
+            "levelMods": []
+          },
+          {
+            "levelMods": []
+          },
+          {
+            "levelMods": []
+          }
+        ]
+      },
+      {
+        "songsId": "SecretIllumination.Yooh.0",
+        "songsKey": "Secret Illumination",
+        "songsName": "Secret Illumination",
+        "songsTitle": "",
+        "difficulty": [
+          5.0,
+          10.5,
+          14.8,
+          0.0
+        ],
+        "illustrator": "Juice Black (青鸟 modified)",
+        "charter": [
+          "Likey ",
+          "迟戈 vs Likey",
+          "NerSAN",
+          ""
+        ],
+        "composer": "Yooh",
+        "levels": [
+          "EZ",
+          "HD",
+          "IN",
+          "AT"
+        ],
+        "previewTime": 96.0,
+        "unlockInfo": [
+          {
+            "unlockType": 0,
+            "unlockInfo": []
+          },
+          {
+            "unlockType": 0,
+            "unlockInfo": []
+          },
+          {
+            "unlockType": 0,
+            "unlockInfo": []
+          },
+          {
+            "unlockType": 0,
+            "unlockInfo": []
+          }
+        ],
+        "levelMods": [
+          {
+            "levelMods": []
+          },
+          {
+            "levelMods": []
+          },
+          {
+            "levelMods": []
+          },
+          {
+            "levelMods": []
+          },
+          {
+            "levelMods": []
+          }
+        ]
+      },
+      {
+        "songsId": "InvertedWorld.ARForest.0",
+        "songsKey": "Inverted World",
+        "songsName": "Inverted World",
+        "songsTitle": "",
+        "difficulty": [
+          5.0,
+          11.2,
+          15.4,
+          0.0
+        ],
+        "illustrator": "Mechari (青鸟 modified)",
+        "charter": [
+          "Clutter",
+          "ɹǝʇʇnlƆ",
+          "ƃuɐnɥs∀ .sʌ uoqsnɐ⅁",
+          ""
+        ],
+        "composer": "ARForest",
+        "levels": [
+          "EZ",
+          "HD",
+          "IN",
+          "AT"
+        ],
+        "previewTime": 84.027,
+        "unlockInfo": [
+          {
+            "unlockType": 0,
+            "unlockInfo": []
+          },
+          {
+            "unlockType": 0,
+            "unlockInfo": []
+          },
+          {
+            "unlockType": 0,
+            "unlockInfo": []
+          },
+          {
+            "unlockType": 0,
+            "unlockInfo": []
+          }
+        ],
+        "levelMods": [
+          {
+            "levelMods": []
+          },
+          {
+            "levelMods": []
+          },
+          {
+            "levelMods": []
+          },
+          {
+            "levelMods": []
+          },
+          {
+            "levelMods": []
+          }
+        ]
+      },
+      {
+        "songsId": "テリトリーバトル.ツユ.0",
+        "songsKey": "テリトリーバトル",
+        "songsName": "テリトリーバトル",
+        "songsTitle": "",
+        "difficulty": [
+          3.0,
+          9.1,
+          13.8,
+          15.3
+        ],
+        "illustrator": "SEGA (V17AMax modified)",
+        "charter": [
+          "返せ！返せ！ボクのSu1fuRを",
+          "{^-7-^} BATTLE against Su1fuR",
+          "阿爽 and StupiGGy Seizing Territory",
+          "JKy feat. 0419_Guardian"
+        ],
+        "composer": "ツユ",
+        "levels": [
+          "EZ",
+          "HD",
+          "IN",
+          "AT"
+        ],
+        "previewTime": 63.0,
+        "unlockInfo": [
+          {
+            "unlockType": 0,
+            "unlockInfo": []
+          },
+          {
+            "unlockType": 0,
+            "unlockInfo": []
+          },
+          {
+            "unlockType": 0,
+            "unlockInfo": []
+          },
+          {
+            "unlockType": 0,
+            "unlockInfo": []
+          }
+        ],
+        "levelMods": [
+          {
+            "levelMods": []
+          },
+          {
+            "levelMods": []
+          },
+          {
+            "levelMods": []
+          },
+          {
+            "levelMods": []
+          },
+          {
+            "levelMods": []
+          }
+        ]
+      },
+      {
+        "songsId": "TECHNOPOLIS2085.PRASTIKDANCEFLOOR.0",
+        "songsKey": "TECHNOPOLIS 2085",
+        "songsName": "TECHNOPOLIS 2085",
+        "songsTitle": "",
+        "difficulty": [
+          5.0,
+          10.2,
+          14.4,
+          15.7
+        ],
+        "illustrator": "SEGA (V17AMax modified)",
+        "charter": [
+          "dancing\"L\"ine 2085",
+          "迟戈 vs Likey",
+          "CTYMAX ????",
+          "TECHNOXMT vs LATENCYPOLIS"
+        ],
+        "composer": "PRASTIK DANCEFLOOR",
+        "levels": [
+          "EZ",
+          "HD",
+          "IN",
+          "AT"
+        ],
+        "previewTime": 103.88,
+        "unlockInfo": [
+          {
+            "unlockType": 0,
+            "unlockInfo": []
+          },
+          {
+            "unlockType": 0,
+            "unlockInfo": []
+          },
+          {
+            "unlockType": 0,
+            "unlockInfo": []
+          },
+          {
+            "unlockType": 0,
+            "unlockInfo": []
+          }
+        ],
+        "levelMods": [
+          {
+            "levelMods": []
+          },
+          {
+            "levelMods": []
+          },
+          {
+            "levelMods": []
+          },
+          {
+            "levelMods": []
+          },
+          {
+            "levelMods": []
+          }
+        ]
+      },
+      {
+        "songsId": "祈-我ら神祖と共に歩む者なり-.光吉猛修VS穴山大輔VSKaiVS水野健治VS大国奏音.0",
+        "songsKey": "祈 -我ら神祖と共に歩む者なり-",
+        "songsName": "祈 -我ら神祖と共に歩む者なり-",
+        "songsTitle": "",
+        "difficulty": [
+          7.5,
+          12.9,
+          15.9,
+          16.5
+        ],
+        "illustrator": "SEGA (V17AMax modified)",
+        "charter": [
+          "Su1fuRikko \"SouRce of the metaveRse\"",
+          "Su1fuRikko × rN \"judgemeNt fRom the cataStRophy\"",
+          "兔咩小 vs 咩小兔 vs 小兔咩 vs 咩兔小 vs 兔小咩",
+          "フィグロス譜面チーム \"Rikko feat. Ner\" -Pray for \"PHI\"-"
+        ],
+        "composer": "光吉猛修 VS 穴山大輔 VS Kai VS 水野健治 VS 大国奏音",
+        "levels": [
+          "EZ",
+          "HD",
+          "IN",
+          "AT"
+        ],
+        "previewTime": 110.958,
+        "unlockInfo": [
+          {
+            "unlockType": 0,
+            "unlockInfo": []
+          },
+          {
+            "unlockType": 0,
+            "unlockInfo": []
+          },
+          {
+            "unlockType": 0,
+            "unlockInfo": []
+          },
+          {
+            "unlockType": 0,
+            "unlockInfo": []
+          }
+        ],
+        "levelMods": [
+          {
+            "levelMods": []
+          },
+          {
+            "levelMods": []
+          },
+          {
+            "levelMods": []
+          },
+          {
+            "levelMods": []
+          },
+          {
+            "levelMods": []
+          }
+        ]
+      },
+      {
+        "songsId": "bye.DingerBox.0",
+        "songsKey": "bye",
+        "songsName": "bye",
+        "songsTitle": "",
+        "difficulty": [
+          4.0,
+          8.3,
+          14.9,
+          0.0
+        ],
+        "illustrator": "海产",
+        "charter": [
+          "Likey",
+          "Likey",
+          "Ner ~ See you next time ~",
+          ""
+        ],
+        "composer": "DingerBox",
+        "levels": [
+          "EZ",
+          "HD",
+          "IN",
+          "AT"
+        ],
+        "previewTime": 109.5,
+        "unlockInfo": [
+          {
+            "unlockType": 0,
+            "unlockInfo": []
+          },
+          {
+            "unlockType": 0,
+            "unlockInfo": []
+          },
+          {
+            "unlockType": 0,
+            "unlockInfo": []
+          },
+          {
+            "unlockType": 0,
+            "unlockInfo": []
+          }
+        ],
+        "levelMods": [
+          {
+            "levelMods": []
+          },
+          {
+            "levelMods": []
+          },
+          {
+            "levelMods": []
+          },
+          {
+            "levelMods": []
+          },
+          {
+            "levelMods": []
+          }
+        ]
+      },
+      {
+        "songsId": "聖夜讃歌.A39沙包P.0",
+        "songsKey": "聖夜讃歌",
+        "songsName": "聖夜讃歌",
+        "songsTitle": "",
+        "difficulty": [
+          4.0,
+          10.1,
+          15.3,
+          0.0
+        ],
+        "illustrator": "绀屋",
+        "charter": [
+          "爽夜讃歌",
+          "爽夜讃歌",
+          "NerSANTA & Gausbell",
+          ""
+        ],
+        "composer": "A-39/沙包P",
+        "levels": [
+          "EZ",
+          "HD",
+          "IN",
+          "AT"
+        ],
+        "previewTime": 148.8,
+        "unlockInfo": [
+          {
+            "unlockType": 0,
+            "unlockInfo": []
+          },
+          {
+            "unlockType": 0,
+            "unlockInfo": []
+          },
+          {
+            "unlockType": 0,
+            "unlockInfo": []
+          },
+          {
+            "unlockType": 0,
+            "unlockInfo": []
+          }
+        ],
+        "levelMods": [
+          {
+            "levelMods": []
+          },
+          {
+            "levelMods": []
+          },
+          {
+            "levelMods": []
+          },
+          {
+            "levelMods": []
+          },
+          {
+            "levelMods": []
+          }
+        ]
+      },
+      {
+        "songsId": "ストレイソウルアラウンド.みーに.0",
+        "songsKey": "ストレイソウル・アラウンド",
+        "songsName": "ストレイソウル・アラウンド",
+        "songsTitle": "",
+        "difficulty": [
+          5.0,
+          10.4,
+          14.5,
+          0.0
+        ],
+        "illustrator": "伊恩 (青鸟 modified)",
+        "charter": [
+          "JKy as \"Stray Cat\"",
+          "Stray Cat Around",
+          "クラッタ・アナザー・ラウンド",
+          ""
+        ],
+        "composer": "みーに",
+        "levels": [
+          "EZ",
+          "HD",
+          "IN",
+          "AT"
+        ],
+        "previewTime": 22.4,
+        "unlockInfo": [
+          {
+            "unlockType": 0,
+            "unlockInfo": []
+          },
+          {
+            "unlockType": 0,
+            "unlockInfo": []
+          },
+          {
+            "unlockType": 0,
+            "unlockInfo": []
+          },
+          {
+            "unlockType": 0,
+            "unlockInfo": []
+          }
+        ],
+        "levelMods": [
+          {
+            "levelMods": []
+          },
+          {
+            "levelMods": []
+          },
+          {
+            "levelMods": []
+          },
+          {
+            "levelMods": []
+          },
+          {
+            "levelMods": []
+          }
+        ]
+      },
+      {
+        "songsId": "ManifoldHypothesis.cybermisofeattigerlily.0",
+        "songsKey": "Manifold Hypothesis",
+        "songsName": "Manifold Hypothesis",
+        "songsTitle": "",
+        "difficulty": [
+          4.0,
+          9.9,
+          14.7,
+          0.0
+        ],
+        "illustrator": "阿清 (青鸟 modified)",
+        "charter": [
+          "Likey",
+          "Likey",
+          "Gausbon feat. 迟戈&野从",
+          ""
+        ],
+        "composer": "cybermiso feat. tigerlily",
+        "levels": [
+          "EZ",
+          "HD",
+          "IN",
+          "AT"
+        ],
+        "previewTime": 21.0,
+        "unlockInfo": [
+          {
+            "unlockType": 0,
+            "unlockInfo": []
+          },
+          {
+            "unlockType": 0,
+            "unlockInfo": []
+          },
+          {
+            "unlockType": 0,
+            "unlockInfo": []
+          },
+          {
+            "unlockType": 0,
+            "unlockInfo": []
+          }
+        ],
+        "levelMods": [
+          {
+            "levelMods": []
+          },
+          {
+            "levelMods": []
+          },
+          {
+            "levelMods": []
+          },
+          {
+            "levelMods": []
+          },
+          {
+            "levelMods": []
+          }
+        ]
+      },
+      {
+        "songsId": "KMoeVIP.ZxNX.0",
+        "songsKey": "K.Moe (VIP)",
+        "songsName": "K.Moe (VIP)",
+        "songsTitle": "",
+        "difficulty": [
+          3.0,
+          8.4,
+          15.8,
+          0.0
+        ],
+        "illustrator": "BTKCyber (青鸟 modified)",
+        "charter": [
+          "R:kko (IMD)",
+          "R:kko (IMD)",
+          "C.Max (PBM)",
+          ""
+        ],
+        "composer": "ZxNX",
+        "levels": [
+          "EZ",
+          "HD",
+          "IN",
+          "AT"
+        ],
+        "previewTime": 73.0,
+        "unlockInfo": [
+          {
+            "unlockType": 0,
+            "unlockInfo": []
+          },
+          {
+            "unlockType": 0,
+            "unlockInfo": []
+          },
+          {
+            "unlockType": 0,
+            "unlockInfo": []
+          },
+          {
+            "unlockType": 0,
+            "unlockInfo": []
+          }
+        ],
+        "levelMods": [
+          {
+            "levelMods": []
+          },
+          {
+            "levelMods": []
+          },
+          {
+            "levelMods": []
+          },
+          {
+            "levelMods": []
+          },
+          {
+            "levelMods": []
+          }
+        ]
+      },
+      {
+        "songsId": "GVNGlitterVomitusandNeon.SaltySaltUnfold33.0",
+        "songsKey": "G.V.N. (Glitter,Vomitus and Neon)",
+        "songsName": "G.V.N. (Glitter,Vomitus and Neon)",
+        "songsTitle": "",
+        "difficulty": [
+          5.0,
+          9.5,
+          15.6,
+          0.0
+        ],
+        "illustrator": "祈莲",
+        "charter": [
+          "B.B.M.",
+          "B.B.M.",
+          "A.S.H.",
+          ""
+        ],
+        "composer": "Salty Salt & Unfold33",
+        "levels": [
+          "EZ",
+          "HD",
+          "IN",
+          "AT"
+        ],
+        "previewTime": 100.807,
+        "unlockInfo": [
+          {
+            "unlockType": 0,
+            "unlockInfo": []
+          },
+          {
+            "unlockType": 0,
+            "unlockInfo": []
+          },
+          {
+            "unlockType": 0,
+            "unlockInfo": []
+          },
+          {
+            "unlockType": 0,
+            "unlockInfo": []
+          }
+        ],
+        "levelMods": [
+          {
+            "levelMods": []
+          },
+          {
+            "levelMods": []
+          },
+          {
+            "levelMods": []
+          },
+          {
+            "levelMods": []
+          },
+          {
+            "levelMods": []
+          }
+        ]
+      },
+      {
+        "songsId": "CrushBETA.shadow_bling.0",
+        "songsKey": "Crush BETA",
+        "songsName": "Crush BETA",
+        "songsTitle": "",
+        "difficulty": [
+          4.0,
+          11.5,
+          15.3,
+          0.0
+        ],
+        "illustrator": "笔记RE",
+        "charter": [
+          "Clutter BETA",
+          "Crush βETA",
+          "Timi今天吃神马",
+          ""
+        ],
+        "composer": "shadow_bling",
+        "levels": [
+          "EZ",
+          "HD",
+          "IN",
+          "AT"
+        ],
+        "previewTime": 47.849,
         "unlockInfo": [
           {
             "unlockType": 0,
@@ -13258,6 +15110,78 @@
     ]
   },
   "keyStore": [
+    {
+      "keyName": "Crush BETA",
+      "unlockedTimes": 0,
+      "kindOfKey": 0,
+      "unlockTimes": 1
+    },
+    {
+      "keyName": "G.V.N. (Glitter,Vomitus and Neon)",
+      "unlockedTimes": 0,
+      "kindOfKey": 0,
+      "unlockTimes": 1
+    },
+    {
+      "keyName": "聖夜讃歌",
+      "unlockedTimes": 0,
+      "kindOfKey": 0,
+      "unlockTimes": 1
+    },
+    {
+      "keyName": "bye",
+      "unlockedTimes": 0,
+      "kindOfKey": 0,
+      "unlockTimes": 1
+    },
+    {
+      "keyName": "Fractured Angel",
+      "unlockedTimes": 0,
+      "kindOfKey": 0,
+      "unlockTimes": 1
+    },
+    {
+      "keyName": "Silence is Golden, Speech is Golden",
+      "unlockedTimes": 0,
+      "kindOfKey": 0,
+      "unlockTimes": 1
+    },
+    {
+      "keyName": "Bitterblossom",
+      "unlockedTimes": 0,
+      "kindOfKey": 0,
+      "unlockTimes": 1
+    },
+    {
+      "keyName": "Diamond Eyes",
+      "unlockedTimes": 0,
+      "kindOfKey": 0,
+      "unlockTimes": 1
+    },
+    {
+      "keyName": "Triumph & Regret",
+      "unlockedTimes": 0,
+      "kindOfKey": 0,
+      "unlockTimes": 1
+    },
+    {
+      "keyName": "ぱぴぷぴぷぴぱ",
+      "unlockedTimes": 0,
+      "kindOfKey": 0,
+      "unlockTimes": 1
+    },
+    {
+      "keyName": "Realms",
+      "unlockedTimes": 0,
+      "kindOfKey": 0,
+      "unlockTimes": 1
+    },
+    {
+      "keyName": "Rainy Heart",
+      "unlockedTimes": 0,
+      "kindOfKey": 0,
+      "unlockTimes": 1
+    },
     {
       "keyName": "Now Is The Time, Do It",
       "unlockedTimes": 0,
@@ -14861,6 +16785,264 @@
       "unlockTimes": 4
     },
     {
+      "keyName": "bassareusEgg",
+      "unlockedTimes": 0,
+      "kindOfKey": 1,
+      "unlockTimes": 1
+    },
+    {
+      "keyName": "ReMobiusi",
+      "unlockedTimes": 0,
+      "kindOfKey": 1,
+      "unlockTimes": 1
+    },
+    {
+      "keyName": "Bassareus0",
+      "unlockedTimes": 0,
+      "kindOfKey": 1,
+      "unlockTimes": 1
+    },
+    {
+      "keyName": "Bassareus1",
+      "unlockedTimes": 0,
+      "kindOfKey": 1,
+      "unlockTimes": 1
+    },
+    {
+      "keyName": "Bassareus2",
+      "unlockedTimes": 0,
+      "kindOfKey": 1,
+      "unlockTimes": 1
+    },
+    {
+      "keyName": "Bassareus3",
+      "unlockedTimes": 0,
+      "kindOfKey": 1,
+      "unlockTimes": 1
+    },
+    {
+      "keyName": "Bassareus4",
+      "unlockedTimes": 0,
+      "kindOfKey": 1,
+      "unlockTimes": 1
+    },
+    {
+      "keyName": "Bassareus5",
+      "unlockedTimes": 0,
+      "kindOfKey": 1,
+      "unlockTimes": 1
+    },
+    {
+      "keyName": "Bassareus6",
+      "unlockedTimes": 0,
+      "kindOfKey": 1,
+      "unlockTimes": 1
+    },
+    {
+      "keyName": "Bassareus7",
+      "unlockedTimes": 0,
+      "kindOfKey": 1,
+      "unlockTimes": 1
+    },
+    {
+      "keyName": "Bassareus8",
+      "unlockedTimes": 0,
+      "kindOfKey": 1,
+      "unlockTimes": 1
+    },
+    {
+      "keyName": "Bassareus9",
+      "unlockedTimes": 0,
+      "kindOfKey": 1,
+      "unlockTimes": 1
+    },
+    {
+      "keyName": "Bassareus10",
+      "unlockedTimes": 0,
+      "kindOfKey": 1,
+      "unlockTimes": 1
+    },
+    {
+      "keyName": "Bassareus11",
+      "unlockedTimes": 0,
+      "kindOfKey": 1,
+      "unlockTimes": 1
+    },
+    {
+      "keyName": "Bassareus12",
+      "unlockedTimes": 0,
+      "kindOfKey": 1,
+      "unlockTimes": 1
+    },
+    {
+      "keyName": "Bassareus13",
+      "unlockedTimes": 0,
+      "kindOfKey": 1,
+      "unlockTimes": 1
+    },
+    {
+      "keyName": "Bassareus14",
+      "unlockedTimes": 0,
+      "kindOfKey": 1,
+      "unlockTimes": 1
+    },
+    {
+      "keyName": "Bassareus15",
+      "unlockedTimes": 0,
+      "kindOfKey": 1,
+      "unlockTimes": 1
+    },
+    {
+      "keyName": "Bassareus16",
+      "unlockedTimes": 0,
+      "kindOfKey": 1,
+      "unlockTimes": 1
+    },
+    {
+      "keyName": "Bassareus17",
+      "unlockedTimes": 0,
+      "kindOfKey": 1,
+      "unlockTimes": 1
+    },
+    {
+      "keyName": "Bassareus18",
+      "unlockedTimes": 0,
+      "kindOfKey": 1,
+      "unlockTimes": 1
+    },
+    {
+      "keyName": "Bassareus19",
+      "unlockedTimes": 0,
+      "kindOfKey": 1,
+      "unlockTimes": 1
+    },
+    {
+      "keyName": "Bassareus20",
+      "unlockedTimes": 0,
+      "kindOfKey": 1,
+      "unlockTimes": 1
+    },
+    {
+      "keyName": "Bassareus21",
+      "unlockedTimes": 0,
+      "kindOfKey": 1,
+      "unlockTimes": 1
+    },
+    {
+      "keyName": "Bassareus22",
+      "unlockedTimes": 0,
+      "kindOfKey": 1,
+      "unlockTimes": 1
+    },
+    {
+      "keyName": "Bassareus23",
+      "unlockedTimes": 0,
+      "kindOfKey": 1,
+      "unlockTimes": 1
+    },
+    {
+      "keyName": "Bassareus24",
+      "unlockedTimes": 0,
+      "kindOfKey": 1,
+      "unlockTimes": 1
+    },
+    {
+      "keyName": "Bassareus25",
+      "unlockedTimes": 0,
+      "kindOfKey": 1,
+      "unlockTimes": 1
+    },
+    {
+      "keyName": "Bassareus26",
+      "unlockedTimes": 0,
+      "kindOfKey": 1,
+      "unlockTimes": 1
+    },
+    {
+      "keyName": "Bassareus27",
+      "unlockedTimes": 0,
+      "kindOfKey": 1,
+      "unlockTimes": 1
+    },
+    {
+      "keyName": "Bassareus28",
+      "unlockedTimes": 0,
+      "kindOfKey": 1,
+      "unlockTimes": 1
+    },
+    {
+      "keyName": "Bassareus29",
+      "unlockedTimes": 0,
+      "kindOfKey": 1,
+      "unlockTimes": 1
+    },
+    {
+      "keyName": "Bassareus30",
+      "unlockedTimes": 0,
+      "kindOfKey": 1,
+      "unlockTimes": 1
+    },
+    {
+      "keyName": "Bassareus31",
+      "unlockedTimes": 0,
+      "kindOfKey": 1,
+      "unlockTimes": 1
+    },
+    {
+      "keyName": "Bassareus32",
+      "unlockedTimes": 0,
+      "kindOfKey": 1,
+      "unlockTimes": 1
+    },
+    {
+      "keyName": "Bassareus33",
+      "unlockedTimes": 0,
+      "kindOfKey": 1,
+      "unlockTimes": 1
+    },
+    {
+      "keyName": "Bassareus34",
+      "unlockedTimes": 0,
+      "kindOfKey": 1,
+      "unlockTimes": 1
+    },
+    {
+      "keyName": "roteano1",
+      "unlockedTimes": 0,
+      "kindOfKey": 1,
+      "unlockTimes": 1
+    },
+    {
+      "keyName": "rotaeno2",
+      "unlockedTimes": 0,
+      "kindOfKey": 1,
+      "unlockTimes": 1
+    },
+    {
+      "keyName": "rotaeno3",
+      "unlockedTimes": 0,
+      "kindOfKey": 1,
+      "unlockTimes": 1
+    },
+    {
+      "keyName": "rotaeno4",
+      "unlockedTimes": 0,
+      "kindOfKey": 1,
+      "unlockTimes": 1
+    },
+    {
+      "keyName": "rotaeno5",
+      "unlockedTimes": 0,
+      "kindOfKey": 1,
+      "unlockTimes": 1
+    },
+    {
+      "keyName": "rotaeno6",
+      "unlockedTimes": 0,
+      "kindOfKey": 1,
+      "unlockTimes": 1
+    },
+    {
       "keyName": "Glaciaxion",
       "unlockedTimes": 0,
       "kindOfKey": 2,
@@ -15894,6 +18076,162 @@
     },
     {
       "keyName": "A journey to the moonlight",
+      "unlockedTimes": 0,
+      "kindOfKey": 2,
+      "unlockTimes": 1
+    },
+    {
+      "keyName": "Rainy Heart",
+      "unlockedTimes": 0,
+      "kindOfKey": 2,
+      "unlockTimes": 1
+    },
+    {
+      "keyName": "Realms",
+      "unlockedTimes": 0,
+      "kindOfKey": 2,
+      "unlockTimes": 1
+    },
+    {
+      "keyName": "ぱぴぷぴぷぴぱ",
+      "unlockedTimes": 0,
+      "kindOfKey": 2,
+      "unlockTimes": 1
+    },
+    {
+      "keyName": "Triumph & Regret",
+      "unlockedTimes": 0,
+      "kindOfKey": 2,
+      "unlockTimes": 1
+    },
+    {
+      "keyName": "S.A.T.E.L.L.I.T.E.",
+      "unlockedTimes": 0,
+      "kindOfKey": 2,
+      "unlockTimes": 1
+    },
+    {
+      "keyName": "Dance with Silence",
+      "unlockedTimes": 0,
+      "kindOfKey": 2,
+      "unlockTimes": 1
+    },
+    {
+      "keyName": "Labyrinth in Kowloon: Walled World",
+      "unlockedTimes": 0,
+      "kindOfKey": 2,
+      "unlockTimes": 1
+    },
+    {
+      "keyName": "Compute It With Some Devilish Alcoholic Steampunk Engines",
+      "unlockedTimes": 0,
+      "kindOfKey": 2,
+      "unlockTimes": 1
+    },
+    {
+      "keyName": "+ERABY+E CONNEC+10N",
+      "unlockedTimes": 0,
+      "kindOfKey": 2,
+      "unlockTimes": 1
+    },
+    {
+      "keyName": "Diamond Eyes",
+      "unlockedTimes": 0,
+      "kindOfKey": 2,
+      "unlockTimes": 1
+    },
+    {
+      "keyName": "Bitterblossom",
+      "unlockedTimes": 0,
+      "kindOfKey": 2,
+      "unlockTimes": 1
+    },
+    {
+      "keyName": "Silence is Golden, Speech is Golden",
+      "unlockedTimes": 0,
+      "kindOfKey": 2,
+      "unlockTimes": 1
+    },
+    {
+      "keyName": "Fractured Angel",
+      "unlockedTimes": 0,
+      "kindOfKey": 2,
+      "unlockTimes": 1
+    },
+    {
+      "keyName": "Journey with You",
+      "unlockedTimes": 0,
+      "kindOfKey": 2,
+      "unlockTimes": 1
+    },
+    {
+      "keyName": "Secret Illumination",
+      "unlockedTimes": 0,
+      "kindOfKey": 2,
+      "unlockTimes": 1
+    },
+    {
+      "keyName": "Inverted World",
+      "unlockedTimes": 0,
+      "kindOfKey": 2,
+      "unlockTimes": 1
+    },
+    {
+      "keyName": "テリトリーバトル",
+      "unlockedTimes": 0,
+      "kindOfKey": 2,
+      "unlockTimes": 1
+    },
+    {
+      "keyName": "TECHNOPOLIS 2085",
+      "unlockedTimes": 0,
+      "kindOfKey": 2,
+      "unlockTimes": 1
+    },
+    {
+      "keyName": "祈 -我ら神祖と共に歩む者なり-",
+      "unlockedTimes": 0,
+      "kindOfKey": 2,
+      "unlockTimes": 1
+    },
+    {
+      "keyName": "bye",
+      "unlockedTimes": 0,
+      "kindOfKey": 2,
+      "unlockTimes": 1
+    },
+    {
+      "keyName": "聖夜讃歌",
+      "unlockedTimes": 0,
+      "kindOfKey": 2,
+      "unlockTimes": 1
+    },
+    {
+      "keyName": "ストレイソウル・アラウンド",
+      "unlockedTimes": 0,
+      "kindOfKey": 2,
+      "unlockTimes": 1
+    },
+    {
+      "keyName": "Manifold Hypothesis",
+      "unlockedTimes": 0,
+      "kindOfKey": 2,
+      "unlockTimes": 1
+    },
+    {
+      "keyName": "K.Moe (VIP)",
+      "unlockedTimes": 0,
+      "kindOfKey": 2,
+      "unlockTimes": 1
+    },
+    {
+      "keyName": "G.V.N. (Glitter,Vomitus and Neon)",
+      "unlockedTimes": 0,
+      "kindOfKey": 2,
+      "unlockTimes": 1
+    },
+    {
+      "keyName": "Crush BETA",
       "unlockedTimes": 0,
       "kindOfKey": 2,
       "unlockTimes": 1

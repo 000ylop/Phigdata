@@ -6,7 +6,7 @@
   "m_Enabled": 1,
   "m_Script": {
     "m_FileID": 1,
-    "m_PathID": 1758
+    "m_PathID": 850
   },
   "m_Name": "",
   "collectionItems": [
@@ -3966,7 +3966,7 @@
         "chinese": "诗笺#21 悲惶",
         "chineseTraditional": "詩箋#21 悲惶",
         "english": "",
-        "japanese": "",
+        "japanese": "詩集#21 悲痛",
         "korean": ""
       }
     },
@@ -3984,7 +3984,7 @@
         "chinese": "诗笺#22 自由",
         "chineseTraditional": "詩箋#22 自由",
         "english": "Stave No.22 Liberty",
-        "japanese": "",
+        "japanese": "詩集#22 自由",
         "korean": ""
       }
     },
@@ -4776,7 +4776,7 @@
         "chinese": "路星67-改",
         "chineseTraditional": "路星67-改",
         "english": "",
-        "japanese": "",
+        "japanese": "ロードスター67・改",
         "korean": ""
       }
     },
@@ -4794,7 +4794,7 @@
         "chinese": "路星67-改·线索一",
         "chineseTraditional": "路星67-改·資訊一",
         "english": "",
-        "japanese": "",
+        "japanese": "ロードスター67・改・手がかり1",
         "korean": ""
       }
     },
@@ -4955,7 +4955,7 @@
         "code": "",
         "chinese": "庙会",
         "chineseTraditional": "廟會",
-        "english": "",
+        "english": "Temple Fair",
         "japanese": "お祭り",
         "korean": ""
       }
@@ -4973,7 +4973,7 @@
         "code": "",
         "chinese": "庙会·线索一",
         "chineseTraditional": "廟會·資訊一",
-        "english": "",
+        "english": "Temple Fair - Clue I",
         "japanese": "お祭り・手がかり1",
         "korean": ""
       }
@@ -5009,7 +5009,7 @@
         "code": "",
         "chinese": "【录音】穹顶",
         "chineseTraditional": "【錄音】穹頂",
-        "english": "",
+        "english": "[Rec] Vault",
         "japanese": "【録音】ドーム",
         "korean": ""
       }
@@ -5406,6 +5406,780 @@
         "chinese": "替换数据·线索三",
         "chineseTraditional": "替換數據·資訊三",
         "english": "Replace Data - Clue III",
+        "japanese": "",
+        "korean": ""
+      }
+    },
+    {
+      "getSong": -10137,
+      "getType": 0,
+      "getPower": 100,
+      "getInfo1": "+ERABY+E CONNEC+10NAT",
+      "getInfo2": "1",
+      "getInfo3": "",
+      "key": "bassareusEgg",
+      "subIndex": 1,
+      "multiLanguageTitle": {
+        "code": "",
+        "chinese": "破译·《极星卫》彩蛋",
+        "chineseTraditional": "破譯·《極星衛》彩蛋",
+        "english": "[Decipher]《Bassareus》Easter Egg",
+        "japanese": "解読・《バサレウス》イースター・エッグ",
+        "korean": ""
+      }
+    },
+    {
+      "getSong": -10133,
+      "getType": 0,
+      "getPower": 100,
+      "getInfo1": "S.A.T.E.L.L.I.T.E.AT",
+      "getInfo2": "880000",
+      "getInfo3": "",
+      "key": "ReMobiusi",
+      "subIndex": 1,
+      "multiLanguageTitle": {
+        "code": "",
+        "chinese": "莫比乌斯的回信",
+        "chineseTraditional": "莫比烏斯的回信",
+        "english": "Reply from Mobius",
+        "japanese": "メビウスからの返事",
+        "korean": ""
+      }
+    },
+    {
+      "getSong": -10134,
+      "getType": -1,
+      "getPower": 100,
+      "getInfo1": "",
+      "getInfo2": "",
+      "getInfo3": "",
+      "key": "Bassareus0",
+      "subIndex": 1,
+      "multiLanguageTitle": {
+        "code": "",
+        "chinese": "《极星卫》剧本·序",
+        "chineseTraditional": "《極星衛》劇本·序",
+        "english": "《Bassareus》Script - Prologue",
+        "japanese": "《バサレウス》脚本・序",
+        "korean": ""
+      }
+    },
+    {
+      "getSong": -10133,
+      "getType": -1,
+      "getPower": 30,
+      "getInfo1": "",
+      "getInfo2": "",
+      "getInfo3": "",
+      "key": "Bassareus1",
+      "subIndex": 1,
+      "multiLanguageTitle": {
+        "code": "",
+        "chinese": "《极星卫》剧本·一",
+        "chineseTraditional": "《極星衛》劇本·一",
+        "english": "《Bassareus》Script - I",
+        "japanese": "《バサレウス》脚本・一",
+        "korean": ""
+      }
+    },
+    {
+      "getSong": -10133,
+      "getType": -1,
+      "getPower": 30,
+      "getInfo1": "",
+      "getInfo2": "",
+      "getInfo3": "",
+      "key": "Bassareus2",
+      "subIndex": 1,
+      "multiLanguageTitle": {
+        "code": "",
+        "chinese": "《极星卫》剧本·二",
+        "chineseTraditional": "《極星衛》劇本·二",
+        "english": "《Bassareus》Script - II",
+        "japanese": "《バサレウス》脚本・二",
+        "korean": ""
+      }
+    },
+    {
+      "getSong": -10133,
+      "getType": -1,
+      "getPower": 30,
+      "getInfo1": "",
+      "getInfo2": "",
+      "getInfo3": "",
+      "key": "Bassareus3",
+      "subIndex": 1,
+      "multiLanguageTitle": {
+        "code": "",
+        "chinese": "《极星卫》剧本·三",
+        "chineseTraditional": "《極星衛》劇本·三",
+        "english": "《Bassareus》Script - III",
+        "japanese": "《バサレウス》脚本・三",
+        "korean": ""
+      }
+    },
+    {
+      "getSong": -10133,
+      "getType": -1,
+      "getPower": 30,
+      "getInfo1": "",
+      "getInfo2": "",
+      "getInfo3": "",
+      "key": "Bassareus4",
+      "subIndex": 1,
+      "multiLanguageTitle": {
+        "code": "",
+        "chinese": "《极星卫》剧本·四",
+        "chineseTraditional": "《極星衛》劇本·四",
+        "english": "《Bassareus》Script - IV",
+        "japanese": "《バサレウス》脚本・四",
+        "korean": ""
+      }
+    },
+    {
+      "getSong": -10133,
+      "getType": -1,
+      "getPower": 30,
+      "getInfo1": "",
+      "getInfo2": "",
+      "getInfo3": "",
+      "key": "Bassareus5",
+      "subIndex": 1,
+      "multiLanguageTitle": {
+        "code": "",
+        "chinese": "《极星卫》剧本·五",
+        "chineseTraditional": "《極星衛》劇本·五",
+        "english": "《Bassareus》Script - V",
+        "japanese": "《バサレウス》脚本・五",
+        "korean": ""
+      }
+    },
+    {
+      "getSong": -10133,
+      "getType": -1,
+      "getPower": 30,
+      "getInfo1": "",
+      "getInfo2": "",
+      "getInfo3": "",
+      "key": "Bassareus6",
+      "subIndex": 1,
+      "multiLanguageTitle": {
+        "code": "",
+        "chinese": "《极星卫》剧本·六",
+        "chineseTraditional": "《極星衛》劇本·六",
+        "english": "《Bassareus》Script - VI",
+        "japanese": "《バサレウス》脚本・六",
+        "korean": ""
+      }
+    },
+    {
+      "getSong": -10133,
+      "getType": -1,
+      "getPower": 30,
+      "getInfo1": "",
+      "getInfo2": "",
+      "getInfo3": "",
+      "key": "Bassareus7",
+      "subIndex": 1,
+      "multiLanguageTitle": {
+        "code": "",
+        "chinese": "《极星卫》剧本·七",
+        "chineseTraditional": "《極星衛》劇本·七",
+        "english": "《Bassareus》Script - VII",
+        "japanese": "《バサレウス》脚本・七",
+        "korean": ""
+      }
+    },
+    {
+      "getSong": -10134,
+      "getType": -1,
+      "getPower": 30,
+      "getInfo1": "",
+      "getInfo2": "",
+      "getInfo3": "",
+      "key": "Bassareus8",
+      "subIndex": 1,
+      "multiLanguageTitle": {
+        "code": "",
+        "chinese": "《极星卫》剧本·八",
+        "chineseTraditional": "《極星衛》劇本·八",
+        "english": "《Bassareus》Script - VIII",
+        "japanese": "《バサレウス》脚本・八",
+        "korean": ""
+      }
+    },
+    {
+      "getSong": -10134,
+      "getType": -1,
+      "getPower": 30,
+      "getInfo1": "",
+      "getInfo2": "",
+      "getInfo3": "",
+      "key": "Bassareus9",
+      "subIndex": 1,
+      "multiLanguageTitle": {
+        "code": "",
+        "chinese": "《极星卫》剧本·九",
+        "chineseTraditional": "《極星衛》劇本·九",
+        "english": "《Bassareus》Script - IX",
+        "japanese": "《バサレウス》脚本・九",
+        "korean": ""
+      }
+    },
+    {
+      "getSong": -10134,
+      "getType": -1,
+      "getPower": 30,
+      "getInfo1": "",
+      "getInfo2": "",
+      "getInfo3": "",
+      "key": "Bassareus10",
+      "subIndex": 1,
+      "multiLanguageTitle": {
+        "code": "",
+        "chinese": "《极星卫》剧本·十",
+        "chineseTraditional": "《極星衛》劇本·十",
+        "english": "《Bassareus》Script - X",
+        "japanese": "《バサレウス》脚本・十",
+        "korean": ""
+      }
+    },
+    {
+      "getSong": -10134,
+      "getType": -1,
+      "getPower": 30,
+      "getInfo1": "",
+      "getInfo2": "",
+      "getInfo3": "",
+      "key": "Bassareus11",
+      "subIndex": 1,
+      "multiLanguageTitle": {
+        "code": "",
+        "chinese": "《极星卫》剧本·十一",
+        "chineseTraditional": "《極星衛》劇本·十一",
+        "english": "《Bassareus》Script - XI",
+        "japanese": "《バサレウス》脚本・十一",
+        "korean": ""
+      }
+    },
+    {
+      "getSong": -10134,
+      "getType": -1,
+      "getPower": 30,
+      "getInfo1": "",
+      "getInfo2": "",
+      "getInfo3": "",
+      "key": "Bassareus12",
+      "subIndex": 1,
+      "multiLanguageTitle": {
+        "code": "",
+        "chinese": "《极星卫》剧本·十二",
+        "chineseTraditional": "《極星衛》劇本·十二",
+        "english": "《Bassareus》Script - XII",
+        "japanese": "《バサレウス》脚本・十二",
+        "korean": ""
+      }
+    },
+    {
+      "getSong": -10134,
+      "getType": -1,
+      "getPower": 30,
+      "getInfo1": "",
+      "getInfo2": "",
+      "getInfo3": "",
+      "key": "Bassareus13",
+      "subIndex": 1,
+      "multiLanguageTitle": {
+        "code": "",
+        "chinese": "《极星卫》剧本·十三",
+        "chineseTraditional": "《極星衛》劇本·十三",
+        "english": "《Bassareus》Script - XIII",
+        "japanese": "《バサレウス》脚本・十三",
+        "korean": ""
+      }
+    },
+    {
+      "getSong": -10134,
+      "getType": -1,
+      "getPower": 30,
+      "getInfo1": "",
+      "getInfo2": "",
+      "getInfo3": "",
+      "key": "Bassareus14",
+      "subIndex": 1,
+      "multiLanguageTitle": {
+        "code": "",
+        "chinese": "《极星卫》剧本·十四",
+        "chineseTraditional": "《極星衛》劇本·十四",
+        "english": "《Bassareus》Script - XIV",
+        "japanese": "《バサレウス》脚本・十四",
+        "korean": ""
+      }
+    },
+    {
+      "getSong": -10135,
+      "getType": -1,
+      "getPower": 30,
+      "getInfo1": "",
+      "getInfo2": "",
+      "getInfo3": "",
+      "key": "Bassareus15",
+      "subIndex": 1,
+      "multiLanguageTitle": {
+        "code": "",
+        "chinese": "《极星卫》剧本·十五",
+        "chineseTraditional": "《極星衛》劇本·十五",
+        "english": "《Bassareus》Script - XV",
+        "japanese": "《バサレウス》脚本・十五",
+        "korean": ""
+      }
+    },
+    {
+      "getSong": -10135,
+      "getType": -1,
+      "getPower": 30,
+      "getInfo1": "",
+      "getInfo2": "",
+      "getInfo3": "",
+      "key": "Bassareus16",
+      "subIndex": 1,
+      "multiLanguageTitle": {
+        "code": "",
+        "chinese": "《极星卫》剧本·十六",
+        "chineseTraditional": "《極星衛》劇本·十六",
+        "english": "《Bassareus》Script - XVI",
+        "japanese": "《バサレウス》脚本・十六",
+        "korean": ""
+      }
+    },
+    {
+      "getSong": -10135,
+      "getType": -1,
+      "getPower": 30,
+      "getInfo1": "",
+      "getInfo2": "",
+      "getInfo3": "",
+      "key": "Bassareus17",
+      "subIndex": 1,
+      "multiLanguageTitle": {
+        "code": "",
+        "chinese": "《极星卫》剧本·十七",
+        "chineseTraditional": "《極星衛》劇本·十七",
+        "english": "《Bassareus》Script - XVII",
+        "japanese": "《バサレウス》脚本・十七",
+        "korean": ""
+      }
+    },
+    {
+      "getSong": -10135,
+      "getType": -1,
+      "getPower": 30,
+      "getInfo1": "",
+      "getInfo2": "",
+      "getInfo3": "",
+      "key": "Bassareus18",
+      "subIndex": 1,
+      "multiLanguageTitle": {
+        "code": "",
+        "chinese": "《极星卫》剧本·十八",
+        "chineseTraditional": "《極星衛》劇本·十八",
+        "english": "《Bassareus》Script - XVIII",
+        "japanese": "《バサレウス》脚本・十八",
+        "korean": ""
+      }
+    },
+    {
+      "getSong": -10135,
+      "getType": -1,
+      "getPower": 30,
+      "getInfo1": "",
+      "getInfo2": "",
+      "getInfo3": "",
+      "key": "Bassareus19",
+      "subIndex": 1,
+      "multiLanguageTitle": {
+        "code": "",
+        "chinese": "《极星卫》剧本·十九",
+        "chineseTraditional": "《極星衛》劇本·十九",
+        "english": "《Bassareus》Script - XIX",
+        "japanese": "《バサレウス》脚本・十九",
+        "korean": ""
+      }
+    },
+    {
+      "getSong": -10135,
+      "getType": -1,
+      "getPower": 30,
+      "getInfo1": "",
+      "getInfo2": "",
+      "getInfo3": "",
+      "key": "Bassareus20",
+      "subIndex": 1,
+      "multiLanguageTitle": {
+        "code": "",
+        "chinese": "《极星卫》剧本·二十",
+        "chineseTraditional": "《極星衛》劇本·二十",
+        "english": "《Bassareus》Script - XX",
+        "japanese": "《バサレウス》脚本・二十",
+        "korean": ""
+      }
+    },
+    {
+      "getSong": -10135,
+      "getType": -1,
+      "getPower": 30,
+      "getInfo1": "",
+      "getInfo2": "",
+      "getInfo3": "",
+      "key": "Bassareus21",
+      "subIndex": 1,
+      "multiLanguageTitle": {
+        "code": "",
+        "chinese": "《极星卫》剧本·二十一",
+        "chineseTraditional": "《極星衛》劇本·二十一",
+        "english": "《Bassareus》Script - XXI",
+        "japanese": "《バサレウス》脚本・二十一",
+        "korean": ""
+      }
+    },
+    {
+      "getSong": -10136,
+      "getType": -1,
+      "getPower": 30,
+      "getInfo1": "",
+      "getInfo2": "",
+      "getInfo3": "",
+      "key": "Bassareus22",
+      "subIndex": 1,
+      "multiLanguageTitle": {
+        "code": "",
+        "chinese": "《极星卫》剧本·二十二",
+        "chineseTraditional": "《極星衛》劇本·二十二",
+        "english": "《Bassareus》Script - XXII",
+        "japanese": "《バサレウス》脚本・二十二",
+        "korean": ""
+      }
+    },
+    {
+      "getSong": -10136,
+      "getType": -1,
+      "getPower": 30,
+      "getInfo1": "",
+      "getInfo2": "",
+      "getInfo3": "",
+      "key": "Bassareus23",
+      "subIndex": 1,
+      "multiLanguageTitle": {
+        "code": "",
+        "chinese": "《极星卫》剧本·二十三",
+        "chineseTraditional": "《極星衛》劇本·二十三",
+        "english": "《Bassareus》Script - XXIII",
+        "japanese": "《バサレウス》脚本・二十三",
+        "korean": ""
+      }
+    },
+    {
+      "getSong": -10136,
+      "getType": -1,
+      "getPower": 30,
+      "getInfo1": "",
+      "getInfo2": "",
+      "getInfo3": "",
+      "key": "Bassareus24",
+      "subIndex": 1,
+      "multiLanguageTitle": {
+        "code": "",
+        "chinese": "《极星卫》剧本·二十四",
+        "chineseTraditional": "《極星衛》劇本·二十四",
+        "english": "《Bassareus》Script - XXIV",
+        "japanese": "《バサレウス》脚本・二十四",
+        "korean": ""
+      }
+    },
+    {
+      "getSong": -10136,
+      "getType": -1,
+      "getPower": 30,
+      "getInfo1": "",
+      "getInfo2": "",
+      "getInfo3": "",
+      "key": "Bassareus25",
+      "subIndex": 1,
+      "multiLanguageTitle": {
+        "code": "",
+        "chinese": "《极星卫》剧本·二十五",
+        "chineseTraditional": "《極星衛》劇本·二十五",
+        "english": "《Bassareus》Script - XXV",
+        "japanese": "《バサレウス》脚本・二十五",
+        "korean": ""
+      }
+    },
+    {
+      "getSong": -10136,
+      "getType": -1,
+      "getPower": 30,
+      "getInfo1": "",
+      "getInfo2": "",
+      "getInfo3": "",
+      "key": "Bassareus26",
+      "subIndex": 1,
+      "multiLanguageTitle": {
+        "code": "",
+        "chinese": "《极星卫》剧本·二十六",
+        "chineseTraditional": "《極星衛》劇本·二十六",
+        "english": "《Bassareus》Script - XXVI",
+        "japanese": "《バサレウス》脚本・二十六",
+        "korean": ""
+      }
+    },
+    {
+      "getSong": -10136,
+      "getType": -1,
+      "getPower": 30,
+      "getInfo1": "",
+      "getInfo2": "",
+      "getInfo3": "",
+      "key": "Bassareus27",
+      "subIndex": 1,
+      "multiLanguageTitle": {
+        "code": "",
+        "chinese": "《极星卫》剧本·二十七",
+        "chineseTraditional": "《極星衛》劇本·二十七",
+        "english": "《Bassareus》Script - XXVII",
+        "japanese": "《バサレウス》脚本・二十七",
+        "korean": ""
+      }
+    },
+    {
+      "getSong": -10136,
+      "getType": -1,
+      "getPower": 30,
+      "getInfo1": "",
+      "getInfo2": "",
+      "getInfo3": "",
+      "key": "Bassareus28",
+      "subIndex": 1,
+      "multiLanguageTitle": {
+        "code": "",
+        "chinese": "《极星卫》剧本·二十八",
+        "chineseTraditional": "《極星衛》劇本·二十八",
+        "english": "《Bassareus》Script - XXVIII",
+        "japanese": "《バサレウス》脚本・二十八",
+        "korean": ""
+      }
+    },
+    {
+      "getSong": -10137,
+      "getType": -1,
+      "getPower": 30,
+      "getInfo1": "",
+      "getInfo2": "",
+      "getInfo3": "",
+      "key": "Bassareus29",
+      "subIndex": 1,
+      "multiLanguageTitle": {
+        "code": "",
+        "chinese": "《极星卫》剧本·二十九",
+        "chineseTraditional": "《極星衛》劇本·二十九",
+        "english": "《Bassareus》Script - XXIX",
+        "japanese": "《バサレウス》脚本・二十九",
+        "korean": ""
+      }
+    },
+    {
+      "getSong": -10137,
+      "getType": -1,
+      "getPower": 30,
+      "getInfo1": "",
+      "getInfo2": "",
+      "getInfo3": "",
+      "key": "Bassareus30",
+      "subIndex": 1,
+      "multiLanguageTitle": {
+        "code": "",
+        "chinese": "《极星卫》剧本·三十",
+        "chineseTraditional": "《極星衛》劇本·三十",
+        "english": "《Bassareus》Script - XXX",
+        "japanese": "《バサレウス》脚本・三十",
+        "korean": ""
+      }
+    },
+    {
+      "getSong": -10137,
+      "getType": -1,
+      "getPower": 30,
+      "getInfo1": "",
+      "getInfo2": "",
+      "getInfo3": "",
+      "key": "Bassareus31",
+      "subIndex": 1,
+      "multiLanguageTitle": {
+        "code": "",
+        "chinese": "《极星卫》剧本·三十一",
+        "chineseTraditional": "《極星衛》劇本·三十一",
+        "english": "《Bassareus》Script - XXXI",
+        "japanese": "《バサレウス》脚本・三十一",
+        "korean": ""
+      }
+    },
+    {
+      "getSong": -10137,
+      "getType": -1,
+      "getPower": 30,
+      "getInfo1": "",
+      "getInfo2": "",
+      "getInfo3": "",
+      "key": "Bassareus32",
+      "subIndex": 1,
+      "multiLanguageTitle": {
+        "code": "",
+        "chinese": "《极星卫》剧本·三十二",
+        "chineseTraditional": "《極星衛》劇本·三十二",
+        "english": "《Bassareus》Script - XXXII",
+        "japanese": "《バサレウス》脚本・三十二",
+        "korean": ""
+      }
+    },
+    {
+      "getSong": -10137,
+      "getType": -1,
+      "getPower": 30,
+      "getInfo1": "",
+      "getInfo2": "",
+      "getInfo3": "",
+      "key": "Bassareus33",
+      "subIndex": 1,
+      "multiLanguageTitle": {
+        "code": "",
+        "chinese": "《极星卫》剧本·三十三",
+        "chineseTraditional": "《極星衛》劇本·三十三",
+        "english": "《Bassareus》Script - XXXIII",
+        "japanese": "《バサレウス》脚本・三十三",
+        "korean": ""
+      }
+    },
+    {
+      "getSong": -10137,
+      "getType": -1,
+      "getPower": 30,
+      "getInfo1": "",
+      "getInfo2": "",
+      "getInfo3": "",
+      "key": "Bassareus34",
+      "subIndex": 1,
+      "multiLanguageTitle": {
+        "code": "",
+        "chinese": "《极星卫》剧本·三十四",
+        "chineseTraditional": "《極星衛》劇本·三十四",
+        "english": "《Bassareus》Script - XXXIV",
+        "japanese": "《バサレウス》脚本・三十四",
+        "korean": ""
+      }
+    },
+    {
+      "getSong": -10142,
+      "getType": -1,
+      "getPower": 100,
+      "getInfo1": "",
+      "getInfo2": "",
+      "getInfo3": "",
+      "key": "roteano1",
+      "subIndex": 1,
+      "multiLanguageTitle": {
+        "code": "",
+        "chinese": "摘录·莫比乌斯工作室日志·一",
+        "chineseTraditional": "摘錄·莫比烏斯工作室日志·一",
+        "english": "",
+        "japanese": "抜粋・メビウス工房日記・一",
+        "korean": ""
+      }
+    },
+    {
+      "getSong": -10143,
+      "getType": -1,
+      "getPower": 100,
+      "getInfo1": "",
+      "getInfo2": "",
+      "getInfo3": "",
+      "key": "rotaeno2",
+      "subIndex": 1,
+      "multiLanguageTitle": {
+        "code": "",
+        "chinese": "摘录·莫比乌斯工作室日志·二",
+        "chineseTraditional": "摘錄·莫比烏斯工作室日志·二",
+        "english": "",
+        "japanese": "抜粋・メビウス工房日記・二",
+        "korean": ""
+      }
+    },
+    {
+      "getSong": -10144,
+      "getType": -1,
+      "getPower": 100,
+      "getInfo1": "",
+      "getInfo2": "",
+      "getInfo3": "",
+      "key": "rotaeno3",
+      "subIndex": 1,
+      "multiLanguageTitle": {
+        "code": "",
+        "chinese": "摘录·莫比乌斯工作室日志·三",
+        "chineseTraditional": "摘錄·莫比烏斯工作室日志·三",
+        "english": "",
+        "japanese": "抜粋・メビウス工房日記・三",
+        "korean": ""
+      }
+    },
+    {
+      "getSong": -10150,
+      "getType": -1,
+      "getPower": 100,
+      "getInfo1": "",
+      "getInfo2": "",
+      "getInfo3": "",
+      "key": "rotaeno4",
+      "subIndex": 1,
+      "multiLanguageTitle": {
+        "code": "",
+        "chinese": "隼的行船记录仪·一",
+        "chineseTraditional": "隼的行船記錄儀·一",
+        "english": "",
+        "japanese": "",
+        "korean": ""
+      }
+    },
+    {
+      "getSong": -10151,
+      "getType": -1,
+      "getPower": 100,
+      "getInfo1": "",
+      "getInfo2": "",
+      "getInfo3": "",
+      "key": "rotaeno5",
+      "subIndex": 1,
+      "multiLanguageTitle": {
+        "code": "",
+        "chinese": "隼的行船记录仪·二",
+        "chineseTraditional": "隼的行船記錄儀·二",
+        "english": "",
+        "japanese": "",
+        "korean": ""
+      }
+    },
+    {
+      "getSong": -10152,
+      "getType": -1,
+      "getPower": 100,
+      "getInfo1": "",
+      "getInfo2": "",
+      "getInfo3": "",
+      "key": "rotaeno6",
+      "subIndex": 1,
+      "multiLanguageTitle": {
+        "code": "",
+        "chinese": "隼的行船记录仪·三",
+        "chineseTraditional": "隼的行船記錄儀·三",
+        "english": "",
         "japanese": "",
         "korean": ""
       }
