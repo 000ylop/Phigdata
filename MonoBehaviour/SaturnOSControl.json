@@ -1,53 +1,57 @@
 {
   "m_GameObject": {
     "m_FileID": 0,
-    "m_PathID": 115
+    "m_PathID": 129
   },
   "m_Enabled": 1,
   "m_Script": {
     "m_FileID": 1,
-    "m_PathID": 652
+    "m_PathID": 661
   },
   "m_Name": "",
+  "shaderCollection": {
+    "m_FileID": 2,
+    "m_PathID": 22
+  },
   "chapterPanelStateControl": {
     "m_FileID": 0,
-    "m_PathID": 892
+    "m_PathID": 1022
   },
   "folderPanelStateControl": {
     "m_FileID": 0,
-    "m_PathID": 1001
+    "m_PathID": 1156
   },
   "fileDetailPanelStateControl": {
     "m_FileID": 0,
-    "m_PathID": 1060
+    "m_PathID": 1225
   },
   "illustrationPanelStateControl": {
     "m_FileID": 0,
-    "m_PathID": 921
+    "m_PathID": 1056
   },
   "mainStoryContent": {
     "m_FileID": 0,
-    "m_PathID": 743
+    "m_PathID": 855
   },
   "sideStoryContent": {
     "m_FileID": 0,
-    "m_PathID": 706
+    "m_PathID": 813
   },
   "chapterEntryPrefab": {
     "m_FileID": 2,
-    "m_PathID": 161
+    "m_PathID": 179
   },
   "exChapterSummary": {
     "m_FileID": 0,
-    "m_PathID": 1164
+    "m_PathID": 1355
   },
   "bassAreUsSummary": {
     "m_FileID": 0,
-    "m_PathID": 905
+    "m_PathID": 1036
   },
   "illustrationSummary": {
     "m_FileID": 0,
-    "m_PathID": 1175
+    "m_PathID": 1366
   },
   "illustrationFolder": {
     "title": {
@@ -118,23 +122,23 @@
   },
   "collectionProgressText": {
     "m_FileID": 0,
-    "m_PathID": 1094
+    "m_PathID": 1264
   },
   "collectionProgressTextOverlay": {
     "m_FileID": 0,
-    "m_PathID": 1113
+    "m_PathID": 1291
   },
   "collectionProgressFill": {
     "m_FileID": 0,
-    "m_PathID": 758
+    "m_PathID": 873
   },
   "collectionProgressFillOverlay": {
     "m_FileID": 0,
-    "m_PathID": 740
+    "m_PathID": 851
   },
   "folderControl": {
     "m_FileID": 0,
-    "m_PathID": 1157
+    "m_PathID": 1348
   },
   "folders": [
     {
@@ -191,7 +195,7 @@
             "chinese": "来自《清醒者日报》677年12月7日刊，被人私自带出图书馆，再被发现已经沾满不明液体。\\n\n\\n\n都市传奇专栏：\\n\n      “感谢读者们一直以来的支持，今日叶子将向您讲述白林中心城附近，那片神秘花海的故事······\\n\n     白林本没有花海，人们用血肉铺平了贫瘠的土地，才就此百花齐放。\\n\n        ············\\n\n       故事到此结束，希望大家喜欢，我们下期再见。”",
             "chineseTraditional": "來自《清醒者日報》677年12月7日刊，被人私自帶出圖書館。被發現後已經沾滿了不明液體。\\n\r\n\\n\r\n都市傳奇專欄：\\n\r\n「感謝讀者們一直以來的支持，今日葉子我將向您講述白林中心城附近，那片神秘花海的故事······\\n\r\n白林本沒有花海，人們用血肉鋪平了貧瘠的土地，才就此百花齊放。\\n\r\n············\\n\r\n故事到此結束，希望大家喜歡，我們下次再見。」",
             "english": "On December 7th, the 677th issue of Sober Daily was secretly taken out of the Library. Upon recovery, it was covered in a liquid of unknown origin.\\n\r\nEn excerpt from the magazine reads: \\n\r\nUrban Legends Column\\n\r\n Dear readers, thank you for your continued support. Today Leaf will tell you a story about the flower oceans in the center of Bailin City. \\n\r\n\"Back when Bailin was just an unexceptional settlement, people had used flesh and blood to pave the barren land. Shortly after, hundreds upon hundreds of flowers have blossomed there, completely saturating the landscape. \\n\r\n...\\n\r\nThats the end of the story. I hope everyone liked it. See you next time.\"",
-            "japanese": "《正気者新聞》677年12月7日刊より、誰かに勝手に図書館から持ち出され、再び発見した時には未知の液体で覆われていた\\n\r\n　\\n\r\n都市伝説コラム；\\n\r\n「読者の皆様、いつも応援頂きありがとうございます。きょう葉子は白林中心城付近にある神秘的な花の海の物語について話したいと思います……」\\n\r\n「もともと、白林に花などありませんでした。人々は肉と血で不毛の地を養ってからやっと花が咲きました。」\\n\r\n「 .......」\\n\r\n 「これで物語は終わりです。皆様が気に入ってくれると幸いです、次回もまたお会いしましょう。」",
+            "japanese": "《正気者新聞》677年12月7日刊より、誰かに勝手に図書館から持ち出され、再び発見した時には未知の液体で覆われていた\\n\r\n　\\n\r\n都市伝説コラム；\\n\r\n 「読者の皆様、いつも応援頂きありがとうございます。きょう葉子は白林中心城付近にある神秘的な花の海の物語について話したいと思います……」\\n\r\n「もともと、白林に花などありませんでした。人々は肉と血で不毛の地を養ってからやっと花が咲きました。」\\n\r\n「 .......」\\n\r\n 「これで物語は終わりです。皆様が気に入ってくれると幸いです、次回もまたお会いしましょう。」",
             "korean": ""
           },
           "properties": {
@@ -464,7 +468,7 @@
             "chinese": "风吹花海，推排若浪，两人立于大地之上，相视一笑。\\n\r\n“我们做到了。”\\n\r\n“是你做到了。”蒙面人看着女孩裙下的眼球，它们蠢蠢欲动，探头探脑，似乎在思考眼前的男人会是他们下一个同伴吗。\\n\r\n“你是来带我走的吧。”\\n\r\n“对。”\\n\r\n女孩儿在花田里不知度过了多少岁月，又不知吃了多少血肉，她渐渐长大，也终于迎来她的宿命。蒙面人拿出玻璃瓶，她散作无数花瓣，倒吸入瓶，花瓣染红了水，女孩又显现出她的模样，渐渐下沉，像一片失去生机的树叶，析出所有的汁液，只留下透明的茎脉，发现她，透过她，再忘记她。\\n\r\n“又回收了一个，还剩...”\\n\r\n蒙面人打开档案快速翻动，档案几乎每页都画上了巨大的红叉，突然他的手指停留，泛黄的照片映入眼帘，那是两个青春洋溢的少女，也是他下次的目标。",
             "chineseTraditional": "風吹花海，推排若浪，兩人立於大地之上，相視一笑。\\n\r\n「我們做到了。」\\n\r\n「是你做到了。」蒙面人看著女孩裙下的眼球。它們蠢蠢欲動，探頭探腦，似乎在思考眼前的男人會是他們下一個同伴嗎？\\n\r\n「你是來帶我走的吧。」\\n\r\n「對。」\\n\r\n女孩在花田裡不知度過了多少歲月，又不知吃了多少血肉，她漸漸長大，也終於迎來她的宿命。蒙面人拿出玻璃瓶，她散作無數花瓣，倒吸入瓶，花瓣染紅了水，女孩又顯現出她的模樣，漸漸下沉，像一片失去生機的樹葉，析出所有的汁液，只留下透明的莖脈，發現她，透過她，再忘記她。\\n\r\n「又回收了一個，還剩···」\\n\r\n蒙面人打開檔案快速翻動，檔案幾乎每頁都畫上了巨大的紅叉，突然他的手指停留。泛黃的照片映入眼簾，那是兩個青春洋溢的少女，是他下次的目標。",
             "english": "As the wind blows over the flower ocean, it creates flower waves. Two people overlooked these movements and smiled at each other.\\n\r\n\"We did it.”\\n\r\n\"No. You did it.\" \\n\r\nThe masked man looked at the eyeballs under the girl's skirt. They were ready to move and reach out for him. It seems that he's thinking about whether the man in front of him will be their next companion.\\n\r\n\"You are here to pick me up, right?” \\n\r\n\"Correct.\" \\n\r\nI don’t know how many years the girl has spent in the flower field, nor do I know how much flesh and blood she has consumed in that time. She gradually grows bigger. Inching towards her destiny.\\n\r\n The masked man took out a glass bottle. She began to drown in it, and scattered into thousands of petals. The petals dyed the water red. The girl showed her visage one last time, gradually sinking, like a leaf that had lost its vitality, leaving only the transparent stem veins. He found her, threw her away, and forgot her. \\n\r\n\"Another one was recovered. Let's see who's left...\" \\n\r\nThe masked man opened a file and through it quickly. Almost every page was marked with a large red cross.His fingers stayed, and a faded photo came into his view. It depicted two young girls.They were his next goal.",
-            "japanese": "風は吹き、花は波の如く。二人は大地に立ち、見つめ合い、笑い出す。 「やったね」 \\n\r\n「君の功績だよ。」覆面の人が、女の子のスカートの下にある目を見た。それらは蠢き、模索している。目の前の男は次の仲間なのか、と考えているようだ。\\n\r\n「私を連れて行くんでしょ」\\n\r\n「そう。」\\n\r\n女の子はどのくらいこの花畑にいたか、どれだけの血肉を食べたかを覚えていない。彼女は成長し、その宿命を迎えた。覆面の人はガラス瓶を取り出し、彼女は無数の花びらとなって瓶に吸い込まれた。花びらは水を赤く染め、彼女の様子が再び現れ、枯れ葉のようにゆっくりと沈んでいく。あらゆる汁液を析出し、透明の枝だけを残して、彼女を見つけて、すり抜けて、そして忘れて。\\n\r\n「これでまた一つ回収できた、残りは..」\\n\r\n覆面の人はファイルを開いてみると、ほどんどどのページにも赤いバツが大きく書かれている。ふと、彼の指が止まった。一枚黄ばんだ写真が視界に入ってきた。写真には二人の若くて元気な少女が映っている、これが彼の次のターゲットであった。",
+            "japanese": "風は吹き、花は波の如く。二人は大地に立ち、見つめ合い、笑い出す。 「やったね」 \\n\r\n「君の功績だよ。」覆面の人が、女の子のスカートの下にある目を見た。それらは蠢き、模索している。目の前の男は次の仲間なのか、と考えているようだ。\\n\r\n「私を連れて行くんでしょ」\\n\r\n「そう。」\\n\r\n 女の子はどのくらいこの花畑にいたか、どれだけの血肉を食べたかを覚えていない。彼女は成長し、その宿命を迎えた。覆面の人はガラス瓶を取り出し、彼女は無数の花びらとなって瓶に吸い込まれた。花びらは水を赤く染め、彼女の様子が再び現れ、枯れ葉のようにゆっくりと沈んでいく。あらゆる汁液を析出し、透明の枝だけを残して、彼女を見つけて、すり抜けて、そして忘れて。\\n\r\n「これでまた一つ回収できた、残りは..」\\n\r\n覆面の人はファイルを開いてみると、ほどんどどのページにも赤いバツが大きく書かれている。ふと、彼の指が止まった。一枚黄ばんだ写真が視界に入ってきた。写真には二人の若くて元気な少女が映っている、これが彼の次のターゲットであった。",
             "korean": ""
           },
           "properties": {
@@ -1331,7 +1335,7 @@
             "chineseTraditional": "",
             "english": "",
             "japanese": "",
-            "korean": ""
+            "korean": "\r"
           }
         }
       ],
@@ -4807,7 +4811,7 @@
           "category": "souvenir",
           "content": {
             "code": "",
-            "chinese": "410年2月7日\\n\n上任楼层守护的第一天，天气很好。\\n\n410年2月8日\\n\n把石林逛了一圈，什么人都见到。所以我要干什么来着？\\n\n410年2月10日\\n\n我回港湾了，这地方没意思。\\n\n410年3月5日\\n\n每月巡查完毕，山上又多了一些金属垃圾，本月巢栖道入站人数0，看来班次又要缩减了。\\n\n410年4月5日\\n\n每月巡查完毕，没有异常。我为什么要当楼层守护？\\n",
+            "chinese": "410年2月7日\\n\n上任楼层守护的第一天，天气很好。\\n\n410年2月8日\\n\n把石林逛了一圈，一个人都见不到。所以我要干什么来着？\\n\n410年2月10日\\n\n我回港湾了，这地方没意思。\\n\n410年3月5日\\n\n每月巡查完毕，山上又多了一些金属垃圾，本月巢栖道入站人数0，看来班次又要缩减了。\\n\n410年4月5日\\n\n每月巡查完毕，没有异常。我为什么要当楼层守护？\\n",
             "chineseTraditional": "410年2月7日\\n\n 擔任樓層守護工作的第一天，天氣很好。 \\n\n 410年2月8日\\n\n 把石林逛了一圈，什麼人都見了。所以我要幹什麼來著？ \\n\n 410年2月10日\\n\n 我回港灣了，這地方好無聊。 \\n\n 410年3月5日\\n\n 每月巡邏完畢，山上又多了一些金屬垃圾，本月巢棲道入站人數0，看來班次又要縮減了。 \\n\n 410年4月5日\\n\n 每月巡邏完畢，沒有異常。我為什麼要當樓層守護？ \\n",
             "english": "February 7 ,410\\n",
             "japanese": "410年2月7日\\n\n階層の番人に就任した一日目、天気良好。\\n\n410年2月8日\\n\n石林を一周まわってきたが、何人も見当たらなかった。何をするべきだったかな？\\n\n410年2月10日\\n\n港に戻る。ここは面白くない。\\n\n410年3月5日\\n\n毎月の定例巡回終了。山の金属ごみがまた増えた。今月巣栖駅の利用者数は0、また本数が減りそう。\\n\n410年4月5日\\n\n毎月の定例巡回終了、異常なし。なんで階層の番人という仕事を選んだんだ？\\n",
@@ -5070,7 +5074,7 @@
           "content": {
             "code": "",
             "chinese": "奔跑，蹦跳，游嬉，在橄榄山上。\\n\n海风吹角，巨兽鲸鸣，\\n\n在橄榄山上，碎石，烂布，菖蒲。\\n\n紫的，黑的，油光的，卵石，\\n\n透得水冰，润得羊脂。\\n\n枝晶，霜花，微观，菌体，\\n\n水份渗透，根深茎营。\\n\n流体的，原子的，电离的，撞击可见的，\\n\n再进入，再深入，再融入，\\n\n凝视不可分割的介质，\\n\n那是否，\\n\n是现实的本质，\\n\n抑或像素的锯齿。",
-            "chineseTraditional": "奔跑，蹦跳，遊戲，在橄欖山上。\\n\r\n海風吹角，巨獸驚鳴，\\n\r\n在橄欖山上，碎石，爛布，菖蒲。\\n\r\n紫的，黑的，油光的，卵石，\\n\r\n透得水冰，潤得羊脂。\\n\r\n枝晶，霜花，微觀，菌體，\\n\r\n水份滲透，根深莖營。\\n\r\n流體的，原子的，電離的，撞擊可見的，\\n\r\n再進入，再深入，再融入，\\n\r\n凝視不可分割的介質，\\n\r\n那是否，\\n\r\n是現實的本質，\\n\r\n亦或圖元的鋸齒。",
+            "chineseTraditional": "奔跑，蹦跳，遊戲，在橄欖山上。\\n\r\n海風吹角，巨獸驚鳴，\\n\r\n 在橄欖山上，碎石，爛布，菖蒲。\\n\r\n紫的，黑的，油光的，卵石，\\n\r\n透得水冰，潤得羊脂。\\n\r\n 枝晶，霜花，微觀，菌體，\\n\r\n水份滲透，根深莖營。\\n\r\n 流體的，原子的，電離的，撞擊可見的，\\n\r\n再進入，再深入，再融入，\\n\r\n凝視不可分割的介質，\\n\r\n 那是否，\\n\r\n是現實的本質，\\n\r\n 亦或圖元的鋸齒。",
             "english": "Run, jump, wander, on the olive mountain.\\n\nSea breezes through the horn, the giant beast shrieks,\\n\nOn the olive mountain, broken gravels, rotten cloths, wilted calami.\\n\nPurple, black, shiny pebbles, \\n\nTranslucent as ice, greasy as butter.\\n\nCrystals, frosts, microscopic, fungus,\\n\nWater penetrates deep into the stems and roots.\\n\nFluid, atomic, ionised, visible on collision,\\n\nRe-enter, re-deepen, re-merge,\\n\nGaze into the indivisible media,\\n\nIs that,\\n\nThe essence of reality,\\n\nOr pixelated serration.",
             "japanese": "オリーブの山の上で走り、跳び、遊びまわる。\\n\n海風がその角に当たり、巨獣は声を上げる。\\n\n砕石、布切れ、菖蒲がオリーブの山の上に。\\n\n紫色の、黒色の、照り返す礫、\\n\n水に沈み、脂に潤う。\\n\n結晶、霜花、微視、菌体、\\n\n水に滲み、根を生やす。\\n\n流体の、原子の、電離した、ぶつかれば見えるもの、\\n\n再び入り、より深く、いっそう溶けあい、\\n\n離れることのない媒質に目を凝らす。\\n\nそれは、\\n\n現実の本質か、\\n\nあるいは、絵素のエイリアスか。",
             "korean": ""
@@ -5148,7 +5152,7 @@
           "content": {
             "code": "",
             "chinese": "夜晚，牛嚼云丹。\\n\n于海岸，\\n\n背上行囊，\\n\n流浪人，\\n\n在寻找答案。\\n\n飞轴转动，\\n\n故事承前。\\n\n\\n\n入世沉浮风渡，\\n\n淘沙运浪空留。\\n\n月上柳梢，\\n\n子午。\\n",
-            "chineseTraditional": "夜晚，牛嚼雲丹。 \\n\n於海岸，\\n\n背上行囊，\\n\n 流浪人，\\n\n在尋找答案。 \\n\n 飛軸轉動，\\n\n故事承前。 \\n\n \\n\n 入世沉浮風渡，\\n\n淘沙運浪空留。 \\n\n 月上柳梢，\\n\n子午。 \\n",
+            "chineseTraditional": "夜晚，牛嚼雲丹。 \\n\n於海岸，\\n\n 背上行囊，\\n\n 流浪人，\\n\n在尋找答案。 \\n\n 飛軸轉動，\\n\n故事承前。 \\n\n \\n\n 入世沉浮風渡，\\n\n淘沙運浪空留。 \\n\n 月上柳梢，\\n\n子午。 \\n",
             "english": "",
             "japanese": "",
             "korean": ""
@@ -5187,7 +5191,7 @@
           "content": {
             "code": "",
             "chinese": "冰封·53.A.P\\n\r\n\\n\r\n“握住缰绳，熟悉马的呼吸，想象你要去的地方。”\\n\r\n冬日里，她教导着“我”操控梦魇马的办法，“我”闭目畅想，看见了漫天的飘雪，和远处不断浮动的幻影，便张开了眼睛。\\n\r\n“我做不到。”\\n\r\n“你看到了什么？”\\n\r\n“我”再次闭上眼睛，雪停了，落日似雁阵，向北徐行，鳞云流散，他站在空中，云的河流从身侧流过，扑面而来的水汽洗清他浑浊的双眼，并揭开了传说的面纱，那巨塔倒悬在天际，幻想是它的血肉，钢铁是它的骨骼，“我”看向塔，塔的住民也看向他，停止了耕作，生锈的镰刀上，闪过一抹寒光。\\n\r\n“我，什么也没看到。”",
-            "chineseTraditional": "冰封·53.A.P\\n\n \\n\n 「握住韁繩，熟悉馬的呼吸，想像你要去的地方。」\\n\n冬日裡，她教導著「我」控制夢魘馬的辦法，「我」閉目暢想，看見了漫天的飄雪，和遠處不斷浮動的幻影，便張開了眼睛。\\n\n「我做不到。」\\n\n「你看到了什麼？」\\n\n「我」再次閉上眼睛，雪停了，落日似雁陣，向北徐行，鱗雲流散，他站在空中，雲的河流從身側流過，撲面而來的水氣洗清他渾濁的雙眼，並揭開了傳說的面紗，那巨塔倒懸在天際，幻想是它的血肉，鋼鐵是它的骨骼，「我」看向塔，塔的住民也看向他，停止了耕作。生鏽的鐮刀上，閃過一抹寒光。\\n\n「我，什麼也沒看到。」",
+            "chineseTraditional": "冰封·53.A.P\\n\n \\n\n 「握住韁繩，熟悉馬的呼吸，想像你要去的地方。」\\n\n冬日裡，她教導著「我」控制夢魘馬的辦法，「我」閉目暢想，看見了漫天的飄雪，和遠處不斷浮動的幻影，便張開了眼睛。\\n\n「我做不到。」\\n\n 「你看到了什麼？」\\n\n「我」再次閉上眼睛，雪停了，落日似雁陣，向北徐行，鱗雲流散，他站在空中，雲的河流從身側流過，撲面而來的水氣洗清他渾濁的雙眼，並揭開了傳說的面紗，那巨塔倒懸在天際，幻想是它的血肉，鋼鐵是它的骨骼，「我」看向塔，塔的住民也看向他，停止了耕作。生鏽的鐮刀上，閃過一抹寒光。\\n\n「我，什麼也沒看到。」",
             "english": "Glaciaxia-53.A.P\\n\n\\n\n\"Hold the reins, get familiar with the horse's breathing, and imagine where you want to go.\"\\n\nOn a day in winter, she's teaching \"me\" the method to control the ghast horse. \"I\" closed my eyes, imagined the drifting snow, and floating phantom in the distance, then opened my eyes.\\n\n\"I can't do it.\"\\n\n\"What did you see?\"\\n\n\"I\" closed my eyes once more. The snow had stopped. The sun set like a horde of migratory wild geese heading towards north, cirrocumulus clouds scattered around it. He stood in the air, streams of clouds flew by his side. The giant tower hung upside down in the sky. Its flesh was made of whims and bones of steel. \"I\" looked at the tower, and the residents of the tower looked at him, stopped cultivating. A cold light of reflection flashed from the blade of their rusty scythes. \\n\n\"I, saw nothing.\"",
             "japanese": "氷封·53.A.P\\n\n\\n\n「手綱を掴んで、馬の呼吸を聞きながら、行きたい場所を想像するんだ。」\\n\n冬の日、彼女は『私』に魘馬(えんば)の乗り方を教えてくれている。『私』は目を瞑って想像した。しかし降り積もる雪と遠くで漂う幻影ばかりが脳内に浮ぶため、目を開けた。\\n\n「できない。」\\n\n「何が見えた？」\\n\n『私』は再び目を閉じた。雪は止み、夕日は雁のごとく北へ移る。雲が流れていく中、彼は空中に立ち、雲の川がその両側を通り抜けた。顔に降りかかる水気は彼の濁った両目を洗浄し、伝説の中身を明かした。あの巨大な塔は逆さに空に掛っている、幻想はその血肉となり、鋼鉄はその骨格を成す。『私』はあの塔を見た。塔の住民たちも彼を見て、耕作する手が止まった。冷たい光は錆びた鎌を照らしては消えていった。\\n\n「…何も見えなかった。」",
             "korean": ""
@@ -5304,7 +5308,7 @@
           "content": {
             "code": "",
             "chinese": "冰封·60.A.P\\n\n\\n\n天地同色，皓白渺茫，囚人跪于地上，浅唱古调。\\n\n空气剥夺他的体温，低温阻碍他的思考，感光细胞抽搐着发挥作用，眼前黑中泛亮，肆意扭动的人面怪物，正出现在现实中，还是他的梦里。\\n\n“……”\\n\n说些什么吧，说些什么吧！告诉他，冰封世界上，还有人类呼吸，生命的诗篇仍在咏唱，还有他们坚守的家园，人们建塔并非为离开，他们只是，只是……\\n\n“你要死了，如我们般，被人类处死。”\\n\n“没有未来，永远地游荡，在雪原之上，一遍一遍重复，轮回。”\\n\n“像个。”\\n\n“人类一样。”\\n",
-            "chineseTraditional": "冰封·60.A.P\\n\r\n \\n\r\n 天地同色，皓白渺茫，囚人跪於地上，淺唱古調。\\n\r\n空氣剝奪他的體溫，低溫阻礙他的思考，感光細胞抽搐著發揮作用，眼前黑中泛亮，肆意扭動的人面怪物，正出現在現實中，還是他的夢裡。\\n\r\n“……”\\n\r\n說些什麼吧，說些什麼吧！告訴他，冰封世界上，還有人類呼吸，生命的詩篇仍在詠唱，還有他們堅守的家園，人們建塔並非為了離開，他們只是，只是……\\n\r\n「你要死了，如我們般，被人類處死。」\\n\r\n「沒有未來，永遠地遊蕩，在雪原之上，一遍一遍重複，輪回。」\\n\r\n「像個。」",
+            "chineseTraditional": "冰封·60.A.P\\n\r\n \\n\r\n 天地同色，皓白渺茫，囚人跪於地上，淺唱古調。\\n\r\n空氣剝奪他的體溫，低溫阻礙他的思考，感光細胞抽搐著發揮作用，眼前黑中泛亮，肆意扭動的人面怪物，正出現在現實中，還是他的夢裡。\\n\r\n“……”\\n\r\n 說些什麼吧，說些什麼吧！告訴他，冰封世界上，還有人類呼吸，生命的詩篇仍在詠唱，還有他們堅守的家園，人們建塔並非為了離開，他們只是，只是……\\n\r\n「你要死了，如我們般，被人類處死。」\\n\r\n「沒有未來，永遠地遊蕩，在雪原之上，一遍一遍重複，輪回。」\\n\r\n「像個。」",
             "english": "Glaciaxia-60.A.P\\n\r\n\\n\r\nThe sky and earth shared the same colour, white and vague. The prisoners kneeled on the ground, humming the ancient tone.\\n\r\nAir stripped away his body heat, and the hyperthermia deprived his thoughts. The photoreceptor cells twisted and struggled to function. The darkness in his eyes glowed with light. The recklessly writhing monsters with human faces, are appearing into reality, or his dreams.\\n\r\n\"……\"\\n\r\nSay something, say something! Tell him, that in the world of Glaciaxia, there were still men breathing, that the poem of life was still being chanted. And the homeland they stood up to. People built the tower not just to leave, they just, just……\\n\r\n\"You are going to die, just like us, put to death by human.\"\\n\r\n\"There is no future, but wandering forever, on the snowy field, over and over again, reincarnating.\"\\n\r\n\"Just like.\"",
             "japanese": "氷封·60.A.P\\n\r\n\\n\r\n空も土も見渡す限り白く染まっている。囚人は地に跪き、古の歌を口ずさむ。\\n\r\n大気は彼の体温を奪い、低温は彼の思考を妨げる。感光細胞は痙攣しつつも作用を発揮し、真っ暗な視界の中に光が灯される。体をくねらせる人面の怪物、ここは夢か、うつつか。\\n\r\n「……」\\n\r\n口を動かすんだ、声に出して言うんだ！凍り付いた世界にまだ人類がいることを、生命の唄はまだ歌われ続けていることを、彼らが守り続けた故郷がまだ存在することをこいつに教えるんだ。人類が塔を建てたのは離れるためではない。彼らはただ、ただ……\\n\r\n「お前はもうじき死ぬ。我々のように、人類に処刑される。」\\n\r\n「未来も見えずに永遠にさまよい続ける。雪原の上で、何度も繰り返していく、輪廻する。」\\n\r\n「まるで。」",
             "korean": ""
@@ -5382,7 +5386,7 @@
           "content": {
             "code": "",
             "chinese": "港湾·740.A.P\\n\r\n\\n\r\n“我想去冰封层。”\\n\r\n“你决定好了。”\\n\r\n“决定好了。”\\n\r\n“毕竟是志愿行为，我也没法阻止你……你真的决定好了吗？决定好见他们了吗。”\\n\r\n“他们不是真的他们，你我都知道，过去的人类种已经灭亡了。”\\n\r\n“确实，新的冰封巡逻队安全无害，但它们毕竟是异想之物，变数太大。”\\n\r\n“像素塔的变数，只有人类。你是怕我回去，做些多余的事。”\\n\r\n“总队长，我们无法再承受一次牛肚谷战役。”\\n\r\n“不会的，他们已经不在了。”",
-            "chineseTraditional": "港灣·740.A.P\\n\r\n \\n\r\n 「我想去冰封層。」\\n\r\n「你決定好了？」\\n\r\n「決定好了。」\\n\r\n「畢竟是志願行為，我也無法阻止你……你真的確定了嗎？決定好見他們了嗎。」\\n\r\n「他們不是真的他們，你我都知道，過去的人類種族已經滅亡了。」\\n\r\n「確實，新的冰封巡邏隊安全無害，但它們畢竟是異想之物，變數太大。」\\n\r\n「像素塔的變數，只有人類。你是怕我回去，做些多餘的事。」\\n\r\n「組長，我們無法再承受一次牛肚穀戰役。」\\n\r\n「不會的，他們已經不在了。」",
+            "chineseTraditional": "港灣·740.A.P\\n\r\n \\n\r\n 「我想去冰封層。」\\n\r\n「你決定好了？」\\n\r\n 「決定好了。」\\n\r\n「畢竟是志願行為，我也無法阻止你……你真的確定了嗎？決定好見他們了嗎。」\\n\r\n「他們不是真的他們，你我都知道，過去的人類種族已經滅亡了。」\\n\r\n「確實，新的冰封巡邏隊安全無害，但它們畢竟是異想之物，變數太大。」\\n\r\n「像素塔的變數，只有人類。你是怕我回去，做些多餘的事。」\\n\r\n「組長，我們無法再承受一次牛肚穀戰役。」\\n\r\n「不會的，他們已經不在了。」",
             "english": "Harbour-740.A.P\\n\r\n\\n\r\n\"I want to go to the Glaciaxia.'\\n\r\n\"You have made the decision.\"\\n\r\n\"I've made my mind.\"\\n\r\n\"It's a voluntary action, so I can't stop you……are you really sure? Ready to meet them?\"\\n\r\n\"They are not real them, we both know it. The past human species has already gone extinct.\"\\n\r\n\"Indeed. The new Glaciaxia patrol is harmless, but they are still whims. There're just too many uncertainties.\"\\n\r\n\"The only uncertainly to the pixel tower, is human. You are afraid of me going back and do something uncalled for.\"\\n\r\n\"Captain, we cannot afford another battle of Cowbelly valley.\"\\n\r\n\"We won't. They are not there anymore.“",
             "japanese": "ヘブン·740.A.P\\n\n\\n\n「私、氷封層に行きたい。」\\n\n「覚悟できたのか？」\\n\n「できてる。」\\n\n「なにせボランティア活動だから、あんたを止めることもできないけど……本当に決めたの？彼らに会うって？」\\n\n「彼らは本当の彼らじゃない、私たちも知ってるでしょ。過去の人類は滅亡した。」\\n\n「確かに、新しくできた氷封偵察隊はとても安全だ。だが所詮は異想の物だから、未知数が多いよ。」\\n\n「ピクセルタワーにおける未知数は、人類しかない。お前は私があそこに戻って余計なことをするのを恐れているでしょ。」\\n\n「総隊長、我々にもう一回牛ハチノス谷の戦いに耐えられる余裕なんてないんだ。」\\n\n「大丈夫だ。だって彼らはもう、いないんだから。」",
             "korean": ""
@@ -5449,7 +5453,7 @@
           "content": {
             "code": "",
             "chinese": "必然的背叛，无非发生早晚，\\n\n耳边的轻语，忿恨溢出言喻，\\n\n她逃不了了，\\n\n她只能飞向天空，\\n\n飞向无人问津的孤岛，\\n\n萧条冷清的大街，\\n\n把歌声卖给现实，\\n\n将过去关在过去，\\n\n让未来回归山野，\\n\n回归那羚羊粘了雪花的墨眼。",
-            "chineseTraditional": "必然的背叛，無非發生早晚，\\n\n耳邊的輕語，忿恨溢出言喻，\\n\n她逃不了了，\\n\n她只能飛向天空，\\n\n飛向無人問津的孤島，\\n\n蕭條冷清的大街，\\n\n把歌聲賣給現實，\\n\n將過去關在過去，\\n\n讓未來回歸山野，\\n\n回歸那羚羊貼了雪花的墨眼。 ",
+            "chineseTraditional": "必然的背叛，無非發生早晚，\\n\n耳邊的輕語，忿恨溢出言喻，\\n\n她逃不了了，\\n\n 她只能飛向天空，\\n\n飛向無人問津的孤島，\\n\n 蕭條冷清的大街，\\n\n把歌聲賣給現實，\\n\n 將過去關在過去，\\n\n讓未來回歸山野，\\n\n 回歸那羚羊貼了雪花的墨眼。 ",
             "english": "",
             "japanese": "必然的な裏切り、起こるのは時間の問題に過ぎない。\\n\n耳元のささやき、怒りと恨みが言葉と化し溢れ出す。\\n\n彼女はもう逃れない、\\n\n空に向かって飛び立ち、\\n\n誰も知らない孤島へと行くしかない。\\n\n静寂な街道、\\n\n歌声を現実に売りつけ、\\n\n過去を過去に閉じ込み、\\n\n未来を山野に帰らす。\\n\n再び、羚羊の目に雪の花が降りつく。",
             "korean": ""
@@ -6384,7 +6388,7 @@
           "category": "bold",
           "content": {
             "code": "",
-            "chinese": "“莲渡，你很纯粹。”\\n\n“说什么鬼话。”\\n\n“就是，我有点东西想给你，但是我不确定你怎么想。”\\n\n“你刚刚还说我很纯粹。”\\n\n“你确实很纯粹，但我不确定你的水平如何。”\\n\n“你在小瞧我。” \\n\n“我没有，你是了解我的。人在这里可以使用一种很特别的力量，但是如果没有办法掌握它，这种力量就会反过来危害到你。所以我需要确定你心灵的深度，也是为了你的安全着想。” \\n\n“不仅是异想的力量？”\\n\n“取决于你的本质。取决于你如何认识这个世界，如何认识这里，如何做出每一个决定。一般人只会盲目地活着，甚至不明白自己为什么会笑，为什么会发怒。就像你也许没意识到，你绝对不会进行没有准备的战斗。我知道你不是一般人，但我不确定你能否承担这种力量。”",
+            "chinese": "“莲渡，你很纯粹。”\\n\n“说什么鬼话。”\\n\n “就是，我有点东西想给你，但是我不确定你怎么想。”\\n\n“你刚刚还说我很纯粹。”\\n\n“你确实很纯粹，但我不确定你的水平如何。”\\n\n“你在小瞧我。” \\n\n“我没有，你是了解我的。人在这里可以使用一种很特别的力量，但是如果没有办法掌握它，这种力量就会反过来危害到你。所以我需要确定你心灵的深度，也是为了你的安全着想。” \\n\n“不仅是异想的力量？”\\n\n“取决于你的本质。取决于你如何认识这个世界，如何认识这里，如何做出每一个决定。一般人只会盲目地活着，甚至不明白自己为什么会笑，为什么会发怒。就像你也许没意识到，你绝对不会进行没有准备的战斗。我知道你不是一般人，但我不确定你能否承担这种力量。”",
             "chineseTraditional": "「蓮渡，你很單純。」\\n\n「說什麼鬼話。」\\n\n「就是，我有點東西想給你，但是我不確定你怎麼想。」\\n\n「你剛剛還說我很單純。」\\n\n「你確實很單純，但我不確定你的水準如何。」\\n\n「你在小瞧我。」\\n\n「我沒有，你瞭解我。人在這裡可以使用一種很特別的力量，但是如果沒有辦法掌握它，這種力量就會反過來危害到你。所以我需要確定你心靈的深度，也是為了你的安全著想。」 \\n\n「不僅是異想的力量？」\\n\n「取決於你的本質。取決於你如何認識這個世界，如何認識這裡，如何做出每一個決定。一般人只會盲目地活著，甚至不明白自己為什麼會笑，為什麼會發怒。就像你也許沒意識到，你絕對不會進行沒有準備的戰鬥。我知道你不是一般人，但我不確定你能否承擔這種力量。」",
             "english": "",
             "japanese": "「スルダン、君は純粋な人だ。」\\n\n「でたらめを言うな。」\\n\n「その、渡したいものがあるんだけど、君がどう受け入れるかがいまいち予測できなくてさ。」\\n\n「さっき純粋といったはずだが。」\\n\n「君は確かに純粋だ、だがどこまでかはわからないもので。」\\n\n「舐めてる。」\\n\n「いや、私という人を君はよく知ってるだろう。この場所で人間は特殊な力を扱えるんだ。だがうまく抑えることができないと、それはかえって君自身を食らう。だから君の心を確かめたのも君のためだ。」\\n\n「異想の力だけじゃないのか？」\\n\n「君の本質、君がどういう風にこの世界を認識し、どういう風にここを認識し、そしてどういう風に決断を下すかによる。普通の人は何も考えずに生きていることが多い、自分がなぜ笑うのか、なぜ怒るのかさえも知らずに。君が無謀で戦いに挑むことは決してない、君自身がそれを認識していないだけだ。これらは同じことさ。君はただならぬ者であることは知ってるが、この力に耐えれるかどうかがわからないんだ。」",
@@ -6931,7 +6935,7 @@
           "content": {
             "code": "",
             "chinese": "一道彩虹指引着他们前进的道路，直到管道迷宫的尽头，一路走来道路两边鲜花绽放，幽香四溢，旷无天地间，白茫茫空荡荡，却不压抑，心中敞亮。\\n\n“这里也要投币吗？”\\n\n不知去哪儿的鸠，回到队伍之中，她指着远方藤蔓缠绕的售货机，手里拿着一枚游戏币。\\n\n同行的素檀，还没接受Gino不过几下操作便通过游戏的事实，他以前也尝试过同样的路线，却没达成同样的结果。\\n\n“有人在和我作对。”\\n\n“嗯？”鸠回头，不解得问道。\\n\n“我不能再过去了，你们看不出来吗。”素檀展示手腕上的锁链，那物什有形亦无形，束缚着它使命中的猎物。\\n\nGino回答他：“你不想离开这里。”\\n\n“你从哪里得出的结论？”\\n\n“像素塔是个心想事成的世界，在这里你可以成为任何人。你理应能做到一切，但你不愿意这么行动。”\\n\n此时，鸠已走到售货机前，她按下“管道迷宫纪念章”的按钮，很快一包塑料包装的小物件掉了出来。她拆开包装，立刻走到素檀身边把印章盖在了锁链之上，这锁链瞬时应声破碎脱落。\\n\n“走吧，离开这里。”",
-            "chineseTraditional": "一道彩虹指引著他們前進的道路，直到管道迷宮的盡頭，一路走來道路兩邊鮮花綻放，幽香四溢，曠無天地間，白茫茫空蕩蕩，卻不壓抑，心中敞亮。\\n\n「這裡也要投幣嗎？」\\n\n不知去哪兒的鳩，回到隊伍之中，她指著遠方藤蔓纏繞的販賣機，手裡拿著一枚遊戲幣。\\n\n同行的素檀，還沒接受Gino不過幾下操作便通過遊戲的事實，他以前也嘗試過同樣的路線，卻沒達成同樣的結果。\\n\n「有人在和我作對。」\\n\n「嗯？」鳩回頭，不解得問道。\\n\n「我不能再過去了，你們看不出來嗎。」素檀展示手腕上的鎖鏈，那物時有形亦無形，束縛著它使命中的獵物。\\n\nGino回答他：「你不想離開這裡。」\\n\n「你從哪裡得出的結論？」\\n\n「像素塔是個心想事成的世界，在這裡你可以成為任何人。你理應能做到一切，但你不願意這麼行動。」\\n\n此時，鳩已走到販賣機前，她按下「管道迷宮紀念章」的按鈕，很快一包塑膠包裝的小物件掉了出來。她拆開包裝，立刻走到素檀身邊把印章蓋在了鎖鏈之上，這鎖鏈暫態應聲破碎脫落。\\n\\n\n「走吧，離開這裡。」\n",
+            "chineseTraditional": "一道彩虹指引著他們前進的道路，直到管道迷宮的盡頭，一路走來道路兩邊鮮花綻放，幽香四溢，曠無天地間，白茫茫空蕩蕩，卻不壓抑，心中敞亮。\\n\n「這裡也要投幣嗎？」\\n\n 不知去哪兒的鳩，回到隊伍之中，她指著遠方藤蔓纏繞的販賣機，手裡拿著一枚遊戲幣。\\n\n同行的素檀，還沒接受Gino不過幾下操作便通過遊戲的事實，他以前也嘗試過同樣的路線，卻沒達成同樣的結果。\\n\n「有人在和我作對。」\\n\n 「嗯？」鳩回頭，不解得問道。\\n\n「我不能再過去了，你們看不出來嗎。」素檀展示手腕上的鎖鏈，那物時有形亦無形，束縛著它使命中的獵物。\\n\nGino回答他：「你不想離開這裡。」\\n\n「你從哪裡得出的結論？」\\n\n「像素塔是個心想事成的世界，在這裡你可以成為任何人。你理應能做到一切，但你不願意這麼行動。」\\n\n此時，鳩已走到販賣機前，她按下「管道迷宮紀念章」的按鈕，很快一包塑膠包裝的小物件掉了出來。她拆開包裝，立刻走到素檀身邊把印章蓋在了鎖鏈之上，這鎖鏈暫態應聲破碎脫落。\\n\\n\n「走吧，離開這裡。」\n",
             "english": "",
             "japanese": "虹がパイプ迷路の出口まで二人を導いてくれた。道の両側には鮮やかに香り出す花が咲き、周りは何もない白い空間、妙だがここにいると晴れ晴れとした気持ちになれる。\\n\n「ここもコインを入れるの？」\\n\n行き場に迷った鳩はチームに合流した。遠くの蔓に絡まっている販売機を指した手には一枚のゲームコインを持っている。\\n\n同行しているスルダンはまだGinoがいと容易くゲームをクリアしたことを納得できずにいる。彼も前に同じルートを試したことががあったが、同じ結末にはならなかった。\\n\n「何者かが私を邪魔している。」\\n\n「え？」鳩は不思議に声をあげた。\\n\n「もう先に進むことはできない。あなたたちには見えないのか。」スルダンは自分の腕に絡まっている鎖を二人に見せた。あれは実在なものとは思えないほど不安定な形で己の獲物を縛り付けている。\\n\nGinoが口を開いた：「あんたはここを離れたくない。」\\n\n「どうしてそのような結論を？」\\n\n「ピクセルタワーは思考が現実となる場所、ここでは何者にでもなれる。あんたは何もかもできたはず、それを望まなかっただけ。」\\n\n鳩は既に販売機の前まで来ている。「パイプ迷路記念スタンプ」というボタンを押すとプラスチックで包装された小物が出てきた。鳩はそれを開けて、スタンプをスルダンに縛り付けている鎖に押すと、鎖が音を立てて砕け散った。\\n\n「行こう、ここを出よう。」",
             "korean": ""
@@ -8089,7 +8093,7 @@
           "category": "souvenir",
           "content": {
             "code": "",
-            "chinese": "今天依旧是咕咕给大家介绍霓虹美食，不过这次只有咕咕一个人了呢，Gino他去别的地方买东西啦让我自己吃点……唉算了先不说这个！让我们继续体验霓虹的美食！\\n\n【霓虹嘈杂的街道环境声】\\n\n唉，走了一圈咕咕都不知道吃什么呢，在霓虹也待了这么长时间这里那些大酒店的美食也差不多吃了个遍………诶等等？\\n\n【鸠发现了一家隐藏在巷子里的小餐馆，香味从餐馆内飘出来，鼻子灵的鸠很快被吸引了过去。】\\n\n\\n\n终于端上来了！香味的究极来源！这道看似普通的羊肉粉丝汤，原料实际上选自霓虹的一种特别的养殖种异想之物鱼羊，这种羊表面除了质感如同鱼鳞一般的羊皮之外看起来和鱼没有半点关系，但是它的肉质却如同新鲜的河鱼一般细腻爽滑，和平常吃到的羊肉的重油重膻有很大区别。炖汤之后肉质鲜嫩可口，汤汁清爽鲜甜与平常老吃的那些辣菜都不一样；粉丝则采用店家制作的手工粉，吃起来十分满足！一碗喝下去整个身子都暖乎乎的！看来霓虹不仅仅有那些高大尚的酒店，这里的小餐馆菜肴也很美味啊。\\n\n久住：你怎么还在这里，教坊那边找你很久了。\\n\n【想起早上出门Dlyro交代的事，她看向久住恍然大悟。】\\n\n久住：快走啦！\\n\n那么本期的霓虹美食图鉴就告一段落啦，大家下次再见！【yeah！】别走这么快嘛！我们不等Gino了吗！",
+            "chinese": "今天依旧是咕咕给大家介绍霓虹美食，不过这次只有咕咕一个人了呢，Gino他去别的地方买东西啦让我自己吃点……唉算了先不说这个！让我们继续体验霓虹的美食！\\n\n【霓虹嘈杂的街道环境声】\\n\n唉，走了一圈咕咕都不知道吃什么呢，在霓虹也待了这么长时间这里那些大酒店的美食也差不多吃了个遍………诶等等？\\n\n【鸠发现了一家隐藏在巷子里的小餐馆，香味从餐馆内飘出来，鼻子灵的鸠很快被吸引了过去。】\\n\n\\n\n终于端上来了！香味的究极来源！这道看似普通的羊肉粉丝汤，原料实际上选自霓虹的一种特别的养殖种异想之物鱼羊，这种羊表面除了质感如同鱼鳞一般的羊皮之外看起来和鱼没有半点关系，但是它的肉质却如同新鲜的河鱼一般细腻爽滑，和平常吃到的羊肉的重油重膻有很大区别。炖汤之后肉质鲜嫩可口，汤汁清爽鲜甜与平常老吃的那些辣菜都不一样；粉丝则采用店家制作的手工粉，吃起来十分满足！一碗喝下去整个身子都暖乎乎的！看来霓虹不仅仅有那些高大上的酒店，这里的小餐馆菜肴也很美味啊。\\n\n久住：你怎么还在这里，教坊那边找你很久了。\\n\n【想起早上出门Dlyro交代的事，她看向久住恍然大悟。】\\n\n久住：快走啦！\\n\n那么本期的霓虹美食图鉴就告一段落啦，大家下次再见！【yeah！】别走这么快嘛！我们不等Gino了吗！",
             "chineseTraditional": "",
             "english": "",
             "japanese": "",
@@ -8883,6 +8887,162 @@
             "japanese": "",
             "korean": "\r"
           }
+        },
+        {
+          "key": "xiusiyangjiaochui",
+          "subIndex": 1,
+          "getSong": 23,
+          "name": {
+            "code": "",
+            "chinese": "锈色羊角锤",
+            "chineseTraditional": "",
+            "english": "",
+            "japanese": "",
+            "korean": ""
+          },
+          "date": "770/06/06",
+          "supervisor": {
+            "code": "",
+            "chinese": "莲渡",
+            "chineseTraditional": "",
+            "english": "",
+            "japanese": "",
+            "korean": ""
+          },
+          "category": "souvenir",
+          "content": {
+            "code": "",
+            "chinese": "锈色羊角锤为进入六道虹集会的密钥，只有通过测试的个体才能获得，锤柄长六寸，锤体横截面两寸乘八分，通体呈点阵状生锈，图案对应领取个体的代号编码。",
+            "chineseTraditional": "",
+            "english": "",
+            "japanese": "",
+            "korean": ""
+          },
+          "properties": {
+            "code": "",
+            "chinese": "",
+            "chineseTraditional": "",
+            "english": "",
+            "japanese": "",
+            "korean": "\r"
+          }
+        },
+        {
+          "key": "xiusiyangjiaochui",
+          "subIndex": 2,
+          "getSong": 23,
+          "name": {
+            "code": "",
+            "chinese": "锈色羊角锤·线索一",
+            "chineseTraditional": "",
+            "english": "",
+            "japanese": "",
+            "korean": ""
+          },
+          "date": "770/06/18",
+          "supervisor": {
+            "code": "",
+            "chinese": "莲渡",
+            "chineseTraditional": "",
+            "english": "",
+            "japanese": "",
+            "korean": ""
+          },
+          "category": "souvenir",
+          "content": {
+            "code": "",
+            "chinese": "【霓虹层的黑衣地区为防止河水泛滥，中心城区未曾布置地上河道。同时为了满足实际用水需求，其下水道系统极为复杂多变，又因为诸多历史原因，其中分布着大量无市政记录的水道与地下空间。例如位于众志广场喷泉下方的英杰围场，它始建于像素塔历202年，外观为独立的泳池更衣间，使用正确密钥开门，则可以进入一片牛羊遍地的开阔草原。】\\n\n【草原之上寂静无比，远处的山岭银装素裹，莲渡身着深绿带莲花暗纹的唐服，手中杵着盘根状的拐杖，他与牧民打扮的看守者，站在围场外的层层彩幡下，两人的身旁是传送用的圆形地台。】\\n\n看守者：（拦住）嘿，密钥拿出来，瞅瞅。\\n\n莲渡：（拿出羊角锤）怎么，有状况不成。\\n\n看守者：（扫描图案）哎呀，说是亚空间导出程序正在遍历我们层，会利用时间戳错误的数据渗透到亚空间内部，盗取核心数据什么的，不能放进去。你没问题，进去吧。\\n\n莲渡：渗透，你是说历史“重演”吧。（收回羊角锤）\\n\n看守者：差不多，你不知道，今早我过来值班的时候啊，刚走出传送台，就看到布兰达站在外面。\\n\n莲渡：布兰达，他不是被回收了吗。\\n",
+            "chineseTraditional": "",
+            "english": "",
+            "japanese": "",
+            "korean": ""
+          },
+          "properties": {
+            "code": "",
+            "chinese": "",
+            "chineseTraditional": "",
+            "english": "",
+            "japanese": "",
+            "korean": "\r"
+          }
+        },
+        {
+          "key": "xiusiyangjiaochui",
+          "subIndex": 3,
+          "getSong": 27,
+          "name": {
+            "code": "",
+            "chinese": "锈色羊角锤·线索二",
+            "chineseTraditional": "",
+            "english": "",
+            "japanese": "",
+            "korean": ""
+          },
+          "date": "770/08/02",
+          "supervisor": {
+            "code": "",
+            "chinese": "鸠",
+            "chineseTraditional": "",
+            "english": "",
+            "japanese": "",
+            "korean": ""
+          },
+          "category": "souvenir",
+          "content": {
+            "code": "",
+            "chinese": "鸠：你给我个锤子干嘛？\\n\n莲渡：无语。\\n\n【鸠查看了该收集品之前的记录，立刻明白了素檀的意图。】\\n\n鸠：我这就带人剿灭六道虹！\\n\n莲渡：你再看看！\\n",
+            "chineseTraditional": "",
+            "english": "",
+            "japanese": "",
+            "korean": ""
+          },
+          "properties": {
+            "code": "",
+            "chinese": "",
+            "chineseTraditional": "",
+            "english": "",
+            "japanese": "",
+            "korean": "\r"
+          }
+        },
+        {
+          "key": "xiusiyangjiaochui",
+          "subIndex": 4,
+          "getSong": 27,
+          "name": {
+            "code": "",
+            "chinese": "锈色羊角锤·线索三",
+            "chineseTraditional": "",
+            "english": "",
+            "japanese": "",
+            "korean": ""
+          },
+          "date": "770/08/02",
+          "supervisor": {
+            "code": "",
+            "chinese": "鸠",
+            "chineseTraditional": "",
+            "english": "",
+            "japanese": "",
+            "korean": ""
+          },
+          "category": "key",
+          "content": {
+            "code": "",
+            "chinese": "鸠：请问，这里是六道虹的集会点吗？\\n\n看守者：你是来卖灯牌的？回去吧，六道虹已经解散了。\\n\n鸠：哎？可是……\\n\n看守者：反正我也没事干，就和你讲讲吧。最近霓虹的天越来越暗，确实是六道虹做的，但是吧，之后出现了个叫“七”的骇客帮，你知道吧，说什么既然人都跑了，留着霓虹层也没劲，不如全拆了，让幽蓝边界早点去港湾，要死一起死。上面那帮人一听不得了了，他们在港湾的数据都没搬完呢，赶紧叫停了援助。\\n\n鸠：还有这种事！\\n\n看守者：不止啊，我跟你说……\\n\n…………\\n\n【鸠退出集会点，素檀已在更衣间等候多时。】\\n\n莲渡：现在明白了吧。\\n\n鸠：我宣布！贼寇六道虹已被捕获！霓虹一切正常！接着舞接着乐！\\n\n莲渡：呵呵，不愧是你。\\n",
+            "chineseTraditional": "",
+            "english": "",
+            "japanese": "",
+            "korean": ""
+          },
+          "properties": {
+            "code": "",
+            "chinese": "",
+            "chineseTraditional": "",
+            "english": "",
+            "japanese": "",
+            "korean": "\r"
+          }
         }
       ],
       "fakeCoverFlag": "unlockFlagOfSpasmodic",
@@ -8991,6 +9151,45 @@
           }
         },
         {
+          "key": "poyiARK",
+          "subIndex": 2,
+          "getSong": 30,
+          "name": {
+            "code": "",
+            "chinese": "破译·望影の方舟Six·线索一",
+            "chineseTraditional": "",
+            "english": "",
+            "japanese": "",
+            "korean": ""
+          },
+          "date": "770/08/31",
+          "supervisor": {
+            "code": "",
+            "chinese": "鸠",
+            "chineseTraditional": "",
+            "english": "",
+            "japanese": "",
+            "korean": ""
+          },
+          "category": "souvenir",
+          "content": {
+            "code": "",
+            "chinese": "克劳尔：钻石姬探员，你还有什么要补充的？\\n\n【小隔间的灯泡一闪一闪，让本来就紧张的氛围更加紧张，鸠摆弄着手指，看着眼前的法官“先生”不确定地问道。】\\n\n鸠：我们是不是刚在群里说过话？\\n\n克劳尔：没错，就你见到蓝发大姐姐太过兴奋，而忘记第一时间汇报工作，你有什么想说的吗？\\n\n鸠：没有，刚才让我补充的异想出逃解释，我交收集品可以吗？\\n\n克劳尔：我问一下小贝（停顿）它说可以。\\n",
+            "chineseTraditional": "",
+            "english": "",
+            "japanese": "",
+            "korean": ""
+          },
+          "properties": {
+            "code": "",
+            "chinese": "",
+            "chineseTraditional": "",
+            "english": "",
+            "japanese": "",
+            "korean": "\r"
+          }
+        },
+        {
           "key": "poyiIG",
           "subIndex": 1,
           "getSong": 31,
@@ -9014,10 +9213,10 @@
           "category": "key",
           "content": {
             "code": "",
-            "chinese": "Trending：\\n\n 00:00 Genesis 8:12\\n\n 02:08 Trecheng Breth Féne 29/92/133/244/255\\n\n 04:01 二子乘舟，泛泛其景。愿言思子，中心养养。\\n\n06:31 PPPPPPhigrOS_Project_Stage_Final_VI_ArkDoom_Igallta_deciphered\\n\n08:31 久等了，接下来，请根据我的指示操作。\\n\n\\n\nHINT:\\n\n 请不要击打以下冒牌notes:\\n\nEZ:214\\n\nHD:185/398\\n\n IN:218/495/629\\n\n 敌人对「方舟Six」的侵入停止了，Igallta比我们想象的要弱。\\n\n冒牌note和其他正常note格格不入，所以数note是不必要的，请相信你的直觉。",
+            "chinese": "Trending：\\n\n 00:00 Genesis 8:12\\n\n 02:08 Trecheng Breth Féne 29/92/133/244/255\\n\n 04:01 二子乘舟，泛泛其景。愿言思子，中心养养。\\n\n06:31 PPPPPPhigrOS_Project_Stage_Final_VI_ArkDoom_Igallta_deciphered\\n\n08:31 久等了，接下来，请根据我的指示操作。\\n\n\\n\n HINT:\\n\n 请不要击打以下冒牌notes:\\n\nEZ:214\\n\n HD:185/398\\n\n IN:218/495/629\\n\n 敌人对「方舟Six」的侵入停止了，Igallta比我们想象的要弱。\\n\n冒牌note和其他正常note格格不入，所以数note是不必要的，请相信你的直觉。",
             "chineseTraditional": "Trending：\\n\r\n00:00 Genesis 8:12\\n\r\n02:08 Trecheng Breth Féne 29/92/133/244/255\\n\r\n04:01 二子乘舟，泛泛其景。愿言思子，中心养养。\\n\r\n06:31 PPPPPPhigrOS_Project_Stage_Final_VI_ArkDoom_Igallta_deciphered\\n\r\n08:31 久等了。接下來，請根據我的指示操作。\\n\r\n\\n\r\nHINT：\\n\r\n請不要敲打以下冒牌notes：\\n\r\nEZ：214\\n\r\nHD：185/398\\n\r\nIN：218/495/629\\n\r\n敵人停止侵入「方舟Six」了，Igallta比我們想像的還要弱。\\n\r\n冒牌note和其他正常note格格不入，所以數note是不必要的，請相信你的直覺。",
             "english": "Trending: \\n\r\n00:00 - Genesis 8:12\\n\r\n02:08 - Trecheng Breth Féne 29/92/133/244/255\\n\r\n04:01 - 二子乘舟，泛泛其景。愿言思子，中心养养。\\n\r\n06:31 -  PPPhigrOS_Project_Stage_Final_VI_ArkDoom_Igallta_deciphered\\n\r\n08:31 - Thank you for your waiting. Now, follow my instructions.\\n\r\n\\n\r\n[CLUE]:\\n\r\nAvoid the notes that are out of place. Don't be decieved.\\n\r\nEZ: 214\\n\r\nHD: 185/398\\n\r\nIN: 218/495/629\\n\r\nThe enemies have ceased their invasion towards the Six. Igallta is weaker than we first thought.",
-            "japanese": "Trending：\\n\r\n 00:00 Genesis 8:12\\n\r\n 02:08 Trecheng Breth Féne 29/92/133/244/255\\n\r\n 04:01 二子乘舟，泛泛其景。愿言思子，中心养养。\\n\r\n06:31 PPPPPPhigrOS_Project_Stage_Final_VI_ArkDoom_Igallta_deciphered\\n\r\n08:31 お待たせしました、これからは私の指示に従って操作してください。\\n\r\n\\n\r\nHINT:\\n\r\n 以下のコンボ数に出てくる偽のノーツに触れないでください:\\n\r\nEZ:214\\n\r\nHD:185/398\\n\r\n IN:218/495/629\\n\r\n 敵側から「方舟Six」への侵入は止まりました。Igalltaは私たちが想像したものよりも弱いです。\\n\r\n偽のノーツは他の正常ノーツとは違いがあるので，ノーツの数を数える必要はありません。自分の勘を信じてください。",
+            "japanese": "Trending：\\n\r\n 00:00 Genesis 8:12\\n\r\n 02:08 Trecheng Breth Féne 29/92/133/244/255\\n\r\n 04:01 二子乘舟，泛泛其景。愿言思子，中心养养。\\n\r\n06:31 PPPPPPhigrOS_Project_Stage_Final_VI_ArkDoom_Igallta_deciphered\\n\r\n08:31 お待たせしました、これからは私の指示に従って操作してください。\\n\r\n\\n\r\n HINT:\\n\r\n 以下のコンボ数に出てくる偽のノーツに触れないでください:\\n\r\nEZ:214\\n\r\n HD:185/398\\n\r\n IN:218/495/629\\n\r\n 敵側から「方舟Six」への侵入は止まりました。Igalltaは私たちが想像したものよりも弱いです。\\n\r\n偽のノーツは他の正常ノーツとは違いがあるので，ノーツの数を数える必要はありません。自分の勘を信じてください。",
             "korean": ""
           },
           "properties": {
@@ -9457,6 +9656,45 @@
             "japanese": "",
             "korean": "\r"
           }
+        },
+        {
+          "key": "NeonLED",
+          "subIndex": 1,
+          "getSong": 30,
+          "name": {
+            "code": "",
+            "chinese": "霓虹灯牌",
+            "chineseTraditional": "",
+            "english": "",
+            "japanese": "",
+            "korean": ""
+          },
+          "date": "770/08/31",
+          "supervisor": {
+            "code": "",
+            "chinese": "Gino",
+            "chineseTraditional": "",
+            "english": "",
+            "japanese": "",
+            "korean": ""
+          },
+          "category": "key",
+          "content": {
+            "code": "",
+            "chinese": "三级异想之物，静物种，外形多变，基础形态为路边常见的霓虹灯招牌。\\n\n霓虹灯牌最初是由TZB委托制作的防异工具，功能为监控对应个体的生存状态，实际操作中会以灯牌闪烁和熄灭，表示对应个体的损伤和死亡。该异想自中宫纪起，便投放入“霓虹层”和的管理当中，临时机构“重生登记处”也使用了该异想的亚种“分数告示牌”，用于管理目前仍未下线的像素塔用户，显现形式为用0~1000000的分数代表被监控个体的剩余生存时间。\\n\n虹再现事件前后，霓虹灯牌大量出现在中之层的二手市场，其中绝大部分由被监控者拆除，送给组织逃脱的“六道虹”集中售卖或转化为DATA。\\n",
+            "chineseTraditional": "",
+            "english": "",
+            "japanese": "",
+            "korean": ""
+          },
+          "properties": {
+            "code": "",
+            "chinese": "",
+            "chineseTraditional": "",
+            "english": "",
+            "japanese": "",
+            "korean": "\r"
+          }
         }
       ],
       "fakeCoverFlag": "unlockFlagOfIgallta",
@@ -9550,7 +9788,7 @@
           "content": {
             "code": "",
             "chinese": "1、 依序通过以下区域：南极点反重力赛道，时钟城管壁赛道，星环竞速障碍赛道，幽蓝边界重叠赛道。\\n\n2、 以A等速度通过无尽海沉降区，到达终点。\\n\n3、 【数据删除】",
-            "chineseTraditional": "1、依序通過以下區域：南極點反重力賽道，時鐘城管壁賽道，星環競速障礙賽道，幽藍邊界重疊賽道。 \\n\r\n2、以A等速度通過無盡海沉降地，到達終點。 \\n\r\n3、【數據刪除】",
+            "chineseTraditional": "1、依序通過以下區域：南極點反重力賽道，時鐘城管壁賽道，星環競速障礙賽道，幽藍邊界重疊賽道。 \\n\n2、以A等速度通過無盡海沉降地，到達終點。 \\n\n3、【數據刪除】",
             "english": "1. Pass through the following areas in order: South Pole Anti-Gravity Course, Clock City Pipe Wall Course, Star Ring Racing Obstacle Course, Mazarine's End Overlap Course. \\n\n2. Pass the Endless Sea sinking zone with A-class speed and reach the finish line. \\n\n3. [Data Expunged]",
             "japanese": "1、 順番に以下の区域を通過せよ：南極点反重力レース、時計城管壁レース、星環障害物競走レース、マザリノ境界多重レース。\\n\n2、 A等級以上の速度で無限海沈降区域を通過し、ゴールインせよ。\\n\n3、 【データ削除】",
             "korean": ""
@@ -11243,7 +11481,7 @@
           "category": "bold",
           "content": {
             "code": "",
-            "chinese": "—啊啊啊，为什么这些人这么喜欢用录音纸文件啊。\\n\r\n—又找到什么了？纸质文件的复原步骤可是很考究的，认真点。\\n\r\n—就算你这么说，不行了，休息一下。\\n\r\n—好吧，我来看看复原的部分。",
+            "chinese": "—啊啊啊，为什么这些人这么喜欢用录音纸文件啊。\\n\n—又找到什么了？纸质文件的复原步骤可是很考究的，认真点。\\n\n—就算你这么说，不行了，休息一下。\\n\n—好吧，我来看看复原的部分。",
             "chineseTraditional": "—啊啊啊，為什麼這些人這麼喜歡用錄音紙文件啊！\\n\r\n—又找到什麼了？紙質文獻的復原步驟可是很考究的，認真點。 \\n\r\n—就算你這麼說，不行了，我休息一下。 \\n\r\n—好吧，我先看看已復原的部分。",
             "english": "-- Ahhhh, why do these people like to use audio paper files so much? \\n\r\n-- What did you find again? The recovery procedure for paper files are very delicate, so be careful. \\n\r\n-- Even if you say so …, never mind, I’ll take a break. \\n\r\n-- All right, I’ll have a look at the restore section.",
             "japanese": "—あああ、どうしてこいつらそんなに録音の書面ファイルを好んでいるんだよ。\\n\r\n—また何か見つけた？書面ファイルの復元作業は結構煩雑だから、真剣にやろう。\\n\r\n—そう言われても...だめだ、休憩に入る。\\n\r\n—いいよ、私が復元した部分を見てみるよ。",
@@ -12179,7 +12417,7 @@
           "category": "souvenir",
           "content": {
             "code": "",
-            "chinese": "监听记录——4月3日12：20\\n\r\n地点：某处餐厅的包间\\n\r\n注释：开头出现卡片落地的声音，自此以后，人声响度锐减。\\n\r\n对话内容1：\\n\r\n伯尼丝：我很惊讶你会同意见我。\\n\r\n克劳尔：在此之前，把你的包借我一下。\\n\r\n伯尼丝：怎么了？这是，港区发的身份卡？\\n\r\n克劳尔：这类窃听器，会发出一种节奏很特殊的超声波，仪器一测就知道。\\n\r\n伯尼丝：没想到他还有这手段。\\n\r\n克劳尔：搞偷渡，自然要谨慎些。你和艾尔帕克是老朋友，我也不介意你告诉他，忘忧宫的秘密，我解开了。\\n\r\n伯尼丝：只凭这些资料？\\n\r\n克劳尔：当然不止。\\n\r\n伯尼丝：所以结论呢。\\n\r\n克劳尔：你的判断是正确的，忘忧宫外围很可能是一层没有实体的防护壁。",
+            "chinese": "监听记录——4月3日12：20\\n\n地点：某处餐厅的包间\\n\n注释：开头出现卡片落地的声音，自此以后，人声响度锐减。\\n\n对话内容1：\\n\n伯尼丝：我很惊讶你会同意见我。\\n\n克劳尔：在此之前，把你的包借我一下。\\n\n伯尼丝：怎么了？这是，港区发的身份卡？\\n\n克劳尔：这类窃听器，会发出一种节奏很特殊的超声波，仪器一测就知道。\\n\n伯尼丝：没想到他还有这手段。\\n\n克劳尔：搞偷渡，自然要谨慎些。你和艾尔帕克是老朋友，我也不介意你告诉他，忘忧宫的秘密，我解开了。\\n\n伯尼丝：只凭这些资料？\\n\n克劳尔：当然不止。\\n\n伯尼丝：所以结论呢。\\n\n克劳尔：你的判断是正确的，忘忧宫外围很可能是一层没有实体的防护壁。",
             "chineseTraditional": "監聽記錄——4月3日12：20\\n\n地點：某處餐廳的包間\\n\n註釋：開頭出現卡片掉落的聲音，之後，人聲響度銳減。 \\n\n對話內容1：\\n\nBernice：「我很驚訝你會同意見我。」 \\n\n克勞爾：「在此之前，把你的包借我一下。」 \\n\nBernice：「怎麼了？這是，港區發的身份證？ 」\\n\n克勞爾：「這類竊聽器，會發出一種節奏很特殊的超聲波，儀器一測就知道。」 \\n\nBernice：「沒想到他還有這手段。」 \\n\n克勞爾：「搞偷渡，自然要謹慎些。你和Erapeter是老朋友，我也不介意你告訴他，忘憂宮的秘密，我解開了。」 \\n\nBernice：「只憑這些資料？」 \\n\n克勞爾：「當然不止。」 \\n\nBernice：「所以結論呢。」 \\n\n克勞爾：「你的判斷是正確的，忘憂宮外圍很可能是一層沒有實體的防護壁。」",
             "english": "Monitoring record - April 3, 12:20\\n\nLocation: A private room in some restaurant\\n\nNote: The sound of a card falling to the ground appeared at the beginning. From then, the human voice has sharply decreased in volume. \\n\nConversation 1: \\n\nBernice: I'm surprised you'd agree to see me. \\n\nCrowell: Before that, lend me your bag for a moment. \\n\nBernice: What's wrong? Is this, the identity card issued by the port? \\n\nCrowell: This type of wiretap, emits a very specific rhythm of ultrasound. It’s immediately detectable by instrument. \\n\nBernice: I didn't expect him to have this trick. \\n\nCrowell: Engaging in smuggling, naturally, you have to be more cautious. You and Erapeter are old friends, and I don't mind if you tell him, that I have solved the secret of Lotos. \\n\nBernice: With only this information? \\n\nCrowell: More than that, of course. \\n\nBernice: So what’s the conclusion?\\n\nCrowell: You are right. The outer perimeter of Lotos is likely a protective wall with no solid form.",
             "japanese": "盗聴記録——4月3日12：20\\n\n場所：とあるレストランの個室\\n\n注釈：序盤にカードが地面に落ちる音がしてから、人声の響きがが著しく弱くなった。\\n\n対話内容1：\\n\nべルネス：あなたが面会を同意したことに驚いたよ。\\n\nクロール：その前に、ちょっとそのカバン貸して。\\n\nべルネス：どうしたの？これは、港が配った身分証明カード？\\n\nクロール：この類の盗聴器はある特殊なリズムをした超音波を発する、機械で測定すればすぐわかる。\\n\nべルネス：この手があったとは。\\n\nクロール：密航というのは当然慎重にやらないといけない。君はエルパックとは長い付き合いだ、だからそいつに話しても別に構わない。俺はロートスの秘密を解き明かした。\\n\nべルネス：これらの資料だけで？\\n\nクロール：もちろん違う。\\n\nべルネス：で、結論は？\\n\nクロール：君の判断は正しかった、ロートスの外には実体のない防護壁がある可能性が非常に高い。",
@@ -12377,7 +12615,2337 @@
       "endIndex": 20011,
       "excludedFiles": [],
       "cover": "Assets/Tracks/#ChapterCover/SideStory2.png",
-      "files": [],
+      "files": [
+        {
+          "key": "zhixian20",
+          "subIndex": 1,
+          "getSong": 20006,
+          "name": {
+            "code": "",
+            "chinese": "旁白：造主",
+            "chineseTraditional": "",
+            "english": "",
+            "japanese": "",
+            "korean": ""
+          },
+          "date": "771/08/31",
+          "supervisor": {
+            "code": "",
+            "chinese": "旁观者",
+            "chineseTraditional": "",
+            "english": "",
+            "japanese": "",
+            "korean": ""
+          },
+          "category": "main",
+          "content": {
+            "code": "",
+            "chinese": "马蛩蛩，车隆隆，\\n\n宇宙伊始，谁在敲钟。\\n\n层云粉饰，枝节凌空；\\n\n聚爆原点，最似无穷；\\n\n蔓织华盖，晖照曦东。\\n\n马蛩蛩，车隆隆，\\n\n宇宙伊始，谁在敲钟。\\n",
+            "chineseTraditional": "",
+            "english": "",
+            "japanese": "",
+            "korean": ""
+          },
+          "properties": {
+            "code": "",
+            "chinese": "",
+            "chineseTraditional": "",
+            "english": "",
+            "japanese": "",
+            "korean": "\r"
+          }
+        },
+        {
+          "key": "zhixian21",
+          "subIndex": 1,
+          "getSong": 20007,
+          "name": {
+            "code": "",
+            "chinese": "旁白：心魔",
+            "chineseTraditional": "",
+            "english": "",
+            "japanese": "",
+            "korean": ""
+          },
+          "date": "771/08/31",
+          "supervisor": {
+            "code": "",
+            "chinese": "旁观者",
+            "chineseTraditional": "",
+            "english": "",
+            "japanese": "",
+            "korean": ""
+          },
+          "category": "main",
+          "content": {
+            "code": "",
+            "chinese": "年年岁岁，岁岁年年，\\n\n撵黏新柴杵碎穗，遂绥旧人忆廿秊。\\n\n真真假假，假假真真，\\n\n镇阵甘泉灌佳稼，夹岬苦海道鸩珍。\\n",
+            "chineseTraditional": "",
+            "english": "",
+            "japanese": "",
+            "korean": ""
+          },
+          "properties": {
+            "code": "",
+            "chinese": "",
+            "chineseTraditional": "",
+            "english": "",
+            "japanese": "",
+            "korean": "\r"
+          }
+        },
+        {
+          "key": "zhixian22",
+          "subIndex": 1,
+          "getSong": 20008,
+          "name": {
+            "code": "",
+            "chinese": "旁白：未来",
+            "chineseTraditional": "",
+            "english": "",
+            "japanese": "",
+            "korean": ""
+          },
+          "date": "771/08/31",
+          "supervisor": {
+            "code": "",
+            "chinese": "旁观者",
+            "chineseTraditional": "",
+            "english": "",
+            "japanese": "",
+            "korean": ""
+          },
+          "category": "main",
+          "content": {
+            "code": "",
+            "chinese": "兢兢业业，\\n\n造无生无灭之迷舟，\\n\n坎坎坷坷，\\n\n集万众万心之望景，\\n\n邀她话语，\\n\n踏无垠无尽之银河，\\n\n圆我梦境，\\n\n寻万宙万象之明星。\\n",
+            "chineseTraditional": "",
+            "english": "",
+            "japanese": "",
+            "korean": ""
+          },
+          "properties": {
+            "code": "",
+            "chinese": "",
+            "chineseTraditional": "",
+            "english": "",
+            "japanese": "",
+            "korean": "\r"
+          }
+        },
+        {
+          "key": "zhixian24",
+          "subIndex": 1,
+          "getSong": 20010,
+          "name": {
+            "code": "",
+            "chinese": "旁白：黎明",
+            "chineseTraditional": "",
+            "english": "",
+            "japanese": "",
+            "korean": ""
+          },
+          "date": "771/08/31",
+          "supervisor": {
+            "code": "",
+            "chinese": "旁观者",
+            "chineseTraditional": "",
+            "english": "",
+            "japanese": "",
+            "korean": ""
+          },
+          "category": "main",
+          "content": {
+            "code": "",
+            "chinese": "独行的夜晚，\\n\n渡鸦悲啼着硝烟\\n\n弥漫的战场，\\n\n废墟倾斜的尘土\\n\n升起玫紫邪焰。\\n\n战士暮年，\\n\n孤心竭虑，\\n\n半步阑珊，\\n\n只手何处\\n\n黎明。\\n",
+            "chineseTraditional": "",
+            "english": "",
+            "japanese": "",
+            "korean": ""
+          },
+          "properties": {
+            "code": "",
+            "chinese": "",
+            "chineseTraditional": "",
+            "english": "",
+            "japanese": "",
+            "korean": "\r"
+          }
+        },
+        {
+          "key": "jiezuodedansheng",
+          "subIndex": 1,
+          "getSong": 20006,
+          "name": {
+            "code": "",
+            "chinese": "评《杰作的诞生》",
+            "chineseTraditional": "",
+            "english": "",
+            "japanese": "",
+            "korean": ""
+          },
+          "date": "770/06/21",
+          "supervisor": {
+            "code": "",
+            "chinese": "艾达",
+            "chineseTraditional": "",
+            "english": "",
+            "japanese": "",
+            "korean": ""
+          },
+          "category": "souvenir",
+          "content": {
+            "code": "",
+            "chinese": "“一个青年人，废寝忘食，掏空心思，只为创作天下独一无二的杰作。”\\n\n这本书的开头，如此写道。\\n\n我们总说，大众的才是宏大的，群体的才是永恒的。个人的力量微小，不足以生成事物的一鳞一羽，个体的视角片面，不遂人意的造物畸形丑陋。“人”已无用，“人群”真理，早已成为社会的共识，但放眼整个像素塔，仍有那么一些人，挑战着世俗公理。\\n\n他们追求的，在现实之外，幻想之中，是未完善，不完美的存在，但又是活生生，灵动的现实物。人群总是质疑道，不完善何为现实物，本书到结局也没正面回答，甚至书中主角志向受挫，选择了放弃。但实际上，作者用故事本身回答了这个问题。\\n\n“我可以大胆地说，完美是个伪概念。我们总是奢求像素塔的一切都是完美的，是客体的，然而我们看到，听到，感受的，都是我们渴望的，主观人化的现实。在你们眼里，她从未存在过，但对于我来说，她一直在，在田间沟渠，在烟火小巷，在你我身边。”\\n",
+            "chineseTraditional": "",
+            "english": "",
+            "japanese": "",
+            "korean": ""
+          },
+          "properties": {
+            "code": "",
+            "chinese": "",
+            "chineseTraditional": "",
+            "english": "",
+            "japanese": "",
+            "korean": "\r"
+          }
+        },
+        {
+          "key": "Mshiguangdefx",
+          "subIndex": 1,
+          "getSong": 20007,
+          "name": {
+            "code": "",
+            "chinese": "【影像】时光的废墟",
+            "chineseTraditional": "",
+            "english": "",
+            "japanese": "",
+            "korean": ""
+          },
+          "date": "743/04/05",
+          "supervisor": {
+            "code": "",
+            "chinese": "鸠",
+            "chineseTraditional": "",
+            "english": "",
+            "japanese": "",
+            "korean": ""
+          },
+          "category": "souvenir",
+          "content": {
+            "code": "",
+            "chinese": "随着调查进度的推进，我的心中已蒙上一抹诡异的色调。时光流过无水的河床，头顶的宇宙漆黑若空洞，星星的光芒淹没在克劳尔的手电中。他踩在岩石上，指向远处薄雾掩没的方向，白砂拖痕的尽头是搁浅的巨轮。\\n\n调查队创立的第三天，我们按照方舟一号航行日志，来到名为黄昏基地的人造星球。这是虹之战地古战场，战火和毁灭性武器的打击下，曾经遍布在这大地上的恶行，已随着战争的结束散如云烟。现在的这里，除了海水和白沙滩，只有那艘不知何时搁浅的太空巨轮，阻滞着基地的空气流动。\\n\n起风了，克劳尔凝视空气中浮起的灰尘：“建造者的影响还在，那艘巨轮不断污染着周围的环境，原本的黄昏基地可没有海洋。”\\n\n“一切的答案，领航员都知道。”\\n\n“什么？”\\n\n“没什么，建造者的呢喃，扰人心烦的东西。引发污染的源头异想——方舟领航员还在船中。”\\n\n克劳尔没有五官的塑胶脸上，清扬起几朵涟漪。AI不受异想污染的影响，想要理解人类的观感，还要多运行几个程序。\\n\n我笑了：“去找她吧。”\\n",
+            "chineseTraditional": "",
+            "english": "",
+            "japanese": "",
+            "korean": ""
+          },
+          "properties": {
+            "code": "",
+            "chinese": "",
+            "chineseTraditional": "",
+            "english": "",
+            "japanese": "",
+            "korean": "\r"
+          }
+        },
+        {
+          "key": "Mhana",
+          "subIndex": 1,
+          "getSong": 20007,
+          "name": {
+            "code": "",
+            "chinese": "【影像】哈娜",
+            "chineseTraditional": "",
+            "english": "",
+            "japanese": "",
+            "korean": ""
+          },
+          "date": "743/04/05",
+          "supervisor": {
+            "code": "",
+            "chinese": "克劳尔",
+            "chineseTraditional": "",
+            "english": "",
+            "japanese": "",
+            "korean": ""
+          },
+          "category": "souvenir",
+          "content": {
+            "code": "",
+            "chinese": "【那边坐在地上摆弄模型的生物，约是十三四岁的人类少女，柔软的白发齐肩，但就分析结果而言，发丝的材料是发白的塑料丝，非自然光照下，可能呈现任何颜色，我猜测该设计具有特殊的生物功能，如果有机会的话——】\\n\n弭儿：你想解剖我？\\n\n克劳尔：组织切片，不需要解剖。\\n\n鸠：她会读心哎。\\n\n弭儿：你要这么想，也行。\\n\n【这是异想吗，为何感觉在和一位有自我意识的个体交流？】\\n\n鸠：你想离开这里吗？\\n\n弭儿：你是认真的。\\n\n克劳尔：钻石姬探员，我不建议你这么做。\\n\n鸠：正义探员，你也去学学读心吧。\\n\n【是我学不会吗，是我的接口不允许。】\\n\n弭儿：按照你想的，也不是不行。\\n\n鸠：欢迎加入统一治理管理局！你可得好好教你这位前辈啊，你说是不是，正义探员？\\n\n【我讨厌谜语人。】\\n",
+            "chineseTraditional": "",
+            "english": "",
+            "japanese": "",
+            "korean": ""
+          },
+          "properties": {
+            "code": "",
+            "chinese": "",
+            "chineseTraditional": "",
+            "english": "",
+            "japanese": "",
+            "korean": "\r"
+          }
+        },
+        {
+          "key": "xintudoudeyongsheng",
+          "subIndex": 1,
+          "getSong": 20008,
+          "name": {
+            "code": "",
+            "chinese": "致信：土星系统无法注册与故障问题",
+            "chineseTraditional": "",
+            "english": "",
+            "japanese": "",
+            "korean": ""
+          },
+          "date": "771/08/22",
+          "supervisor": {
+            "code": "",
+            "chinese": "克劳尔",
+            "chineseTraditional": "",
+            "english": "",
+            "japanese": "",
+            "korean": ""
+          },
+          "category": "main",
+          "content": {
+            "code": "",
+            "chinese": "社区维护管理员您好。\\n\n我是最近获得土星登录权限的一名林泊，设备编号00000201，塔内位置方舟塔，获得位置阿特拉斯。\\n\n尝试注册贵平台的时候，贵平台提醒我“检查到异想污染，请重试”，我对此非常不解。就我所知，异想污染是未成形的异想，又或者是异想散发出来的模因影响。受到污染的居民一旦重生，异象污染就会消除，因此我认为我是不存在这种情况的。\\n\n暂时不注册也没什么损失，我也就没第一时间联系你们，但是今天早上九点，我并未访问贵平台，你们的危险操作提醒不停弹出到我的视觉界面，最后还取消了我临时访问林泊百科的权限，请问又是怎么一回事呢。\\n\n无法访问百科资源，已经严重影响到我的日常生活，希望贵社区能早日给我回复。\\n\n来信者 纳贝流士\\n",
+            "chineseTraditional": "",
+            "english": "",
+            "japanese": "",
+            "korean": ""
+          },
+          "properties": {
+            "code": "",
+            "chinese": "",
+            "chineseTraditional": "",
+            "english": "",
+            "japanese": "",
+            "korean": "\r"
+          }
+        },
+        {
+          "key": "Ychuanjiangwa",
+          "subIndex": 1,
+          "getSong": 20008,
+          "name": {
+            "code": "",
+            "chinese": "【录音】船桨",
+            "chineseTraditional": "",
+            "english": "",
+            "japanese": "",
+            "korean": ""
+          },
+          "date": "771/08/23",
+          "supervisor": {
+            "code": "",
+            "chinese": "纳贝流士",
+            "chineseTraditional": "",
+            "english": "",
+            "japanese": "",
+            "korean": ""
+          },
+          "category": "main",
+          "content": {
+            "code": "",
+            "chinese": "方舟一号的发掘工作已接近尾声，方舟领航员弭儿与异想文学顾问纳贝流士，曾于文物陈列室进行过如下的对话。\n“还没研究出个所以然吗。”\n“没有，百科权限又没了，查资料也做不到，还是老原因。”\n“你还是去情报部看看吧，民用污染检测仪不准。”\n“我可没有自投罗网的兴趣。”\n“哦，是吗。”",
+            "chineseTraditional": "",
+            "english": "",
+            "japanese": "",
+            "korean": ""
+          },
+          "properties": {
+            "code": "",
+            "chinese": "",
+            "chineseTraditional": "",
+            "english": "",
+            "japanese": "",
+            "korean": "\r"
+          }
+        },
+        {
+          "key": "Ychuanjiangwa",
+          "subIndex": 2,
+          "getSong": 20008,
+          "name": {
+            "code": "",
+            "chinese": "【录音】船桨·线索一",
+            "chineseTraditional": "",
+            "english": "",
+            "japanese": "",
+            "korean": ""
+          },
+          "date": "771/08/23",
+          "supervisor": {
+            "code": "",
+            "chinese": "纳贝流士",
+            "chineseTraditional": "",
+            "english": "",
+            "japanese": "",
+            "korean": ""
+          },
+          "category": "souvenir",
+          "content": {
+            "code": "",
+            "chinese": "【林泊百科】：方舟一号是一艘拥有现实2090年科技水平的宇宙飞船，计划建设于塔历五世纪，实际投入航行时间为六百七十三年，它的航行也象征着新生纪的开始。后期调查中发现，方舟一号的整体结构和零部件设计完全符合物理模型模拟，可在林泊现实中复刻。据《方舟一号开发记录4601232》显示：“这次力学模拟借用了彼岸的运算资源，因此整体可行性还需要两到三个月才能得出。”可见方舟一号的设计并非人类主观臆想，而是有充分的现实基础的。",
+            "chineseTraditional": "",
+            "english": "",
+            "japanese": "",
+            "korean": ""
+          },
+          "properties": {
+            "code": "",
+            "chinese": "",
+            "chineseTraditional": "",
+            "english": "",
+            "japanese": "",
+            "korean": "\r"
+          }
+        },
+        {
+          "key": "Ychuanjiangwa",
+          "subIndex": 3,
+          "getSong": 20008,
+          "name": {
+            "code": "",
+            "chinese": "【录音】船桨·线索二",
+            "chineseTraditional": "",
+            "english": "",
+            "japanese": "",
+            "korean": ""
+          },
+          "date": "771/08/23",
+          "supervisor": {
+            "code": "",
+            "chinese": "纳贝流士",
+            "chineseTraditional": "",
+            "english": "",
+            "japanese": "",
+            "korean": ""
+          },
+          "category": "souvenir",
+          "content": {
+            "code": "",
+            "chinese": "【林泊百科】：就最新的废墟发掘资料可知，方舟一号的两侧分别配有三排三百八十四只主船桨，加上尾桨、辅助桨等一共七百七十三只船桨。这便带来了两个疑问，一个是设计者为何要为宇宙飞船设计古老帆船的船桨动力系统，二是为何又是七百七十三这个数字。\\n\n第一个问题，研究者们始终未找到答案，第二个问题，却如达摩克里斯之剑，悬置在像素塔的顶端。七百七十一年，幽蓝边界不断上移的纷乱纪，七百七十三这个数字，频繁出现在各大追忆活动中。不仅是方舟一号的船桨，还有二代地表挖掘出的石板，TZB解密的初始人员名单等等。《流浪人》中写道：“像素塔一年有三百七十七天，这一违背现实的设计，也让其付出了巨大的代价。像素塔的预计运行期限大大缩短，变为正好镜像的数字，七百七十三年。”我们仍未知，这只有作者的虚构，还是真有其事。若《流浪人》的记录皆属实，那么我们可能要做好离开像素塔的准备了。\\n",
+            "chineseTraditional": "",
+            "english": "",
+            "japanese": "",
+            "korean": ""
+          },
+          "properties": {
+            "code": "",
+            "chinese": "",
+            "chineseTraditional": "",
+            "english": "",
+            "japanese": "",
+            "korean": "\r"
+          }
+        },
+        {
+          "key": "liuqidashengli",
+          "subIndex": 1,
+          "getSong": 20009,
+          "name": {
+            "code": "",
+            "chinese": "PhigrOS记录：路星67大胜利（￣︶￣）↗",
+            "chineseTraditional": "",
+            "english": "",
+            "japanese": "",
+            "korean": ""
+          },
+          "date": "771/08/23",
+          "supervisor": {
+            "code": "",
+            "chinese": "Fuli",
+            "chineseTraditional": "",
+            "english": "",
+            "japanese": "",
+            "korean": ""
+          },
+          "category": "souvenir",
+          "content": {
+            "code": "",
+            "chinese": "[摇摇车主播已加入群聊飞行棋研讨会]\\n\n美食评论家在线翻车：晚上好！欢迎新成员！\\n\n摇摇车主播：晚上好，这里是摇摇车主播\\n\n灋辘轳：你是？\\n\n摇摇车主播：你是？\\n\n灋辘轳：弭儿探员，是你黑的“忘忧宫”终端吧。\\n\n摇摇车主播：啧，真敏锐啊，克劳尔\\n\n灋辘轳：投诉信又来了，我先去处理一下\\n\n度假勿扰：这个群也热闹起来了\\n\n美食评论家在线翻车：是啊，是啊\\n\n摇摇车主播：我们群为什么叫飞行棋研讨会？\\n\n度假勿扰：因为只有四个人，所以叫飞行棋研讨会\\n\n摇摇车主播：那为什么不叫麻将研讨会\\n\n度假勿扰：因为真有麻将研讨会\\n\n美食评论家在线翻车：因为真有麻将研讨会\\n\n灋辘轳：因为真有麻将研讨会\\n\n摇摇车主播：[疑惑]那这个群是干什么的？\\n\n度假勿扰：部门群，虽然部门已经解散了\\n\n美食评论家在线翻车：对哦，把Gino拉进来怎么样？\\n\n度假勿扰：没问题！\\n\n[是谁世界末日还在还车贷已加入群聊飞行棋研讨会]\\n\n[是谁世界末日还在还车贷已修改群昵称为无关路人吉诺]\\n\n无关路人吉诺：这是什么群？\\n\n美食评论家在线翻车：之前不是说PhigrOS现在不给建群了，Align大赛需要个联络器吗，正好这里人齐了，就不单独架设啦~\\n\n[无关路人吉诺已修改群昵称为驾驶员吉诺]\\n\n驾驶员吉诺：[奋斗]了解\\n\n[美食评论家在线翻车已修改群昵称为领航员鸠]\\n\n[领航员鸠已修改群名为路星67大胜利（￣︶￣）↗　]\\n",
+            "chineseTraditional": "",
+            "english": "",
+            "japanese": "",
+            "korean": ""
+          },
+          "properties": {
+            "code": "",
+            "chinese": "",
+            "chineseTraditional": "",
+            "english": "",
+            "japanese": "",
+            "korean": "\r"
+          }
+        },
+        {
+          "key": "liuqidashengli",
+          "subIndex": 2,
+          "getSong": 20009,
+          "name": {
+            "code": "",
+            "chinese": "PhigrOS记录：路星67大胜利（￣︶￣）↗·线索一",
+            "chineseTraditional": "",
+            "english": "",
+            "japanese": "",
+            "korean": ""
+          },
+          "date": "771/08/23",
+          "supervisor": {
+            "code": "",
+            "chinese": "Fuli",
+            "chineseTraditional": "",
+            "english": "",
+            "japanese": "",
+            "korean": ""
+          },
+          "category": "souvenir",
+          "content": {
+            "code": "",
+            "chinese": "3月32日\\n\n[出差中已退出群聊飞行棋研讨会]\\n\n[克劳尔已加入群聊飞行棋研讨会]\\n\n度假勿扰：?\\n\n克劳尔：冰封层楼层守护谢鸣已下线，善后工作将由本行政AI——“正义”接管。\\n\n度假勿扰：无语凝咽.jpg\\n\n[克劳尔已修改群昵称为灋辘轳]\\n\n度假勿扰：什么饲养员行为？\\n\n灋辘轳：[伪装]\\n\n度假勿扰：好吧，灋辘轳，你说的撤退工作和之前的公告有关吗？\\n\n度假勿扰：「紧急通告：即日起关闭港湾至冰封的所有穿梭线路，恢复日期待定。请滞留人员即刻撤离，如有特殊情况，请及时联系下述救援电话：320-1100-0911-5。」 \\n\n灋辘轳：是的，您发的是TZB确认像素塔即将关闭后，立即编写的全塔通知。楼层守护的内部通知如下：\\n\n灋辘轳：下四层预计于9月20日被幽蓝边界完全吞噬，但就目前的亚空间逃逸程度，极有可能提前至八月份，请各位楼层守护做好协助居民撤离的准备，相关流程详见《楼层守护操作手册》第七百六十一条至第八百八十二条。\\n\n度假勿扰：等等，你们这个内部通知，所有楼层守护都收到了吗？\\n\n灋辘轳：此前已单独发送给“编辑器”谢鸣，其余仍处于无人查收的状态。如果您能联系“钻石姬”、“忘忧宫”，请尽快通知他们。据我所知这两位都不在当地，如果您能联系到代理人也是可以的。\\n\n度假勿扰：我联系不上，这是你们的工作，再说小贝呢。\\n\n灋辘轳：很遗憾，阿特拉斯和霓虹的代理人都不在记录当中。唯一有权限查看守护日志，并且与你们一直联络的“死神”阁下，目前因算力不足，暂时退出像素塔的管理。\\n\n度假勿扰：我是说，现实里讲一声不就好了，那俩人都在首都哎。\\n\n灋辘轳：你应该知道，行政AI表面上对PhigrOS计划一无所知的，对吧。\\n\n度假勿扰：打扰了。\\n",
+            "chineseTraditional": "",
+            "english": "",
+            "japanese": "",
+            "korean": ""
+          },
+          "properties": {
+            "code": "",
+            "chinese": "",
+            "chineseTraditional": "",
+            "english": "",
+            "japanese": "",
+            "korean": "\r"
+          }
+        },
+        {
+          "key": "liuqidashengli",
+          "subIndex": 3,
+          "getSong": 20009,
+          "name": {
+            "code": "",
+            "chinese": "PhigrOS记录：路星67大胜利（￣︶￣）↗·线索二",
+            "chineseTraditional": "",
+            "english": "",
+            "japanese": "",
+            "korean": ""
+          },
+          "date": "771/08/23",
+          "supervisor": {
+            "code": "",
+            "chinese": "Fuli",
+            "chineseTraditional": "",
+            "english": "",
+            "japanese": "",
+            "korean": ""
+          },
+          "category": "souvenir",
+          "content": {
+            "code": "",
+            "chinese": "4月6日\\n\n度假勿扰：本来撤退工作都结束了，突然来了俩人。\\n\n灋辘轳：具体发生了什么呢。\\n\n度假勿扰：说是从冰封层上来的，你们不是检查过了吗，怎么还有人在下面？\\n\n灋辘轳：实际上，我们只强制召回了非林泊用户。你知道的，林泊总是这个不满，那个不爽的。\\n\n度假勿扰：好吧，我再看看。\\n\n4月7日\\n\n度假勿扰：他们似乎是刚觉醒的林泊，一个上面楼层的门牌都没保存，你们临时开一下班车吧。\\n\n灋辘轳：好的，即将开通巢栖道站到港湾的旅行专线，确定是这条吗。\\n\n度假勿扰：没错。\\n",
+            "chineseTraditional": "",
+            "english": "",
+            "japanese": "",
+            "korean": ""
+          },
+          "properties": {
+            "code": "",
+            "chinese": "",
+            "chineseTraditional": "",
+            "english": "",
+            "japanese": "",
+            "korean": "\r"
+          }
+        },
+        {
+          "key": "liuqidashengli",
+          "subIndex": 4,
+          "getSong": 20009,
+          "name": {
+            "code": "",
+            "chinese": "PhigrOS记录：路星67大胜利（￣︶￣）↗·线索三",
+            "chineseTraditional": "",
+            "english": "",
+            "japanese": "",
+            "korean": ""
+          },
+          "date": "771/08/23",
+          "supervisor": {
+            "code": "",
+            "chinese": "Fuli",
+            "chineseTraditional": "",
+            "english": "",
+            "japanese": "",
+            "korean": ""
+          },
+          "category": "souvenir",
+          "content": {
+            "code": "",
+            "chinese": "7月9日\\n\n美食评论家在线翻车：哈喽，哈喽，有人在吗！这个群是干什么的啊！\\n\n美食评论家在线翻车：有人在吗！有人在吗！哈喽！哈喽！\\n\n度假勿扰：你吼嘛啊吼！会看群名不会！\\n\n美食评论家在线翻车：会啊，可我也不玩儿飞行棋啊！\\n\n度假勿扰：坏了，前统领失忆了\\n\n灋辘轳：看来是这样的。\\n\n度假勿扰：@美食评论家在线翻车，你翻记录！\\n\n美食评论家在线翻车：哦！原来如此！那个《楼层守护操作手册》在哪里啊！我找不到啊啊啊！\\n\n度假勿扰：你在霓虹嘛！问问你的代理人！\\n\n美食评论家在线翻车：在啊！他没了！刚没的！\\n\n度假勿扰：OO！\\n",
+            "chineseTraditional": "",
+            "english": "",
+            "japanese": "",
+            "korean": ""
+          },
+          "properties": {
+            "code": "",
+            "chinese": "",
+            "chineseTraditional": "",
+            "english": "",
+            "japanese": "",
+            "korean": "\r"
+          }
+        },
+        {
+          "key": "liuqidashengli",
+          "subIndex": 5,
+          "getSong": 20009,
+          "name": {
+            "code": "",
+            "chinese": "PhigrOS记录：路星67大胜利（￣︶￣）↗·线索四",
+            "chineseTraditional": "",
+            "english": "",
+            "japanese": "",
+            "korean": ""
+          },
+          "date": "771/08/23",
+          "supervisor": {
+            "code": "",
+            "chinese": "Fuli",
+            "chineseTraditional": "",
+            "english": "",
+            "japanese": "",
+            "korean": ""
+          },
+          "category": "souvenir",
+          "content": {
+            "code": "",
+            "chinese": "8月1日\\n\n美食评论家在线翻车：我现在比较纠结，要不要告诉吉诺，其实我就是楼层守护\\n\n度假勿扰：说说说，赶紧说，你犹豫的时间，幽蓝边界都跑两圈了\\n\n美食评论家在线翻车：但是吧，尊师这些事，也不是咕咕干的啊\\n\n美食评论家在线翻车：反正要待到边界到达前最后一刻，最后再告诉他也没问题吧\\n\n度假勿扰：我总觉得，这一幕很眼熟。\\n\n灋辘轳：我也觉得。\\n\n8月29日\\n\n度假勿扰：钻石姬！霓虹的异想是不是你放出来的！\\n\n度假勿扰：你OO的，你OO吧！\\n\n灋辘轳：用户正在重生中，等igallta那边的消息吧。\\n\n8月31日\\n\n美食评论家在线翻车：朋友们！来到港湾最高点，重生管理处！天呐，好多蓝发大姐姐！\\n\n度假勿扰：她还怪高兴的。\\n\n灋辘轳：不吃教训。\\n \\n【弭刻日】未完待续",
+            "chineseTraditional": "",
+            "english": "",
+            "japanese": "",
+            "korean": ""
+          },
+          "properties": {
+            "code": "",
+            "chinese": "",
+            "chineseTraditional": "",
+            "english": "",
+            "japanese": "",
+            "korean": "\r"
+          }
+        }
+      ],
+      "fakeCoverFlag": "",
+      "fakeCoverCode": "",
+      "fakeCoverBlurCode": "",
+      "allNum": 0
+    },
+    {
+      "title": {
+        "code": "",
+        "chinese": "盗乐行",
+        "chineseTraditional": "盜樂行",
+        "english": "Operthief",
+        "japanese": "盗楽行",
+        "korean": "음적"
+      },
+      "subTitle": {
+        "code": "",
+        "chinese": "支线章节三",
+        "chineseTraditional": "支線章節三",
+        "english": "Side story 3",
+        "japanese": "サイドチャプター 3",
+        "korean": "사이드 스토리 3"
+      },
+      "startIndex": 20012,
+      "endIndex": 20016,
+      "excludedFiles": [],
+      "cover": "Assets/Tracks/#ChapterCover/SideStory3.png",
+      "files": [
+        {
+          "key": "thiefmoon",
+          "subIndex": 1,
+          "getSong": 20012,
+          "name": {
+            "code": "",
+            "chinese": "《盗月行》调查报告",
+            "chineseTraditional": "",
+            "english": "",
+            "japanese": "",
+            "korean": ""
+          },
+          "date": "674/02/23",
+          "supervisor": {
+            "code": "",
+            "chinese": "碎数研",
+            "chineseTraditional": "",
+            "english": "",
+            "japanese": "",
+            "korean": ""
+          },
+          "category": "main",
+          "content": {
+            "code": "",
+            "chinese": "自宣布展开对调音怪盗的调查以来，本组收到了251460件热心市民邮寄的收集品投稿，其中78%的收集位置为律动星首都Khalid，9%采自港湾巨人堤道，其余零零总总分布在霓虹、二代地表等地。这些收集品有的是记录调音怪盗的文字、录音、图片、视频，有的则是被调音怪盗修理过的物品，后者直接记录了怪盗的行踪，也为本次调查工作提供了坚定的基石。\\n\n…………\\n\n最后需要感谢“不愿透露名字的TZB”的大力支持，虽然很可惜，该市民捐赠的《673:律动星盗乐行事件 亚空间副本》压缩格式错误，本所至今没能打开。但是TZB盗取基站数据的勇气可嘉，贯彻了破碎数据研究组“能偷绝不挖”的先进理念，值得所有碎数研同好学习。\\n\n大型调查《盗月行》已完美结束，感谢参与，各位辛苦！我们下次再见！\\n\n附件：档案整合文件\\n",
+            "chineseTraditional": "",
+            "english": "",
+            "japanese": "",
+            "korean": ""
+          },
+          "properties": {
+            "code": "",
+            "chinese": "碎数研编号=327-9-002",
+            "chineseTraditional": "",
+            "english": "",
+            "japanese": "",
+            "korean": "\r"
+          }
+        },
+        {
+          "key": "zhixian31",
+          "subIndex": 1,
+          "getSong": 20013,
+          "name": {
+            "code": "",
+            "chinese": "旁白：流言",
+            "chineseTraditional": "",
+            "english": "",
+            "japanese": "",
+            "korean": ""
+          },
+          "date": "673/07/30",
+          "supervisor": {
+            "code": "",
+            "chinese": "旁观者",
+            "chineseTraditional": "",
+            "english": "",
+            "japanese": "",
+            "korean": ""
+          },
+          "category": "main",
+          "content": {
+            "code": "",
+            "chinese": "你听说了吗\\n\n昨夜的鸡鸣\\n\n今早的狗跳\\n\n你听说了吗\\n\n\\n\n你不知道\\n\n街头巷尾\\n\n一片喧哗\\n\n你不知道\\n\n\\n\n我来告诉你\\n\n粉饰的现实\\n\n流言的真相\\n\n我来告诉你\\n",
+            "chineseTraditional": "",
+            "english": "",
+            "japanese": "",
+            "korean": ""
+          },
+          "properties": {
+            "code": "",
+            "chinese": "",
+            "chineseTraditional": "",
+            "english": "",
+            "japanese": "",
+            "korean": "\r"
+          }
+        },
+        {
+          "key": "zhixian33",
+          "subIndex": 1,
+          "getSong": 20014,
+          "name": {
+            "code": "",
+            "chinese": "旁白：怪盗",
+            "chineseTraditional": "",
+            "english": "",
+            "japanese": "",
+            "korean": ""
+          },
+          "date": "673/07/30",
+          "supervisor": {
+            "code": "",
+            "chinese": "旁观者",
+            "chineseTraditional": "",
+            "english": "",
+            "japanese": "",
+            "korean": ""
+          },
+          "category": "main",
+          "content": {
+            "code": "",
+            "chinese": "偷走我吧，调音天狗\\n\n你偷走很多人，为什么不偷走我啊\\n\n我也是白玉的微瑕，地板的尘沙\\n\n我也是秋雨后的暴寒，阴霭天的晚霞\\n\n偷走我吧，调音天狗\\n\n为了让你偷走我，我能付出任何代价\\n\n我能付出妹妹的泪珠，弟弟的恸哭\\n\n我能付出冷却的壁炉，空荡的家\\n\n调音天狗，请听我说话！\\n\n你到底在寻找什么，为什么不回答！",
+            "chineseTraditional": "",
+            "english": "",
+            "japanese": "",
+            "korean": ""
+          },
+          "properties": {
+            "code": "",
+            "chinese": "",
+            "chineseTraditional": "",
+            "english": "",
+            "japanese": "",
+            "korean": "\r"
+          }
+        },
+        {
+          "key": "673shijian",
+          "subIndex": 1,
+          "getSong": 20012,
+          "name": {
+            "code": "",
+            "chinese": "673:律动星盗乐行事件 亚空间副本",
+            "chineseTraditional": "",
+            "english": "",
+            "japanese": "",
+            "korean": ""
+          },
+          "date": "673/08/04",
+          "supervisor": {
+            "code": "",
+            "chinese": "碎数研",
+            "chineseTraditional": "",
+            "english": "",
+            "japanese": "",
+            "korean": ""
+          },
+          "category": "main",
+          "content": {
+            "code": "",
+            "chinese": "【该光盘记录了盗乐行当晚律动星所有发生变化的数据点，但因其文件格式不符合公有传输协议，所以无法被组内设备解析。】\\n\n—这格式是不是有问题，便捷工具没法解压。\\n\n—扒基地后台得到的数据都这样，只能在塔内展开。\\n\n—还得去律动星不成？那地方现在施行准入管制，673年前没有登记过的个体都不能再访问了。\\n",
+            "chineseTraditional": "",
+            "english": "",
+            "japanese": "",
+            "korean": ""
+          },
+          "properties": {
+            "code": "",
+            "chinese": "碎数研编号=327-0-001",
+            "chineseTraditional": "",
+            "english": "",
+            "japanese": "",
+            "korean": "\r"
+          }
+        },
+        {
+          "key": "674shijian",
+          "subIndex": 2,
+          "getSong": 20013,
+          "name": {
+            "code": "",
+            "chinese": "673:律动星盗乐行事件 亚空间副本·线索一",
+            "chineseTraditional": "",
+            "english": "",
+            "japanese": "",
+            "korean": ""
+          },
+          "date": "673/08/06",
+          "supervisor": {
+            "code": "",
+            "chinese": "碎数研",
+            "chineseTraditional": "",
+            "english": "",
+            "japanese": "",
+            "korean": ""
+          },
+          "category": "main",
+          "content": {
+            "code": "",
+            "chinese": "【第一次展开_】\\n\n—感谢您的帮助，这边挖掘工作马上就开始，我的同事说您有一个特别的要求，能具体说说吗？\\n\n—没什么，听说碎数研很会找东西，我朋友的相机那期间丢了，麻烦你们找找。\\n\n—只是相机的话没有问题！还请您提供一下型号和运行log。\\n\n—好的。\\n",
+            "chineseTraditional": "",
+            "english": "",
+            "japanese": "",
+            "korean": ""
+          },
+          "properties": {
+            "code": "",
+            "chinese": "碎数研编号=327-1-001",
+            "chineseTraditional": "",
+            "english": "",
+            "japanese": "",
+            "korean": "\r"
+          }
+        },
+        {
+          "key": "675shijian",
+          "subIndex": 3,
+          "getSong": 20014,
+          "name": {
+            "code": "",
+            "chinese": "673:律动星盗乐行事件 亚空间副本·线索二",
+            "chineseTraditional": "",
+            "english": "",
+            "japanese": "",
+            "korean": ""
+          },
+          "date": "673/09/17",
+          "supervisor": {
+            "code": "",
+            "chinese": "碎数研",
+            "chineseTraditional": "",
+            "english": "",
+            "japanese": "",
+            "korean": ""
+          },
+          "category": "main",
+          "content": {
+            "code": "",
+            "chinese": "【第四次展开_】\\n\n—还没找到吗？\\n\n—几个时间切片都找过了，没发现协助者要的相机。\\n\n—换了四批调查员依然没有发现，不会被副本提供者删除了吧。\\n\n—等等，换个角度思考，我们拿到的是正在修复中的律动星，有没有可能那台相机也是星球的瑕疵呢？\\n",
+            "chineseTraditional": "",
+            "english": "",
+            "japanese": "",
+            "korean": ""
+          },
+          "properties": {
+            "code": "",
+            "chinese": "碎数研编号=327-4-001",
+            "chineseTraditional": "",
+            "english": "",
+            "japanese": "",
+            "korean": "\r"
+          }
+        },
+        {
+          "key": "baoyouyueliang",
+          "subIndex": 1,
+          "getSong": 20012,
+          "name": {
+            "code": "",
+            "chinese": "报道：《相机里的真假月亮》",
+            "chineseTraditional": "",
+            "english": "",
+            "japanese": "",
+            "korean": ""
+          },
+          "date": "664/02/21",
+          "supervisor": {
+            "code": "",
+            "chinese": "碎数研",
+            "chineseTraditional": "",
+            "english": "",
+            "japanese": "",
+            "korean": ""
+          },
+          "category": "souvenir",
+          "content": {
+            "code": "",
+            "chinese": "波提切利二代相机的诞生无疑是一场运动相机爱好者的狂欢，该机搭载的地理信息记录功能被用来增强画质，足以将细节和光影调整到专业相机也无法企及的程度。不过今日有用户反映，该相机在滥用这一功能。\\n\n也许你们曾听说过波提切利二代机拍出过的完美月亮照片，可是有用户发现，如果被拍摄的物品是任何圆形的淡黄色光源，该相机也会把这个光源作为月亮看待，并为其添加月亮表面的纹理。\\n\n【图片：波提切利拍摄的月亮】\\n\n【图片：波提切利拍摄的与月亮重合的圆形路灯】\\n\n我们采访了极限运动家坎风-莱斯波斯，她认为这个功能并不会影响到他，因为他多数情况下都会把相机对准自己。\\n",
+            "chineseTraditional": "",
+            "english": "",
+            "japanese": "",
+            "korean": ""
+          },
+          "properties": {
+            "code": "",
+            "chinese": "",
+            "chineseTraditional": "",
+            "english": "",
+            "japanese": "",
+            "korean": "\r"
+          }
+        },
+        {
+          "key": "xuanlvshisha",
+          "subIndex": 1,
+          "getSong": 20012,
+          "name": {
+            "code": "",
+            "chinese": "散文：《有关旋律的哲思》",
+            "chineseTraditional": "",
+            "english": "",
+            "japanese": "",
+            "korean": ""
+          },
+          "date": "664/08/01",
+          "supervisor": {
+            "code": "",
+            "chinese": "碎数研",
+            "chineseTraditional": "",
+            "english": "",
+            "japanese": "",
+            "korean": ""
+          },
+          "category": "souvenir",
+          "content": {
+            "code": "",
+            "chinese": "如何定义旋律的好坏？和声、悦耳、主观欣赏？人们在不同角度，有着不同的思考，总能评个高下。\\n\n那么如何评断旋律是否缺陷呢？旋律自形成起，便不可能有缺陷，它是由不同音高、时值的乐音规律排列的结果，哪怕破坏它的内在稳定，也可称之为变式、夺奇，如何能叫它先天不足。\\n\n如果不是在律动星，这一讨论必然是伪命题。律动星的居民有一套自己的判断方式。这颗星球上的物品皆可化为旋律，而形成完整旋律的，又必然符合闭合曲面规则。因此物品对应的旋律又总是循环的，重复的，无论从哪里开始都能拼接至随机的开头。\\n\n物品旋律化的过程中，物品首先将散作无序的音符漂浮在空中，播放阶段它们会循着物品表面的线条编织旋律，最终重新变回物品。故而，人们认为旋律化是一个连续性行为。但奇怪就奇怪在，每次旋律化就像是光碟放进老旧的读取器，总是会在意料不到的地方卡顿。\\n\n因此人们坚称律动星的旋律是有缺陷的，而这种缺陷与生俱来。\\n",
+            "chineseTraditional": "",
+            "english": "",
+            "japanese": "",
+            "korean": ""
+          },
+          "properties": {
+            "code": "",
+            "chinese": "",
+            "chineseTraditional": "",
+            "english": "",
+            "japanese": "",
+            "korean": "\r"
+          }
+        },
+        {
+          "key": "nvhaibieditou",
+          "subIndex": 1,
+          "getSong": 20012,
+          "name": {
+            "code": "",
+            "chinese": "报道：《晒月亮的女孩》",
+            "chineseTraditional": "",
+            "english": "",
+            "japanese": "",
+            "korean": ""
+          },
+          "date": "663/09/01",
+          "supervisor": {
+            "code": "",
+            "chinese": "碎数研",
+            "chineseTraditional": "",
+            "english": "",
+            "japanese": "",
+            "korean": ""
+          },
+          "category": "souvenir",
+          "content": {
+            "code": "",
+            "chinese": "律动星，最适宜居住的楼层。物品中带有旋律，越大的东西，唱得越久。所以总是有小孩子在幻想，如果太阳能化为旋律，会是怎样的乐章。\\n\n可是Linsa喜欢月亮，当夜深人静时，她会走出房屋，在草坪上跳起舞来。沐浴着月光的物体如果化为旋律，听起来会有些许的不同。她听着每一棵野草，每一根围栏。恍惚间，她抬起头，第一次如此认真地注视着一直挂在天上的月亮。\\n\n如果月亮也能化作旋律，会是怎样的乐曲呢？\\n\n她终于将目光从月亮上离开，回头时，却发现了很久前她丢失的玩具小熊，正坐在庭院的石凳旁边。她兴奋地跑过去把它捡起来，但是没有像外面的人想象中一样，迫不及待地把所有东西化为旋律欣赏。她抱起小熊，在周围旋律的包裹中迟疑着什么，时间和她的思考被月光下的旋律沉默地推进着。\\n\n很快，来自栏杆的旋律打断了这一片沉默。G调收尾尚未完成的情况下，唐突转为了C调。她立即停下了栏杆的旋律，紧接着停下了周围的一切旋律。这篇草坪真正回到了沉默之中，她仍然抱着小熊，保持着一样的沉默，不同的是她终于意识到自己在迟疑什么。\\n\n她小熊的旋律在每次应该结束的时候，总会突然蹦出前面的重音，然后继续进行最响亮的部分，让她听起来非常不舒服。但是她还是选择听一遍，也许是过于想念自己的小熊，也许是怀念那被惊吓到的感觉。\\n\n这一次小熊的旋律，好像从一开始就不太一样。是她的记忆模糊了么？不，这是她最喜欢的小熊，这次的旋律就是不太一样。而且旋律十分舒适地结束，在适当的休憩之后继续开始了下一段乐章。\\n\n她小熊的旋律，好像被谁修好了。\\n",
+            "chineseTraditional": "",
+            "english": "",
+            "japanese": "",
+            "korean": ""
+          },
+          "properties": {
+            "code": "",
+            "chinese": "",
+            "chineseTraditional": "",
+            "english": "",
+            "japanese": "",
+            "korean": "\r"
+          }
+        },
+        {
+          "key": "Mbolisidexisheng",
+          "subIndex": 1,
+          "getSong": 20012,
+          "name": {
+            "code": "",
+            "chinese": "【影像】拍摄者采访记录存档",
+            "chineseTraditional": "",
+            "english": "",
+            "japanese": "",
+            "korean": ""
+          },
+          "date": "668/08/02",
+          "supervisor": {
+            "code": "",
+            "chinese": "碎数研",
+            "chineseTraditional": "",
+            "english": "",
+            "japanese": "",
+            "korean": ""
+          },
+          "category": "souvenir",
+          "content": {
+            "code": "",
+            "chinese": "采访对象：Khalid热心市民莫先生 \\n\n采访影像： \\n\n【背景音比较嘈杂，似乎在一个热闹的街区，人群的说话声中还混杂着不同风格的乐曲。】 \\n\n【莫先生看起来还有点醉醺醺的，他抓了抓头发，似乎在努力回忆当天的情形。】 \\n\n记者：您是这里常客吗？\\n\n莫先生：嗝，怎么了……\\n\n记者：请问当天文玩核桃失窃一案发生的时候，您在场吗？\\n\n莫先生：这个呀，我，我看到了，那个小偷，我还拍照了，诺，就，就这个，就是距离太远！模模糊糊的。我那天刚从静协酒吧出来，想透透气，用我这个新相机，拍拍天空，然后就拍到了。哈哈，没有更多啦，只有给你们看过的那一张……啊？你们没看清？来，再看一遍，看清了吗。不得不说，他飞得是——真的快！我这么好的波提切利，也只能抓住那短短的一瞬—— \\n\n记者：如此。那您有没有注意到一些特别的地方吗？ \\n\n莫先生：啊？特别的地方？嘶，我想想……【莫先生对着镜头做出了一个V字手势】他就是这么做的，对镜头比耶，是不是很有趣哈哈哈…… \\n",
+            "chineseTraditional": "",
+            "english": "",
+            "japanese": "",
+            "korean": ""
+          },
+          "properties": {
+            "code": "",
+            "chinese": "长度=7min26s",
+            "chineseTraditional": "",
+            "english": "",
+            "japanese": "",
+            "korean": "\r"
+          }
+        },
+        {
+          "key": "bayinhe",
+          "subIndex": 1,
+          "getSong": 20012,
+          "name": {
+            "code": "",
+            "chinese": "木质八音盒",
+            "chineseTraditional": "",
+            "english": "",
+            "japanese": "",
+            "korean": ""
+          },
+          "date": "669/01/04",
+          "supervisor": {
+            "code": "",
+            "chinese": "碎数研",
+            "chineseTraditional": "",
+            "english": "",
+            "japanese": "",
+            "korean": ""
+          },
+          "category": "souvenir",
+          "content": {
+            "code": "",
+            "chinese": "一只十分常见的八音盒，根据邮寄人和附带的信件来看其主人为Khalid克林酒馆老板露莎·克林女士。该八音盒外形为小提琴，底板上刻着其主人的姓名，无需发条或者电力驱动只需要拿在手上几秒钟即可演奏，制作精美具有一定的装饰作用。信中写道，因为各种问题，该八音盒在乐曲播放结束后都会因为复位而发出少许噪音，一般会由露莎女士亲自调整至原始状态来解决该问题。\\n\n“……但是有一天我发现本来放在柜台上当装饰品的八音盒不见了，我的天哪，这可是我丈夫送给我的礼物，怎么说不见就不见了呢！那时候把我急得呀……我问遍了客人看到我的八音盒了没有，客人都不知道它去了哪里，那天晚上我还哭了好久……”\\n\n“说来也怪，难不成真的应了那句一个东西丢失不去寻找的时候就会自己出现的话，在一周后我惊讶的发现丢失的八音盒自己回来了，而且就放在一堆酒杯后面！当然不可能是我放在那里的，我可是这里的老板什么东西放在哪里我可一清二楚！”\\n\n“于是我把它放回原来的位置了，照常打开开关放我最喜欢的那首舞曲，接着我就做事去了——这个八音盒我是熟悉的，一首曲子大概三四分钟，在结束后我就要回来重新复位一下，是的这挺麻烦，毕竟是老款式了，况且这在律动星也是不可避免的问题。但是那天我忙着接待客人了没有管它，等我回来的时候它依旧在放那首优美的小提琴曲，没有任何一点异常……这太奇怪了，于是我又重新计算了一下时间，这首曲子一共三分二十三秒，和以往不同，旋律的淡入和淡出没有半点违和，我听了几年的杂音就这么消失了！我甚至怀疑这还是不是我的八音盒，但是底下镌刻的名字又分毫不差……”\\n\n“如果可以的话，我还挺想把它拆开看看里面是不是多了什么特殊的零件之类的。我听说您们这正在寻找这类的物品，我就把它寄过来了——哦对，如果可以的话，各位可否能来酒馆喝几杯，我再和您们详细说说。”在信的最后，露莎女士这么写道。\\n",
+            "chineseTraditional": "",
+            "english": "",
+            "japanese": "",
+            "korean": ""
+          },
+          "properties": {
+            "code": "",
+            "chinese": "",
+            "chineseTraditional": "",
+            "english": "",
+            "japanese": "",
+            "korean": "\r"
+          }
+        },
+        {
+          "key": "Mdyjilumeihao",
+          "subIndex": 1,
+          "getSong": 20013,
+          "name": {
+            "code": "",
+            "chinese": "【影像】直播录屏",
+            "chineseTraditional": "",
+            "english": "",
+            "japanese": "",
+            "korean": ""
+          },
+          "date": "668/07/03",
+          "supervisor": {
+            "code": "",
+            "chinese": "碎数研",
+            "chineseTraditional": "",
+            "english": "",
+            "japanese": "",
+            "korean": ""
+          },
+          "category": "souvenir",
+          "content": {
+            "code": "",
+            "chinese": "【卡顿】\\n\n……好果子吃？我们这只有好的果核，好果子你得多刷两下去隔壁直播间买，哎欢迎这位尾号4F69的朋友回来，别的先不说，记得点开菜单领张包邮优惠券，除了下四层都能送到家门口哈；就想尝尝我这儿的果汁？嗨呀您可别揪着不放，我去二代地表收菩提时候尝过拿果肉压的汁，啧啧，优点全长在核上了真得一点都不推荐。来来来朋友们就算是路过啊也别急着走，再坐两分钟就有抽奖！给你们说昂，塔人不骗塔人，我这虽然是小本生意，但回馈朋友们绝不搞什么次品，这波啊，就抽我背后店里非卖品柜上摆的！\\n\n【拖凳子一长串噪音】【合页绞动声】【视角上仰放大】【重新对焦】\\n\n来带朋友们拉近看一看啊，这条手串，料子来自店里新到的一批响髓玉，光滑通透不硌手，颜值耐造色彩多，到其他楼层旋律照样响，就是隔个小半年得回律动星打卡充回电。脆度怎么样？只要你家地板不咬人掉地上连个印儿都磕不出来；能点歌吗？人家旋律是天然的你也不能强迫人家呀毕竟只是个石头对吧，我们有按曲风大小颜色分类点点下面链接就能看到，犹豫不定我们也有盲盒款按尺码随机发货，再不济的话欢迎来店里挑，地址营业时间主页写得有，感谢各位的关注啊感谢关注；婴幼儿能用吗？给小孩儿买玩具还是推荐去专品店，哦是婴儿林泊啊那随意了多听音乐有助记忆恢复，不过推荐让他自己选免得不喜欢；看起来好好吃？不是养殖种不要乱吃；有异想等级检定证书吗？有，商品页往下划一划，一级静物种放心买；能不能换个角度打光？我举着灯给你转两转昂，噢，是想看自然光下效果啊，可以嘛，朋友们的事举手之劳罢了。\\n\n【视角抖动】\\n\n好我把终端别胸口上了，现在带朋友们去店门口照照，嗯往后退？退什——\\n\n【视角剧烈晃动】【重物摔地声】\\n\n【大量弹幕划过，几乎挡死直播画面，1.7秒后直播录制者启动过滤功能，画面恢复正常】\\n\n我（哔——）我手串子！！这群（哔*哔*哔——）怎么敢在大马路上飞车抢劫？朋友，朋友们别激动，主播我他（哔——）的第一个咽不下这口！真以为就你一个有车是吧？真觉得就你跑得快是吗？谁还没有当鬼火少年的时候！掐表从现在开始算，主播要是半小时追不回来一小手串子，立马给直播间的朋友们！把同款！抽上两，百，个！\\n",
+            "chineseTraditional": "",
+            "english": "",
+            "japanese": "",
+            "korean": ""
+          },
+          "properties": {
+            "code": "",
+            "chinese": "长度=21min49s",
+            "chineseTraditional": "",
+            "english": "",
+            "japanese": "",
+            "korean": "\r"
+          }
+        },
+        {
+          "key": "Mdyjilumeihao",
+          "subIndex": 2,
+          "getSong": 20013,
+          "name": {
+            "code": "",
+            "chinese": "【影像】直播录屏·线索一",
+            "chineseTraditional": "",
+            "english": "",
+            "japanese": "",
+            "korean": ""
+          },
+          "date": "668/07/03",
+          "supervisor": {
+            "code": "",
+            "chinese": "碎数研",
+            "chineseTraditional": "",
+            "english": "",
+            "japanese": "",
+            "korean": ""
+          },
+          "category": "souvenir",
+          "content": {
+            "code": "",
+            "chinese": "“来直播间的朋友们，追上一个了昂，嗨！看我这速度，没得比！我们现在冲上前直接算账了啊。”【引擎轰鸣声】【拍喇叭】“喂！啊边啊个老表！你抢我手串是要整酿名堂？”【猛拍喇叭】\\n\n【抬起一点头盔面罩】“啥？你说额？额滴个娘你别空口污人行不。”\\n\n“你摆跟我日白，七八分钟前你是不是路口拐弯挆着酿东西？”\\n\n“莫有感觉，就觉得有个啥片儿把车头顶滴多歪了一下。噫，你咋还比着摄像头捏？哦你是不是内个，鉴宝滴内个博主？”\\n\n“你摆跟我扯别的！你在路口挆着我啊哈，给我一个宝贝手链摸走逑嗳！”【猛拍喇叭】\\n\n“哎呦呦呦，见着红人儿哩！大博主额老喜欢看你直播，你帮额看看俺这大链子成色咋样？”【一撸袖子，从手腕上摘下一个核桃串丢过去】\\n\n【下意识接住】“哦呦，整得成忙只串，这跟包浆老实红啦！纹路品相都不错，朋友们来看过来哈，这件手串，在其他楼层看已经没什么缺点了，但是呢放在我们律动星啊，就会有一个旋律听感上的问题，一颗核一个调儿，串不好就容易混音地狱。”\\n\n“还是博主你会看！额耳朵糙，盘了百来年都没的啥感觉。”\\n\n“这种情况啊，自己不介意就放着不用管了，想好好保养的话我回头给你介绍个懂调理的加工师傅……等啊！你给我串儿瞧是搞酿干壳儿！给我的拿过来！”\\n\n“谁抢你串子喽，额说嘞莫拿莫拿！”\\n\n“你没拿不能说你们没拿给活？都是我粉丝朋友啊我也不纵整你，抢我手链那个同伙往哪边跑啊我去追他！”\\n\n“额就纳闷咧，哪儿啥时候还给咱掉下来个车伴儿？”\\n\n“你还讲！你把我撞到半空中时候，我明明看见你后车筐上坐着一个！”\\n\n“你才车后头坐着一个！”\\n\n“啥？！”【声音变调】\\n\n“甭急着回头咧！前面有卡口！刹车！”\\n\n【镜头视角被猛地下压】【尖锐的轮胎刮地噪音】【一片漆黑】【警笛鸣声渐响】\\n\n“……我（哔*哔——）！一脚没给我脊椎踩断了去！”\\n\n【脚步声】“博主诶你好着么博主？！”\\n\n【画面重新亮起】【光线杂乱闪烁】\\n\n“人没事，朋友们不用担心。等下子！你手串哪去了噶！”\\n\n“诶！”\\n\n“也着偷啦！”\\n",
+            "chineseTraditional": "",
+            "english": "",
+            "japanese": "",
+            "korean": ""
+          },
+          "properties": {
+            "code": "",
+            "chinese": "长度=23min58s",
+            "chineseTraditional": "",
+            "english": "",
+            "japanese": "",
+            "korean": "\r"
+          }
+        },
+        {
+          "key": "pantaaa",
+          "subIndex": 1,
+          "getSong": 20013,
+          "name": {
+            "code": "",
+            "chinese": "文玩核桃",
+            "chineseTraditional": "",
+            "english": "",
+            "japanese": "",
+            "korean": ""
+          },
+          "date": "668/11/09",
+          "supervisor": {
+            "code": "",
+            "chinese": "碎数研",
+            "chineseTraditional": "",
+            "english": "",
+            "japanese": "",
+            "korean": ""
+          },
+          "category": "souvenir",
+          "content": {
+            "code": "",
+            "chinese": "三颗外观品相上乘的文玩核桃，其中一颗已经碎裂，露出塑料质地的内里。邮寄人是一位居住在律动星的少女，对方在附件中写道：\\n\n这三颗塑料核桃均来自她父亲被怪盗盗走又归还的核桃手串。手串初回到手里时颗颗颜色不一，形同没盘匀称的失败品，这导致失而复得本有点欢喜的父亲破防大哭，闹腾之余将手串丢出窗外。在收拾过残局后，她注意到其中一颗核桃已经开裂，里面居然是塑料的！考虑到自己倒霉爹柔弱受伤的心灵，她在比对旋律捡走其他两个塑料假货后将剩余的核桃摆在家里窗台上。\\n\n调查组收货一段时间后，这位少女再度发来邮件：她的父亲终究还是没能躲过二次打击——剩下的文玩核桃陆续发芽了。她将发芽的核桃埋进了花盆里，希望父亲能有些慰藉，或者说不要再执意把那些油嫩嫩的白芽也薅到包浆。\\n",
+            "chineseTraditional": "",
+            "english": "",
+            "japanese": "",
+            "korean": ""
+          },
+          "properties": {
+            "code": "",
+            "chinese": "",
+            "chineseTraditional": "",
+            "english": "",
+            "japanese": "",
+            "korean": "\r"
+          }
+        },
+        {
+          "key": "he372bafei",
+          "subIndex": 1,
+          "getSong": 20013,
+          "name": {
+            "code": "",
+            "chinese": "吉克·莱斯波斯-Year372",
+            "chineseTraditional": "",
+            "english": "",
+            "japanese": "",
+            "korean": ""
+          },
+          "date": "669/04/07",
+          "supervisor": {
+            "code": "",
+            "chinese": "碎数研",
+            "chineseTraditional": "",
+            "english": "",
+            "japanese": "",
+            "korean": ""
+          },
+          "category": "souvenir",
+          "content": {
+            "code": "",
+            "chinese": "发生地点：静协酒吧\\n\n“你确定是这一段被修复了么，我觉得这里还不是很完美。”\\n\n这是律动星最昂贵的威士忌酒，名自传奇极限运动员吉克·莱斯波斯。一杯就可以买下一颗卫星。\\n\n“你就拿你刚喝过的这杯酒来说，它的价格不会影响到它的味道，但如果我现在告诉你它的价格，你会想再喝一口然后真的感觉得到一些不同。这个时候，这杯酒的味道就已经出现了一道裂痕。”",
+            "chineseTraditional": "",
+            "english": "",
+            "japanese": "",
+            "korean": ""
+          },
+          "properties": {
+            "code": "",
+            "chinese": "",
+            "chineseTraditional": "",
+            "english": "",
+            "japanese": "",
+            "korean": "\r"
+          }
+        },
+        {
+          "key": "buxutan",
+          "subIndex": 1,
+          "getSong": 20014,
+          "name": {
+            "code": "",
+            "chinese": "报道：《酒吧辩手，市长想谈谈》",
+            "chineseTraditional": "",
+            "english": "",
+            "japanese": "",
+            "korean": ""
+          },
+          "date": "670/02/23",
+          "supervisor": {
+            "code": "",
+            "chinese": "碎数研",
+            "chineseTraditional": "",
+            "english": "",
+            "japanese": "",
+            "korean": ""
+          },
+          "category": "main",
+          "content": {
+            "code": "",
+            "chinese": "【律动星第三大道114号，静协酒吧，一间辩论者的酒吧。酒吧禁止物品旋律化，违反规则的客人将会被请离。但在这里，讨论不受任何限制，只要有理，任何话题皆受欢迎。大批辩论爱好者聚集于此，火热的辩论氛围街头传到巷尾，人们为有理者振臂，为坚定者喝彩。】\\n\n【670年年关，市长邀请静协酒吧的辩论者参加一场公开辩论的节目。起初没人在乎这次作秀，直到全塔的主流媒体长枪大炮地对准这一小小的辩论者酒吧，人们才意识市长是要来真格的。】\\n\n市长：我来这里，只干一件事情。辩论，还是OO的辩论！\\n\n暴脾气：知道的晓得你辩论，不知道还以为你来打架的呢，说吧，到底要辩什么？大家还等着开席呢！\\n\n市长：天狗，是你们这出的吧。\\n\n【喧哗声涌起。】\\n\n理中客：有一说一，你要讲热心莫先生采访里的照片，确实是酒吧门口拍的。但是！谁能证实照片里的影子就是怪盗。所以！我认为应该从常计较，先从调音天狗到底存不存在开始讨论。\\n\n不动摇：我看那个影子，就是朵云！哪来的怪盗，证据呢！嘿，那边的秘书，你们证据呢？\\n\n秘书：那个，市长。\\n\n【喧哗声涌起。】\\n\n市长：别吵！我当然有证据。这核桃就是证据！\\n\n暴脾气：咋地？\\n\n市长：神秘失踪的手串儿，现在还回来了，你看！跟没盘过一样，白润！哎哎哎，别急着否定我，东西掉没掉换，有旋律为证，旋律是死的！而且啊，这旋律还被修复了！\\n\n暴脾气：卧靠，还真是。\\n\n理中客：回到问题本身，这只能证实可能确实有这么一个异想，可以修复物品的旋律，但你有什么证据证明就是照片里的影子？总不能因为他们出现在同一地点，就判定他们有因果关系吧？\\n\n市长：这里是像素塔，一切皆有可能！\\n\n【喧哗声此起彼伏，不绝于耳。】\\n",
+            "chineseTraditional": "",
+            "english": "",
+            "japanese": "",
+            "korean": ""
+          },
+          "properties": {
+            "code": "",
+            "chinese": "",
+            "chineseTraditional": "",
+            "english": "",
+            "japanese": "",
+            "korean": "\r"
+          }
+        },
+        {
+          "key": "buxutan",
+          "subIndex": 2,
+          "getSong": 20014,
+          "name": {
+            "code": "",
+            "chinese": "报道：《酒吧辩手，市长想谈谈》·线索一",
+            "chineseTraditional": "",
+            "english": "",
+            "japanese": "",
+            "korean": ""
+          },
+          "date": "670/02/23",
+          "supervisor": {
+            "code": "",
+            "chinese": "碎数研",
+            "chineseTraditional": "",
+            "english": "",
+            "japanese": "",
+            "korean": ""
+          },
+          "category": "main",
+          "content": {
+            "code": "",
+            "chinese": "理中客： 辩论的最后，我们讨论调音天狗如果存在，又涉及到调音天狗的形态学、行动规律、可能出现的背景等等。我认为这已经不是在讨论它是否存在了，而是在制造一个它“已经存在”的语境。\\n\n市长的帮手：你说的对，但我们需要向市民解释，为什么被盗物品的旋律都被修复了。\\n\n理中客：所以我可以这么认为吗？你们在通过扩大影响，来制造异想！\\n\n【喧哗声已经溢出了酒吧。】\\n\n市长：你觉得人们所说的调音天狗是什么？是月食中偶尔出现的现象，还是一个精神的寄托？\\n\n理中客：你回避了我的问题，是否表明你认同我的观点。\\n\n市长：不不不，我只是为市民说话。\\n",
+            "chineseTraditional": "",
+            "english": "",
+            "japanese": "",
+            "korean": ""
+          },
+          "properties": {
+            "code": "",
+            "chinese": "",
+            "chineseTraditional": "",
+            "english": "",
+            "japanese": "",
+            "korean": "\r"
+          }
+        },
+        {
+          "key": "buxutan",
+          "subIndex": 3,
+          "getSong": 20014,
+          "name": {
+            "code": "",
+            "chinese": "报道：《酒吧辩手，市长想谈谈》·线索二",
+            "chineseTraditional": "",
+            "english": "",
+            "japanese": "",
+            "korean": ""
+          },
+          "date": "670/02/23",
+          "supervisor": {
+            "code": "",
+            "chinese": "碎数研",
+            "chineseTraditional": "",
+            "english": "",
+            "japanese": "",
+            "korean": ""
+          },
+          "category": "key",
+          "content": {
+            "code": "",
+            "chinese": "【辩论会结束后，本台记者采访了现场的围观群众，看看他们是怎么想的。】\\n\n市民A：哎呀，我之前也没想到辩论这么有趣，逆转逆转再逆转的，可能我以后也会成为静协酒吧的常客吧。\\n\n记者：那么您对这次的辩题有什么看法吗？\\n\n市民A：听完觉得调音天狗好厉害啊，什么都能修好，也来修修我家电视就好了。\\n\n记者：旁边这位朋友似乎有话要说？\\n\n市民B：我瞎说哦，我瞎说，市长都把天狗捧到救世主的水平了，那它干嘛不一次性把律动星上所有的缺陷修好呢？我看它修东西，也没什么工期、CD啥的啊？\\n\n记者：您是说，让调音天狗把整个律动星都盗走吗？\\n\n市民A：它把律动星偷走了，那我们怎么办？\\n\n市民B：一起打包带走呗，总不能把我们留在宇宙真空里。\\n\n市民A：我看你脑子也有缺陷，需要修修。\\n\n记者：两位真是幽默，让我们来采访下一位朋友。\\n",
+            "chineseTraditional": "",
+            "english": "",
+            "japanese": "",
+            "korean": ""
+          },
+          "properties": {
+            "code": "",
+            "chinese": "",
+            "chineseTraditional": "",
+            "english": "",
+            "japanese": "",
+            "korean": "\r"
+          }
+        },
+        {
+          "key": "fuqinkuaishuiba",
+          "subIndex": 1,
+          "getSong": 20014,
+          "name": {
+            "code": "",
+            "chinese": "小说：《困在街道中的老人》",
+            "chineseTraditional": "",
+            "english": "",
+            "japanese": "",
+            "korean": ""
+          },
+          "date": "671/01/01",
+          "supervisor": {
+            "code": "",
+            "chinese": "碎数研",
+            "chineseTraditional": "",
+            "english": "",
+            "japanese": "",
+            "korean": ""
+          },
+          "category": "souvenir",
+          "content": {
+            "code": "",
+            "chinese": "沉默，如一道耳鸣荡过街道的巷尾，老人徒步，丈量石板的温度。\\n\n来到律动星已是遥远的故事，灯光熹微的夜晚，摘下老花镜，躺入棉被的顷刻，暖流环绕着大脑，无数个重复的夜晚织成梦境，时间犹如镜的回廊，折射他褶皱的脸庞。这样一张脸，属于老人，还是死人，他想起护理员的怒骂，家人的漠视，一切本不该在这里，在天堂存储的记忆。起风了，云雾穿过他的身体，他在降落，降落向那片大地，那座城，那条困住他一生的街道。\\n",
+            "chineseTraditional": "",
+            "english": "",
+            "japanese": "",
+            "korean": ""
+          },
+          "properties": {
+            "code": "",
+            "chinese": "",
+            "chineseTraditional": "",
+            "english": "",
+            "japanese": "",
+            "korean": "\r"
+          }
+        },
+        {
+          "key": "nifaxianlgesha",
+          "subIndex": 1,
+          "getSong": 20014,
+          "name": {
+            "code": "",
+            "chinese": "帖子：《天桥东！发现天狗！》",
+            "chineseTraditional": "",
+            "english": "",
+            "japanese": "",
+            "korean": ""
+          },
+          "date": "670/05/20",
+          "supervisor": {
+            "code": "",
+            "chinese": "碎数研",
+            "chineseTraditional": "",
+            "english": "",
+            "japanese": "",
+            "korean": ""
+          },
+          "category": "souvenir",
+          "content": {
+            "code": "",
+            "chinese": "楼主：[图片][图片][图片]天狗\\n\n1楼：已阅\\n\n2楼：已阅\\n\n3楼：我都看腻了，狗网友能不能发点正脸？调音酱，嘿嘿嘿，可爱的，软软的，香香的调音酱~\\n\n4楼：（回复3楼）楼上还异？\\n\n5楼：异成萝莉，总比异成狗强\\n\n6楼：都默认是meme异想了呗，不是，TZB也不管管？\\n\n7楼：TZB向来滞后管辖，只要调音天狗没有正式成形，那群临时探员动都不动一下。\\n\n8楼：就是就是，接个龙，今天份的饭[图片]\\n\n9楼：（回复8楼）太太好喂！香香！\\n\n10楼：这个所有人都觉得调音天狗是黄毛萝莉的世界，我真是受够了！\\n",
+            "chineseTraditional": "",
+            "english": "",
+            "japanese": "",
+            "korean": ""
+          },
+          "properties": {
+            "code": "",
+            "chinese": "",
+            "chineseTraditional": "",
+            "english": "",
+            "japanese": "",
+            "korean": "\r"
+          }
+        },
+        {
+          "key": "Mluolikong",
+          "subIndex": 1,
+          "getSong": 20015,
+          "name": {
+            "code": "",
+            "chinese": "【影像】街头的Fuli",
+            "chineseTraditional": "",
+            "english": "",
+            "japanese": "",
+            "korean": ""
+          },
+          "date": "672/07/20",
+          "supervisor": {
+            "code": "",
+            "chinese": "Fuli",
+            "chineseTraditional": "",
+            "english": "",
+            "japanese": "",
+            "korean": ""
+          },
+          "category": "souvenir",
+          "content": {
+            "code": "",
+            "chinese": "【说是有那么一天，石林的楼层守护Fuli擅离职守，跑到律动星上潇洒，她在路边买了支冰淇淋，边吃边舔，突然被一个不认识的陌生人指着鼻子骂道。】\\n\n路人A：你是调音天狗！\\n\nFuli：哈？\\n\n路人A：没有错了，就是你，你手上的冰淇淋是我的，快还给我！\\n\nFuli：不要血口喷人哦，老板还在这儿呢。（回头）OO，老板人呢？\\n\n路人A：没想到你这么狠毒，连老板都盗走了！\\n\nFuli：OOO，你这造谣能力，怎么还没上幽蓝国啊！\\n\n路人A：（拽住衣袖）大伙儿！我抓住调音天狗了！快来人啊啊啊——\\n\n【Fuli见围观的人越来越多，深感大事不妙，遂启动了TZB派发给楼层守护的逃脱工具，从原地消失了。】\\n\n路人B：这是什么传送？\\n\n路人C：闻所未闻，见所未见。\\n\n路人B：难道，她真是调音天狗！\\n\n路人D：我就说调音天狗是黄毛萝莉，苍天呐，五年了，我的萝莉控嫌疑终于撇清了！\\n",
+            "chineseTraditional": "",
+            "english": "",
+            "japanese": "",
+            "korean": ""
+          },
+          "properties": {
+            "code": "",
+            "chinese": "长度=11min03s",
+            "chineseTraditional": "",
+            "english": "",
+            "japanese": "",
+            "korean": "\r"
+          }
+        },
+        {
+          "key": "Efuliautoshooter",
+          "subIndex": 5,
+          "getSong": 20015,
+          "name": {
+            "code": "",
+            "chinese": "摘录·守护日志·机关枪·线索四",
+            "chineseTraditional": "",
+            "english": "",
+            "japanese": "",
+            "korean": ""
+          },
+          "date": "672/08/05",
+          "supervisor": {
+            "code": "",
+            "chinese": "deathMark",
+            "chineseTraditional": "",
+            "english": "",
+            "japanese": "",
+            "korean": ""
+          },
+          "category": "souvenir",
+          "content": {
+            "code": "",
+            "chinese": "哎呦喂，这都是个什么事儿啊！\\n\n咱们这个石林，好不容易太平了，一帮自称Khalid市政府的又找上门了，说什么叫我扮演调音天狗？\\n\n我寻思这兼职和我光荣的楼层守护岗位，我光荣的防治异想使命，有大大的冲突啊。我不能答应，但是他们给的太多了，我实在经不住诱惑，犯了一点小小的原则性错误。\\n\n局座，你是了解我的，我干什么事，从来不经过脑子，这一次，也没有例外，我很有原则的！\\n\n这要以后搞出什么祸来，TZB还请多担待着点儿，自己人不是？\\n\n你要说也是！我就是个臭打工的！帮殖民星球的政府想东想西做什么，您要是觉得不妥，就立即查办他们！我绝对举双手支持，反正全款定金已经到手了！\\n\n嗯，如上，下个月见吧您！\\n",
+            "chineseTraditional": "",
+            "english": "",
+            "japanese": "",
+            "korean": ""
+          },
+          "properties": {
+            "code": "",
+            "chinese": "",
+            "chineseTraditional": "",
+            "english": "",
+            "japanese": "",
+            "korean": "\r"
+          }
+        },
+        {
+          "key": "liangzitbzz",
+          "subIndex": 1,
+          "getSong": 20015,
+          "name": {
+            "code": "",
+            "chinese": "量子同步终端",
+            "chineseTraditional": "",
+            "english": "",
+            "japanese": "",
+            "korean": ""
+          },
+          "date": "673/02/09",
+          "supervisor": {
+            "code": "",
+            "chinese": "Fuli",
+            "chineseTraditional": "",
+            "english": "",
+            "japanese": "",
+            "korean": ""
+          },
+          "category": "bold",
+          "content": {
+            "code": "",
+            "chinese": "Fuli：你们给我绑是什么？\\n\n市长：量子同步终端，启动之后，你就能立即传送在天狗食月现象出现的地点。\\n\nFuli：哦~所以调音天狗，现在还只是一个“现象”。\\n\n市长：没错，想要它成形，还得依靠你们相关者的帮助。\\n\nFuli：事先说明啊，我不接受异想附身，虽然有不少林泊很乐意获得此类“超能力”，但不包括我。\\n\n市长：你放心，只是一次“公演”，不会出事的。\\n",
+            "chineseTraditional": "",
+            "english": "",
+            "japanese": "",
+            "korean": ""
+          },
+          "properties": {
+            "code": "",
+            "chinese": "",
+            "chineseTraditional": "",
+            "english": "",
+            "japanese": "",
+            "korean": "\r"
+          }
+        },
+        {
+          "key": "liangzitbzz",
+          "subIndex": 2,
+          "getSong": 20015,
+          "name": {
+            "code": "",
+            "chinese": "量子同步终端·线索一",
+            "chineseTraditional": "",
+            "english": "",
+            "japanese": "",
+            "korean": ""
+          },
+          "date": "673/02/09",
+          "supervisor": {
+            "code": "",
+            "chinese": "Fuli",
+            "chineseTraditional": "",
+            "english": "",
+            "japanese": "",
+            "korean": ""
+          },
+          "category": "bold",
+          "content": {
+            "code": "",
+            "chinese": "【Fuli身边的风景不断变化，从田野到高楼，从村屋到工厂，只要人曾生活过的地方，都是调音天狗候选地。市长的要求是让人们观察到她的身影，误以为调音天狗已经成形，以促进异想的发育。但Fuli左思右想不对劲，天底下哪有这种好事？】\\n\nFuli：就这么躺着，也能把钱赚了？\\n\n【也正如她所担心的，如同幻灯片般的快速传送，在公演开始的半个小时后戛然而止，她滞留在一个飘满不明物体的玫红色空间，而对面站着的，是一个和她同样衣着，同样面孔的黄毛萝莉。】\\n\nFuli：好家伙，模仿我的脸？\\n\nFuli？：清除……污染……\\n\n【这二重身低着头，怯生生地嘀咕着可怕的词汇，却不见任何攻击Fuli的行动，只是站在原地不断重复着。】\\n\nFuli？：清除……污染……\\n\nFuli：不会你就是调音天狗吧？\\n\nFuli？：清除……污染……\\n\nFuli：不管你是寻路系统坏了，还是语言系统先天不足，算我求求你哎，别搁那叨叨了！\\n\n【二重身忽然没了声音。】\\n\nFuli：这就对咯，让我看看哦，这开模开的，哎呦，一比一复刻。\\n\n【Fuli对自己的二重身上下其手，试图探究异想的构成原理。】\\n\nFuli？：Fuli要清除污染……Fuli要保护大家……\\n\n【她就像个坏掉的木偶，不断重复自己的使命。】\\n\nFuli：污染？哪里来的污染？\\n\nFuli？：月亮上……有……\\n\n【二重身的话还未说尽，快速传送再度开启，Fuli奋起追赶调音天狗的身影，量子同步终端的使用时限却已到尾声。看向眼前停滞的风景，Fuli罕见地品尝到挫败感。】\\n\nFuli：话还没说完呢……\\n",
+            "chineseTraditional": "",
+            "english": "",
+            "japanese": "",
+            "korean": ""
+          },
+          "properties": {
+            "code": "",
+            "chinese": "",
+            "chineseTraditional": "",
+            "english": "",
+            "japanese": "",
+            "korean": "\r"
+          }
+        },
+        {
+          "key": "liangzitbzz",
+          "subIndex": 3,
+          "getSong": 20015,
+          "name": {
+            "code": "",
+            "chinese": "量子同步终端·线索二",
+            "chineseTraditional": "",
+            "english": "",
+            "japanese": "",
+            "korean": ""
+          },
+          "date": "673/03/11",
+          "supervisor": {
+            "code": "",
+            "chinese": "Fuli",
+            "chineseTraditional": "",
+            "english": "",
+            "japanese": "",
+            "korean": ""
+          },
+          "category": "bold",
+          "content": {
+            "code": "",
+            "chinese": "Fuli：克——劳——尔——\\n\n克劳尔：（惊住）是机关枪探员啊，找我有什么事？\\n\n【Fuli，一个有着铁饭碗的TZB探员，认识同为TZB探员的克劳尔并不奇怪。】\\n\nFuli：律动星的月亮，是不是你搞的鬼！\\n\n克劳尔：等等，我们认真分析一下，为什么一有问题，都觉得是我干的？\\n\nFuli：你看这是什么？这是谁的东西？嗯？你和谁走的最近？\\n\n克劳尔：Fuli，你在哪里找到的这个东西？\\n\nFuli：你少在这里装傻，律动星的人现在一个个都成了那个样子，你到底想干什么？\\n\n克劳尔：我很好奇你怎么把这玩意毫发无损地带过第五层，但那不重要了，但是你要的解决方案，可能就是这个我找了很久的东西。\\n\nFuli：少当谜语人，这到底是什么？\\n\n克劳尔：你先拿稳了，我就告诉你。\\n\nFuli：我直接放桌子上，你说吧。\\n\n克劳尔：这是一个遗体的——某个部分。那个传说中异想的遗体。还有活性的时候足以将整个像素塔都污染的那个异想。\\n\nFuli：你脑子里进喵喵茶了么？异想怎么会有遗体？",
+            "chineseTraditional": "",
+            "english": "",
+            "japanese": "",
+            "korean": ""
+          },
+          "properties": {
+            "code": "",
+            "chinese": "",
+            "chineseTraditional": "",
+            "english": "",
+            "japanese": "",
+            "korean": "\r"
+          }
+        },
+        {
+          "key": "miaomiaocha",
+          "subIndex": 1,
+          "getSong": 20016,
+          "name": {
+            "code": "",
+            "chinese": "喵喵茶",
+            "chineseTraditional": "",
+            "english": "",
+            "japanese": "",
+            "korean": ""
+          },
+          "date": "673/03/11",
+          "supervisor": {
+            "code": "",
+            "chinese": "Fuli",
+            "chineseTraditional": "",
+            "english": "",
+            "japanese": "",
+            "korean": ""
+          },
+          "category": "souvenir",
+          "content": {
+            "code": "",
+            "chinese": "你知道人喝完茶之后总会发出一声“哈啊——”对吧。\\n\n但你喝完喵喵茶之后，你会发出一声“喵——”。",
+            "chineseTraditional": "",
+            "english": "",
+            "japanese": "",
+            "korean": ""
+          },
+          "properties": {
+            "code": "",
+            "chinese": "",
+            "chineseTraditional": "",
+            "english": "",
+            "japanese": "",
+            "korean": "\r"
+          }
+        },
+        {
+          "key": "heiyueliaoyangyuan",
+          "subIndex": 1,
+          "getSong": 20015,
+          "name": {
+            "code": "",
+            "chinese": "黑月疗养院员工需知",
+            "chineseTraditional": "",
+            "english": "",
+            "japanese": "",
+            "korean": ""
+          },
+          "date": "673/03/12",
+          "supervisor": {
+            "code": "",
+            "chinese": "碎数研",
+            "chineseTraditional": "",
+            "english": "",
+            "japanese": "",
+            "korean": ""
+          },
+          "category": "souvenir",
+          "content": {
+            "code": "",
+            "chinese": "如果你在阅读本需知，并且不是本疗养院的员工，建议您离开。\\n\n如果你是本疗养院的员工，本需知将再次提醒您，请回想一下自己的个人储物柜的位置，以及其中放置的物品。\\n",
+            "chineseTraditional": "",
+            "english": "",
+            "japanese": "",
+            "korean": ""
+          },
+          "properties": {
+            "code": "",
+            "chinese": "碎数研编号=327-5-000",
+            "chineseTraditional": "",
+            "english": "",
+            "japanese": "",
+            "korean": "\r"
+          }
+        },
+        {
+          "key": "heiyueliaoyangyuan",
+          "subIndex": 2,
+          "getSong": 20015,
+          "name": {
+            "code": "",
+            "chinese": "黑月疗养院员工需知·线索一",
+            "chineseTraditional": "",
+            "english": "",
+            "japanese": "",
+            "korean": ""
+          },
+          "date": "673/03/13",
+          "supervisor": {
+            "code": "",
+            "chinese": "碎数研",
+            "chineseTraditional": "",
+            "english": "",
+            "japanese": "",
+            "korean": ""
+          },
+          "category": "souvenir",
+          "content": {
+            "code": "",
+            "chinese": "研究日志：\\n\n我们成功复原出一张完整的明信片，上面写着：我很抱歉。\\n\n不出意外的，这个明信片在第二天失踪了。\\n",
+            "chineseTraditional": "",
+            "english": "",
+            "japanese": "",
+            "korean": ""
+          },
+          "properties": {
+            "code": "",
+            "chinese": "碎数研编号=327-5-001",
+            "chineseTraditional": "",
+            "english": "",
+            "japanese": "",
+            "korean": "\r"
+          }
+        },
+        {
+          "key": "heiyueliaoyangyuan",
+          "subIndex": 3,
+          "getSong": 20015,
+          "name": {
+            "code": "",
+            "chinese": "黑月疗养院员工需知·线索二",
+            "chineseTraditional": "",
+            "english": "",
+            "japanese": "",
+            "korean": ""
+          },
+          "date": "673/03/13",
+          "supervisor": {
+            "code": "",
+            "chinese": "碎数研",
+            "chineseTraditional": "",
+            "english": "",
+            "japanese": "",
+            "korean": ""
+          },
+          "category": "souvenir",
+          "content": {
+            "code": "",
+            "chinese": "研究日志：\\n\n如果你比对盗乐行之前和之后的物品碎片，是不会注意到任何异常的。只有一种检测能告诉你这件律动星的物品是否经历过盗乐行，那就是异想污染检测。经历过盗乐行的物品，均有一定程度的异想污染痕迹。\\n\n但我们注意到一部分数据碎片的异想污染程度显著高于其他盗乐行物品，鉴于此事发生在律动星，这十分的不正常。\\n\n另外一个不正常的事就是这个所谓的黑月疗养院，除了疗养院自身的记录，我们找不到任何该疗养院存在的痕迹。没有员工记录，没有病人记录，没有人讨论它，没有人知道它。\\n",
+            "chineseTraditional": "",
+            "english": "",
+            "japanese": "",
+            "korean": ""
+          },
+          "properties": {
+            "code": "",
+            "chinese": "碎数研编号=327-5-002",
+            "chineseTraditional": "",
+            "english": "",
+            "japanese": "",
+            "korean": "\r"
+          }
+        },
+        {
+          "key": "beardoll",
+          "subIndex": 1,
+          "getSong": 20015,
+          "name": {
+            "code": "",
+            "chinese": "小熊娃娃",
+            "chineseTraditional": "",
+            "english": "",
+            "japanese": "",
+            "korean": ""
+          },
+          "date": "673/04/14",
+          "supervisor": {
+            "code": "",
+            "chinese": "碎数研",
+            "chineseTraditional": "",
+            "english": "",
+            "japanese": "",
+            "korean": ""
+          },
+          "category": "souvenir",
+          "content": {
+            "code": "",
+            "chinese": "一个外表和手感均无异常的小熊玩偶。\\n\n但如果你把它拆开，头部下方与身体的连接处是一个类似喷射器的结构，而身体内则装有容器和控制器。\\n",
+            "chineseTraditional": "",
+            "english": "",
+            "japanese": "",
+            "korean": ""
+          },
+          "properties": {
+            "code": "",
+            "chinese": "",
+            "chineseTraditional": "",
+            "english": "",
+            "japanese": "",
+            "korean": "\r"
+          }
+        },
+        {
+          "key": "beardoll",
+          "subIndex": 2,
+          "getSong": 20015,
+          "name": {
+            "code": "",
+            "chinese": "小熊娃娃·线索一",
+            "chineseTraditional": "",
+            "english": "",
+            "japanese": "",
+            "korean": ""
+          },
+          "date": "673/04/14",
+          "supervisor": {
+            "code": "",
+            "chinese": "碎数研",
+            "chineseTraditional": "",
+            "english": "",
+            "japanese": "",
+            "korean": ""
+          },
+          "category": "souvenir",
+          "content": {
+            "code": "",
+            "chinese": "研究日志：\\n\n我们成功找到律动星的代表物品，一种玩具小熊。根据我们找到的数量估计，这个玩具小熊普及到了律动星人手一个的地步。不过令人疑惑的是，这个小熊搭载了能够无线播放音乐的功能，这是首次在律动星中找到这样的玩具。也许这就是这个小熊能如此畅销的原因。\\n\n不过我们还是有个疑点，如此畅销的产品，按理说应该有铺天盖地的广告才对，但我们找不到任何有关的宣传。更奇怪的是，找不到任何它的包装以及使用说明。\\n",
+            "chineseTraditional": "",
+            "english": "",
+            "japanese": "",
+            "korean": ""
+          },
+          "properties": {
+            "code": "",
+            "chinese": "",
+            "chineseTraditional": "",
+            "english": "",
+            "japanese": "",
+            "korean": "\r"
+          }
+        },
+        {
+          "key": "beardoll",
+          "subIndex": 3,
+          "getSong": 20015,
+          "name": {
+            "code": "",
+            "chinese": "小熊娃娃·线索二",
+            "chineseTraditional": "",
+            "english": "",
+            "japanese": "",
+            "korean": ""
+          },
+          "date": "673/04/14",
+          "supervisor": {
+            "code": "",
+            "chinese": "碎数研",
+            "chineseTraditional": "",
+            "english": "",
+            "japanese": "",
+            "korean": ""
+          },
+          "category": "souvenir",
+          "content": {
+            "code": "",
+            "chinese": "研究日志：\\n\n保持着我们的疑点，研究员百州成功找出更多带有相似数据标签的物品。虽然我很想将其称之为一堆破烂，但为保持研究的系统性，姑且记录下所有物品。\\n\n天线。\\n\n耳机的耳机罩。\\n\n遥控器的按键板。\\n\n钟表表盘。\\n",
+            "chineseTraditional": "",
+            "english": "",
+            "japanese": "",
+            "korean": ""
+          },
+          "properties": {
+            "code": "",
+            "chinese": "",
+            "chineseTraditional": "",
+            "english": "",
+            "japanese": "",
+            "korean": "\r"
+          }
+        },
+        {
+          "key": "lokiworld",
+          "subIndex": 1,
+          "getSong": 20015,
+          "name": {
+            "code": "",
+            "chinese": "影像带：《洛基的世界》",
+            "chineseTraditional": "",
+            "english": "",
+            "japanese": "",
+            "korean": ""
+          },
+          "date": "673/03/14",
+          "supervisor": {
+            "code": "",
+            "chinese": "碎数研",
+            "chineseTraditional": "",
+            "english": "",
+            "japanese": "",
+            "korean": ""
+          },
+          "category": "souvenir",
+          "content": {
+            "code": "",
+            "chinese": "主角洛基是一个别人看不到的幽灵，但是因为各种巧合，以及一些幽灵损友，他从未意识到自己幽灵的身份。最后终于他终于意识到自己是个幽灵，并选择离开这个世界。\\n\n此片于拾月节贺岁档上映，但是不少观众反映自己在哪里看过类似的剧情，就是说不上来。",
+            "chineseTraditional": "",
+            "english": "",
+            "japanese": "",
+            "korean": ""
+          },
+          "properties": {
+            "code": "",
+            "chinese": "",
+            "chineseTraditional": "",
+            "english": "",
+            "japanese": "",
+            "korean": "\r"
+          }
+        },
+        {
+          "key": "lokiworld",
+          "subIndex": 2,
+          "getSong": 20015,
+          "name": {
+            "code": "",
+            "chinese": "影像带：《洛基的世界》·线索一",
+            "chineseTraditional": "",
+            "english": "",
+            "japanese": "",
+            "korean": ""
+          },
+          "date": "673/03/15",
+          "supervisor": {
+            "code": "",
+            "chinese": "碎数研",
+            "chineseTraditional": "",
+            "english": "",
+            "japanese": "",
+            "korean": ""
+          },
+          "category": "souvenir",
+          "content": {
+            "code": "",
+            "chinese": "剧中的一段独白：\\n\n你与我眼中的世界，无论多么相似，都映照在不同的双眼中。\\n\n你与我之间的联系，无论多么紧密，都无法被我的双手握紧。\\n\n当你对我的期待漠不关心时，当你对我的喜怒哀乐无法理解时。\\n\n当你对我喜欢的旋律表示不出任何由衷的欣赏时，我们可能已经活在了不同的世界中。",
+            "chineseTraditional": "",
+            "english": "",
+            "japanese": "",
+            "korean": ""
+          },
+          "properties": {
+            "code": "",
+            "chinese": "",
+            "chineseTraditional": "",
+            "english": "",
+            "japanese": "",
+            "korean": "\r"
+          }
+        },
+        {
+          "key": "lokiworld",
+          "subIndex": 3,
+          "getSong": 20015,
+          "name": {
+            "code": "",
+            "chinese": "影像带：《洛基的世界》·线索二",
+            "chineseTraditional": "",
+            "english": "",
+            "japanese": "",
+            "korean": ""
+          },
+          "date": "673/03/16",
+          "supervisor": {
+            "code": "",
+            "chinese": "碎数研",
+            "chineseTraditional": "",
+            "english": "",
+            "japanese": "",
+            "korean": ""
+          },
+          "category": "souvenir",
+          "content": {
+            "code": "",
+            "chinese": "研究日志：\\n\n有关异想旋律化的研究是十分有趣的，理论上过滤之后，韵律星不应该出现任何成型的异想之物。但是如果考虑到异想的成因，以及带入韵律星的物品也可以被异想化的这一事实，我们要考虑异想也能被旋律化的可能。甚至可以说可能性很大。\\n\n这让我思考一个问题，是否每个人听到的被旋律化的物品都是一样的？如果异想也能被旋律化的话，被旋律化的异想在每个人听来是否都是一样的？\\n\n就像大部分人对色盲的理解都是错误的。以为红绿色盲就是把红的看成绿的，绿的看成红的。但如果是这样那么色盲患者从一开始就会把他们眼中的绿色称为红色，红色称为绿色。但是这样的状态是否适用于旋律呢？也许我们每个人听到的音乐从本质上都是不一样的。但是出于某种现象，我们认为他们是一样的。\\n\n如果我能把异想带到律动星就好了。",
+            "chineseTraditional": "",
+            "english": "",
+            "japanese": "",
+            "korean": ""
+          },
+          "properties": {
+            "code": "",
+            "chinese": "",
+            "chineseTraditional": "",
+            "english": "",
+            "japanese": "",
+            "korean": "\r"
+          }
+        },
+        {
+          "key": "lokiworld",
+          "subIndex": 4,
+          "getSong": 20015,
+          "name": {
+            "code": "",
+            "chinese": "影像带：《洛基的世界》·线索三",
+            "chineseTraditional": "",
+            "english": "",
+            "japanese": "",
+            "korean": ""
+          },
+          "date": "673/03/18",
+          "supervisor": {
+            "code": "",
+            "chinese": "碎数研",
+            "chineseTraditional": "",
+            "english": "",
+            "japanese": "",
+            "korean": ""
+          },
+          "category": "souvenir",
+          "content": {
+            "code": "",
+            "chinese": "碎数研编号：327-7-002：\\n\n研究日志：\n经再次研究，我们成功提取出该影像带的所有音轨，并注意到影片中存在一条十分独特的音轨，前面大部分都是空白，只有最后的部分是一声混有杂音的怒吼。\\n\n但是当隔日试图对该数据再次分析时，没有人记得数据盘的保存位置了。\\n\n另外，研究员百州失踪了。",
+            "chineseTraditional": "",
+            "english": "",
+            "japanese": "",
+            "korean": ""
+          },
+          "properties": {
+            "code": "",
+            "chinese": "碎数研编号=327-7-002",
+            "chineseTraditional": "",
+            "english": "",
+            "japanese": "",
+            "korean": "\r"
+          }
+        },
+        {
+          "key": "lokiworld",
+          "subIndex": 5,
+          "getSong": 20015,
+          "name": {
+            "code": "",
+            "chinese": "影像带：《洛基的世界》·线索四",
+            "chineseTraditional": "",
+            "english": "",
+            "japanese": "",
+            "korean": ""
+          },
+          "date": "673/03/18",
+          "supervisor": {
+            "code": "",
+            "chinese": "碎数研",
+            "chineseTraditional": "",
+            "english": "",
+            "japanese": "",
+            "korean": ""
+          },
+          "category": "souvenir",
+          "content": {
+            "code": "",
+            "chinese": "碎数研编号：327-7-002：\\n\n研究日志：\n经再次研究，我们成功提取出该影像带的所有音轨，并注意到影片中存在一条十分独特的音轨，前面大部分都是空白，只有最后的部分是一声混有杂音的尖叫。\\n\n但是当两天后我们试图对该数据再次分析时，没有人记得数据盘的保存位置了。\\n\n不过，研究员鹿茵失踪了。",
+            "chineseTraditional": "",
+            "english": "",
+            "japanese": "",
+            "korean": ""
+          },
+          "properties": {
+            "code": "",
+            "chinese": "碎数研编号=327-7-002",
+            "chineseTraditional": "",
+            "english": "",
+            "japanese": "",
+            "korean": "\r"
+          }
+        },
+        {
+          "key": "lokiworldre",
+          "subIndex": 1,
+          "getSong": 20015,
+          "name": {
+            "code": "",
+            "chinese": "报道：《洛基的世界影评》",
+            "chineseTraditional": "",
+            "english": "",
+            "japanese": "",
+            "korean": ""
+          },
+          "date": "673/03/14",
+          "supervisor": {
+            "code": "",
+            "chinese": "碎数研",
+            "chineseTraditional": "",
+            "english": "",
+            "japanese": "",
+            "korean": ""
+          },
+          "category": "souvenir",
+          "content": {
+            "code": "",
+            "chinese": "不知道大家的拾月节过得怎么样，但我这次真的有些不舒服。\\n\n相信有很多人已经看过这部电影了，不得不说，如果一部电影，它导演的水平以及演员的演技都无可挑剔的时候，你就只能在剧本上找茬。可是这个剧本也挑不出什么致命的问题。\\n\n当然，我不是那种什么都要踩上一脚的人，所以我先说好，《洛基的世界》这部电影，是一部制作精良，各方面都很出彩的电影。即便不是在拾月节作为贺岁片上映，仍然会引起轰动。\\n\n但是，这部电影让我看得很不舒服。因为影片中的一切过于理所当然了。就是那种问一个问题出去，能收到最多的回答是什么样，这部片子就拍成什么样的感觉。\\n\n在给出一个有着充足发挥空间的故事设定之后，这部片子以最平庸的优秀思路讲完了整个故事。整部片子没有任何缺陷，让人怀疑剧本是不是被最近炒的火热的调音天狗修复过。但没有缺陷的同时，也就意味着我无法挑出最好的部分。就像我说过的，一切都好得顺理成章。\\n\n这种不适感具体来说，就像片中的女主角林赛，她的所有行动都过于完美，符合人设，符合剧本给她的安排，也会给人带来意外。但这样我就无法感觉到林赛的真实，她的完美让她不再是一个活生生的人，而只是被这部电影摆弄的一个空壳。\\n",
+            "chineseTraditional": "",
+            "english": "",
+            "japanese": "",
+            "korean": ""
+          },
+          "properties": {
+            "code": "",
+            "chinese": "",
+            "chineseTraditional": "",
+            "english": "",
+            "japanese": "",
+            "korean": "\r"
+          }
+        },
+        {
+          "key": "abaaba1",
+          "subIndex": 1,
+          "getSong": 20016,
+          "name": {
+            "code": "",
+            "chinese": "【影像】日蚀之月",
+            "chineseTraditional": "",
+            "english": "",
+            "japanese": "",
+            "korean": ""
+          },
+          "date": "673/07/25",
+          "supervisor": {
+            "code": "",
+            "chinese": "碎数研",
+            "chineseTraditional": "",
+            "english": "",
+            "japanese": "",
+            "korean": ""
+          },
+          "category": "main",
+          "content": {
+            "code": "",
+            "chinese": "塔历763年7月17日至763年7月23日，据港湾赤溪崖天文台发报，律动星上演了一场持续七天的超长月食。月食引发的通讯中断和电磁风暴使得我们完全失去了与律动星的联系，直到7月24日11点59分，通讯才恢复正常。\\n\n我台第一时间联系了当地的驻星新闻站，该站通讯员失去了这七天的记忆，但接下来他旋律化了身边所有的物品，很快兴奋不已地欢呼：“缺陷被修复了！律动星完美了！”通讯员走到街道上，只见当地居民奔走相告，完美了，完美了，天狗食月了！通讯员最后留言说，他要与当地居民一同庆祝这一伟大的时刻，随后再无任何消息传回。\\n\n7月25日7点32分，宇宙飞船比邻探索8号进入律动星太空港，据船员所说，律动星上的居民全都消失了。\\n\n如今我们对律动星那七天的了解，仅停留在7月24日的12点至13点，由律动星向外界发出的几万条报平安的通讯。难以置信的是，本台查阅了所有通讯，对律动星依旧一无所知。\\n",
+            "chineseTraditional": "",
+            "english": "",
+            "japanese": "",
+            "korean": ""
+          },
+          "properties": {
+            "code": "",
+            "chinese": "长度=7d",
+            "chineseTraditional": "",
+            "english": "",
+            "japanese": "",
+            "korean": "\r"
+          }
+        },
+        {
+          "key": "botiqieli",
+          "subIndex": 1,
+          "getSong": 20016,
+          "name": {
+            "code": "",
+            "chinese": "波提切利原型机",
+            "chineseTraditional": "",
+            "english": "",
+            "japanese": "",
+            "korean": ""
+          },
+          "date": "663/02/23",
+          "supervisor": {
+            "code": "",
+            "chinese": "莫波利斯",
+            "chineseTraditional": "",
+            "english": "",
+            "japanese": "",
+            "korean": ""
+          },
+          "category": "souvenir",
+          "content": {
+            "code": "",
+            "chinese": "观星家莫波利斯发明的运动相机，二代机曾经商业化，足以捕捉夜空暗淡的星图。莫波利斯重生后，波提切利相机交由同好继续开发，如今已迭代到4.0，然而临近毁灭的现在，还有谁会需要一台好相机呢。",
+            "chineseTraditional": "",
+            "english": "",
+            "japanese": "",
+            "korean": ""
+          },
+          "properties": {
+            "code": "",
+            "chinese": "",
+            "chineseTraditional": "",
+            "english": "",
+            "japanese": "",
+            "korean": "\r"
+          }
+        },
+        {
+          "key": "botiqieli",
+          "subIndex": 2,
+          "getSong": 20016,
+          "name": {
+            "code": "",
+            "chinese": "波提切利原型机·线索一",
+            "chineseTraditional": "",
+            "english": "",
+            "japanese": "",
+            "korean": ""
+          },
+          "date": "663/02/23",
+          "supervisor": {
+            "code": "",
+            "chinese": "莫波利斯",
+            "chineseTraditional": "",
+            "english": "",
+            "japanese": "",
+            "korean": ""
+          },
+          "category": "key",
+          "content": {
+            "code": "",
+            "chinese": "莫波利斯：（拍摄）那是什么？ \\n\n克劳尔：不要转移话题，你的楼层安全性调查报告已经逾期一个月了，再这样下去——\\n\n莫波利斯：人影！在月球上，你看。（递出）\\n\n克劳尔：（拿过相机）分析完毕，100%是云，你看错了。\\n\n莫波利斯：不不不，怎么会是云呢，你想想，这里可是律动星，人造物堆砌的都市，怎么会有云呢。\\n\n克劳尔：律动星的物品总有缺憾，这并不影响（停顿）你的意思是？\\n\n莫波利斯：“一切正常”，我想不到比这更好的结语了。\\n",
+            "chineseTraditional": "",
+            "english": "",
+            "japanese": "",
+            "korean": ""
+          },
+          "properties": {
+            "code": "",
+            "chinese": "",
+            "chineseTraditional": "",
+            "english": "",
+            "japanese": "",
+            "korean": "\r"
+          }
+        },
+        {
+          "key": "botiqieli",
+          "subIndex": 3,
+          "getSong": 20016,
+          "name": {
+            "code": "",
+            "chinese": "波提切利原型机·线索二",
+            "chineseTraditional": "",
+            "english": "",
+            "japanese": "",
+            "korean": ""
+          },
+          "date": "663/02/24",
+          "supervisor": {
+            "code": "",
+            "chinese": "碎数研",
+            "chineseTraditional": "",
+            "english": "",
+            "japanese": "",
+            "korean": ""
+          },
+          "category": "souvenir",
+          "content": {
+            "code": "",
+            "chinese": "纸张的残片，手写的文字：\\n\n我很高兴他没有注意到我真正的目的，如果能骗过他的眼睛，那么一般人也不会注意到任何异常。就像这里的每个人都觉得月亮的存在是理所应当的，我把她放在那里则是我认为最合理的选择。\\n\n也许曾经的我会认为这种诱导他人的手段是种罪恶，一种小人的奸计。但你做过一次之后，你的潜意识会用尽一切思路让你自己的行为合理化，这也许是为什么人们永远无法阻止恶行的传播。当你开始习惯于自己的恶行，你就会忘记自己为什么将其称为恶行，再接下来，一切就会顺理成章的继续了。\\n\n但起码我还是为她做了一些事情，起码我还认识曾经那个自己，就像我认识这夜空中每一颗遥不可及的星星。\\n",
+            "chineseTraditional": "",
+            "english": "",
+            "japanese": "",
+            "korean": ""
+          },
+          "properties": {
+            "code": "",
+            "chinese": "",
+            "chineseTraditional": "",
+            "english": "",
+            "japanese": "",
+            "korean": "\r"
+          }
+        },
+        {
+          "key": "botiqieli",
+          "subIndex": 4,
+          "getSong": 20016,
+          "name": {
+            "code": "",
+            "chinese": "波提切利原型机·线索三",
+            "chineseTraditional": "",
+            "english": "",
+            "japanese": "",
+            "korean": ""
+          },
+          "date": "663/02/25",
+          "supervisor": {
+            "code": "",
+            "chinese": "碎数研",
+            "chineseTraditional": "",
+            "english": "",
+            "japanese": "",
+            "korean": ""
+          },
+          "category": "souvenir",
+          "content": {
+            "code": "",
+            "chinese": "【依据像素塔数据分享准则条例B-1-12，该数据无法显示】\\n\n【像素塔数据分享准则条例B-1-12：当任何数据以真实情况反映如下内容时，该数据及其转译内容将被禁止任何管理者权限以下人员的观看：\\n\n1，大型人为灾害事件造成的遗体或残骸；\\n\n2，大型人为灾害事件现场以及涉及的武器；\\n\n3，使用过的高成瘾物以及相关用品；\\n\n4，使用过的恶劣爆炸物残片以及相关物品；\\n\n5，严重违反异想危害管理法的任何物品；\\n\n……】\\n",
+            "chineseTraditional": "",
+            "english": "",
+            "japanese": "",
+            "korean": ""
+          },
+          "properties": {
+            "code": "",
+            "chinese": "",
+            "chineseTraditional": "",
+            "english": "",
+            "japanese": "",
+            "korean": ""
+          }
+        }
+      ],
       "fakeCoverFlag": "",
       "fakeCoverCode": "",
       "fakeCoverBlurCode": "",
@@ -12507,10 +15075,10 @@
           "category": "main",
           "content": {
             "code": "",
-            "chinese": "序\\n\n \\n\n二十一世纪中叶，宇宙探索热潮再启。\\n\n\\n\n人们在社交网络上激烈地讨论。少年吉诺坐在电脑前，屏幕上的新闻标题不停变换。\\n\n\\n\n“超越光速，第四次工业革命已经到来”\\n\n\\n\n“新的可移居星球完美复刻地球，应许之地的发现”\\n\n\\n\n“世界工业大会开幕，本期主题：前往宇宙”\\n\n\\n\n“先遣队成立，他们将开阔五个类地行星”\\n\n\\n\n“工业奇迹！蒸汽引擎横空出世”\\n\n\\n\n新闻上大大的蒸汽标志，逐渐变淡，变成钢印，投射到工厂正在生产的引擎上。\\n\n\\n\n流水线移动，“蒸汽”型引擎被打好标签，套壳装袋，运往各大船厂。\\n\n\\n\n飞船装载上引擎，转瞬间，引擎轰鸣，蒸汽涌动，超越宇宙第三速度，飞向深空。\\n\n\\n\n此时，货仓里，一双机械质的狐狸眼亮起。\\n\n\\n\n宇宙的深处，星河灿烂。一片黑布抖出，它意图遮蔽星河光辉，却只能蒙住人类的眼睛，创造出无边黑暗的假象，而就在这片黑暗中，片名浮出水面：\\n\n\\n\n<b>极星卫</b>\\n\n\\n\n……\n \n\n ",
-            "chineseTraditional": "序\\n\n \\n\n二十一世纪中葉，宇宙探索熱潮再啟。\\n\n\\n\n人們在社交網路上激烈地討論。少年吉諾坐在電腦前，屏幕上的新聞標題不停變換。\\n\n\\n\n“超越光速，第四次工業革命已經到來”\\n\n\\n\n“新的可移居星球完美復刻地球，應許之地的發現”\\n\n\\n\n“世界工業大會開幕，本期主题：前往宇宙”\\n\n\\n\n“先遣隊成立，他们將開闊五個類地行星”\\n\n\\n\n“工業奇蹟！蒸氣引擎横空出世”\\n\n\\n\n新聞上大大的蒸氣標誌，逐漸變淡，變成鋼印，投射到工廠正在生產的引擎上。\\n\n\\n\n流水線移動，“蒸氣”型引擎被打好標籤，套殼装袋，運往各大船廠。\\n\n\\n\n飛船裝載上引擎，轉瞬间，引擎轟鳴，蒸氣湧動，超越宇宙第三速度，飛向深空。\\n\n\\n\n此時，貨艙裡，一雙機械質的狐狸眼亮起。\\n\n\\n\n宇宙的深處，星河燦爛。一片黑布抖出，它意圖遮蔽星河光輝，卻只能蒙住人類的眼睛，創造出無邊黑暗的假象，而就在这片黑暗中，片名浮出水面：\\n\n\\n\n<b>極星衛</b>\\n\n\\n\n……\n \n\n ",
+            "chinese": "序\\n\n \\n\n二十一世纪中叶，宇宙探索热潮再启。\\n\n\\n\n人们在社交网络上激烈地讨论。少年吉诺坐在电脑前，屏幕上的新闻标题不停变换。\\n\n\\n\n“超越光速，第四次工业革命已经到来”\\n\n\\n\n“新的可移居星球完美复刻地球，应许之地的发现”\\n\n\\n\n“世界工业大会开幕，本期主题：前往宇宙”\\n\n\\n\n“先遣队成立，他们将开阔五个类地行星”\\n\n\\n\n“工业奇迹！蒸汽引擎横空出世”\\n\n\\n\n新闻上大大的蒸汽标志，逐渐变淡，变成钢印，投射到工厂正在生产的引擎上。\\n\n\\n\n流水线移动，“蒸汽”型引擎被打好标签，套壳装袋，运往各大船厂。\\n\n\\n\n飞船装载上引擎，转瞬间，引擎轰鸣，蒸汽涌动，超越宇宙第三速度，飞向深空。\\n\n\\n\n此时，货仓里，一双机械质的狐狸眼亮起。\\n\n\\n\n宇宙的深处，星河灿烂。一片黑布抖出，它意图遮蔽星河光辉，却只能蒙住人类的眼睛，创造出无边黑暗的假象，而就在这片黑暗中，片名浮出水面：\\n\n\\n\n<b>极星卫</b>\\n\n \\n\n……\n \n\n ",
+            "chineseTraditional": "序\\n\n \\n\n二十一世纪中葉，宇宙探索熱潮再啟。\\n\n\\n\n人們在社交網路上激烈地討論。少年吉諾坐在電腦前，屏幕上的新聞標題不停變換。\\n\n\\n\n“超越光速，第四次工業革命已經到來”\\n\n\\n\n“新的可移居星球完美復刻地球，應許之地的發現”\\n\n\\n\n“世界工業大會開幕，本期主题：前往宇宙”\\n\n\\n\n“先遣隊成立，他们將開闊五個類地行星”\\n\n\\n\n“工業奇蹟！蒸氣引擎横空出世”\\n\n\\n\n新聞上大大的蒸氣標誌，逐漸變淡，變成鋼印，投射到工廠正在生產的引擎上。\\n\n\\n\n流水線移動，“蒸氣”型引擎被打好標籤，套殼装袋，運往各大船廠。\\n\n\\n\n飛船裝載上引擎，轉瞬间，引擎轟鳴，蒸氣湧動，超越宇宙第三速度，飛向深空。\\n\n\\n\n此時，貨艙裡，一雙機械質的狐狸眼亮起。\\n\n\\n\n宇宙的深處，星河燦爛。一片黑布抖出，它意圖遮蔽星河光輝，卻只能蒙住人類的眼睛，創造出無邊黑暗的假象，而就在这片黑暗中，片名浮出水面：\\n\n\\n\n<b>極星衛</b>\\n\n \\n\n……\n \n\n ",
             "english": "",
-            "japanese": "序\\n\n \\n\n二十一世紀半ば、宇宙探索という欲望が再び人々の中で燃え上がった。\\n\n\\n\n熱狂する人々はネット上で熱弁を繰り返している。少年ジノはパソコンの前に座り、モニター上で移り変わるニュースのタイトルを見つめていた。\\n\n\\n\n「光速突破に成功、第四次産業革命の到来か」\\n\n\\n\n「地球と瓜二つの惑星、人類の新たな居住地を発見」\\n\n\\n\n「世界産業大会開幕、テーマ『宇宙へ』」\\n\n\\n\n「先遣隊結成、5つの地球型惑星を開拓予定」\\n\n\\n\n「産業の奇跡！画期的な発明——蒸気エンジン」\\n\n\\n\nニュースで大きく出されたスチームのロゴはだんだん浅く、やがて刻印となり、工場で製造途中のエンジンに映写される。\\n\n\\n\nラインの処理を経て、「スチーム」型エンジンはタグをつけられ包装されて、各造船所へと輸送される。\\n\n\\n\n飛行船はエンジンを搭載して起動し、轟きと蒸気を発しながら第三宇宙速度を超え、深宇宙へと飛び立つ。\\n\n\\n\nその貨物庫で、一対の金属質のキツネの目がきらりと光り出す。\\n\n\\n\n宇宙の奥底で銀河が煌めいている。黒い布が放り出され、銀河の煌めきを遮ろうとするも人々の目を遮ることしかできず、偽りの暗闇を作り出した。その暗闇の中で、タイトルが浮かび上がる：\\n\n\\n\n<b>バサレウス</b>\\n\n\\n\n……\n \n\n ",
+            "japanese": "序\\n\n \\n\n二十一世紀半ば、宇宙探索という欲望が再び人々の中で燃え上がった。\\n\n\\n\n熱狂する人々はネット上で熱弁を繰り返している。少年ジノはパソコンの前に座り、モニター上で移り変わるニュースのタイトルを見つめていた。\\n\n\\n\n「光速突破に成功、第四次産業革命の到来か」\\n\n\\n\n「地球と瓜二つの惑星、人類の新たな居住地を発見」\\n\n\\n\n「世界産業大会開幕、テーマ『宇宙へ』」\\n\n\\n\n「先遣隊結成、5つの地球型惑星を開拓予定」\\n\n\\n\n「産業の奇跡！画期的な発明——蒸気エンジン」\\n\n\\n\nニュースで大きく出されたスチームのロゴはだんだん浅く、やがて刻印となり、工場で製造途中のエンジンに映写される。\\n\n\\n\nラインの処理を経て、「スチーム」型エンジンはタグをつけられ包装されて、各造船所へと輸送される。\\n\n\\n\n飛行船はエンジンを搭載して起動し、轟きと蒸気を発しながら第三宇宙速度を超え、深宇宙へと飛び立つ。\\n\n\\n\nその貨物庫で、一対の金属質のキツネの目がきらりと光り出す。\\n\n\\n\n宇宙の奥底で銀河が煌めいている。黒い布が放り出され、銀河の煌めきを遮ろうとするも人々の目を遮ることしかできず、偽りの暗闇を作り出した。その暗闇の中で、タイトルが浮かび上がる：\\n\n\\n\n<b>バサレウス</b>\\n\n \\n\n……\n \n\n ",
             "korean": ""
           },
           "properties": {
@@ -12703,7 +15271,7 @@
           "content": {
             "code": "",
             "chinese": "14 九仙街步道 晨 外\\n\n\\n\n临近红灯节，道路两边，灯笼高挂；各色的小吃车，烟火缭绕；赶集的小贩摊，琳琅满目。叫卖声、还价声、赶路的脚步，无不彰显它的生机。\\n\n\\n\n孩童接过母亲递来的大饼，呼呼吹气，滚烫洁白的蒸气中，排放着灰团的金鱼飞行器，伴随着不和谐的鲸鸣，闯入了孩童的世界。\\n\n\\n\n孩童甲：妈妈，那是什么？\\n\n\\n\n母亲甲：城防军来了，别看了，快跑！\\n\n\\n\n孩童甲：饼，饼还没吃完！\\n\n\\n\n年轻的母亲拉起孩童的小手，向街道的外围跑去，身后的建筑在炮弹和激光的射击下，纷纷倒塌。飞行器从头顶滑翔而过，留下尾翼摆动的气流线条和阵阵轰响。孩童惊慌得不敢回头，低声发出簌簌抽泣，四散奔走的人群嘶吼出狂欢节的气氛。\\n\n\\n\n红澄澄的红灯笼，如肩上烛火，照亮漆黑的心路，孩童在跌跌撞撞中回头，金鱼摇摆身姿，鳞表吐纳，金光琉璃般滚动，引出成百魍魉孤魂，如殿座上的金身群像。然而巨物林立，终是虚妄幻想；那丛生的黑幕，半人半机械的女子仅用一拳便将其捣碎，还人间以光芒。孩童凝视她转身的背影，被母亲抱起快步离开了战场，仅留她一人立于原地。",
-            "chineseTraditional": "",
+            "chineseTraditional": "14 九仙街步道 晨 外\\n\n\\n\n臨近紅燈節，道路兩邊，燈籠高掛；各色的小吃車，煙火繚繞；趕集的小販攤，琳琅滿目。叫賣聲、還價聲、趕路的腳步，無不彰顯它的生機。\\n\n\\n\n孩童接過母親遞來的大餅，呼呼吹氣，滾燙潔白的蒸氣中，排放着灰團的金魚飛行器，伴隨着不和諧的鯨鳴，闖入了孩童的世界。\\n\n\\n\n孩童甲：媽媽，那是什麼？\\n\n\\n\n母親甲：城防軍來了，別看了，快跑！\\n\n\\n\n孩童甲：餅，餅還沒吃完！\\n\n\\n\n年輕的母親拉起孩童的小手，向街道的外圍跑去，身後的建築在炮彈和激光的射擊下，紛紛倒塌。飛行器從頭頂滑翔而過，留下尾翼擺動的氣流線條和陣陣轟響。孩童驚慌得不敢回頭，低聲發出簌簌抽泣，四散奔走的人群嘶吼出狂歡節的氣氛。\\n\n\\n\n紅澄澄的紅燈籠，如肩上燭火，照亮漆黑的心路，孩童在跌跌撞撞中回頭，金魚搖擺身姿，鱗表吐納，金光琉璃般滾動，引出成百魍魎孤魂，如殿座上的金身群像。然而巨物林立，終是虛妄幻想；那叢生的黑幕，半人半機械的女子僅用一拳便將其搗碎，還人間以光芒。孩童凝視她轉身的背影，被母親抱起快步離開了戰場，僅留她一人立於原地。",
             "english": "",
             "japanese": "14 九仙通り歩道 朝 外\\n\n\\n\n紅灯祭を迎え、道の両側に無数の灯篭が飾られている。多種多様な屋台が煙をたて、露店からは人々の談笑する声が聞こえ、街全体が生き生きとしている。\\n\n\\n\n子供は母から買ったばかりの餅を受け取って、ふーふーと息を吹いて冷ましている。その白い熱気がなす天真な世界に、排気と不気味な鳴き声を出しながら飛行している金魚が突然入り込んできた。\\n\n\\n\n子供甲：母さん、あれはなに？\\n\n\\n\n母甲：防衛軍が来たわ。早く逃げるわよ！\\n\n\\n\n子供甲：え、でもまだ餅が！\\n\n\\n\n若い母親は子供の手を取って通りの外へと走る。後ろの建物群は砲弾とレイザーの攻撃によってどんどん崩れていく。飛行船は頭上を通り、尾翼でかき乱した大気とエンジンの轟きを残して飛んでいく。子供は振り返る勇気もなく、奔走する人の群れが出す狂気な叫び声を聞きながら、ただ俯いて泣くしかない。\\n\n\\n\n赤い灯篭、燭光の如く漆黒な心路を照らす。よろめく児童が振り返り、身を揺らす金魚を目にする。魑魅魍魎を引き出し、眩しく輝くそれはまるで鎮座する金の像の如し。然れども巨物の林立は幻でしかない。一人の娘が漆黒を打ち砕き、光を人界に連れ戻す。児童はその姿を見つめるが、母に抱かれてこの地を離れ、その娘のみを残した。",
             "korean": ""
@@ -12742,7 +15310,7 @@
           "content": {
             "code": "",
             "chinese": "15 九仙街布道的废墟 晨 外\\n\n\\n\n蒸汽与灰尘笼罩天日。金鱼飞行器的剪影里，走下两排机械大兵，指挥人员步其后，再后是搬运器具的普通士兵。身着实验服的青年人，正指着女副官的鼻子大骂。\\n\n\\n\n吉诺：你们疯了吗！定位不在这里！攻击居民区可是重罪！\\n\n\\n\n副官：长官没功夫猫捉老鼠。\\n\n\\n\n副官：你瞧这不，她来了。\\n\n\\n\n烟雾丛中猛然跃出一女子，机械臂上蓝光耀动，高举过头顶，作擒虎态，瞧方向正是瞄准了尼格拉将军。\\n\n\\n\n副官：保护指挥官！\\n\n\\n\n大兵们闪入女子的进攻路线，如十八罗汉，十面夹击，或拳或刃，攻其要害。女子早有预料，侧身躲过三处交错，双腿若旋风，尖踹关节，转瞬缴械，乱其阵型，开出生路。\\n\n\\n\n尼格拉——这最后一道关卡，坚若磐石，行若游龙，任凭女子攻击，也不动摇分毫。\\n\n\\n\n尼格拉：有进步，小师妹。\\n\n\\n\n鸠：真不要脸。\\n\n\\n\n尼格拉与鸠仍有几分情意在，因而无意产生冲突，只做局势观察。鸠后退捂住胸口，尼格拉比她想象得更强，恐要更改计划，她看到半米外埋躺在尘土中的匕首，心生一计。\\n\n\\n\n尼格拉：你不逃，也就不会牵连他人。\\n\n\\n\n鸠：然后回去助纣为虐吗！\\n\n\\n\n鸠一脚踢起匕首，射向尼格拉的方向，随即半步上前，拳中尼格拉的胸膛。尼格拉勉强躲过暗剑，不敌师妹偷袭，在巨力冲击下连连后退数步，鸠乘势追击，两人隐入尘中。\\n\n\\n\n尼格拉：当然！交出心脏也是个选择！\\n\n\\n\n鸠：你做梦——\\n\n\\n\n副官：长官！\\n\n\\n\n副官加入混战，一旁看热闹的吉诺忽然反应过来，这是个极好的逃跑机会。他拿起一旁装有连接头盔的手提箱，向右方的居民区跑去。",
-            "chineseTraditional": "",
+            "chineseTraditional": "15 九仙街佈道的廢墟 晨 外\\n\n\\n\n蒸汽與灰塵籠罩天日。金魚飛行器的剪影里，走下兩排機械大兵，指揮人員步其後，再后是搬運器具的普通士兵。身着實驗服的青年人，正指着女副官的鼻子大罵。\\n\n\\n\n吉諾：你們瘋了嗎！定位不在這裡！攻擊居民區可是重罪！\\n\n\\n\n副官：長官沒功夫貓捉老鼠。\\n\n\\n\n副官：你瞧這不，她來了。\\n\n\\n\n煙霧叢中猛然躍出一女子，機械臂上藍光耀動，高舉過頭頂，作擒虎態，瞧方向正是瞄準了尼格拉將軍。\\n\n\\n\n副官：保護指揮官！\\n\n\\n\n大兵們閃入女子的進攻路線，如十八羅漢，十面夾擊，或拳或刃，攻其要害。女子早有預料，側身躲過三處交錯，雙腿若旋風，尖踹關節，轉瞬繳械，亂其陣型，開出生路。\\n\n\\n\n尼格拉——這最後一道關卡，堅若磐石，行若游龍，任憑女子攻擊，也不動搖分毫。\\n\n\\n\n尼格拉：有進步，小師妹。\\n\n\\n\n鳩：真不要臉。\\n\n\\n\n尼格拉與鳩仍有幾分情意在，因而無意產生衝突，只做局勢觀察。鳩後退捂住胸口，尼格拉比她想象得更強，恐要更改計劃，她看到半米外埋躺在塵土中的匕首，心生一計。\\n\n\\n\n尼格拉：你不逃，也就不會牽連他人。\\n\n\\n\n鳩：然後回去助紂為虐嗎！\\n\n\\n\n鳩一腳踢起匕首，射向尼格拉的方向，隨即半步上前，拳中尼格拉的胸膛。尼格拉勉強躲過暗劍，不敵師妹偷襲，在巨力衝擊下連連後退數步，鳩乘勢追擊，兩人隱入塵中。\\n\n\\n\n尼格拉：當然！交出心臟也是個選擇！\\n\n\\n\n鳩：你做夢——\\n\n\\n\n副官：長官！\\n\n\\n\n副官加入混戰，一旁看熱鬧的吉諾忽然反應過來，這是個極好的逃跑機會。他拿起一旁裝有連接頭盔的手提箱，向右方的居民區跑去。",
             "english": "",
             "japanese": "15 九仙通り歩道廃墟 朝 外\\n\n\\n\n蒸気と埃が編み出す灰色の世界。金魚型の飛行装置から2列の機械兵士が降りてくる、その後ろには指揮者と機材を運搬している一般兵士たち。白衣を身に纏う若者は女の副官に向かって叫んでいる。\\n\n\\n\nジノ：気が狂ったのか！座標はここじゃないだろ！住民区への攻撃は重罪だぞ！\\n\n\\n\n副官：鬼ごっこに付き合うほど暇ではないのよ。\\n\n\\n\n副官：ほら、出てきたわよ。\\n\n\\n\n粉塵の煙から一人の女の子が飛び出る。その高く掲げている機械の腕が青く光り、二コラ将軍に狙いを定めた。\\n\n\\n\n副官：司令官を守れ！\\n\n\\n\n兵士たちが娘の進路を塞ぎ、彼女を挟み込むような形で攻撃を繰り出す。それを読んでいる娘は身を交わし、両足で勢いよく兵士たちに蹴りつける。陣形が乱れ、道は切り開かれた。\\n\n\\n\n二コラ——最後の砦となった彼だが、娘がいくら攻撃しても全く動じる様子を見せない。\\n\n\\n\n二コラ：また強くなったな、妹弟子よ。\\n\n\\n\n鳩：よくもやってくれたね。\\n\n\\n\n昔の仲を重んじて、二人に激しいぶつかり合いをする意思はなかった。鳩は胸を押さえながら後ろに退いた。二コラは想像したよりも強く、おそらく計画を変更する必要がある。半メートルほど離れた場所に埃に埋もれたナイフがある、鳩はそれを見て何か思いついたようだ。\\n\n\\n\n二コラ：逃げて隠れたりしなかったら、他の人を巻き込まずに済んだのにな。\\n\n\\n\n鳩：素直に悪人のために働けとでも？\\n\n\\n\n鳩は足でナイフを二コラに向けて蹴り、そして距離を詰めて二コラの胸に力強い拳を当てた。二コラは何とか暗器を交わしたものの、妹弟子からの不意打ちをくらって後ずさった。鳩はさらなる追い打ちをかけ、砂埃によって二人の姿が匿られる。\\n\n\\n\n二コラ：もちろん、心臓を差し出すというのも一つの選択肢だ！\\n\n\\n\n鳩：ふざけるな——\\n\n\\n\n副官：上官殿！\\n\n\\n\n副官が乱戦に割り込んだ。隣で見ていたばかりのジノはこれは逃げるチャンスだと気づき、素早くヘルメットとブリーフケースを手に取って右側の住民区へと走っていった。",
             "korean": ""
@@ -12781,7 +15349,7 @@
           "content": {
             "code": "",
             "chinese": "16 九仙街小巷 日 外\\n\n\\n\n小巷湿漉漉，空中牵了几根挂衣绳，空荡落寞。吉诺确认四下无人，撑着膝盖稍加喘息。\\n\n\\n\n吉诺：真是疯了。\\n\n\\n\n他伸出双手检查自己的状态。陌生的手型，右掌心暗沉的旧日刀伤，不像文职人员会有的手臂肌肉，结合之前闪现的记忆，他得出了一个结论。\\n\n\\n\n吉诺：我穿越了，还是魂穿？不对，这个感觉是——\\n\n\\n\n还没等他完全想明白现状，尼格拉追捕的女人突然出现在了他面前。吉诺大吃一惊，女人也立即进入了警备状态，项圈的冰莲花微微晃动。\\n\n\\n\n吉诺：别攻击我，我可以解释！\\n\n\\n\n鸠：我知道你是谁。\\n\n\\n\n她走得更近，吉诺也看清了她面目。\\n\n\\n\n\\n\n\\n\n17 巴萨雷乌斯驾驶舱 夜 内 回忆\\n\n\\n\n模糊的记忆里，身着驾驶服的少女哭泣着，诉说着，吉诺只记得那是不断的祈求。\\n\n\\n\n\\n\n\\n\n18 九仙街小巷 日 外\\n\n\\n\n鸠：你不是尤埃。\\n\n\\n\n吉诺：你知道。\\n\n\\n\n她指了指头顶，吉诺只见人造卫星的红点，在天空缓缓划过，不是很明白她的意思。鸠见他不明白，又指了指吉诺手上的皮箱。\\n\n\\n\n鸠：极星卫告诉我的。\\n\n\\n\n吉诺：你是说，那台机甲？你是怎么做到的。\\n\n\\n\n鸠：卫星，连接着我们。\\n\n\\n\n吉诺：这怎么可——\\n\n\\n\n直到他看到鸠的右臂和左腿的义肢，想起尼格拉的描述。\\n\n\\n\n\\n\n\\n\n19 九仙街布道的废墟 晨 外 回忆\\n\n\\n\n弱势之下，鸠不住退后，机械手按上过速起伏的胸口，皮肤表层似有白雾溢出。",
-            "chineseTraditional": "",
+            "chineseTraditional": "16 九仙街小巷 日 外\\n\n\\n\n小巷濕漉漉，空中牽了幾根掛衣繩，空蕩落寞。吉諾確認四下無人，撐着膝蓋稍加喘息。\\n\n\\n\n吉諾：真是瘋了。\\n\n\\n\n他伸出雙手檢查自己的狀態。陌生的手型，右掌心暗沉的舊日刀傷，不像文職人員會有的手臂肌肉，結合之前閃現的記憶，他得出了一個結論。\\n\n\\n\n吉諾：我穿越了，還是魂穿？不對，這個感覺是——\\n\n\\n\n還沒等他完全想明白現狀，尼格拉追捕的女人突然出現在了他面前。吉諾大吃一驚，女人也立即進入了警備狀態，項圈的冰蓮花微微晃動。\\n\n\\n\n吉諾：別攻擊我，我可以解釋！\\n\n\\n\n鳩：我知道你是誰。\\n\n\\n\n她走得更近，吉諾也看清了她面目。\\n\n\\n\n\\n\n\\n\n17 巴薩雷烏斯駕駛艙 夜 內 回憶\\n\n\\n\n模糊的記憶里，身着駕駛服的少女哭泣着，訴說著，吉諾只記得那是不斷的祈求。\\n\n\\n\n\\n\n\\n\n18 九仙街小巷 日 外\\n\n\\n\n鳩：你不是尤埃。\\n\n\\n\n吉諾：你知道。\\n\n\\n\n她指了指頭頂，吉諾只見人造衛星的紅點，在天空緩緩劃過，不是很明白她的意思。鳩見他不明白，又指了指吉諾手上的皮箱。\\n\n\\n\n鳩：極星衛告訴我的。\\n\n\\n\n吉諾：你是說，那台機甲？你是怎麼做到的。\\n\n\\n\n鳩：衛星，連接着我們。\\n\n\\n\n吉諾：這怎麼可——\\n\n\\n\n直到他看到鳩的右臂和左腿的義肢，想起尼格拉的描述。\\n\n\\n\n\\n\n\\n\n19 九仙街佈道的廢墟 晨 外 回憶\\n\n\\n\n弱勢之下，鳩不住退後，機械手按上過速起伏的胸口，皮膚表層似有白霧溢出。",
             "english": "",
             "japanese": "16 九仙通り路地 昼 外\\n\n\\n\n湿った路地、空中に架けられた物干し以外何もなく寂しい雰囲気が漂う。ジノは周りに人がいないことを確認して足を止め、膝に手をつきながら大きく呼吸を繰り返した。\\n\n\\n\nジノ：まったく狂ったやつらだ。\\n\n\\n\n自分の両手を見下ろして確かめる。見慣れない手、右の手のひらに知らない傷跡、そして研究員にふさわしくない腕の筋肉。謎の記憶のフラッシュバックも足し合わせて、ジノは一つの結論にたどり着いた。\\n\n\\n\nジノ：これは...タイムトラベル？それとも誰かと入れ替わった？いや、この感覚は——\\n\n\\n\n状況の整理はまだできていないが、二コラに追われている娘が突然目の前に現れた。ジノは目を見張り、娘も素早く警戒態勢を取った。白いハスの首飾りがひらりと揺れる。\\n\n\\n\nジノ：落ち着け、こっちもワケありなんだ！\\n\n\\n\n鳩：あんたのことは知っている。\\n\n\\n\n娘がジノに近づいてくる、やっとその顔がはっきり見えた。\\n\n\\n\n\\n\n\\n\n17 バサレウス操縦席 夜 室内 追憶\\n\n\\n\n曖昧とした記憶の中に現れたのは、飛行服姿で泣きながら何かを言っている少女。ジノにはそれが祈りの言葉だとわかった。\\n\n\\n\n\\n\n\\n\n18 九仙通り路地 昼 外\\n\n\\n\n鳩：あんたはユーエじゃない。\\n\n\\n\nジノ：わかるのか。\\n\n\\n\n鳩は空を指さした。ジノが頭をあげると、そこには人工衛星が出す赤い光しかなかった。その理解していない様子を見て、鳩は次にジノが持っているブリーフケースを指した。\\n\n\\n\n鳩：バサレウスが教えてくれた。\\n\n\\n\nジノ：あの機械装甲が？それはどうやって...\\n\n\\n\n鳩：衛星は、私たちと繋がっている。\\n\n\\n\nジノ：そんなバカな——\\n\n\\n\n言葉が詰まった。娘の右腕と左足の義肢が見えた、そして二コラの話が脳内に蘇る。\\n\n\\n\n\\n\n\\n\n19 九仙通り歩道廃墟 朝 外 追憶\\n\n\\n\n劣勢の中、鳩は機械の腕で激しく起伏している胸元を抑えた。その皮膚には、白い靄みたいなものがかかっている。",
             "korean": ""
@@ -12819,10 +15387,10 @@
           "category": "main",
           "content": {
             "code": "",
-            "chinese": "20 九仙街小巷 日 外\\n\n\\n\n吉诺：你的心脏是蒸汽引擎？\\n\n\\n\n鸠：嗯。\\n\n\\n\n吉诺：真是不可思议。\\n\n\\n\n小巷外传来整齐的脚步声，约莫有一队全副武装的士兵正在接近。鸠拉过吉诺，做最后的嘱咐。\\n\n\\n\n鸠：不是说这个的时候，朝那边走，走到尽头，会有人接应你。\\n\n\\n\n\\n\n\\n\n\\n\n \\n\n\\n\n21 载具试验场 日 外 回忆\\n\n\\n\n白裙的女孩，站在升降梯上，向镜头外问好。\\n\n\\n\n鸠：你好啊，巴萨雷乌斯，我叫鸠。\\n\n\\n\n\\n\n\\n\n22 九仙街小巷 日 外\\n\n\\n\n女子说完转身准备离开，吉诺不自觉地叫住了她。\\n\n\\n\n吉诺：鸠!\\n\n\\n\n吉诺：过会儿见。\\n\n\\n\n鸠回头笑了笑，激活右臂装置，朝敌人的方向走去。\\n\n\\n\n\\n\n\\n\n23 九仙街步道的废墟 日 外\\n\n\\n\n医疗兵正为尼格拉包扎伤口，副官清扫战场回来。\\n\n\\n\n副官：长官，没找到。\\n\n\\n\n尼格拉：他家呢。\\n\n\\n\n副官：没有人，您说是不是……\\n\n\\n\n尼格拉：他绝不可能背叛。\\n\n\\n\n副官不敢说话了。她再怎么怀疑，也不如长官一句信任。\\n\n\\n\n尼格拉：鸠还有同谋，一定是他们趁刚才的混乱绑走了尤埃。派士兵去搜，人还没走远。\\n\n\\n\n尼格拉其实也不确定自己的判断，他撑着膝盖的左手，不停敲击着咚咚咚的节奏，思考了良久。",
+            "chinese": "20 九仙街小巷 日 外\\n\n\\n\n吉诺：你的心脏是蒸汽引擎？\\n\n\\n\n鸠：嗯。\\n\n\\n\n吉诺：真是不可思议。\\n\n\\n\n小巷外传来整齐的脚步声，约莫有一队全副武装的士兵正在接近。鸠拉过吉诺，做最后的嘱咐。\\n\n\\n\n鸠：不是说这个的时候，朝那边走，走到尽头，会有人接应你。\\n\n\\n\n\\n\n \\n\n\\n\n \\n\n\\n\n21 载具试验场 日 外 回忆\\n\n\\n\n白裙的女孩，站在升降梯上，向镜头外问好。\\n\n\\n\n鸠：你好啊，巴萨雷乌斯，我叫鸠。\\n\n\\n\n\\n\n\\n\n22 九仙街小巷 日 外\\n\n\\n\n女子说完转身准备离开，吉诺不自觉地叫住了她。\\n\n\\n\n吉诺：鸠!\\n\n\\n\n吉诺：过会儿见。\\n\n\\n\n鸠回头笑了笑，激活右臂装置，朝敌人的方向走去。\\n\n\\n\n\\n\n\\n\n23 九仙街步道的废墟 日 外\\n\n\\n\n医疗兵正为尼格拉包扎伤口，副官清扫战场回来。\\n\n\\n\n副官：长官，没找到。\\n\n\\n\n尼格拉：他家呢。\\n\n\\n\n副官：没有人，您说是不是……\\n\n\\n\n尼格拉：他绝不可能背叛。\\n\n\\n\n副官不敢说话了。她再怎么怀疑，也不如长官一句信任。\\n\n\\n\n尼格拉：鸠还有同谋，一定是他们趁刚才的混乱绑走了尤埃。派士兵去搜，人还没走远。\\n\n\\n\n尼格拉其实也不确定自己的判断，他撑着膝盖的左手，不停敲击着咚咚咚的节奏，思考了良久。",
             "chineseTraditional": "",
             "english": "",
-            "japanese": "20 九仙通り路地 昼 外\\n\n\\n\nジノ：お前の心臓は、蒸気エンジンなのか？\\n\n\\n\n鳩：うん。\\n\n\\n\nジノ：...全く不思議だ。\\n\n\\n\n揃った足音が聞こえた、おそらく一部隊の兵士がここに近づいている。鳩はジノを引き寄せて最後の言葉を伝える。\\n\n\\n\n鳩：今はこれを話している場合じゃない。あの方向を、突き当りまで行って。迎えてくれる人がそこにいる。\\n\n\\n\n\\n\n\\n\n\\n\n \\n\n\\n\n21 テストコース 昼 外 追憶\\n\n\\n\n白いワンピースの女の子が昇降台の上に立って、カメラの向こう側に挨拶をしている。\\n\n\\n\n鳩：こんにちは、バサレウス。私の名前は鳩。\\n\n\\n\n\\n\n\\n\n22 九仙通り路地 昼 外\\n\n\\n\n言葉だけを残して離れていく娘を見て、ジノは思わず呼び止めた。\\n\n\\n\nジノ：鳩！\\n\n\\n\nジノ：また後で。\\n\n\\n\n鳩は振り返って微笑んだ。そして右腕の装置を起動して、敵が来る方向へと向う。\\n\n\\n\n\\n\n\\n\n23 九仙通り歩道廃墟 昼 外\\n\n\\n\n衛生兵に傷の手当てをしてもらっている二コラのところに、あたりを駆け回った副官が戻ってきた。\\n\n\\n\n副官：見つけられませんでした。\\n\n\\n\n二コラ：彼の家は探ったのか。\\n\n\\n\n副官：誰もいませんでした。まさか……\\n\n\\n\n二コラ：彼が裏切ることはない。\\n\n\\n\n副官はこれ以上喋ることがなかった。いくら疑っても、上官の信頼には叶わないことだ。\\n\n\\n\n二コラ：鳩には協力者がいる、その人たちがどさくさに紛れてユーエをさらったんだ。兵を出せ、まだそう遠くには行っていないはずだ。\\n\n\\n\n二コラにも自分の判断は正しいかどうかがわからない。ただただ焦る気持ちを抑えて、考え込むしかなかった。",
+            "japanese": "20 九仙通り路地 昼 外\\n\n\\n\nジノ：お前の心臓は、蒸気エンジンなのか？\\n\n\\n\n鳩：うん。\\n\n\\n\nジノ：...全く不思議だ。\\n\n\\n\n揃った足音が聞こえた、おそらく一部隊の兵士がここに近づいている。鳩はジノを引き寄せて最後の言葉を伝える。\\n\n\\n\n鳩：今はこれを話している場合じゃない。あの方向を、突き当りまで行って。迎えてくれる人がそこにいる。\\n\n\\n\n\\n\n \\n\n\\n\n \\n\n\\n\n21 テストコース 昼 外 追憶\\n\n\\n\n白いワンピースの女の子が昇降台の上に立って、カメラの向こう側に挨拶をしている。\\n\n\\n\n鳩：こんにちは、バサレウス。私の名前は鳩。\\n\n\\n\n\\n\n\\n\n22 九仙通り路地 昼 外\\n\n\\n\n言葉だけを残して離れていく娘を見て、ジノは思わず呼び止めた。\\n\n\\n\nジノ：鳩！\\n\n\\n\nジノ：また後で。\\n\n\\n\n鳩は振り返って微笑んだ。そして右腕の装置を起動して、敵が来る方向へと向う。\\n\n\\n\n\\n\n\\n\n23 九仙通り歩道廃墟 昼 外\\n\n\\n\n衛生兵に傷の手当てをしてもらっている二コラのところに、あたりを駆け回った副官が戻ってきた。\\n\n\\n\n副官：見つけられませんでした。\\n\n\\n\n二コラ：彼の家は探ったのか。\\n\n\\n\n副官：誰もいませんでした。まさか……\\n\n\\n\n二コラ：彼が裏切ることはない。\\n\n\\n\n副官はこれ以上喋ることがなかった。いくら疑っても、上官の信頼には叶わないことだ。\\n\n\\n\n二コラ：鳩には協力者がいる、その人たちがどさくさに紛れてユーエをさらったんだ。兵を出せ、まだそう遠くには行っていないはずだ。\\n\n\\n\n二コラにも自分の判断は正しいかどうかがわからない。ただただ焦る気持ちを抑えて、考え込むしかなかった。",
             "korean": ""
           },
           "properties": {
@@ -13858,35 +16426,39 @@
   "unclassifiedFiles": [],
   "illustrationContainer": {
     "m_FileID": 0,
-    "m_PathID": 856
+    "m_PathID": 983
   },
   "illustrationPrefab": {
     "m_FileID": 2,
-    "m_PathID": 25
+    "m_PathID": 42
   },
   "illustrationPreviewBG": {
     "m_FileID": 0,
-    "m_PathID": 317
+    "m_PathID": 362
   },
   "illustrationPreview": {
     "m_FileID": 0,
-    "m_PathID": 306
+    "m_PathID": 351
   },
   "illustrationPreviewInfo": {
     "m_FileID": 0,
-    "m_PathID": 315
+    "m_PathID": 360
   },
   "illustrationBlurImageLoader": {
     "m_FileID": 0,
-    "m_PathID": 1181
+    "m_PathID": 1372
   },
   "illustrationImageLoader": {
     "m_FileID": 0,
-    "m_PathID": 1192
+    "m_PathID": 1383
   },
   "illustratorText": {
     "m_FileID": 0,
-    "m_PathID": 1188
+    "m_PathID": 1379
+  },
+  "visionReplaySummary": {
+    "m_FileID": 0,
+    "m_PathID": 1085
   },
   "cutOut": {
     "m_FileID": 6,
@@ -13894,6 +16466,6 @@
   },
   "collectionProgressTitle": {
     "m_FileID": 0,
-    "m_PathID": 904
+    "m_PathID": 1035
   }
 }

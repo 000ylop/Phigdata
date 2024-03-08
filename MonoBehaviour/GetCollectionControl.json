@@ -6,7 +6,7 @@
   "m_Enabled": 1,
   "m_Script": {
     "m_FileID": 1,
-    "m_PathID": 850
+    "m_PathID": 859
   },
   "m_Name": "",
   "collectionItems": [
@@ -1861,6 +1861,24 @@
         "chineseTraditional": "破譯·望影の方舟Six",
         "english": "[Decipher] 望影の方舟Six",
         "japanese": "解読・望影の方舟Six",
+        "korean": ""
+      }
+    },
+    {
+      "getSong": 30,
+      "getType": -1,
+      "getPower": 30,
+      "getInfo1": "",
+      "getInfo2": "",
+      "getInfo3": "",
+      "key": "poyiARK",
+      "subIndex": 2,
+      "multiLanguageTitle": {
+        "code": "",
+        "chinese": "破译·望影の方舟Six·线索一",
+        "chineseTraditional": "",
+        "english": "",
+        "japanese": "",
         "korean": ""
       }
     },
@@ -6144,7 +6162,7 @@
         "chinese": "隼的行船记录仪·一",
         "chineseTraditional": "隼的行船記錄儀·一",
         "english": "",
-        "japanese": "",
+        "japanese": "隼の飛行レコード・一",
         "korean": ""
       }
     },
@@ -6162,7 +6180,7 @@
         "chinese": "隼的行船记录仪·二",
         "chineseTraditional": "隼的行船記錄儀·二",
         "english": "",
-        "japanese": "",
+        "japanese": "隼の飛行レコード・二",
         "korean": ""
       }
     },
@@ -6179,6 +6197,1158 @@
         "code": "",
         "chinese": "隼的行船记录仪·三",
         "chineseTraditional": "隼的行船記錄儀·三",
+        "english": "",
+        "japanese": "隼の飛行レコード・三",
+        "korean": ""
+      }
+    },
+    {
+      "getSong": 20006,
+      "getType": -1,
+      "getPower": 100,
+      "getInfo1": "",
+      "getInfo2": "",
+      "getInfo3": "",
+      "key": "zhixian20",
+      "subIndex": 1,
+      "multiLanguageTitle": {
+        "code": "",
+        "chinese": "旁白：造主",
+        "chineseTraditional": "",
+        "english": "",
+        "japanese": "",
+        "korean": ""
+      }
+    },
+    {
+      "getSong": 20007,
+      "getType": -1,
+      "getPower": 100,
+      "getInfo1": "",
+      "getInfo2": "",
+      "getInfo3": "",
+      "key": "zhixian21",
+      "subIndex": 1,
+      "multiLanguageTitle": {
+        "code": "",
+        "chinese": "旁白：心魔",
+        "chineseTraditional": "",
+        "english": "",
+        "japanese": "",
+        "korean": ""
+      }
+    },
+    {
+      "getSong": 20008,
+      "getType": -1,
+      "getPower": 100,
+      "getInfo1": "",
+      "getInfo2": "",
+      "getInfo3": "",
+      "key": "zhixian22",
+      "subIndex": 1,
+      "multiLanguageTitle": {
+        "code": "",
+        "chinese": "旁白：未来",
+        "chineseTraditional": "",
+        "english": "",
+        "japanese": "",
+        "korean": ""
+      }
+    },
+    {
+      "getSong": 20010,
+      "getType": -1,
+      "getPower": 100,
+      "getInfo1": "",
+      "getInfo2": "",
+      "getInfo3": "",
+      "key": "zhixian24",
+      "subIndex": 1,
+      "multiLanguageTitle": {
+        "code": "",
+        "chinese": "旁白：黎明",
+        "chineseTraditional": "",
+        "english": "",
+        "japanese": "",
+        "korean": ""
+      }
+    },
+    {
+      "getSong": 20006,
+      "getType": 0,
+      "getPower": 30,
+      "getInfo1": "DemiurgeIN",
+      "getInfo2": "920000",
+      "getInfo3": "",
+      "key": "jiezuodedansheng",
+      "subIndex": 1,
+      "multiLanguageTitle": {
+        "code": "",
+        "chinese": "评《杰作的诞生》",
+        "chineseTraditional": "",
+        "english": "",
+        "japanese": "",
+        "korean": ""
+      }
+    },
+    {
+      "getSong": 20007,
+      "getType": -1,
+      "getPower": 30,
+      "getInfo1": "",
+      "getInfo2": "",
+      "getInfo3": "",
+      "key": "Mshiguangdefx",
+      "subIndex": 1,
+      "multiLanguageTitle": {
+        "code": "",
+        "chinese": "【影像】时光的废墟",
+        "chineseTraditional": "",
+        "english": "",
+        "japanese": "",
+        "korean": ""
+      }
+    },
+    {
+      "getSong": 20007,
+      "getType": -1,
+      "getPower": 30,
+      "getInfo1": "",
+      "getInfo2": "",
+      "getInfo3": "",
+      "key": "Mhana",
+      "subIndex": 1,
+      "multiLanguageTitle": {
+        "code": "",
+        "chinese": "【影像】哈娜",
+        "chineseTraditional": "",
+        "english": "",
+        "japanese": "",
+        "korean": ""
+      }
+    },
+    {
+      "getSong": 20008,
+      "getType": -1,
+      "getPower": 30,
+      "getInfo1": "",
+      "getInfo2": "",
+      "getInfo3": "",
+      "key": "xintudoudeyongsheng",
+      "subIndex": 1,
+      "multiLanguageTitle": {
+        "code": "",
+        "chinese": "致信：土星系统无法注册与故障问题",
+        "chineseTraditional": "",
+        "english": "",
+        "japanese": "",
+        "korean": ""
+      }
+    },
+    {
+      "getSong": 20008,
+      "getType": -1,
+      "getPower": 30,
+      "getInfo1": "",
+      "getInfo2": "",
+      "getInfo3": "",
+      "key": "Ychuanjiangwa",
+      "subIndex": 1,
+      "multiLanguageTitle": {
+        "code": "",
+        "chinese": "【录音】船桨",
+        "chineseTraditional": "",
+        "english": "",
+        "japanese": "",
+        "korean": ""
+      }
+    },
+    {
+      "getSong": 20008,
+      "getType": -1,
+      "getPower": 10,
+      "getInfo1": "",
+      "getInfo2": "",
+      "getInfo3": "",
+      "key": "Ychuanjiangwa",
+      "subIndex": 2,
+      "multiLanguageTitle": {
+        "code": "",
+        "chinese": "【录音】船桨·线索一",
+        "chineseTraditional": "",
+        "english": "",
+        "japanese": "",
+        "korean": ""
+      }
+    },
+    {
+      "getSong": 20008,
+      "getType": -1,
+      "getPower": 5,
+      "getInfo1": "",
+      "getInfo2": "",
+      "getInfo3": "",
+      "key": "Ychuanjiangwa",
+      "subIndex": 3,
+      "multiLanguageTitle": {
+        "code": "",
+        "chinese": "【录音】船桨·线索二",
+        "chineseTraditional": "",
+        "english": "",
+        "japanese": "",
+        "korean": ""
+      }
+    },
+    {
+      "getSong": 20009,
+      "getType": -1,
+      "getPower": 30,
+      "getInfo1": "",
+      "getInfo2": "",
+      "getInfo3": "",
+      "key": "liuqidashengli",
+      "subIndex": 1,
+      "multiLanguageTitle": {
+        "code": "",
+        "chinese": "PhigrOS记录：路星67大胜利（￣︶￣）↗",
+        "chineseTraditional": "",
+        "english": "",
+        "japanese": "",
+        "korean": ""
+      }
+    },
+    {
+      "getSong": 20009,
+      "getType": -1,
+      "getPower": 10,
+      "getInfo1": "",
+      "getInfo2": "",
+      "getInfo3": "",
+      "key": "liuqidashengli",
+      "subIndex": 2,
+      "multiLanguageTitle": {
+        "code": "",
+        "chinese": "PhigrOS记录：路星67大胜利（￣︶￣）↗·线索",
+        "chineseTraditional": "",
+        "english": "",
+        "japanese": "",
+        "korean": ""
+      }
+    },
+    {
+      "getSong": 20009,
+      "getType": -1,
+      "getPower": 10,
+      "getInfo1": "",
+      "getInfo2": "",
+      "getInfo3": "",
+      "key": "liuqidashengli",
+      "subIndex": 3,
+      "multiLanguageTitle": {
+        "code": "",
+        "chinese": "PhigrOS记录：路星67大胜利（￣︶￣）↗·线索二",
+        "chineseTraditional": "",
+        "english": "",
+        "japanese": "",
+        "korean": ""
+      }
+    },
+    {
+      "getSong": 20009,
+      "getType": -1,
+      "getPower": 5,
+      "getInfo1": "",
+      "getInfo2": "",
+      "getInfo3": "",
+      "key": "liuqidashengli",
+      "subIndex": 4,
+      "multiLanguageTitle": {
+        "code": "",
+        "chinese": "PhigrOS记录：路星67大胜利（￣︶￣）↗·线索三",
+        "chineseTraditional": "",
+        "english": "",
+        "japanese": "",
+        "korean": ""
+      }
+    },
+    {
+      "getSong": 20009,
+      "getType": -1,
+      "getPower": 5,
+      "getInfo1": "",
+      "getInfo2": "",
+      "getInfo3": "",
+      "key": "liuqidashengli",
+      "subIndex": 5,
+      "multiLanguageTitle": {
+        "code": "",
+        "chinese": "PhigrOS记录：路星67大胜利（￣︶￣）↗·线索四",
+        "chineseTraditional": "",
+        "english": "",
+        "japanese": "",
+        "korean": ""
+      }
+    },
+    {
+      "getSong": 30,
+      "getType": -1,
+      "getPower": 10,
+      "getInfo1": "",
+      "getInfo2": "",
+      "getInfo3": "",
+      "key": "NeonLED",
+      "subIndex": 1,
+      "multiLanguageTitle": {
+        "code": "",
+        "chinese": "霓虹灯牌",
+        "chineseTraditional": "",
+        "english": "",
+        "japanese": "",
+        "korean": ""
+      }
+    },
+    {
+      "getSong": 23,
+      "getType": -1,
+      "getPower": 30,
+      "getInfo1": "",
+      "getInfo2": "",
+      "getInfo3": "",
+      "key": "xiusiyangjiaochui",
+      "subIndex": 1,
+      "multiLanguageTitle": {
+        "code": "",
+        "chinese": "锈色羊角锤",
+        "chineseTraditional": "",
+        "english": "",
+        "japanese": "",
+        "korean": ""
+      }
+    },
+    {
+      "getSong": 23,
+      "getType": -1,
+      "getPower": 30,
+      "getInfo1": "",
+      "getInfo2": "",
+      "getInfo3": "",
+      "key": "xiusiyangjiaochui",
+      "subIndex": 2,
+      "multiLanguageTitle": {
+        "code": "",
+        "chinese": "锈色羊角锤·线索一",
+        "chineseTraditional": "",
+        "english": "",
+        "japanese": "",
+        "korean": ""
+      }
+    },
+    {
+      "getSong": 27,
+      "getType": -1,
+      "getPower": 10,
+      "getInfo1": "",
+      "getInfo2": "",
+      "getInfo3": "",
+      "key": "xiusiyangjiaochui",
+      "subIndex": 3,
+      "multiLanguageTitle": {
+        "code": "",
+        "chinese": "锈色羊角锤·线索二",
+        "chineseTraditional": "",
+        "english": "",
+        "japanese": "",
+        "korean": ""
+      }
+    },
+    {
+      "getSong": 27,
+      "getType": -1,
+      "getPower": 10,
+      "getInfo1": "",
+      "getInfo2": "",
+      "getInfo3": "",
+      "key": "xiusiyangjiaochui",
+      "subIndex": 4,
+      "multiLanguageTitle": {
+        "code": "",
+        "chinese": "锈色羊角锤·线索三",
+        "chineseTraditional": "",
+        "english": "",
+        "japanese": "",
+        "korean": ""
+      }
+    },
+    {
+      "getSong": 20012,
+      "getType": -1,
+      "getPower": 100,
+      "getInfo1": "",
+      "getInfo2": "",
+      "getInfo3": "",
+      "key": "thiefmoon",
+      "subIndex": 1,
+      "multiLanguageTitle": {
+        "code": "",
+        "chinese": "《盗月行》调查报告",
+        "chineseTraditional": "",
+        "english": "",
+        "japanese": "",
+        "korean": ""
+      }
+    },
+    {
+      "getSong": 20013,
+      "getType": -1,
+      "getPower": 100,
+      "getInfo1": "",
+      "getInfo2": "",
+      "getInfo3": "",
+      "key": "zhixian31",
+      "subIndex": 1,
+      "multiLanguageTitle": {
+        "code": "",
+        "chinese": "旁白：流言",
+        "chineseTraditional": "",
+        "english": "",
+        "japanese": "",
+        "korean": ""
+      }
+    },
+    {
+      "getSong": 20014,
+      "getType": -1,
+      "getPower": 100,
+      "getInfo1": "",
+      "getInfo2": "",
+      "getInfo3": "",
+      "key": "zhixian33",
+      "subIndex": 1,
+      "multiLanguageTitle": {
+        "code": "",
+        "chinese": "旁白：怪盗",
+        "chineseTraditional": "",
+        "english": "",
+        "japanese": "",
+        "korean": ""
+      }
+    },
+    {
+      "getSong": 20012,
+      "getType": -1,
+      "getPower": 30,
+      "getInfo1": "",
+      "getInfo2": "",
+      "getInfo3": "",
+      "key": "673shijian",
+      "subIndex": 1,
+      "multiLanguageTitle": {
+        "code": "",
+        "chinese": "673:律动星盗乐行事件 亚空间副本",
+        "chineseTraditional": "",
+        "english": "",
+        "japanese": "",
+        "korean": ""
+      }
+    },
+    {
+      "getSong": 20013,
+      "getType": -1,
+      "getPower": 30,
+      "getInfo1": "",
+      "getInfo2": "",
+      "getInfo3": "",
+      "key": "674shijian",
+      "subIndex": 2,
+      "multiLanguageTitle": {
+        "code": "",
+        "chinese": "674:律动星盗乐行事件 亚空间副本·线索一",
+        "chineseTraditional": "",
+        "english": "",
+        "japanese": "",
+        "korean": ""
+      }
+    },
+    {
+      "getSong": 20014,
+      "getType": -1,
+      "getPower": 10,
+      "getInfo1": "",
+      "getInfo2": "",
+      "getInfo3": "",
+      "key": "675shijian",
+      "subIndex": 3,
+      "multiLanguageTitle": {
+        "code": "",
+        "chinese": "675:律动星盗乐行事件 亚空间副本·线索二",
+        "chineseTraditional": "",
+        "english": "",
+        "japanese": "",
+        "korean": ""
+      }
+    },
+    {
+      "getSong": 20012,
+      "getType": -1,
+      "getPower": 30,
+      "getInfo1": "",
+      "getInfo2": "",
+      "getInfo3": "",
+      "key": "baoyouyueliang",
+      "subIndex": 1,
+      "multiLanguageTitle": {
+        "code": "",
+        "chinese": "报道：《 相机里的真假月亮》",
+        "chineseTraditional": "",
+        "english": "",
+        "japanese": "",
+        "korean": ""
+      }
+    },
+    {
+      "getSong": 20012,
+      "getType": -1,
+      "getPower": 30,
+      "getInfo1": "",
+      "getInfo2": "",
+      "getInfo3": "",
+      "key": "xuanlvshisha",
+      "subIndex": 1,
+      "multiLanguageTitle": {
+        "code": "",
+        "chinese": "散文：《有关旋律的哲思》",
+        "chineseTraditional": "",
+        "english": "",
+        "japanese": "",
+        "korean": ""
+      }
+    },
+    {
+      "getSong": 20012,
+      "getType": -1,
+      "getPower": 30,
+      "getInfo1": "",
+      "getInfo2": "",
+      "getInfo3": "",
+      "key": "nvhaibieditou",
+      "subIndex": 1,
+      "multiLanguageTitle": {
+        "code": "",
+        "chinese": "报道：《晒月亮的女孩》",
+        "chineseTraditional": "",
+        "english": "",
+        "japanese": "",
+        "korean": ""
+      }
+    },
+    {
+      "getSong": 20012,
+      "getType": -1,
+      "getPower": 10,
+      "getInfo1": "",
+      "getInfo2": "",
+      "getInfo3": "",
+      "key": "Mbolisidexisheng",
+      "subIndex": 1,
+      "multiLanguageTitle": {
+        "code": "",
+        "chinese": "【影像】拍摄者采访记录存档",
+        "chineseTraditional": "",
+        "english": "",
+        "japanese": "",
+        "korean": ""
+      }
+    },
+    {
+      "getSong": 20012,
+      "getType": -1,
+      "getPower": 30,
+      "getInfo1": "",
+      "getInfo2": "",
+      "getInfo3": "",
+      "key": "bayinhe",
+      "subIndex": 1,
+      "multiLanguageTitle": {
+        "code": "",
+        "chinese": "木质八音盒",
+        "chineseTraditional": "",
+        "english": "",
+        "japanese": "",
+        "korean": ""
+      }
+    },
+    {
+      "getSong": 20013,
+      "getType": -1,
+      "getPower": 30,
+      "getInfo1": "",
+      "getInfo2": "",
+      "getInfo3": "",
+      "key": "Mdyjilumeihao",
+      "subIndex": 1,
+      "multiLanguageTitle": {
+        "code": "",
+        "chinese": "【影像】直播录屏",
+        "chineseTraditional": "",
+        "english": "",
+        "japanese": "",
+        "korean": ""
+      }
+    },
+    {
+      "getSong": 20013,
+      "getType": -1,
+      "getPower": 10,
+      "getInfo1": "",
+      "getInfo2": "",
+      "getInfo3": "",
+      "key": "Mdyjilumeihao",
+      "subIndex": 2,
+      "multiLanguageTitle": {
+        "code": "",
+        "chinese": "【影像】直播录屏·线索一",
+        "chineseTraditional": "",
+        "english": "",
+        "japanese": "",
+        "korean": ""
+      }
+    },
+    {
+      "getSong": 20013,
+      "getType": -1,
+      "getPower": 30,
+      "getInfo1": "",
+      "getInfo2": "",
+      "getInfo3": "",
+      "key": "pantaaa",
+      "subIndex": 1,
+      "multiLanguageTitle": {
+        "code": "",
+        "chinese": "文玩核桃",
+        "chineseTraditional": "",
+        "english": "",
+        "japanese": "",
+        "korean": ""
+      }
+    },
+    {
+      "getSong": 20013,
+      "getType": -1,
+      "getPower": 30,
+      "getInfo1": "",
+      "getInfo2": "",
+      "getInfo3": "",
+      "key": "he372bafei",
+      "subIndex": 1,
+      "multiLanguageTitle": {
+        "code": "",
+        "chinese": "吉克·莱斯波斯-Year372",
+        "chineseTraditional": "",
+        "english": "",
+        "japanese": "",
+        "korean": ""
+      }
+    },
+    {
+      "getSong": 20014,
+      "getType": -1,
+      "getPower": 30,
+      "getInfo1": "",
+      "getInfo2": "",
+      "getInfo3": "",
+      "key": "buxutan",
+      "subIndex": 1,
+      "multiLanguageTitle": {
+        "code": "",
+        "chinese": "报道：《酒吧辩手，市长想谈谈》",
+        "chineseTraditional": "",
+        "english": "",
+        "japanese": "",
+        "korean": ""
+      }
+    },
+    {
+      "getSong": 20014,
+      "getType": -1,
+      "getPower": 10,
+      "getInfo1": "",
+      "getInfo2": "",
+      "getInfo3": "",
+      "key": "buxutan",
+      "subIndex": 2,
+      "multiLanguageTitle": {
+        "code": "",
+        "chinese": "报道：《酒吧辩手，市长想谈谈》·线索一",
+        "chineseTraditional": "",
+        "english": "",
+        "japanese": "",
+        "korean": ""
+      }
+    },
+    {
+      "getSong": 20014,
+      "getType": -1,
+      "getPower": 5,
+      "getInfo1": "",
+      "getInfo2": "",
+      "getInfo3": "",
+      "key": "buxutan",
+      "subIndex": 3,
+      "multiLanguageTitle": {
+        "code": "",
+        "chinese": "报道：《酒吧辩手，市长想谈谈》·线索二",
+        "chineseTraditional": "",
+        "english": "",
+        "japanese": "",
+        "korean": ""
+      }
+    },
+    {
+      "getSong": 20014,
+      "getType": -1,
+      "getPower": 30,
+      "getInfo1": "",
+      "getInfo2": "",
+      "getInfo3": "",
+      "key": "fuqinkuaishuiba",
+      "subIndex": 1,
+      "multiLanguageTitle": {
+        "code": "",
+        "chinese": "小说：《困在街道中的老人》",
+        "chineseTraditional": "",
+        "english": "",
+        "japanese": "",
+        "korean": ""
+      }
+    },
+    {
+      "getSong": 20014,
+      "getType": -1,
+      "getPower": 30,
+      "getInfo1": "",
+      "getInfo2": "",
+      "getInfo3": "",
+      "key": "nifaxianlgesha",
+      "subIndex": 1,
+      "multiLanguageTitle": {
+        "code": "",
+        "chinese": "帖子：《天桥东！发现天狗！》",
+        "chineseTraditional": "",
+        "english": "",
+        "japanese": "",
+        "korean": ""
+      }
+    },
+    {
+      "getSong": 20015,
+      "getType": -1,
+      "getPower": 10,
+      "getInfo1": "",
+      "getInfo2": "",
+      "getInfo3": "",
+      "key": "Mluolikong",
+      "subIndex": 1,
+      "multiLanguageTitle": {
+        "code": "",
+        "chinese": "【影像】街头的Fuli",
+        "chineseTraditional": "",
+        "english": "",
+        "japanese": "",
+        "korean": ""
+      }
+    },
+    {
+      "getSong": 20015,
+      "getType": -1,
+      "getPower": 10,
+      "getInfo1": "",
+      "getInfo2": "",
+      "getInfo3": "",
+      "key": "Efuliautoshooter",
+      "subIndex": 5,
+      "multiLanguageTitle": {
+        "code": "",
+        "chinese": "摘录·守护日志·机关枪·线索四",
+        "chineseTraditional": "",
+        "english": "",
+        "japanese": "",
+        "korean": ""
+      }
+    },
+    {
+      "getSong": 20015,
+      "getType": -1,
+      "getPower": 30,
+      "getInfo1": "",
+      "getInfo2": "",
+      "getInfo3": "",
+      "key": "liangzitbzz",
+      "subIndex": 1,
+      "multiLanguageTitle": {
+        "code": "",
+        "chinese": "量子同步终端",
+        "chineseTraditional": "",
+        "english": "",
+        "japanese": "",
+        "korean": ""
+      }
+    },
+    {
+      "getSong": 20015,
+      "getType": -1,
+      "getPower": 10,
+      "getInfo1": "",
+      "getInfo2": "",
+      "getInfo3": "",
+      "key": "liangzitbzz",
+      "subIndex": 2,
+      "multiLanguageTitle": {
+        "code": "",
+        "chinese": "量子同步终端·线索一",
+        "chineseTraditional": "",
+        "english": "",
+        "japanese": "",
+        "korean": ""
+      }
+    },
+    {
+      "getSong": 20015,
+      "getType": -1,
+      "getPower": 10,
+      "getInfo1": "",
+      "getInfo2": "",
+      "getInfo3": "",
+      "key": "liangzitbzz",
+      "subIndex": 3,
+      "multiLanguageTitle": {
+        "code": "",
+        "chinese": "量子同步终端·线索二",
+        "chineseTraditional": "",
+        "english": "",
+        "japanese": "",
+        "korean": ""
+      }
+    },
+    {
+      "getSong": 20016,
+      "getType": -1,
+      "getPower": 30,
+      "getInfo1": "",
+      "getInfo2": "",
+      "getInfo3": "",
+      "key": "miaomiaocha",
+      "subIndex": 1,
+      "multiLanguageTitle": {
+        "code": "",
+        "chinese": "喵喵茶",
+        "chineseTraditional": "",
+        "english": "",
+        "japanese": "",
+        "korean": ""
+      }
+    },
+    {
+      "getSong": 20015,
+      "getType": -1,
+      "getPower": 10,
+      "getInfo1": "",
+      "getInfo2": "",
+      "getInfo3": "",
+      "key": "heiyueliaoyangyuan",
+      "subIndex": 1,
+      "multiLanguageTitle": {
+        "code": "",
+        "chinese": "黑月疗养院员工需知",
+        "chineseTraditional": "",
+        "english": "",
+        "japanese": "",
+        "korean": ""
+      }
+    },
+    {
+      "getSong": 20015,
+      "getType": -1,
+      "getPower": 10,
+      "getInfo1": "",
+      "getInfo2": "",
+      "getInfo3": "",
+      "key": "heiyueliaoyangyuan",
+      "subIndex": 2,
+      "multiLanguageTitle": {
+        "code": "",
+        "chinese": "黑月疗养院员工需知·线索一",
+        "chineseTraditional": "",
+        "english": "",
+        "japanese": "",
+        "korean": ""
+      }
+    },
+    {
+      "getSong": 20015,
+      "getType": -1,
+      "getPower": 10,
+      "getInfo1": "",
+      "getInfo2": "",
+      "getInfo3": "",
+      "key": "heiyueliaoyangyuan",
+      "subIndex": 3,
+      "multiLanguageTitle": {
+        "code": "",
+        "chinese": "黑月疗养院员工需知·线索二",
+        "chineseTraditional": "",
+        "english": "",
+        "japanese": "",
+        "korean": ""
+      }
+    },
+    {
+      "getSong": 20015,
+      "getType": -1,
+      "getPower": 30,
+      "getInfo1": "",
+      "getInfo2": "",
+      "getInfo3": "",
+      "key": "beardoll",
+      "subIndex": 1,
+      "multiLanguageTitle": {
+        "code": "",
+        "chinese": "小熊娃娃",
+        "chineseTraditional": "",
+        "english": "",
+        "japanese": "",
+        "korean": ""
+      }
+    },
+    {
+      "getSong": 20015,
+      "getType": -1,
+      "getPower": 30,
+      "getInfo1": "",
+      "getInfo2": "",
+      "getInfo3": "",
+      "key": "beardoll",
+      "subIndex": 2,
+      "multiLanguageTitle": {
+        "code": "",
+        "chinese": "小熊娃娃·线索一",
+        "chineseTraditional": "",
+        "english": "",
+        "japanese": "",
+        "korean": ""
+      }
+    },
+    {
+      "getSong": 20015,
+      "getType": -1,
+      "getPower": 30,
+      "getInfo1": "",
+      "getInfo2": "",
+      "getInfo3": "",
+      "key": "beardoll",
+      "subIndex": 3,
+      "multiLanguageTitle": {
+        "code": "",
+        "chinese": "小熊娃娃·线索二",
+        "chineseTraditional": "",
+        "english": "",
+        "japanese": "",
+        "korean": ""
+      }
+    },
+    {
+      "getSong": 20015,
+      "getType": -1,
+      "getPower": 10,
+      "getInfo1": "",
+      "getInfo2": "",
+      "getInfo3": "",
+      "key": "lokiworld",
+      "subIndex": 1,
+      "multiLanguageTitle": {
+        "code": "",
+        "chinese": "影像带：《洛基的世界》",
+        "chineseTraditional": "",
+        "english": "",
+        "japanese": "",
+        "korean": ""
+      }
+    },
+    {
+      "getSong": 20015,
+      "getType": -1,
+      "getPower": 5,
+      "getInfo1": "",
+      "getInfo2": "",
+      "getInfo3": "",
+      "key": "lokiworld",
+      "subIndex": 2,
+      "multiLanguageTitle": {
+        "code": "",
+        "chinese": "影像带：《洛基的世界》·线索一",
+        "chineseTraditional": "",
+        "english": "",
+        "japanese": "",
+        "korean": ""
+      }
+    },
+    {
+      "getSong": 20015,
+      "getType": -1,
+      "getPower": 5,
+      "getInfo1": "",
+      "getInfo2": "",
+      "getInfo3": "",
+      "key": "lokiworld",
+      "subIndex": 3,
+      "multiLanguageTitle": {
+        "code": "",
+        "chinese": "影像带：《洛基的世界》·线索二",
+        "chineseTraditional": "",
+        "english": "",
+        "japanese": "",
+        "korean": ""
+      }
+    },
+    {
+      "getSong": 20015,
+      "getType": -1,
+      "getPower": 5,
+      "getInfo1": "",
+      "getInfo2": "",
+      "getInfo3": "",
+      "key": "lokiworld",
+      "subIndex": 4,
+      "multiLanguageTitle": {
+        "code": "",
+        "chinese": "影像带：《洛基的世界》·线索三",
+        "chineseTraditional": "",
+        "english": "",
+        "japanese": "",
+        "korean": ""
+      }
+    },
+    {
+      "getSong": 20015,
+      "getType": -1,
+      "getPower": 5,
+      "getInfo1": "",
+      "getInfo2": "",
+      "getInfo3": "",
+      "key": "lokiworld",
+      "subIndex": 5,
+      "multiLanguageTitle": {
+        "code": "",
+        "chinese": "影像带：《洛基的世界》·线索四",
+        "chineseTraditional": "",
+        "english": "",
+        "japanese": "",
+        "korean": ""
+      }
+    },
+    {
+      "getSong": 20015,
+      "getType": -1,
+      "getPower": 10,
+      "getInfo1": "",
+      "getInfo2": "",
+      "getInfo3": "",
+      "key": "lokiworldre",
+      "subIndex": 1,
+      "multiLanguageTitle": {
+        "code": "",
+        "chinese": "报道：《洛基的世界影评》",
+        "chineseTraditional": "",
+        "english": "",
+        "japanese": "",
+        "korean": ""
+      }
+    },
+    {
+      "getSong": 20016,
+      "getType": -1,
+      "getPower": 10,
+      "getInfo1": "",
+      "getInfo2": "",
+      "getInfo3": "",
+      "key": "abaaba1",
+      "subIndex": 1,
+      "multiLanguageTitle": {
+        "code": "",
+        "chinese": "【影像】日蚀之月",
+        "chineseTraditional": "",
+        "english": "",
+        "japanese": "",
+        "korean": ""
+      }
+    },
+    {
+      "getSong": 20016,
+      "getType": -1,
+      "getPower": 30,
+      "getInfo1": "",
+      "getInfo2": "",
+      "getInfo3": "",
+      "key": "botiqieli",
+      "subIndex": 1,
+      "multiLanguageTitle": {
+        "code": "",
+        "chinese": "波提切利原型机",
+        "chineseTraditional": "",
+        "english": "",
+        "japanese": "",
+        "korean": ""
+      }
+    },
+    {
+      "getSong": 20016,
+      "getType": -1,
+      "getPower": 10,
+      "getInfo1": "",
+      "getInfo2": "",
+      "getInfo3": "",
+      "key": "botiqieli",
+      "subIndex": 2,
+      "multiLanguageTitle": {
+        "code": "",
+        "chinese": "波提切利原型机·线索一",
+        "chineseTraditional": "",
+        "english": "",
+        "japanese": "",
+        "korean": ""
+      }
+    },
+    {
+      "getSong": 20016,
+      "getType": -1,
+      "getPower": 5,
+      "getInfo1": "",
+      "getInfo2": "",
+      "getInfo3": "",
+      "key": "botiqieli",
+      "subIndex": 3,
+      "multiLanguageTitle": {
+        "code": "",
+        "chinese": "波提切利原型机·线索二",
+        "chineseTraditional": "",
+        "english": "",
+        "japanese": "",
+        "korean": ""
+      }
+    },
+    {
+      "getSong": 20016,
+      "getType": -1,
+      "getPower": 30,
+      "getInfo1": "",
+      "getInfo2": "",
+      "getInfo3": "",
+      "key": "botiqieli",
+      "subIndex": 4,
+      "multiLanguageTitle": {
+        "code": "",
+        "chinese": "波提切利原型机·线索三",
+        "chineseTraditional": "",
         "english": "",
         "japanese": "",
         "korean": ""
