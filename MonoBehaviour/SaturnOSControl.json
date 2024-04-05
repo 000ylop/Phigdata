@@ -6,7 +6,7 @@
   "m_Enabled": 1,
   "m_Script": {
     "m_FileID": 1,
-    "m_PathID": 662
+    "m_PathID": 664
   },
   "m_Name": "",
   "shaderCollection": {
@@ -195,7 +195,7 @@
             "chinese": "来自《清醒者日报》677年12月7日刊，被人私自带出图书馆，再被发现已经沾满不明液体。\\n\n\\n\n都市传奇专栏：\\n\n      “感谢读者们一直以来的支持，今日叶子将向您讲述白林中心城附近，那片神秘花海的故事······\\n\n     白林本没有花海，人们用血肉铺平了贫瘠的土地，才就此百花齐放。\\n\n        ············\\n\n       故事到此结束，希望大家喜欢，我们下期再见。”",
             "chineseTraditional": "來自《清醒者日報》677年12月7日刊，被人私自帶出圖書館。被發現後已經沾滿了不明液體。\\n\r\n\\n\r\n都市傳奇專欄：\\n\r\n「感謝讀者們一直以來的支持，今日葉子我將向您講述白林中心城附近，那片神秘花海的故事······\\n\r\n白林本沒有花海，人們用血肉鋪平了貧瘠的土地，才就此百花齊放。\\n\r\n············\\n\r\n故事到此結束，希望大家喜歡，我們下次再見。」",
             "english": "On December 7th, the 677th issue of Sober Daily was secretly taken out of the Library. Upon recovery, it was covered in a liquid of unknown origin.\\n\r\nEn excerpt from the magazine reads: \\n\r\nUrban Legends Column\\n\r\n Dear readers, thank you for your continued support. Today Leaf will tell you a story about the flower oceans in the center of Bailin City. \\n\r\n\"Back when Bailin was just an unexceptional settlement, people had used flesh and blood to pave the barren land. Shortly after, hundreds upon hundreds of flowers have blossomed there, completely saturating the landscape. \\n\r\n...\\n\r\nThats the end of the story. I hope everyone liked it. See you next time.\"",
-            "japanese": "《正気者新聞》677年12月7日刊より、誰かに勝手に図書館から持ち出され、再び発見した時には未知の液体で覆われていた\\n\r\n　\\n\r\n都市伝説コラム；\\n\r\n「読者の皆様、いつも応援頂きありがとうございます。きょう葉子は白林中心城付近にある神秘的な花の海の物語について話したいと思います……」\\n\r\n「もともと、白林に花などありませんでした。人々は肉と血で不毛の地を養ってからやっと花が咲きました。」\\n\r\n「 .......」\\n\r\n 「これで物語は終わりです。皆様が気に入ってくれると幸いです、次回もまたお会いしましょう。」",
+            "japanese": "《正気者新聞》677年12月7日刊より、誰かに勝手に図書館から持ち出され、再び発見した時には未知の液体で覆われていた\\n\r\n　\\n\r\n都市伝説コラム；\\n\r\n 「読者の皆様、いつも応援頂きありがとうございます。きょう葉子は白林中心城付近にある神秘的な花の海の物語について話したいと思います……」\\n\r\n「もともと、白林に花などありませんでした。人々は肉と血で不毛の地を養ってからやっと花が咲きました。」\\n\r\n「 .......」\\n\r\n 「これで物語は終わりです。皆様が気に入ってくれると幸いです、次回もまたお会いしましょう。」",
             "korean": ""
           },
           "properties": {
@@ -468,7 +468,7 @@
             "chinese": "风吹花海，推排若浪，两人立于大地之上，相视一笑。\\n\r\n“我们做到了。”\\n\r\n“是你做到了。”蒙面人看着女孩裙下的眼球，它们蠢蠢欲动，探头探脑，似乎在思考眼前的男人会是他们下一个同伴吗。\\n\r\n“你是来带我走的吧。”\\n\r\n“对。”\\n\r\n女孩儿在花田里不知度过了多少岁月，又不知吃了多少血肉，她渐渐长大，也终于迎来她的宿命。蒙面人拿出玻璃瓶，她散作无数花瓣，倒吸入瓶，花瓣染红了水，女孩又显现出她的模样，渐渐下沉，像一片失去生机的树叶，析出所有的汁液，只留下透明的茎脉，发现她，透过她，再忘记她。\\n\r\n“又回收了一个，还剩...”\\n\r\n蒙面人打开档案快速翻动，档案几乎每页都画上了巨大的红叉，突然他的手指停留，泛黄的照片映入眼帘，那是两个青春洋溢的少女，也是他下次的目标。",
             "chineseTraditional": "風吹花海，推排若浪，兩人立於大地之上，相視一笑。\\n\r\n「我們做到了。」\\n\r\n「是你做到了。」蒙面人看著女孩裙下的眼球。它們蠢蠢欲動，探頭探腦，似乎在思考眼前的男人會是他們下一個同伴嗎？\\n\r\n「你是來帶我走的吧。」\\n\r\n「對。」\\n\r\n女孩在花田裡不知度過了多少歲月，又不知吃了多少血肉，她漸漸長大，也終於迎來她的宿命。蒙面人拿出玻璃瓶，她散作無數花瓣，倒吸入瓶，花瓣染紅了水，女孩又顯現出她的模樣，漸漸下沉，像一片失去生機的樹葉，析出所有的汁液，只留下透明的莖脈，發現她，透過她，再忘記她。\\n\r\n「又回收了一個，還剩···」\\n\r\n蒙面人打開檔案快速翻動，檔案幾乎每頁都畫上了巨大的紅叉，突然他的手指停留。泛黃的照片映入眼簾，那是兩個青春洋溢的少女，是他下次的目標。",
             "english": "As the wind blows over the flower ocean, it creates flower waves. Two people overlooked these movements and smiled at each other.\\n\r\n\"We did it.”\\n\r\n\"No. You did it.\" \\n\r\nThe masked man looked at the eyeballs under the girl's skirt. They were ready to move and reach out for him. It seems that he's thinking about whether the man in front of him will be their next companion.\\n\r\n\"You are here to pick me up, right?” \\n\r\n\"Correct.\" \\n\r\nI don’t know how many years the girl has spent in the flower field, nor do I know how much flesh and blood she has consumed in that time. She gradually grows bigger. Inching towards her destiny.\\n\r\n The masked man took out a glass bottle. She began to drown in it, and scattered into thousands of petals. The petals dyed the water red. The girl showed her visage one last time, gradually sinking, like a leaf that had lost its vitality, leaving only the transparent stem veins. He found her, threw her away, and forgot her. \\n\r\n\"Another one was recovered. Let's see who's left...\" \\n\r\nThe masked man opened a file and through it quickly. Almost every page was marked with a large red cross.His fingers stayed, and a faded photo came into his view. It depicted two young girls.They were his next goal.",
-            "japanese": "風は吹き、花は波の如く。二人は大地に立ち、見つめ合い、笑い出す。 「やったね」 \\n\r\n「君の功績だよ。」覆面の人が、女の子のスカートの下にある目を見た。それらは蠢き、模索している。目の前の男は次の仲間なのか、と考えているようだ。\\n\r\n「私を連れて行くんでしょ」\\n\r\n「そう。」\\n\r\n女の子はどのくらいこの花畑にいたか、どれだけの血肉を食べたかを覚えていない。彼女は成長し、その宿命を迎えた。覆面の人はガラス瓶を取り出し、彼女は無数の花びらとなって瓶に吸い込まれた。花びらは水を赤く染め、彼女の様子が再び現れ、枯れ葉のようにゆっくりと沈んでいく。あらゆる汁液を析出し、透明の枝だけを残して、彼女を見つけて、すり抜けて、そして忘れて。\\n\r\n「これでまた一つ回収できた、残りは..」\\n\r\n覆面の人はファイルを開いてみると、ほどんどどのページにも赤いバツが大きく書かれている。ふと、彼の指が止まった。一枚黄ばんだ写真が視界に入ってきた。写真には二人の若くて元気な少女が映っている、これが彼の次のターゲットであった。",
+            "japanese": "風は吹き、花は波の如く。二人は大地に立ち、見つめ合い、笑い出す。 「やったね」 \\n\r\n「君の功績だよ。」覆面の人が、女の子のスカートの下にある目を見た。それらは蠢き、模索している。目の前の男は次の仲間なのか、と考えているようだ。\\n\r\n「私を連れて行くんでしょ」\\n\r\n「そう。」\\n\r\n 女の子はどのくらいこの花畑にいたか、どれだけの血肉を食べたかを覚えていない。彼女は成長し、その宿命を迎えた。覆面の人はガラス瓶を取り出し、彼女は無数の花びらとなって瓶に吸い込まれた。花びらは水を赤く染め、彼女の様子が再び現れ、枯れ葉のようにゆっくりと沈んでいく。あらゆる汁液を析出し、透明の枝だけを残して、彼女を見つけて、すり抜けて、そして忘れて。\\n\r\n「これでまた一つ回収できた、残りは..」\\n\r\n覆面の人はファイルを開いてみると、ほどんどどのページにも赤いバツが大きく書かれている。ふと、彼の指が止まった。一枚黄ばんだ写真が視界に入ってきた。写真には二人の若くて元気な少女が映っている、これが彼の次のターゲットであった。",
             "korean": ""
           },
           "properties": {
@@ -1336,6 +1336,1521 @@
             "english": "",
             "japanese": "",
             "korean": "\r"
+          }
+        },
+        {
+          "key": "paradigm1",
+          "subIndex": 1,
+          "getSong": -10120,
+          "name": {
+            "code": "",
+            "chinese": "观察记录：雪",
+            "chineseTraditional": "",
+            "english": "",
+            "japanese": "",
+            "korean": ""
+          },
+          "date": "2096/04/05",
+          "supervisor": {
+            "code": "",
+            "chinese": "Para",
+            "chineseTraditional": "",
+            "english": "",
+            "japanese": "",
+            "korean": ""
+          },
+          "category": "main",
+          "content": {
+            "code": "",
+            "chinese": "春雪磐音，大地回荡着历史的低鸣，已沦为废墟的市民档案馆，残缺的义体散布各处，一片空冥。曾经有旅人，至此铭刻诗句：“春天还没到来……冬天便已过去……无人依偎的家园……还有多少残魂游荡……死寂……皆是死寂。” \\n\n骚动，暴乱，失去知觉的前一刻，瞭望地平线的人们，是否在思考生命的意义。\\n\n摇光脱去手套，二指插入雪地，抵着阻力划出圆弧几道，建筑的标识出现，地下通道的井门出现在二人眼前。\\n\n“Para，我们下去吧。”\\n\n“恩。”\\n\n任务是回收存储元件，以现在的雪势，他们要在天黑之前回到据点，必须加快步伐。\\n\n地下通道积满了水，摇光卷起裤脚，扶着墙壁前进。Para观察着墙壁的痕迹，几道巨大的裂痕内，隐隐可以看见棕红色的树根横行。\\n\n“摇光，这里……”\\n\n“怎么了？”\\n\nPara摇摇头，她回想着进入前的场景，刚刚的猜想几乎无可能。\\n\n“前面就是数据中心，等下我先去准备抓取工具，拜托Para你筛选空置元件了。”\\n\n“摇光，我觉得……”\\n\n大门洞开，只见天光从破碎的穹顶射下树冠，化作万般光点柔影，草叶纷飞，绿意扩散，暖风袭上眉头。\\n\n“Para！”\\n\n只眼春光好，风景旧曾谙。\\n",
+            "chineseTraditional": "",
+            "english": "",
+            "japanese": "",
+            "korean": ""
+          },
+          "properties": {
+            "code": "",
+            "chinese": "",
+            "chineseTraditional": "",
+            "english": "",
+            "japanese": "",
+            "korean": "\r"
+          }
+        },
+        {
+          "key": "paradigm2",
+          "subIndex": 1,
+          "getSong": -10157,
+          "name": {
+            "code": "",
+            "chinese": "观察记录：像",
+            "chineseTraditional": "",
+            "english": "",
+            "japanese": "",
+            "korean": ""
+          },
+          "date": "2096/04/06",
+          "supervisor": {
+            "code": "",
+            "chinese": "Para",
+            "chineseTraditional": "",
+            "english": "",
+            "japanese": "",
+            "korean": ""
+          },
+          "category": "main",
+          "content": {
+            "code": "",
+            "chinese": "“摇光？”\\n\n“摇光！”\\n\nPara不断地呼唤着同行人，却久久不见答应。\\n\n这里已不是刚才的数据中心，积雪和绿色装点的森林，大地空荡荡，唯有一辆生锈的火车，在拖尾雪痕的尽头搁浅，给四周的树木，留下焦黑的印记。\\n\n冷静下来，Para。大静默事件爆发之后，全球网络断连，这只可能是局域网的具现化。\\n\n摇光他一定在附近。Para在心中祈祷着，然而这祷声尚未通达天空，远方的巨响，便将她拉回现实。\\n\n咚，咚，咚。\\n\n石头砸地的震波由远而近，雪花和碎尘，沉入少女的视线。抬起头，高处是生锈的单梁起重机，吊钩如摆锤，荡向她的方向。\\n\n咚，咚，咚。\\n\n闪身躲过吊钩，Para看向远处轰然倒塌的树木，脑中响起了未知却能理解的语言。\\n\n——我为你而来。\\n\n提着野餐篮的高大巨人，他的阴影遮蔽了Para所在的位置，石质的关节间，青草碎花弥漫，蕴含着不属于冬季的生机。\\n\n“你是谁？”\\n",
+            "chineseTraditional": "",
+            "english": "",
+            "japanese": "",
+            "korean": ""
+          },
+          "properties": {
+            "code": "",
+            "chinese": "",
+            "chineseTraditional": "",
+            "english": "",
+            "japanese": "",
+            "korean": "\r"
+          }
+        },
+        {
+          "key": "paradigm3",
+          "subIndex": 1,
+          "getSong": -10158,
+          "name": {
+            "code": "",
+            "chinese": "观察记录：友",
+            "chineseTraditional": "",
+            "english": "",
+            "japanese": "",
+            "korean": ""
+          },
+          "date": "2096/04/07",
+          "supervisor": {
+            "code": "",
+            "chinese": "Para",
+            "chineseTraditional": "",
+            "english": "",
+            "japanese": "",
+            "korean": ""
+          },
+          "category": "main",
+          "content": {
+            "code": "",
+            "chinese": "水壶滚烫的压鸣，化作暖风，吹至Para的耳畔，她微微皱眉，轻扯身上的薄毯。\\n\n茶杯，糕点，占据了篝火的四周，营造出一副野餐的景象，事实也确实如此。那巨人见了她后，便散作石子，排列成阵，从野餐篮抬出野炊工具，又将餐布披在Para肩上，试图让少女暖和些许。\\n\n——他不在这里。\\n\n又是这个直传心灵的声音。\\n\n——为什么？\\n\n——客人只有你。\\n\n水壶开了，“翩翩起舞”的石头，急忙将滚烫的壶传递给同伴，本安坐地面的石子，蹦跳着躲避热度，将水倒入杯中。\\n\n迎着茶香，Para再度问道。\\n\n“这里是哪里？”\\n\n——PhigrOS，心灵世界已然倒塌的理想乡，一个曾经有人，寻找生命意义的地方。\\n\n“你们找到了吗？”\\n\n他沉默了许久。\\n\n——可能寻找的人只有我吧。\\n\n热气之下，视线模糊了，茶梗下沉，光滑的水面映照出他们——理想者的面容。\\n\n“谢谢……你的茶……”\\n\n告别渗进柔软的雪地，宁静无痕。\\n",
+            "chineseTraditional": "",
+            "english": "",
+            "japanese": "",
+            "korean": ""
+          },
+          "properties": {
+            "code": "",
+            "chinese": "",
+            "chineseTraditional": "",
+            "english": "",
+            "japanese": "",
+            "korean": "\r"
+          }
+        },
+        {
+          "key": "paradigm4",
+          "subIndex": 1,
+          "getSong": -10159,
+          "name": {
+            "code": "",
+            "chinese": "观察记录：痕",
+            "chineseTraditional": "",
+            "english": "",
+            "japanese": "",
+            "korean": ""
+          },
+          "date": "2096/04/08",
+          "supervisor": {
+            "code": "",
+            "chinese": "Para",
+            "chineseTraditional": "",
+            "english": "",
+            "japanese": "",
+            "korean": ""
+          },
+          "category": "main",
+          "content": {
+            "code": "",
+            "chinese": "“你没事吧！”\\n\nPara醒来，便瞧见摇光焦急的神情。\\n\n“对不起，我……”\\n\n“刚才真是太惊险了，谁能想到起重机会在那时候，我还以为你……反正，没事就好。我刚才检查过了，这里没有联网，元件我也处理好了，我们赶紧回去吧。”\\n\n“嗯，好。”\\n",
+            "chineseTraditional": "",
+            "english": "",
+            "japanese": "",
+            "korean": ""
+          },
+          "properties": {
+            "code": "",
+            "chinese": "",
+            "chineseTraditional": "",
+            "english": "",
+            "japanese": "",
+            "korean": ""
+          }
+        }
+      ],
+      "fakeCoverFlag": "",
+      "fakeCoverCode": "",
+      "fakeCoverBlurCode": "",
+      "allNum": 0
+    },
+    {
+      "title": {
+        "code": "",
+        "chinese": "额外章节",
+        "chineseTraditional": "額外章節",
+        "english": "Chapter EX",
+        "japanese": "チャプター EX",
+        "korean": "챕터 EX"
+      },
+      "subTitle": {
+        "code": "",
+        "chinese": "",
+        "chineseTraditional": "",
+        "english": "",
+        "japanese": "",
+        "korean": ""
+      },
+      "startIndex": 10000,
+      "endIndex": 19999,
+      "excludedFiles": [
+        {
+          "start": 10133,
+          "end": 10137
+        }
+      ],
+      "cover": "Assets/Tracks/#ChapterCover/Single.png",
+      "files": [
+        {
+          "key": "mope1",
+          "subIndex": 1,
+          "getSong": -10002,
+          "name": {
+            "code": "",
+            "chinese": "收容报告·小报",
+            "chineseTraditional": "收容報告·日報",
+            "english": "[Item Report] Tabloid",
+            "japanese": "収容レポート・報道",
+            "korean": ""
+          },
+          "date": "767/06/01",
+          "supervisor": {
+            "code": "",
+            "chinese": "中之层收容所",
+            "chineseTraditional": "中之層收容所",
+            "english": "Mid-Level Containment Shelter",
+            "japanese": "ミドルシェルター",
+            "korean": ""
+          },
+          "category": "nonsense",
+          "content": {
+            "code": "",
+            "chinese": "来自《清醒者日报》677年12月7日刊，被人私自带出图书馆，再被发现已经沾满不明液体。\\n\n\\n\n都市传奇专栏：\\n\n      “感谢读者们一直以来的支持，今日叶子将向您讲述白林中心城附近，那片神秘花海的故事······\\n\n     白林本没有花海，人们用血肉铺平了贫瘠的土地，才就此百花齐放。\\n\n        ············\\n\n       故事到此结束，希望大家喜欢，我们下期再见。”",
+            "chineseTraditional": "來自《清醒者日報》677年12月7日刊，被人私自帶出圖書館。被發現後已經沾滿了不明液體。\\n\r\n\\n\r\n都市傳奇專欄：\\n\r\n「感謝讀者們一直以來的支持，今日葉子我將向您講述白林中心城附近，那片神秘花海的故事······\\n\r\n白林本沒有花海，人們用血肉鋪平了貧瘠的土地，才就此百花齊放。\\n\r\n············\\n\r\n故事到此結束，希望大家喜歡，我們下次再見。」",
+            "english": "On December 7th, the 677th issue of Sober Daily was secretly taken out of the Library. Upon recovery, it was covered in a liquid of unknown origin.\\n\r\nEn excerpt from the magazine reads: \\n\r\nUrban Legends Column\\n\r\n Dear readers, thank you for your continued support. Today Leaf will tell you a story about the flower oceans in the center of Bailin City. \\n\r\n\"Back when Bailin was just an unexceptional settlement, people had used flesh and blood to pave the barren land. Shortly after, hundreds upon hundreds of flowers have blossomed there, completely saturating the landscape. \\n\r\n...\\n\r\nThats the end of the story. I hope everyone liked it. See you next time.\"",
+            "japanese": "《正気者新聞》677年12月7日刊より、誰かに勝手に図書館から持ち出され、再び発見した時には未知の液体で覆われていた\\n\r\n　\\n\r\n都市伝説コラム；\\n\r\n 「読者の皆様、いつも応援頂きありがとうございます。きょう葉子は白林中心城付近にある神秘的な花の海の物語について話したいと思います……」\\n\r\n「もともと、白林に花などありませんでした。人々は肉と血で不毛の地を養ってからやっと花が咲きました。」\\n\r\n「 .......」\\n\r\n 「これで物語は終わりです。皆様が気に入ってくれると幸いです、次回もまたお会いしましょう。」",
+            "korean": ""
+          },
+          "properties": {
+            "code": "",
+            "chinese": "",
+            "chineseTraditional": "",
+            "english": "",
+            "japanese": "",
+            "korean": "\r"
+          }
+        },
+        {
+          "key": "mope2",
+          "subIndex": 1,
+          "getSong": -10002,
+          "name": {
+            "code": "",
+            "chinese": "收容报告·红色蝴蝶结",
+            "chineseTraditional": "收容報告·紅色蝴蝶結",
+            "english": "[Item Report] Red Bow",
+            "japanese": "収容レポート・赤いリボン",
+            "korean": ""
+          },
+          "date": "767/06/01",
+          "supervisor": {
+            "code": "",
+            "chinese": "中之层收容所",
+            "chineseTraditional": "中之層收容所",
+            "english": "Mid-Level Containment Shelter",
+            "japanese": "ミドルシェルター",
+            "korean": ""
+          },
+          "category": "nonsense",
+          "content": {
+            "code": "",
+            "chinese": "同主人一样天真又可爱的蝴蝶结，没有什么特别之处。",
+            "chineseTraditional": "和主人一樣天真又可愛的蝴蝶結，沒有什麼特別之處。",
+            "english": "This bow, while as cute and innocent as its owner, isn’t anything special.",
+            "japanese": "持ち主のように純粋で可愛いリボン、特別の所はない",
+            "korean": ""
+          },
+          "properties": {
+            "code": "",
+            "chinese": "",
+            "chineseTraditional": "",
+            "english": "",
+            "japanese": "",
+            "korean": "\r"
+          }
+        },
+        {
+          "key": "mope2",
+          "subIndex": 2,
+          "getSong": -10002,
+          "name": {
+            "code": "",
+            "chinese": "收容报告·红色蝴蝶结·线索一",
+            "chineseTraditional": "收容報告·紅色蝴蝶結·資訊二",
+            "english": "Red Bow - Clue I",
+            "japanese": "収容レポート・赤いリボン・手がかり1",
+            "korean": ""
+          },
+          "date": "767/06/01",
+          "supervisor": {
+            "code": "",
+            "chinese": "中之层收容所",
+            "chineseTraditional": "中之層收容所",
+            "english": "Mid-Level Containment Shelter",
+            "japanese": "ミドルシェルター",
+            "korean": ""
+          },
+          "category": "nonsense",
+          "content": {
+            "code": "",
+            "chinese": "布料上，隐隐能闻到血腥味儿。",
+            "chineseTraditional": "布料上，隱約能聞到血腥味。",
+            "english": "However there is a faint scent of blood emanating from the fabric.",
+            "japanese": "なんだか、布地から血の匂いがする",
+            "korean": ""
+          },
+          "properties": {
+            "code": "",
+            "chinese": "",
+            "chineseTraditional": "",
+            "english": "",
+            "japanese": "",
+            "korean": "\r"
+          }
+        },
+        {
+          "key": "mope3",
+          "subIndex": 1,
+          "getSong": -10002,
+          "name": {
+            "code": "",
+            "chinese": "收容报告·陶土花盆",
+            "chineseTraditional": "收容報告·陶土花盆",
+            "english": "[Item Report] Clay Flowerpot",
+            "japanese": "収容レポート・陶土植木鉢",
+            "korean": ""
+          },
+          "date": "767/06/01",
+          "supervisor": {
+            "code": "",
+            "chinese": "中之层收容所",
+            "chineseTraditional": "中之層收容所",
+            "english": "Mid-Level Containment Shelter",
+            "japanese": "ミドルシェルター",
+            "korean": ""
+          },
+          "category": "nonsense",
+          "content": {
+            "code": "",
+            "chinese": "种着一株花的、非常普通的花盆。无风时，盆里的花儿也在欢快地摇摆。",
+            "chineseTraditional": "種著一株花，非常普通的花盆。無風時，盆裡的花兒也會歡樂地搖擺。",
+            "english": "A seemingly ordinary flowerpot containing a single flower. When no wind is present, the flower appears to be swaying happily.",
+            "japanese": "花が植えているごく普通の植木鉢。風がなくとも、この花は依然として踊り出す。",
+            "korean": ""
+          },
+          "properties": {
+            "code": "",
+            "chinese": "",
+            "chineseTraditional": "",
+            "english": "",
+            "japanese": "",
+            "korean": "\r"
+          }
+        },
+        {
+          "key": "mope3",
+          "subIndex": 2,
+          "getSong": -10002,
+          "name": {
+            "code": "",
+            "chinese": "收容报告·陶土花盆·线索一",
+            "chineseTraditional": "收容報告·陶土花盆·資訊一",
+            "english": "Clay Flowerpot - Clue I",
+            "japanese": "収容レポート・植木鉢・手がかり1",
+            "korean": ""
+          },
+          "date": "767/06/01",
+          "supervisor": {
+            "code": "",
+            "chinese": "中之层收容所",
+            "chineseTraditional": "中之層收容所",
+            "english": "Mid-Level Containment Shelter",
+            "japanese": "ミドルシェルター",
+            "korean": ""
+          },
+          "category": "nonsense",
+          "content": {
+            "code": "",
+            "chinese": "产自第五层的花海，花海之中，陶艺人女孩儿和她盆栽小屋是唯一人造的美景。",
+            "chineseTraditional": "來自第五層的花海。花海之中，陶藝人女孩和她的盆栽小屋是唯一人造的美景。",
+            "english": "Produced in a flower ocean on Floor V, by a potter girl whose ceramic house is the only artificial sight in the area.",
+            "japanese": "第五層の花の海の産物。花の海の中、陶芸家の女の子と彼女の植木鉢小屋は、唯一の人工の美しさであった。",
+            "korean": ""
+          },
+          "properties": {
+            "code": "",
+            "chinese": "",
+            "chineseTraditional": "",
+            "english": "",
+            "japanese": "",
+            "korean": "\r"
+          }
+        },
+        {
+          "key": "mope3",
+          "subIndex": 3,
+          "getSong": -10002,
+          "name": {
+            "code": "",
+            "chinese": "收容报告·陶土花盆·线索二",
+            "chineseTraditional": "收容報告·陶土花盆·資訊二",
+            "english": "Clay Flowerpot - Clue II",
+            "japanese": "収容レポート・植木鉢・手がかり2",
+            "korean": ""
+          },
+          "date": "767/06/01",
+          "supervisor": {
+            "code": "",
+            "chinese": "中之层收容所",
+            "chineseTraditional": "中之層收容所",
+            "english": "Mid-Level Containment Shelter",
+            "japanese": "ミドルシェルター",
+            "korean": ""
+          },
+          "category": "nonsense",
+          "content": {
+            "code": "",
+            "chinese": "花盆被戴蝴蝶结的女孩儿放在他手里的那刻，有什么东西也被放进了心里。\\n\r\n顷刻间，女孩儿如薄纸片般被撕裂，花田变得招摇而狂放，肆意舞动。",
+            "chineseTraditional": "花盆在被戴著蝴蝶結的女孩放在他手裡的那一刻，有什麼東西也被塞進了心裡。\\n\r\n霎時，女孩如薄紙片般被撕裂，花田變得招搖而狂放，肆意舞動。",
+            "english": "When the girl handed him the flowerpot, it felt as if something had been inserted into his heart. \\n\nIn an instant, the girl was torn apart like a thin piece of paper, and all the flowers on the field became erratic and wild, dancing wantonly.",
+            "japanese": "リボンをつけた女の子が植木鉢を彼の手に置いた瞬間、何かが心の中に置かれた感じがした。\\n\r\n刹那、女の子は薄い紙のように引き裂きられ、花畑は狂気に咲き、舞い踊った。",
+            "korean": ""
+          },
+          "properties": {
+            "code": "",
+            "chinese": "",
+            "chineseTraditional": "",
+            "english": "",
+            "japanese": "",
+            "korean": "\r"
+          }
+        },
+        {
+          "key": "mope4",
+          "subIndex": 1,
+          "getSong": -10002,
+          "name": {
+            "code": "",
+            "chinese": "收容报告·裙底之物",
+            "chineseTraditional": "收容報告·裙底之物",
+            "english": "[Rec] Under the Dress",
+            "japanese": "収容レポート・アンダースカートキス",
+            "korean": ""
+          },
+          "date": "767/06/01",
+          "supervisor": {
+            "code": "",
+            "chinese": "中之层收容所",
+            "chineseTraditional": "中之層收容所",
+            "english": "Mid-Level Containment Shelter",
+            "japanese": "ミドルシェルター",
+            "korean": ""
+          },
+          "category": "nonsense",
+          "content": {
+            "code": "",
+            "chinese": "在即将被完全溶进地狱景象里时，花田又切回了原来的模样。\\n\r\n结束了吗？得救了吗？\\n\r\n女孩儿甜甜地笑着，不作回答，拾起了地上无法被消化的眼球。\\n\r\n自女孩儿掉进花田始，无一人得救；到历史能记述的终末，也不会有人生还。肉体成为养料，灵魂只剩残骸，空洞地见证着每一场杀戮。\\n\r\n花海操纵着女孩儿的影子，小心收好那灵魂的象征，抱着花盆走向了下一个食物。",
+            "chineseTraditional": "在即將被完全溶進地獄景象裡時，花田又換回了原來的模樣。\\n\r\n結束了嗎？得救了嗎？\\n\r\n女孩甜甜地笑著，不作回答，拾起了地上無法被消化的眼珠子。\\n\r\n自女孩掉進花田開始，無一人得救；到歷史能記述的末端，也不會有人生還。肉體成為飼料，靈魂只剩殘骸，空洞地見證著每一場殺戮。\\n\r\n花海操縱著女孩兒的影子，小心收好那靈魂的象徵，抱著花盆走向了下一個食物。",
+            "english": "Just as he was about to be completely melted into the hellish scenery, the flower field reverted back to its original appearance./r/n“Is it over? Am I saved?” /r/nThe girl smiled sweetly, and without answering, started picking the hardened eyeballs up from the ground.\\n\r\nSince the time she fell into the flower field, nobody has survived; from now till the end of time, no one will be saved. The body becomes nourishment, and the soul is left twisted, forever wandering. Indifferently witnessing the perishing of every person that comes next. /r/nThe sea of flowers contorts the girl's shadow, carefully detects the signs of a soul, and holding the flower pot, guides her towards the next target.",
+            "japanese": "もうすぐ完全に地獄光景に溶け込んでしまうとき、花畑はまた元の様子に戻った。\\n\r\n終わったのか？助かったのか？\\n\r\n女の子は甘い微笑みを見せ、答えずに地に落ちている消化されない目玉を手に拾った。\\n\r\n女の子が花畑に落ちてきた以来、誰一人も助けられなかった。歴史が記述できる最後の時までも、生還者は出ないでしょう。肉体は餌となり、魂の残骸だけを残し、無意味に毎度の殺戮を見ているだけ。\\n\r\n花の海は女の子の影を操り、用心深くその魂の象徴をしまっては、植木鉢を抱えて次の獲物へと歩み出した。",
+            "korean": ""
+          },
+          "properties": {
+            "code": "",
+            "chinese": "",
+            "chineseTraditional": "",
+            "english": "",
+            "japanese": "",
+            "korean": "\r"
+          }
+        },
+        {
+          "key": "mope4",
+          "subIndex": 2,
+          "getSong": -10003,
+          "name": {
+            "code": "",
+            "chinese": "收容报告·裙底之物·线索一",
+            "chineseTraditional": "收容報告·裙底之物·資訊一",
+            "english": "Under the Dress - Clue I",
+            "japanese": "収容レポート・アンダースカートキス・手がかり一",
+            "korean": ""
+          },
+          "date": "767/06/01",
+          "supervisor": {
+            "code": "",
+            "chinese": "中之层收容所",
+            "chineseTraditional": "中之層收容所",
+            "english": "Mid-Level Containment Shelter",
+            "japanese": "ミドルシェルター",
+            "korean": ""
+          },
+          "category": "nonsense",
+          "content": {
+            "code": "",
+            "chinese": "风吹花海，推排若浪，两人立于大地之上，相视一笑。\\n\r\n“我们做到了。”\\n\r\n“是你做到了。”蒙面人看着女孩裙下的眼球，它们蠢蠢欲动，探头探脑，似乎在思考眼前的男人会是他们下一个同伴吗。\\n\r\n“你是来带我走的吧。”\\n\r\n“对。”\\n\r\n女孩儿在花田里不知度过了多少岁月，又不知吃了多少血肉，她渐渐长大，也终于迎来她的宿命。蒙面人拿出玻璃瓶，她散作无数花瓣，倒吸入瓶，花瓣染红了水，女孩又显现出她的模样，渐渐下沉，像一片失去生机的树叶，析出所有的汁液，只留下透明的茎脉，发现她，透过她，再忘记她。\\n\r\n“又回收了一个，还剩...”\\n\r\n蒙面人打开档案快速翻动，档案几乎每页都画上了巨大的红叉，突然他的手指停留，泛黄的照片映入眼帘，那是两个青春洋溢的少女，也是他下次的目标。",
+            "chineseTraditional": "風吹花海，推排若浪，兩人立於大地之上，相視一笑。\\n\r\n「我們做到了。」\\n\r\n「是你做到了。」蒙面人看著女孩裙下的眼球。它們蠢蠢欲動，探頭探腦，似乎在思考眼前的男人會是他們下一個同伴嗎？\\n\r\n「你是來帶我走的吧。」\\n\r\n「對。」\\n\r\n女孩在花田裡不知度過了多少歲月，又不知吃了多少血肉，她漸漸長大，也終於迎來她的宿命。蒙面人拿出玻璃瓶，她散作無數花瓣，倒吸入瓶，花瓣染紅了水，女孩又顯現出她的模樣，漸漸下沉，像一片失去生機的樹葉，析出所有的汁液，只留下透明的莖脈，發現她，透過她，再忘記她。\\n\r\n「又回收了一個，還剩···」\\n\r\n蒙面人打開檔案快速翻動，檔案幾乎每頁都畫上了巨大的紅叉，突然他的手指停留。泛黃的照片映入眼簾，那是兩個青春洋溢的少女，是他下次的目標。",
+            "english": "As the wind blows over the flower ocean, it creates flower waves. Two people overlooked these movements and smiled at each other.\\n\r\n\"We did it.”\\n\r\n\"No. You did it.\" \\n\r\nThe masked man looked at the eyeballs under the girl's skirt. They were ready to move and reach out for him. It seems that he's thinking about whether the man in front of him will be their next companion.\\n\r\n\"You are here to pick me up, right?” \\n\r\n\"Correct.\" \\n\r\nI don’t know how many years the girl has spent in the flower field, nor do I know how much flesh and blood she has consumed in that time. She gradually grows bigger. Inching towards her destiny.\\n\r\n The masked man took out a glass bottle. She began to drown in it, and scattered into thousands of petals. The petals dyed the water red. The girl showed her visage one last time, gradually sinking, like a leaf that had lost its vitality, leaving only the transparent stem veins. He found her, threw her away, and forgot her. \\n\r\n\"Another one was recovered. Let's see who's left...\" \\n\r\nThe masked man opened a file and through it quickly. Almost every page was marked with a large red cross.His fingers stayed, and a faded photo came into his view. It depicted two young girls.They were his next goal.",
+            "japanese": "風は吹き、花は波の如く。二人は大地に立ち、見つめ合い、笑い出す。 「やったね」 \\n\r\n「君の功績だよ。」覆面の人が、女の子のスカートの下にある目を見た。それらは蠢き、模索している。目の前の男は次の仲間なのか、と考えているようだ。\\n\r\n「私を連れて行くんでしょ」\\n\r\n「そう。」\\n\r\n 女の子はどのくらいこの花畑にいたか、どれだけの血肉を食べたかを覚えていない。彼女は成長し、その宿命を迎えた。覆面の人はガラス瓶を取り出し、彼女は無数の花びらとなって瓶に吸い込まれた。花びらは水を赤く染め、彼女の様子が再び現れ、枯れ葉のようにゆっくりと沈んでいく。あらゆる汁液を析出し、透明の枝だけを残して、彼女を見つけて、すり抜けて、そして忘れて。\\n\r\n「これでまた一つ回収できた、残りは..」\\n\r\n覆面の人はファイルを開いてみると、ほどんどどのページにも赤いバツが大きく書かれている。ふと、彼の指が止まった。一枚黄ばんだ写真が視界に入ってきた。写真には二人の若くて元気な少女が映っている、これが彼の次のターゲットであった。",
+            "korean": ""
+          },
+          "properties": {
+            "code": "",
+            "chinese": "",
+            "chineseTraditional": "",
+            "english": "",
+            "japanese": "",
+            "korean": "\r"
+          }
+        },
+        {
+          "key": "B17treature",
+          "subIndex": 1,
+          "getSong": -10015,
+          "name": {
+            "code": "",
+            "chinese": "公告·十七的宝藏",
+            "chineseTraditional": "公告·十七的寶藏",
+            "english": "[Announcement] The Treasure of 17",
+            "japanese": "報告・十七の宝",
+            "korean": ""
+          },
+          "date": "2091/06/29",
+          "supervisor": {
+            "code": "",
+            "chinese": "Sparkle_17",
+            "chineseTraditional": "Sparkle_17",
+            "english": "Sparkle_17",
+            "japanese": "Sparkle_17",
+            "korean": ""
+          },
+          "category": "main",
+          "content": {
+            "code": "",
+            "chinese": "少年人！\\n\r\n先祝贺你们，2091年暑假，开始啦！\\n\r\n暑假大家想好要做什么了吗？打工，社团，还是集训？都不是？\\n\r\n那可难倒十七了。\\n\r\n什么啊，原来没有想好啊。\\n\r\n那来寻找十七的宝藏吧！\\n\r\n十七准备好多好多礼物送给大家哦～\\n\r\n特别提示！所有礼物都指向最终大奖——十七的宝藏！快从礼物里寻找宝藏的线索吧！",
+            "chineseTraditional": "少年人！\\n\r\n先祝賀你們，2091年的暑假開始啦！\\n\r\n暑假大家想好要做什麼了嗎？打工賺錢，參加社團，還是集會訓練？都不是？\\n\r\n那可難倒十七了。\\n\r\n什麼啊，原來還沒想好啊。\\n\r\n那就來尋找十七的寶藏吧！\\n\r\n十七準備好多好多禮物送給大家哦～\\n\r\n特別提示！所有禮物都指向最終大獎——十七的寶藏！快從禮物裡尋找寶藏的線索吧！",
+            "english": "\"Congratulations youngster, you have made it to the summer vacation of 2091! \\n\nHave you decided what you want to do during the summer? \\n\nA part-time job? A training camp? No? \\n\nHave you considered signing up for the Treasure of Seventeen event?\\n\nJust enlist, find clues, and you will have a chance to earn great rewards!\\n\nThose who manage to find all the clues, and elliminate their competition, will recieve the *ultimate* prize...\\n\nDon't hesitate. Join now, and open your eyes!\"",
+            "japanese": "少年よ！\\n\r\n2091年の夏休みが始まりました、おめでとうございます！ 夏休みはもう予定が決まりましたか？バイト、サークル、部活？それとも違う？\\n\r\nそれは困りましたよ。\\n\r\nなんだ、まだ考えいませんでしたね。\\n\r\nそれじゃ十七のお宝を探しましょう！\\n\r\n十七が、みんなのためにいっばいお宝を準備してきましたからね～\\n\r\n特別ヒント！プレゼントはすべて、最終の大宝――十七の宝への道しるべ！早くプレゼントから手がかりを探そう！！",
+            "korean": ""
+          },
+          "properties": {
+            "code": "",
+            "chinese": "",
+            "chineseTraditional": "",
+            "english": "",
+            "japanese": "",
+            "korean": "\r"
+          }
+        },
+        {
+          "key": "gugugou",
+          "subIndex": 1,
+          "getSong": -10015,
+          "name": {
+            "code": "",
+            "chinese": "鸽子集结号",
+            "chineseTraditional": "鴿子集結號",
+            "english": "[Rec] Pigeon Assembly",
+            "japanese": "ぽっぽ集合ラッパ",
+            "korean": ""
+          },
+          "date": "2091/06/29",
+          "supervisor": {
+            "code": "",
+            "chinese": "艾葵",
+            "chineseTraditional": "艾葵",
+            "english": "Aquinn",
+            "japanese": "艾葵",
+            "korean": ""
+          },
+          "category": "main",
+          "content": {
+            "code": "",
+            "chinese": "咕咕队报名“十七的宝藏”成功后，系统具现化出来的黄铜小号，内侧刻着三名队员，和两名指导的名字。\\n\r\n“这是一支由艾葵，霍，夜组成的咕咕队，他们的两位指导雅各·兰登曼和伍月樱向职业道德宣誓，帮助咕咕队在这次的活动中，实践得真知。”",
+            "chineseTraditional": "咕咕隊報名「十七的寶藏」成功後，系統發放出來的黃銅小號。內側刻著三名隊員和兩名指導員的名字。\\n\r\n「這是一支由艾葵，霍，夜組成的咕咕隊，他們的兩位指導員雅各·蘭登曼和伍月櫻向職業道德宣誓，幫助咕咕隊在這次的活動中，實踐得真知。」",
+            "english": "After the Team Pigeon had successfully signed up for \"Treasure of Seventeen\", the VR system materialized a brass trumpet, with a message engraved onto its surface. \\n\n\"This item is a symbol of participation in the treasure hunt belonging to Aquinn, Huo and Yeeh. Their two supervisors, Yaakov Langdonman and Wu Yueying, swore an oath to professional ethics to help Team Pigeon grow as a result of, and survive this event. \"",
+            "japanese": "ポッポ隊が「十七の宝」に登録した後、システムから黄銅のラッパが貰いました、内側にメンバー三人と指導員二名の名前が刻んでいる。/ｒ/ｎ“これは艾葵，霍，夜が作れたポッポ隊”指導員のヤグ・ランドマンと伍月櫻は、職業倫理を誓った。今回の活動で、ポッポ隊野為に真実を貰う",
+            "korean": ""
+          },
+          "properties": {
+            "code": "",
+            "chinese": "",
+            "chineseTraditional": "",
+            "english": "",
+            "japanese": "",
+            "korean": "\r"
+          }
+        },
+        {
+          "key": "jixiangruyi",
+          "subIndex": 1,
+          "getSong": -10015,
+          "name": {
+            "code": "",
+            "chinese": "三尾吉祥鱼",
+            "chineseTraditional": "三尾吉祥魚",
+            "english": "[Rec] Three Lucky Fish",
+            "japanese": "三尾幸運魚",
+            "korean": ""
+          },
+          "date": "2091/06/29",
+          "supervisor": {
+            "code": "",
+            "chinese": "余小鹏",
+            "chineseTraditional": "餘小鵬",
+            "english": "Xiaopeng",
+            "japanese": "餘小鵬",
+            "korean": ""
+          },
+          "category": "main",
+          "content": {
+            "code": "",
+            "chinese": "季雨队报名“十七的宝藏”成功后，系统具现化出来的鱼纹陶埙，刻着三名队员，和两名指导的名字。\\n\r\n“这是一支由小鹏，若拉，翠冷组成的季雨队，他们的两位指导高师贲和余村长向职业道德宣誓，帮助季雨队在这次的活动中，实践得真知。”",
+            "chineseTraditional": "季雨隊報名「十七的寶藏」成功後，系統發放出來的魚紋陶笛，刻著三名隊員，和兩名指導員的名字。\\n\n「這是一支由小鵬，若拉，翠冷組成的季雨隊，他們的兩位指導員高師賁和余村長向職業道德宣誓，幫助季雨隊在這次的活動中，實踐得真知。」",
+            "english": "After the Monsoon Team had successfully signed up for the \"Treasure of Seventeen\", the VR system materialized an ocarina decorated with various paintings of fish, as well as an engraving. \\n\r\n \"This item is a symbol of Xiaopeng's, Jora's, and Verde's participation in the Treasure of Seventeen event. Their two supervisors, Mayor Yu and Gusbon, are from now on obligated to help Team Monsoon achieve knowledge and experience during this trial.\".",
+            "japanese": "季雨チームが「十七の宝」に登録した後、システムに発行された魚のオカリナに、メンバー三人と指導員二名の名前が刻んでいる。\\n\r\nこれは鵬，若拉，翠冷で構成される季雨チームです。指導員の高師賁と余村長は、職業倫理を誓った。今回の活動で、真実を貰う",
+            "korean": ""
+          },
+          "properties": {
+            "code": "",
+            "chinese": "",
+            "chineseTraditional": "",
+            "english": "",
+            "japanese": "",
+            "korean": "\r"
+          }
+        },
+        {
+          "key": "nazotiaozhan",
+          "subIndex": 1,
+          "getSong": -10029,
+          "name": {
+            "code": "",
+            "chinese": "给十七的挑战书",
+            "chineseTraditional": "給十七的挑戰書",
+            "english": "Challenge Letter to 17",
+            "japanese": "十七への挑戦状",
+            "korean": ""
+          },
+          "date": "2092/03/20",
+          "supervisor": {
+            "code": "",
+            "chinese": "鸠",
+            "chineseTraditional": "Geopelia",
+            "english": "Geopelia",
+            "japanese": "鳩",
+            "korean": ""
+          },
+          "category": "nazo",
+          "content": {
+            "code": "",
+            "chinese": "你好。\\n\n我们是一群来自NazoGame的解谜爱好者。在完成“十七的宝藏”的四次解谜后，我们决定用我们的方式来答谢Pigeon Games带来的四场解谜之旅。\\n\n你，愿意接受挑战吗？\\n\n\\n\nNazo: Phi Project",
+            "chineseTraditional": "你好。\\n\r\n我們是一群來自NazoGame的解謎愛好者。在完成「十七的寶藏」的四次解謎後，我們決定用我們的方式來答謝Pigeon Games帶來的四場解謎之旅。\\n\r\n你，願意接受挑戰嗎？\\n\r\n\\n\r\nNazo：Phi Project",
+            "english": "Hello.\\n\r\nWe are a group of puzzle enthusiasts from NazoGame. Upon solving the various puzzles of the \"Treasure of Seventeen\",and reaching the finish line, we found it necessary to show our gratitude to Pigeon Games, for providing us with four additional clues. We couldn't have done it without you.\\n\r\nAre YOU willing to accept the challenge?\\n\r\n\\n\r\nFrom: Nazo \\n\r\n Phi Project",
+            "japanese": "こんにちは。\\n\r\n私たちはNazoGameに所属する謎解き好きな人たちです。「十七の宝」の四回の謎を解き終わった後に、私たちは自分たちのやり方でPigeon Gamesが四回の謎を作ってくれたお礼を返したいと思っています。\\n\r\nあなたは、この挑戦にのりますか？\\n\r\n\\n\r\nNazo: Phi Project",
+            "korean": ""
+          },
+          "properties": {
+            "code": "",
+            "chinese": "",
+            "chineseTraditional": "",
+            "english": "",
+            "japanese": "",
+            "korean": "\r"
+          }
+        },
+        {
+          "key": "nazotiaozhan",
+          "subIndex": 2,
+          "getSong": -10024,
+          "name": {
+            "code": "",
+            "chinese": "给十七的挑战书·线索一",
+            "chineseTraditional": "給十七的挑戰書·資訊一",
+            "english": "Challenge Letter to 17 - Clue I",
+            "japanese": "十七への挑戦状・手がかり1",
+            "korean": ""
+          },
+          "date": "2092/03/20",
+          "supervisor": {
+            "code": "",
+            "chinese": "鸠",
+            "chineseTraditional": "Geopelia",
+            "english": "Geopelia",
+            "japanese": "鳩",
+            "korean": ""
+          },
+          "category": "nazo",
+          "content": {
+            "code": "",
+            "chinese": ">>> G:\\Nazo\\Phi Project001\\Search_Log 1/03/20\\n\n已找到记录 1 条\\n\n>>> G:\\Nazo\\Phi Project001\\Show_Log 1/03/20\\n\n系统收到信号。尝试解码中。\\n\n解码失败。已存储为文件。\\n\n鸠：让我看看，咦，这是什么。奇怪，我应该把 Xandboxie 开起来。\\n\n沙箱内出现了 7370320 的时间标志。\\n\n继而，标志消失不见，出现另一行字符：“What is freedom?”\\n\nthenazo.com/freedom\\n\n鸠：freedom吗，标准开头呢。\\n\n文字消失，屏幕转红，继而转黑，最后显示出一个问号。\\n\n鸠：有趣的设计，之前在资料库中好像看过啊。来检索一下，嘿，有了。\\n\n鸠：What is freedom，应该把 freedom 换掉吗？\\n\nGino：咕咕，你在干什么呢？\\n\n鸠：人家不叫咕咕！咕！\\n\n两人嬉闹之时，屏幕缓缓现出了一段诗歌：\\n\n文明湮没于浩瀚星海\\n\n勇者寻迹于网络迷宫\\n\n谜底仅需二字\\n\n指引现于心中\\n\n真相即为\\n\n>>> G:\\Nazo\\Phi Project001\\",
+            "chineseTraditional": ">>>G：\\Nazo\\PhiProject001\\Search_Log1/03/20\\n\r\n已找到1條記錄。\\n\r\n>>>G：\\Nazo\\PhiProject001\\Show_Log1/03/20\\n\r\n系統收到訊號，嘗試解碼中。\\n\r\n解碼失敗。已另存新檔。\\n\r\nGeopelia：「讓我看看。咦，這是什麼？奇怪，我應該把Xandboxie開起來。」\\n\r\n沙盒內出現了7370320的時間標誌。」\\n\r\n之後，標誌消失不見，出現另一行字：「What is freedom?」\\n\r\nthenazo.com/freedom\\n\r\nGeopelia：「freedom嗎，標準開頭呢。」\\n\r\n文字消失，螢幕轉紅，繼而轉黑，最後顯示出一個問號。\\n\r\nGeopelia：「有趣的設計，之前在資料庫中好像看過啊。來檢索一下，嘿，有了。」\\n\r\nGeopelia：「What is freedom，應該把freedom換掉嗎？」\\n\r\nGino：「咕咕，你在幹什麼呢？」\\n\r\nGeopelia：「人家不叫咕咕！咕！」\\n\r\n兩人嬉鬧之時，螢幕緩緩現出了一段詩歌：\\n\r\n文明湮沒於浩瀚星海\\n\r\n勇者尋跡於網路迷宮\\n\r\n謎底僅需二字\\n\r\n指引現於心中\\n\r\n真相即為\\n\r\n>>>G：\\Nazo\\PhiProject001\\",
+            "english": ">>> G:\\Nazo\\Phi Project001\\Search_Log 1/03/20\\n\nFound 1 record\\n\n>>> G:\\Nazo\\Phi Project001\\Show_Log 1/03/20\\n\nSignal received by system. Attempting to decode.\\n\nDecoding failed. Saving draft file.\\n\nGeopelia: Let's see... Hmm, that's strange. I should run Xandboxie.\\n\nTimestamp of 7370320 appeared in the sandbox.\\n\nThen, the stamp disappeared, a different string taking its place: \"What is freedom?\"\\n\nthenazo.com/freedom\\n\nGeopelia: Freedom? What happened to the regular startup message?\\n\nThe text disappeared, the screen turned red, then black, and finally displayed a single question mark.\\n\nGeopelia: That's interesting... I might have seen something likr this before, in the database... Let's try... Oh, there it is.\\n\nGeopelia: In \"What is freedom\",  should I replace the \"freedom\"?\\n\nGino: Cuckoo, what are you doing?\\n\nGeopelia: My name is not cuckoo! Coo!\\n\nWhile the two were fooling around, song lyrics slowly showed up on the screen:\\n\nCivilisation annihilated in vast universe\\n\nThe bold seek their way in a network of mazes\\n\nAnswer to the riddle needs only two characters\\n\nGuidance given to my heart\\n\nThe truth is\\n\n>>> G:\\Nazo\\Phi Project001\\",
+            "japanese": ">>> G:\\Nazo\\Phi Project001\\Search_Log 1/03/20\\n\n1点のメッセージが見つけました\\n\n>>> G:\\Nazo\\Phi Project001\\Show_Log 1/03/20\\n\nシグナルを受け取りました。解析を試みます。\\n\n解析失敗。ファイルとして保存しました。\\n\n鳩：どれどれ、あれ？なにこれ。おかしいな、 Xandboxie を起動するべきか。\\n\n砂箱には 7370320 の時間標識が現れた。\\n\nそしてそれは消えてなくなり、もう一行別の文字が現れた：“What is freedom?”\\n\nthenazo.com/freedom\\n\n鳩：freedomか、普遍的な始まりだね。\\n\n文字は消え、スクリーンは赤色になってから黒色になり、そして一つのクエスチョンマークが現れた。\\n\n鳩：面白い設計、この前資料庫で見かけたっけ。検索してみると…お、あったあった。\\n\n鳩：What is freedom、 freedom を取り換えるべきか？\\n\nGino：ポッポ、何してるの？\\n\n鳩：私の名はポッポじゃない！ポ！\\n\n二人が戯れていると、スクリーンにゆっくりと一段落の詩歌が現れた：\\n\n文明は広大な星海に埋もれ\\n\n勇者はインターネットの迷宮で跡を探す\\n\n正解はたったの二文字\\n\n導きは心の中にあり\\n\n真実は即ち\\n\n>>> G:\\Nazo\\Phi Project001\\",
+            "korean": ""
+          },
+          "properties": {
+            "code": "",
+            "chinese": "",
+            "chineseTraditional": "",
+            "english": "",
+            "japanese": "",
+            "korean": "\r"
+          }
+        },
+        {
+          "key": "kaoquanya",
+          "subIndex": 1,
+          "getSong": -10030,
+          "name": {
+            "code": "",
+            "chinese": "烤 全 鸭",
+            "chineseTraditional": "烤 全 鴨",
+            "english": "[File] Burn'd Duck",
+            "japanese": "丸焼きアヒル",
+            "korean": ""
+          },
+          "date": "2092/03/32",
+          "supervisor": {
+            "code": "",
+            "chinese": "Alpa",
+            "chineseTraditional": "Alpa",
+            "english": "Alpa",
+            "japanese": "Alpa",
+            "korean": ""
+          },
+          "category": "nonsense",
+          "content": {
+            "code": "",
+            "chinese": "【灯火通明的大街上，摩肩接踵的人群间，一股烤鸭的香味，跑出排风扇的约束，弥漫进行人的衣兜里，连带着鞋子，把这人啊，像木偶似的牵去着店门前，想着一探炉中乾坤。】\\n\n【离饭点还有很长时间，NceS躺在太师椅上，手中转着太极球，就感觉这右眼皮直跳直跳的，今儿怕是有祸事，要不关门停业算了。】\\n\n無極：老板，有生意来了，做不做啊。\\n\nNceS：你是，無極？哎，不对啊，这头怎么换了呢？\\n\n無極：别瞎摸，新做的脑袋，金贵着呢。\\n\nNceS：哈，無極啊無極，你怕不是逃难来的吧，事先说好，老侧我不做偷渡好多年了。\\n\n無極：我逃什么难，笑话。\\n\n【無極以前还不叫無極的时候，就与NceS相识了。这次得罪了领导，第一时间想到的，也是这位老朋友。】\\n\nNceS：你说你这叫什么事，让鸽子吧那帮老家伙儿，满大街喊打喊杀。要我说，不就是工资吗，都包吃包住了，至于往游戏里加bug嘛。\\n\n無極：啧，一开口就是老AI了。这次啊，一不做二不休，工资不发，咱就散伙，该干啥干啥去，游戏也别做了。别拿一家人，抬头不见低头见的压我，亲兄弟明算账！为了写谱，你看我这手啊，都秃噜皮了。\\n\nNceS：您这是塞爆塞的吧。\\n\n【实不相瞒，NceS嫌麻烦，偷偷把無極来这儿的消息透露给了阿爽。清官难断家务事，这次造反的是居委会，鸽子吧追究起来，他工会也没干系。】\\n\n無極：我老觉得你这，眼神不对劲。\\n\nNceS：通电话呢，姜米條和村头鱼喊我晚上打麻雀。\\n\n無極：你不会告密了吧。\\n\nNceS：哪能啊，三缺一，你要不要来？\\n\n阿爽：我来我来！\\n\n無極：草，追兵来了！NceS，明天我再找你算账！\\n\nNceS：慢走不送。\\n\n【今天的商业街，也是和平的一天啊～】\\n\n电视传讯：现在播报一条紧急消息：因音乐游戏Phigros而传播的赛博病毒垃圾症，已得到良好控制，我市铺路专家Sound Souler提醒广大民众，垃圾症可以通过头敲地板解决，连续敲击五次的效果最佳。\\n\nNceS：这都什么跟什么啊。",
+            "chineseTraditional": "【燈火通明的大街上，摩肩接踵的人群間，一股烤鴨的香味，征服排風扇的約束，彌漫的穿進衣兜裡，連帶著鞋子，把這人啊，木偶似的牽去著店門前，想著一探爐中乾坤。】\\n\n【離飯點還有很長時間，NceS躺在太師椅上，手中轉著太極球，就感覺這右眼皮直跳直跳的，今兒怕是有禍事，要不關門停業算了。】\\n\n無極：「老闆，有生意來了，做不做啊？」\\n\nNceS：「你是，無極？欸，不對啊，這頭怎麼換了呢？」\\n\n無極：「別瞎摸，新做的腦袋，金貴著呢。」\\n\nNceS：「哈，無極啊無極，你怕不是逃難來的吧，先說好，我啊，早就不做偷渡好多年了。」\\n\n無極：「我逃什麼難，笑話。」\\n\n【無極以前還不叫無極的時候，就與NceS相識了，這次犯了事，第一時間想到的，也是這位老朋友。】\\n\nNceS：「你說你這叫什麼事，讓鴿子吧那幫老傢伙兒，滿大街喊打喊殺。要我說，不就是工資嗎，都包吃包住了，至於往遊戲裡加Bug嘛...」\\n\n無極：「嘖，一開口就是老AI了。這次啊，一不做二不休，工資不發，咱就散夥，該幹啥幹啥去，遊戲也別做了。別拿一家人，抬頭不見低頭見的壓我，親兄弟明算帳！為了寫譜，你看我這手啊，都脫皮了。」\\n\nNceS：「您這是塞爆塞的吧。」\\n\n【實不相瞞，NceS嫌麻煩，偷偷把無極來這兒的消息透露給了阿爽。清官難斷家務事，這次造反的是居委會，鴿子吧追究起來，他工會也沒辦法脫身。】\\n\n無極：「我總覺得你這眼神不對勁。」\\n\nNceS：「通電話呢，姜米條和村頭魚揪我晚上打麻將。」\\n\n無極：「你不會告密了吧。」\\n\nNceS：「哪能啊，三缺一，你要不要來？」\\n\n阿爽：「我來我來！」\\n\n無極：「哇，追兵來了！NceS，明天我再找你算帳！」\\n\nNceS：「慢走不送。」\\n\n【今天的商業街，也是和平的一天啊～】\\n\n電視播報：「現在插播一條緊急消息：因音樂遊戲Phigros而傳播的賽博病毒垃圾症，已得到良好控制，我市鋪路專家SoundSouler提醒收聽民眾，垃圾症可以通過頭敲地板解決，同時敲擊五次的效果最為良好。」\\n\nNceS：「這都什麼跟什麼啊？」",
+            "english": "A document found on Alpa's hard drive. \\n\n[On a brightly lit street, the smell of roasted ducks was escaping the constraints of every exhaust fan, permeating the air. Sinking into every piece of clothing, it took control of people as if they were mere puppets, and lead them to the store front.] \\n\n[It was late afternoon, but the outside was already dark and snowy. NceS was sitting in an armchair, with fidgeting with his hands. His right eyelid was twitching uncontrollably, which made him quite worried. He was considering closing the shop for that day.] \\n\nWuji: You have some customers coming your way. \\n\nNceS: Is that so? Wait, Wuji, what's wrong with your face? How did it change again? \\n\nWuji: Don't touch it dummy, this new face is far too precious. \\n\nNceS: Ahh, Wuji... You are escaping from someone again, aren't you. Before you ask, I haven't done any illegal smuggling for many years, so don't evem bother. \\n\nWuji: What? Come on, what could I possibly be running from?\\n\n[The man was acquainted with NceS since before he was called Wuji. This time he got in trouble with the administration, and inexplicably decided to visit his ond friend.] \\n\nNceS: What's wrong with you people? I say let the old pigeons scream all over the street. I don't care. But they have covered your food and residence, and your wage will be paid one day. So why would you add bugs to the system? \\n\nWuji: Ah, so you already know... The old AI was pushed out of the gate. This time, if something goes wrong, they won't get paid, and the entire union will collapse. And when that happens, I will have to make all the charts myself. But just look at my hands! They are covered in bruises blood and sores already! \\n\nNceS: Yeah right! As if I'm gonna believe that! \\n\nWuji: I don't understand. It's like your attention was always some place elsewhere... \\n\nNceS: Oh, my friend, it was just me playing mahjong with JiangMiTiao and Ctymax over a brain call. \\n\nWuji: So you always knew? Why didn't you tell them? \\n\nNceS: You know I couldn't do that... Do you want to hide here with us? \\n\nAsh:  I wouldn't mind that!\\n\nWuji: Damn it, they're here! I will drop by again tomorrow! \\n\nNceS: Oh, farewell then. You're welcome at any time. \\n\nTV: Urgent news: The VR cyber virus known as Rubbishphobia, notably spread by a malicious program called \"Phigros\", is finally under control. Our city's paving expert, Sound Souler, wants to remind the public that Rubbishphobia can be treated by hitting your head against the floor. Repeatedly. \\n\nNceS: What the hell is this-",
+            "japanese": "【灯りにともされた大通り、肩がぶつかり合うほどの大勢の人。アヒルの丸焼きの香りが排気口から出て、行き来する人々を魅了し、まるで人形のように操って店までたどり着かせば、あまりのいい香りに人々はそのオーブンの中を見てみたいと思ってしまう。】\\n\n【ご飯までまだ時間がある。NceSは木製の古いアームチェアに座り、手でタイチボールをぐるぐる回していると、右まぶたが痙攣しているのを感じた。これは悪い兆候、今日は閉店としようか。】\\n\n無極：大将、まだやってるか？\\n\nNceS：お前は...無極？いや、ちがう、また頭を変えたのか？\\n\n無極：あんまり触らないでよ、新しく作った頭だ、ピッカピカだぞ。\\n\nNceS：無極よ、お前まさか逃げてきたわけじゃないよな？言っとくが、わしはもう何年も密航者に協力してないぞ。\\n\n無極：俺が逃げる？何から？馬鹿げた話だ。\\n\n【昔、まだ無極がこの名前を使ってない時から、彼はすでにNceSと知り合っていた。今回やらかした時も、第一にこの古い友人を思い浮かべた。】\\n\nNceS：これはこれは、なんてこった。ハトコミュニティの連中に指名手配されて。たったの給料だけじゃないか。住むところも食事も全部くれるもんだから、そんなゲームにバグを入れるなんて、必要あるか？\\n\n無極：って、その話し方、やっぱAIとの付き合いは長いな。今回は絶対にストライキするぞ。給料をくれないともうやらない。もうゲームなんて作ってたまるか。家族だの、親友だの、そんなもん言っても無駄だ。親しい関係だからこそ給料はくれるべきだ。見ろ、俺のこの手を。譜面作ってばかりで皮が剥けたよもう。\\n\nNceS：人間がやるもんじゃない譜面ばっか作ってるからじゃないか。\\n\n【実をいうと、NceSはめんどくさいことにしたくないため、こっそりと無極がここに来ることをashに知らせた。夫婦喧嘩は犬も食わぬ、今回謀反を起こしたのは住民委員会、ハトコミュニティのやつらが追究すれば、ほかの労働組合には関係ない。】\\n\n無極：お前、なんかおかしいぞ。\\n\nNceS：電話してるさ。姜米條とCtyが今夜に麻雀やりたいってな。\\n\n無極：お前…まさか密告してないよな？\\n\nNceS：いやまさか。一人足りない？お前も来ないか？\\n\nash：俺が行く！\\n\n無極：ち、追っ手が来たか。NceS、待ってろよ此畜生！\\n\nNceS：はーいはい、いってらっしゃーい。\\n\n【今日も商店街は平和ですね～】\\n\nテレビニュース：緊急ニュース速報です。リズムゲーム「Phigros」が原因で伝播しているサイバーウイルスゴミ症は、今制御することに成功し、徐々に収束していくと予想されます。我が街の道路専門家Sound Souler氏によりますと、「ゴミ症は頭を地面にぶつけることで治すことが可能で、同時に五回ぶつけると効果がいい」とのことです。\\n\nNceS：……頭おかしいだろ。",
+            "korean": ""
+          },
+          "properties": {
+            "code": "",
+            "chinese": "",
+            "chineseTraditional": "",
+            "english": "",
+            "japanese": "",
+            "korean": "\r"
+          }
+        },
+        {
+          "key": "Kalpa1",
+          "subIndex": 1,
+          "getSong": -10078,
+          "name": {
+            "code": "",
+            "chinese": "今年过节上春晚",
+            "chineseTraditional": "今年過節上春晚",
+            "english": "This year on the New Year's Gala",
+            "japanese": "今年の正月は春晩で",
+            "korean": ""
+          },
+          "date": "771/12/23",
+          "supervisor": {
+            "code": "",
+            "chinese": "鸠",
+            "chineseTraditional": "Geopelia",
+            "english": "Geopelia",
+            "japanese": "鳩",
+            "korean": ""
+          },
+          "category": "key",
+          "content": {
+            "code": "",
+            "chinese": "【冬季的傍晚时分，林泊百科编辑部，地暖热乎着，果盘码齐了，大电视放着，鸠瘫坐在沙发上，荧幕中流动的风景，像是无数催眠符号，直教她上下眼皮打架。Fuli在搞新年装饰，她踩着切作台，拿着小灯笼，和晃动的吊灯你一拳我一拳地殊死拼搏。】\\n\nFuli：小东西，和我斗？看我怎么，收，收拾……\\n\n【鸠回头瞧了眼厨房，啧了啧嘴，又摊成一滩软泥。】\\n\n鸠：哎……好无聊。\\n\nFuli：无聊就来帮我啊。\\n\n鸠：哎……不想动。\\n\n【电视刚巧放到树袋熊的画面，鸠突然觉得，也许自己是树袋熊转生的也说不定。】\\n\nFuli：那你打个电话问问Gino还有弭儿呢，都几点了，还不回来吃饭。\\n\n鸠：哎……随缘吧。\\n\n【只见广告条滚动，今年过节不收礼，收礼只收——】\\n\nFuli：对了，还有你那位朋友，请来家里吧，大过年的，热闹热闹。\\n\n鸠：哎，\\n\n【她转念一想，不太对劲。】\\n\n鸠：我哪位朋友？\\n\nFuli：从Kalpa亚空间来的，我记得她住在月面吧。\\n\n鸠：Lana啊，对哦，她要上时钟城春晚了。\\n\nFuli：？？？\\n\n【调到土星一套，春晚嘉宾正纷纷送上新年好，Lana也位列其中。今天她装了俩假辫子，一身蓝白礼服，格外出挑。】\\n\n主持人：Lana小姐有什么想和观众说的吗？\\n\nLana：Geopelia！请看好吧！我的变身！\\n\n【鸠横眉冷对，轻骂一声，并关掉了电视。】\\n\n鸠：你看吧。\\n\nFuli：还是算了吧。\\n\n鸠：哎……\\n\n【鸠刚躺下，却又皱起眉头，Lana的装束好眼熟，她好像在哪里见过。】",
+            "chineseTraditional": "【冬季的傍晚時分，林泊百科編輯部，地暖熱乎著，果盤齊了，大電視放著，Geopelia癱坐在沙發上，螢幕中流動的風景，像是無數的催眠訊號，直叫她上下眼皮打架。 Fuli在搞新年裝飾，她踩著切製台，拿著小燈籠，和晃動的吊燈你一拳我一拳地殊死拼搏。 】\\n\r\nFuli：「小東西，和我鬥？看我怎麼、收、收拾……」\\n\r\n【Geopelia回頭瞧了眼廚房，嘖了嘖聲，又攤成一灘軟泥。 】\\n\r\nGeopelia：「唉……好無聊。」 \\n\r\nFuli：「無聊就來幫我啊。」 \\n\r\nGeopelia：「唉……不想動。」 \\n\r\n【電視剛巧播到無尾熊的畫面，Geopelia突然覺得，也許自己是無尾熊轉生的也說不定。 】\\n\r\nFuli：「那你打個電話問問Gino還有弭兒呢，都幾點了，還不回來吃飯。」 \\n\r\nGeopelia：「唉……隨緣吧。」 \\n\r\n【只見廣告條捲動，今年過節不收禮，收禮只收——】\\n\r\nFuli：「對了，還有你那位朋友，請他來家裡吧，大過年的，熱鬧熱鬧。」 \\n\r\nGeopelia：「唉」\\n\r\n【她轉念一想，不太對勁。 】\\n\r\nGeopelia：「我哪位朋友？」 \\n\r\nFuli：「從Kalpa亞空間來的，我記得她住在月面吧。」 \\n\r\nGeopelia：「Lana啊，對哦，她要上時鐘城參加春晚了。」 \\n\r\nFuli：「？ ？ ？」 \\n\r\n【調到土星一套，春晚嘉賓正紛紛送上新年好，Lana也位在列中。今天她裝了倆假辮子，一身藍白禮服，格外出眾。 】\\n\r\n主持人：「Lana小姐有什麼想和觀眾說的嗎？」 \\n\r\nLana：「Geopelia！請看好吧！我的變身！」 \\n\r\n【Geopelia橫眉相對，輕罵一聲，並關掉了電視。 】\\n\r\nGeopelia：「你看吧。 」\\n\r\nFuli：「還是算了吧。」 \\n\r\nGeopelia：「唉……」\\n\r\n【Geopelia剛躺下，卻又皺起眉頭，Lana的裝扮好眼熟，她好像在哪裡見過。 】",
+            "english": "[It is a winter evening at the editorial office of Limbo Wiki. The floor heating is on, with fruits all set in the tray on the table. Geopelia lazily lies on the sofa, staring at the flashing scenes on big TV screen that look like many hypnotic symbols, making her fall asleep. Fuli is setting up the New Year decoration. She stands on the cutting table, with a small lantern in her hand, struggling with the swaying chandelier.] \\n\nFuli: You little thing wanna fight with me huh? I will let you know wh, who’s in char, charge here……\\n\n[Geopelia takes a look at the kitchen, clicks her tongue, and falls back into the sofa.]\\n\nGeopelia: Hmmm…… so boring.\\n\nFuli: Come and help me then.\\n\nGeopelia: Hmmm…… too lazy to move.\\n\n[The TV just happened to show some scenes of koalas. Geopelia suddenly feels like she could be a reincarnation of a koala.]\\n\nFuli: Then make a call and ask Gino and Mill. They should have been back for dinner by now.\\n\nGeopelia: Hmmm…… it is what it is.\\n\n[Looking at the commercials, have a break, have a——]\\n\nFuli: Oh right, you can invite the other friend of you as well. It is more fun with more people here for the festival.\\n\nGeopelia: Oh, \\n\n[On a second thought, she finds something not quite right.]\\n\nGeopelia: Which friend of mine?\\n\nFuli: The one from Kalpa sub-space. I remembered that she lives in Selene.\\n\nGeopelia: You mean Lana? Oh yea, she will be on the New Year’s Gala of the Clock City.\\n\nFuli: ???\\n\n[Turned to Saturn Channel 1, the guests of the Gala are giving out their new year wishes. Lana is one of them. She has a pair of fake ponytails today and wears a blue and white dress that stands out.]\\n\nHost: Is there anything that Miss Lana wants to say to the audience?\\n\nLana: Geopelia! Watch it closely! My transformation!\\n\n[Geopelia gives it a cold shoulder and turned of the TV with a swear word.]\\n\nGeopelia: See?\\n\nFuli: Nevermind.\\n\nGeopelia: Hmmm……\\n\n[Geopelia lies back onto the sofa, but then frowns. Lana’s outfit looks quite familiar. She might have seen it somewhere.]",
+            "japanese": "【冬の夕暮れ、Limbo Wikiの編集部の部屋は床暖房で暖められ、机の上には果物いっぱいの皿、大きなテレビはつけたまま。鳩はソファーに座り込んでいる。テレビで流れている番組はまるで催眠記号のようで、見ていてだんだん眠くなってきた。Fuliは新年の飾りつけをしている。ランタンを持って作業台に乗り、揺れる電灯と喧嘩ごっこをしている最中。】\\n\r\nFuli：私とやりあうってのか？この、こらしめてやる……\\n\r\n【鳩はキッチンのほうを見て、やれやれと思いながらまた姿勢を崩した。】\\n\r\n鳩：ハァ……つまんない。\\n\r\nFuli：つまんないなら手伝ってよ。\\n\r\n鳩：えぇ……動きたくないし。\\n\r\n【ちょうどテレビにコアラの姿が映った。鳩はもしや自分の前世はコアラだったのかもしれないと思った。】\\n\r\nFuli：じゃあGinoとミエルに電話してよ。まだ帰ってこないし、もう何時だと思ってんだろう。\\n\r\n鳩：ハァ……もうどうでもいいや。\\n\r\n【テレビがまた新年でよく流れるCMを流し始めた】\\n\r\nFuli：そうだ、君のその友達はどうだ、誘ってみないか？新年だし、賑やかな方がいいじゃん。\\n\r\n鳩：ん？\\n\r\n【鳩はふっと思った。何かが違う。】\\n\r\n鳩：友達って、誰？\\n\r\nFuli：亜空間Kalpaから来たあの子よ、確か月面に住んでいるんだよね。\\n\r\n鳩：Lanaか。そうだ、あの子時計城の春節晩会に出るって。\\n\r\nFuli：？？？\\n\r\n【テレビのチャンネルを土星1chに変えると、ちょうど番組に出るゲストたちが新年のあいさつをしているところで、Lanaもそこにいた。彼女は二つ編みのウィッグをかぶり、青白色の礼服を着ていて、目立つ存在となっている。】\\n\r\n司会者：Lanaさんは何か視聴者さんたちに伝えたいことありますか？\\n\r\nLana：Geopelia！よく見ててね！私の変身を！\\n\r\n【鳩は少しも動じずに、軽く愚痴を呟いてはテレビを消した。】\\n\r\n鳩：好きな番組見ていいよ。\\n\r\nFuli：やっぱいいや。\\n\r\n鳩：ハァ……\\n\r\n【鳩は横になると、またすぐ眉をひそめた。Lanaのあの格好、何か見覚えがある気がしてきたのだ。】",
+            "korean": ""
+          },
+          "properties": {
+            "code": "",
+            "chinese": "",
+            "chineseTraditional": "",
+            "english": "",
+            "japanese": "",
+            "korean": "\r"
+          }
+        },
+        {
+          "key": "Kalpa2",
+          "subIndex": 1,
+          "getSong": -10079,
+          "name": {
+            "code": "",
+            "chinese": "穿越小队少一人",
+            "chineseTraditional": "穿越小隊少一人",
+            "english": "One less person in the Travelling Squad",
+            "japanese": "トラベル小隊一人消失",
+            "korean": ""
+          },
+          "date": "771/12/23",
+          "supervisor": {
+            "code": "",
+            "chinese": "KALPA",
+            "chineseTraditional": "KALPA",
+            "english": "KALPA",
+            "japanese": "KALPA",
+            "korean": ""
+          },
+          "category": "main",
+          "content": {
+            "code": "",
+            "chinese": "【月面，枣树林地区，Lana的住所，几位远道而来的客人，徘徊于门前。】\\n\nElaine：导航说就是这里。\\n\n【只见窗门紧闭，屋内也没灯亮着，貌似主人并不在家。】\\n\nKalpa：可能有事出门了，我们再等等。\\n\nElaine：两边时间流速不同，她可能忘记今天该回去了。\\n\nKalpa：应该不会吧？\\n\nIris：那么等待时间里，大家要吃新鲜出炉的饼干吗。\\n\nElaine&Kalpa：不要。\\n\nIris：唉？\\n\n【Iris稍稍有点失落，在她幻想的记忆中大家都很喜欢吃她的饼干的。】\\n\nElaine：说起饼干，Arcyone怎么样了。\\n\nKalpa：好点了，有力气骂人了。\\n\nIris：Arcyone？对哦，Arcyone说好一起来的。\\n\nKalpa：你忘了吗，Iris。临出发前，她吃了你的饼干，现在还躺在床上呢。\\n\nIris：好像有这回事……\\n\nElaine：孩子，答应我，下次别放毒蘑菇了。\\n\nIris：蘑菇，原来有毒吗。\\n\n【同伴们一时间竟不知如何回答Iris，而此时，一位有着靛蓝色长发的女士走向他们。】\\n\nIgallta：你们在找这家的主人吗。\\n\nKalpa：是的，您知道她去哪儿了吗？\\n\nIgallta：你们来的真不巧，Lana上春晚去了。\\n\nIris：春晚是什么？\\n\nKalpa：一档电视节目，我听Geopelia说过。\\n\nIgallta：你们是鸠的朋友？\\n\nElaine：她来过我们世界。\\n\nKalpa：想起来了，我在歌曲中见过你。\\n\n【时间回到两周前，鸠在前往天穹层的路上，不幸掉落到一个名叫Kalpa的亚空间。因为亚空间法则，她丧失了记忆，正一筹莫展时，Kalpa和Aste、Mero姐妹帮助了她。】\\n\nIgallta：既然这样，不如我们先去鸠那里吧，等表演结束，Lana也打算过去。\\n\nKalpa：不会添麻烦吧？\\n\nIgallta：不会不会，Fuli说人越多越好。\\n\nElaine：也只能这样了。\\n\nIris：等等，Lana真不记得了啊。\\n\nKalpa：……\\n\nElaine：似乎的确如此。",
+            "chineseTraditional": "【月面，棗樹林地區，Lana的住所，幾位遠道而來的客人，徘徊於門前。 】\\n\r\nElaine：「導航說就是這裡。 」\\n\r\n【只見窗門緊閉，屋內也沒燈亮著，貌似主人並不在家。 】\\n\r\nKalpa：「可能有事出門了，我們再等等。」 \\n\r\nElaine：「兩邊時間流速不同，她可能忘記今天該回來了。」 \\n\r\nKalpa：「應該不會吧？」 \\n\r\nIris：「那麼等待時間裡，大家要吃新鮮出爐的餅乾嗎？」 \\n\r\nEkaine&Kalpa：「不要。」 \\n\r\nIris：「欸？」 \\n\r\n【Iris稍稍有點失落，在她幻想的記憶中大家都很喜歡吃她的餅乾的。 】\\n\r\nElaine：「說起餅乾，Arcyone怎麼樣了？」 \\n\r\nKalpa：「好點了，有力氣罵人了。」 \\n\r\nIris：「Arcyone？對哦，Arcyone說好要一起來的。」 \\n\r\nKalpa：「你忘了嗎，Iris。臨出發前，她吃了你的餅乾，現在還躺在床上呢。」 \\n\r\nIris：「好像有這回事……」\\n\r\nElaine：「孩子，答應我，下次別放毒蘑菇了。」 \\n\r\nIris：「蘑菇，原來有毒嗎。」 \\n\r\n【同伴們一時間竟不知如何回答Iris。此時，一位有著靛藍色長髮的女士走向他們。 】\\n\r\nIgallta：「你們在找這家的主人嗎。」 \\n\r\nKalpa：「是的，您知道她去哪兒了嗎？」 \\n\r\nIgallta：「你們來的真不巧，lana上春晚去了。」 \\n\r\nIris：「春晚是什麼？ 」\\n\r\nKalpa：「一檔電視節目，我聽Geopelia說過。 」\\n\r\nIgallta：「你們是鳩的朋友？」 \\n\r\nElaine：「她來過我們世界。」 \\n\r\nKalpa：「我想起來了，我在歌曲中見過你。」 \\n\r\n【時間回到兩週前，Geopelia在前往天穹層的路上，不幸掉落到一個名叫Kalpa的亞空間。因為亞空間法則，她喪失了記憶，正一籌莫展時，Kalpa和Aste、Mero姐妹幫助了她。 】\\n\r\nIgallta：「既然這樣，不如我們先去鳩那裡吧，等表演結束，Lana也打算過去。」 \\n\r\nKalpa：「不會麻煩您吧？」 \\n\r\nIgallta：「不會不會，Fuli說人越多越好。」 \\n\r\nElaine：「也只能這樣了。 」\\n\r\nIris：「等等，Lana真不記得了啊。」 \\n\r\nKalpa：「……」\\n\r\nElaine：「似乎的確如此。」",
+            "english": "[Selene, Jujube fortress region, where Lana lives, a few guests from far away wonders outside the door.]\\n\r\nElaine: The navigation says it’s here.\\n\r\n[The door and windows are closed. No light inside the room. It seems that no one is home.]\\n\r\nKalpa: Perhaps she’s outside. We should wait.\\n\r\nElaine: The speeds of time flow are different on both sides. Maybe she forgot to go back today.\\n\r\nKalpa: I don’t think so?\\n\r\nIris: So as we are waiting, do y’all want some freshly baked biscuits?\\n\r\nElaine&Kalpa: No. \\n\r\nIris: Ugh?\\n\r\n[Iris is a bit disappointed. Everyone loves her biscuits in her imagination.]\\n\r\nElaine: Speaking of biscuits, how’s Arcyone doing?\\n\r\nKalpa: Better now. She got the strength to swear now.\\n\r\nIris: Arcyone? Oh yea, Arcyone said she would be joining us though.\\n\r\nKalpa: Don’t you remember Iris? She ate your biscuits before we left. Now she is stilling lying in bed.\\n\r\nIris: It seems so……\\n\r\nElaine: Promise me, kid, don’t ever put poisonous mushrooms again,\\n\r\nIris: Wait, the mushrooms are poisonous?\\n\r\n[While the few are speechless to Iris, a young lady with long indigo hair approaches them.]\\n\r\nIgallta: Are you looking for the house owner?\\n\r\nKalpa: Yes. Do you know where she has gone to?\\n\r\nIgallta: Unfortunately, Lana went to attend the New Year’s Gala.\\n\r\nIris: What is New Year’s Gala?\\n\r\nKalpa: It is a TV show. I’ve heard of it from Geopelia.\\n\r\nIgallta: Are you friends of Geopelia?\\n\r\nElaine: She’s been to our world.\\n\r\nKalpa: I remember now. I’ve seen you in the song.\\n\r\n[Time goes back to 2 weeks ago. On her way to the Sky Dome, she accidentally fell into a sub-space called Kalpa. Because of the law of sub-space, she lost her memories. Kalpa and the Aste and Mero sisters helped her.]\\n\r\nIgallta: In that case, how about we go to Geopelia first? After the end of the show, Lana will be there too.\\n\r\nKalpa: It won't be any trouble, will it? \\n\r\nIgallta: Totally not. Fuli said the more people the better. \\n\r\nElaine: I guess that's the only way. \\n\r\nIris: Wait, Lana really doesn't remember anything?\\n\r\nKalpa: ......\\n\r\nElaine: It does seem so.",
+            "japanese": "【月面、ナツメの木地区、Lanaの住処、遠くから来た客人たちが門の外でさまよっている。】\\n\r\nElaine：ナビが言うにはここだそうだ。\\n\r\n【窓とドアは閉めたまま、屋内に灯りもない。主人はいないようだ。】\\n\r\nKalpa：用事があって出かけてるみたいね、少し待ってみよう。\\n\r\nElaine：あっちとこっちでは時の流れが違う。帰るのが今日だって忘れてるかもしれない。\\n\r\nKalpa：まさか…ね？\\n\r\nIris：ではみんな、待ている間はこの焼きたてのクッキーでも食べてみないか？\\n\r\nEkaine&Kalpa：やだ。\\n\r\nIris：え？\\n\r\n【Irisはちょっと落ち込んだ。彼女の幻想の中ではみんなはクッキーが大好きだったのだ。】\\n\r\nElaine：クッキーといえば、Arcyoneの調子はどうなの？\\n\r\nKalpa：よくなったよ、人を罵るくらいの体力は回復した。\\n\r\nIris：Arcyone？そうだった、Arcyoneも一緒に来るって言ってたね。\\n\r\nKalpa：忘れたのか、Iris。彼女は出発前に君が作ったクッキーを食べて、今もベッドに伏せてるまんまだよ。\\n\r\nIris：確かにそんなこともあった……\\n\r\nElaine：約束して、もう毒キノコを入れないって。\\n\r\nIris：キノコって、毒があるの？\\n\r\n【仲間たちは一瞬、Irisにどう答えればいいかがわからなかった。この時、ひとり青色の髪の女性が彼女たちに歩み寄せた。】\\n\r\nIgallta：この家の主人をお探しですか。\\n\r\nKalpa：そうです。どこにいらっしゃるか存じませんか？\\n\r\nIgallta：タイミングが悪いですね、lanaは今春晩に出ています。\\n\r\nIris：春晚ってなに？\\n\r\nKalpa：テレビ番組だよ、Geopeliaから聞いたことがある。\\n\r\nIgallta：あなたたちは鳩の友人ですか？\\n\r\nElaine：彼女は私たちの世界に来ていました。\\n\r\nKalpa：思い出しました、曲の中であなたを見たことがあります。\\n\r\n【時を遡って二週間前。鳩は天穹層へ向かう途中、不幸にもKalpaという名の亜空間に落ちた。亜空間の法則により彼女は記憶を失い、何もできないととまどっていた時、KalpaとAste、Mero姉妹が彼女を助けた。】\\n\r\nIgallta：それなら、とりあえず鳩のところに行きましょう。Lanaも出演が終わってからそちらへ向かうつもりです。\\n\r\nKalpa：迷惑になりませんか？\\n\r\nIgallta：いいえ、安心してください。人が多いほうが賑やかだってFuliが言っていました。\\n\r\nElaine：そうするしかないみたいですね。\\n\r\nIris：ちょっと、Lana本当に忘れたの？\\n\r\nKalpa：……\\n\r\nElaine：たぶん…そうね。",
+            "korean": ""
+          },
+          "properties": {
+            "code": "",
+            "chinese": "",
+            "chineseTraditional": "",
+            "english": "",
+            "japanese": "",
+            "korean": "\r"
+          }
+        },
+        {
+          "key": "Kalpa3",
+          "subIndex": 1,
+          "getSong": -10080,
+          "name": {
+            "code": "",
+            "chinese": "世界上的另个我",
+            "chineseTraditional": "世界上的另個我",
+            "english": "Another me in the world",
+            "japanese": "この世界のもう一人の私",
+            "korean": ""
+          },
+          "date": "771/12/23",
+          "supervisor": {
+            "code": "",
+            "chinese": "咏歌",
+            "chineseTraditional": "詠歌",
+            "english": "Yomiga",
+            "japanese": "詠歌",
+            "korean": ""
+          },
+          "category": "main",
+          "content": {
+            "code": "",
+            "chinese": "*：找到位置了，就在第二排中间。\\n\n咏歌：吼吼，看到啦！快来这里，纳咪，节目要开始了！\\n\n纳咪：来了，来了！\\n\n【时钟城电视台第一演播间，三位来自遥远世界的观众，赶在临春晚开始前终于落座。不同于其他观众，他们来这里，有一件特殊的任务，这关系到这个春节，他们能否正常回家。】\\n\n咏歌：虽然我们收到消息后，第一时间就飞过来了，但春晚算什么剧种来着？幕布拉着，完全看不到……\\n\n纳咪：害，这种事，等BOSS出现不就知道了。\\n\n*：我记得书中记载，传统春晚会包括小品、歌舞、杂耍、魔术等等节目，以及少量的新闻环节。\\n\n咏歌：复合型？\\n\n纳咪：不哦，卡门说这次的演剧只有一环，打败它就能回到我们的世界了。\\n\n*：看来BOSS藏在其中一个节目里。\\n\n咏歌：等等，分析报告出来了，幕名是——ANOTHER ME？\\n\n【就在三人商量对策时，春晚的保留节目，开头大合唱开始了，表演人员纷纷登场，舞台两边的提词器滚动播出歌名，大家耳熟能详的water、雪降り、メリクリ等，也位列其中。】\\n\n*：不对劲，数值正在急速上升。\\n\n纳咪：要来了吗！\\n\n【灯光暗下，发条转动，高昂的女声骤起，离奇的事发生了，登场的歌手，竟与咏歌有九分相似。】\\n\n咏歌：她是。\\n\n【舞台上，Lana的目光也投向观众席，带着耳机的蓝发少女，正目不转睛地看着她。但Lana并没有久留，接下来她还要去副音轨播。角色扮演爱好者吗，原来她在PhigrOS也有粉丝了啊。】\\n\n咏歌：等等！\\n\n【说着，她追了上去。】",
+            "chineseTraditional": "*：「找到位置了，就在第二排中間。」 \\n\r\n詠歌：「吼吼，看到啦！快來這裡，納咪，節目要開始了！」 \\n\r\n納咪：「來了，來了！」 \\n\r\n【時鐘城電視台第一演播間，三位來自遙遠世界的觀眾，趕在臨春晚開始前終於落座。不同於其他觀眾，他們來這裡，有一件特殊的任務，這關係到這個春節，他們能否正常回家。 】\\n\r\n詠歌：「雖然我們收到消息後，第一時間就飛過來了，但春晚算什麼劇來著？布幕拉著，完全看不到……」\\n\r\n納咪：「唉，這種事，等BOSS出現不就知道了。」 \\n\r\n*：「我記得書中記載，傳統春晚會包括小戲劇、歌舞、雜耍、魔術等等節目，以及少量的新聞環節。」 \\n\r\n詠歌：「複合型？」 \\n\r\n納咪：「不哦，卡門說這次的演劇只有一環，打敗它就能回到我們的世界了。」 \\n\r\n*：「看來BOSS藏在其中一個節目裡。」 \\n\r\n詠歌：「等等，分析報告出來了，幕名是——ANOTHER ME？ 」\\n\r\n【就在三人商量對策時，春晚的保留節目，開頭大合唱開始了，表演人員紛紛登場，舞台兩邊的提詞器滾動播出歌名，大家耳熟能詳的water、雪降り、メリクリ等，也位列其中。 】\\n\r\n*：不對勁，數值正在急速上升。 \\n\r\n納咪：要來了嗎！ \\n\r\n【燈光暗下，發條轉動，高昂的女聲驟起，離奇的事發生了，登場的歌手，竟與詠歌有九分相似。 】\\n\r\n詠歌：她是。 \\n\r\n【舞台上，Lana的目光也投向觀眾席，帶著耳機的藍髮少女，正目不轉睛地看著她。但Lana並沒有久留，接下來她還要去複音軌播。角色扮演愛好者嗎，原來她在PhigrOS也有粉絲了啊。 】\\n\r\n詠歌：等等！ \\n\r\n【說著，她追了上去。 】",
+            "english": "*: Found a spot, in the middle of the second row.\\n\r\nYomiga: Ho-Ho, I see it! Come here, Nami. The show is about to begin!\\n\r\nNami: Coming, coming!\\n\r\n[In Clock City Channel Studio 1, three of the audience from a distant world are finally seated before the New Year’s Gala begins. Unlike other audience, they are here for a special mission, which will decide if they can safely go home.]\\n\r\nYomiga: Though we came here ASAP upon receiving the message, but what type of Act is the New Year’s Gala anyway? The curtain’s closed. Can’t see anything……\\n\r\nNami: Well, you’ll know it when the BOSS appears.\\n\r\n*: I remember reading from the book, that the traditional New Year’s Gala includes comedy skits, singing and dancing, acrobatics, magic tricks, and other shows, as well as a few news segments.\\n\r\nYomiga: So it’s a composite?\\n\r\nNami: Well no, Carmen said there is only 1 part to the Act. We can go back to our world after defeating it.\\n\r\n*: Seems that the BOSS is hidden in one of the segments.\\n\r\nYomiga: Wait, the analysis report is out. The scene title is -- ANOTHER ME?\\n\r\n[While the three are discussing, the standard opening chorus has started. The performers are taking the stage while the teleprompter on both sides of the stage show the song titles, including popular hit songs like WATER, 雪降り、メリクリ.]\\n\r\n*: Something’s wrong. The data is rising rapidly.\\n\r\nNami: Is it coming!\\n\r\n[The lights dim, and the cogs turn. As the high voice of the female singer begins, something bizarre happened. The singer on stage has a high resemblance of Yomiga.]\\n\r\nYomiga: Is she…\\n\r\n[On stage, Lana looks into the audience. The blue-haired girl wearing headphone is staring at her. But Lana does not stop. She needs to go to the polyphonic track next. A cosplay fan? So she has fans in PhigrOS now.]\\n\r\nYomiga: Wait!\\n\r\n[With that, she chased after her.]",
+            "japanese": "*：位置を特定した、二列目の真ん中にいる。\\n\n詠歌：ほう、見えた！ナミ、早くこっち来て、ショーが始まるよ！\\n\nナミ：アイムカーミン！\\n\n【時計城テレビ放送局第一スタジオ、遥か彼方の世界から来た観客三人は春晩がもうすぐ始まる前にようやく席に着いた。ほかの観客とは違い、三人はある特殊な任務のためにここに来ている。これは三人がこの正月に家に帰れるかどうかに関わっている。】\\n\n詠歌：メッセージを受け取ってすぐ来たけど、春晩って何をやるんだっけ？幕が遮っているから全然見えない……\\n\nナミ：ま、そんなことはボスが現れたらわかるさ。\\n\n*：確か書物によると、伝統的な春晩はコント、音楽やダンス、曲芸、マジックと少しニュースもやるみたい。\\n\n詠歌：複合型番組？\\n\nナミ：違う、カーメンは今回の演劇の出し物は一つしかないと言ってた。それを倒せば私たちの世界に戻れる。\\n\n*：どうやらBOSSはどれか一つの出し物の中に潜んでいるようだね。\\n\n詠歌：待って、分析結果が出たよ、その出し物のタイトルは——ANOTHER ME？\\n\n【三人が対策を講じている中、春晩のレパートリーである冒頭の大合唱が始まった。出演者たちはステージに上がり、舞台の両側のプロンプターは各曲のタイトルを提示した。みんなが聞きなれているwater、雪降り、メリクリなども中に入っている。】\\n\n*：変だ、数値が急速に上がっている。\\n\nナミ：来るか！\\n\n【灯りが暗くなり、ゼンマイバネが回り始め、甲高い女性の声が鳴り響いた。おかしなことに、ステージに上がった歌手は詠歌にとても似ていた。】\\n\n詠歌：彼女は。\\n\n【ステージの上、Lanaも観客席に目を向けた。ヘッドホンを付けた青髪の少女が彼女を見つめている。しかしLanaは長くとどまらなかった、彼女はこれからオーディオコメンタリーに出演する予定がある。コスプレイヤーなのか、彼女はPhigrOSでも人気があるみたいだ。】\\n\n詠歌：待って！\\n\n【そう言って、詠歌は彼女を追っていった。】",
+            "korean": ""
+          },
+          "properties": {
+            "code": "",
+            "chinese": "",
+            "chineseTraditional": "",
+            "english": "",
+            "japanese": "",
+            "korean": "\r"
+          }
+        },
+        {
+          "key": "Kalpa4",
+          "subIndex": 1,
+          "getSong": -10081,
+          "name": {
+            "code": "",
+            "chinese": "亲朋好友齐欢聚",
+            "chineseTraditional": "親朋好友其歡聚",
+            "english": "Family and friends gather together",
+            "japanese": "家族親友大集合",
+            "korean": ""
+          },
+          "date": "771/12/23",
+          "supervisor": {
+            "code": "",
+            "chinese": "鸠",
+            "chineseTraditional": "Geopelia",
+            "english": "Geopelia",
+            "japanese": "鳩",
+            "korean": ""
+          },
+          "category": "main",
+          "content": {
+            "code": "",
+            "chinese": "Igallta：好久不见。\\n\nFuli：哟，好久不见。\\n\n鸠：你们昨天才通过视频。\\n\nIgallta：【轻笑】说的也是。\\n\nFuli：不要拆穿啦。\\n\n【方舟蜃景之后，Fuli和Igallta就经常一起出现啊，已经变成好朋友了吗。】\\n\nFuli：这几位是？\\n\n鸠：Kalpa，以及两位十二宫守护者，吧。\\n\n【应该？】\\n\nFuli：你们来接Lana的？\\n\nKalpa：如您所言。\\n\nFuli：挺好，都进来吧。\\n\nIris：咱是Iris，要吃饼干吗？本来有现成的，但是出了点小问题……我可以现做的哦！\\n\nElaine：Elaine，这孩子的临时监护人。\\n\nIris：Iris好歹也是守护者，才不需要监护人呢。\\n\nElaine：好了，别闹，橘子剥好了，张嘴。\\n\nIris：啊～\\n\n【他们莫非是来讲相声的？】\\n\n鸠：Lana负责副频道，估计要凌晨一两点才能过来。\\n\nFuli：不着急，这样，都留下来吃年夜饭，菜不够我叫Gino再带几个回来。\\n\nGino：真不巧，我已经回来啦。\\n\n【熟悉的身影，笑眼微弯，尴尬之情溢于言表。我掏出手机，拨打了鸟类同胞的电话。】\\n\n纳贝流士：没钱，不买保险，不打麻将。\\n\n鸠：是我啦，乌鸦博士。\\n\n纳贝流士：啊，咕咕啊，我们马上就过去了。\\n\n鸠：突发情况，带点凉菜回来。\\n\n纳贝流士：哦哦，那五香牛肉、白切鸡、夫妻肺片、怪味海蜇、凉拌皮蛋、泡椒凤爪够不够啊，不够的话，哎，弭儿你干嘛啊——\\n\n【对面传来抢电话的打闹声。】\\n\n弭儿：异想之物？还有三个？建议排除。\\n\n鸠：否，是客人。\\n\n弭儿：啧，没意思。\\n\n纳贝流士：我们继续说——\\n\n鸠：够了，快回来。",
+            "chineseTraditional": "Igallta：「好久不見。」 \\n\r\nFuli：「喲，好久不見。 」\\n\r\nGeopelia：「你們昨天才視訊通話過。」 \\n\r\nIgallta：【輕笑】「說的也是。」 \\n\r\nFuli：「不要拆穿啦。」 \\n\r\n【方舟蜃景之後，Fuli和Igallta就經常一起出現啊，已經變成好朋友了嗎。 】\\n\r\nFuli：「這幾位是？ 」\\n\r\nGeopelia：「Kalpa，以及兩位十二宮守護者，吧。」 \\n\r\n【應該？ 】\\n\r\nFuli：「你們來接Lana的？」 \\n\r\nKalpa：「如您所言。」 \\n\r\nFuli：「挺好，都進來吧。」 \\n\r\nIris：「我是Iris，要吃餅乾嗎？本來有現成的，但是出了點小問題……我可以現做哦！」 \\n\r\nElaine：Elaine，這孩子的臨時監護人。 \\n\r\nIris：Iris好歹也是守護者，才不需要監護人呢。 \\n\r\nElaine：好了，別鬧，橘子剝好了，開嘴。 \\n\r\nIris：啊～\\n\r\n【他們莫非是來講相聲的？ 】\\n\r\nGeopelia：Lana負責副頻道，估計要凌晨一兩點才能過來。 \\n\r\nFuli：不急，這樣，都留下來吃年夜飯，菜不夠我叫Gino再帶幾個回來。 \\n\r\nGino：真不巧，我已經回來啦。 \\n\r\n【熟悉的身影，笑眼微彎，尷尬之情溢於言表。我掏出手機，撥打了鳥類同胞的電話。 】\\n\r\n納貝流士：沒錢，不買保險，不打麻將。 \\n\r\nGeopelia：是我啦，烏鴉博士。 \\n\r\n納貝流士：啊，咕咕啊，我們馬上就過去了。 \\n\r\nGeopelia：突發情況，帶點涼菜回來。 \\n\r\n納貝流士：哦哦，那五香牛肉、白切雞、夫妻肺片、怪味海蜇、涼拌皮蛋、泡椒鳳爪夠不夠啊，不夠的話，哎，弭兒你幹嘛啊——\\n\r\n【對面傳來搶電話的打鬧聲。 】\\n\r\n弭兒：異想之物？還有三個？建議排除。 \\n\r\nGeopelia：否，是客人。 \\n\r\n弭兒：嘖，沒意思。 \\n\r\n納貝流士：我們繼續說——\\n\r\nGeopelia：夠了，快回來。",
+            "english": "Igallta: Long time no see.\\n\r\nFuli: Yo, it’s been a long time.\\n\r\nGeopelia: You just video called yesterday.\\n\r\nIgallta: [Laugh] That’s true.\\n\r\nFuli: Hey don’t blow it.\\n\r\n[Since Ark Mirage, Fuli and Igallta have been together a lot. Seems that they’ve become good friends.]\\n\r\nFuli: They are?\\n\r\nGeopelia: This is Kalpa. And two of the Twelve Palace guardians. Should be.\\n\r\n[Should be?]\\n\r\nFuli: Are you here to pick up Lana?\\n\r\nKalpa: As you said.\\n\r\nFuli: All right then. Come in.\\n\r\nIris: Me is Iris. You want some biscuits? We already made some, but there was a little problem…… I can make them on the spot!\\n\r\nElaine: I’m Elaine, the temporary supervisor of this kid.\\n\r\nIris: Iris is also a guardian. Iris doesn’t need a supervisor.\\n\r\n.Elaine: All right all right, here’s some mandarin orange. Open your mouth.\\n\r\nIris: Ah~\\n\r\n[Are they here to do comedy?]\\n\r\nGeopelia: Lana is in charge of the second channel. Might only come after 1 or 2 am.\\n\r\nFuli: No rush. Here’s the deal. We can all stay for the New Year’s Eve dinner. If there’s not enough food, I can ask Gino to bring back some more.\\n\r\nGino: Unfortunately, I’m already back.\\n\r\n[The familiar figure with a slightly embarrassed smile. I pulled out my phone and dialled the number of a fellow bird.] \\n\r\nNaberius: No cash, no insurance, and not available for mah-jong.\\n\r\nGeopelia: It’s me, Dr Crow.\\n\r\nNaberius: Oh, it’s you, Coo-coo. We will be there in a minute.\\n\r\nGeopelia: We have an emergency. Bring some code dishes.\\n\r\nNaberius: Okok. Then five-spiced beef, boiled chicken slices, beef and beef offal, multi-flavoured jelly fish, preserved eggs with sauce, chicken feet with pickled peppers, are these enough? If not, hey, Mill what are you doing --\\n\r\n[Noises of quarrelling and fighting for the phone.]\\n\r\nMill: Whims? Three of them? Suggest eliminating.Geopelia: Nope, they are guests.\\n\r\nMill: Tsk, not fun.\\n\r\nNaberius: Ok so what I was saying --\\n\r\nGeopelia: That’s enough. Just come back.",
+            "japanese": "Igallta：お久しぶりです。\\n\r\nFuli：よう、久しぶり。\\n\r\n鳩：昨日テレビ通話したばっかじゃないか。\\n\r\nIgallta：【微笑んで】そうですね。\\n\r\nFuli：そう言わないでよ。\\n\r\n【方舟の蜃気楼(アークミラージュ)のあと、FuliとIgalltaはいつも一緒にいる。もうすっかり仲良くなったのか？】\\n\r\nFuli：この人たちは？\\n\r\n鳩：Kalpa、それともう二人は十二宮の守護者だと思う。\\n\r\n【多分。】\\n\r\nFuli：Lanaを迎いに来たのか？\\n\r\nKalpa：そうです。\\n\r\nFuli：いいじゃん、入って入って。\\n\r\nIris：うちの名はIris、クッキー食べる？本来なら作り置きがあったけどちょっと問題があってね……でも今から作れるよ！\\n\r\nElaine：Elaine、この子の一時的な保護者です。\\n\r\nIris：Irisも守護者なんだから、保護者なんていらないもん。\\n\r\nElaine：もう冗談言わないで。ミカンの皮剥けたよ、はい、あーん。\\n\r\nIris：あーん～\\n\r\n【漫才でもやりに来たのか？】\\n\r\n鳩：Lanaはサブチャンに出演する、多分深夜二時までは来れないよ。\\n\r\nFuli：急がずに。こうしよう、みんなで年越しの食事をしよう。料理が足りなければGinoに帰るついでに買ってきてもらえばいいから。\\n\r\nGino：残念、もう帰ってきたんだ。\\n\r\n【見慣れた姿、微かなぎこちない笑みを帯びた顔。私は携帯を取り出し、鳥類仲間に電話を掛けた。】\\n\r\nナベリウス：お金なし、保険はけっこう、麻雀やりません。\\n\r\n鳩：私だよ、カラス博士。\\n\r\nナベリウス：あ、ポッポか。今そっちに向かうところだ。\\n\r\n鳩：緊急事態だ、ちょっと冷たい料理買ってきて。\\n\r\nナベリウス：わかった、じゃあ五香牛肉、白切鶏、夫妻肺片、クラゲの怪味、皮蛋の和物、泡椒鳳爪ぐらいで足りるか？足りないなら…ちょっと、何するんだよミエル——\\n\r\n【電話を奪い合っているようだ。】\\n\r\nミエル：異想の物？三体も出たのか？すぐに排除を。\\n\r\n鳩：違う、お客さんだよ。\\n\r\nミエル：ち、くだらん。\\n\r\nナベリウス：さあ続きを——\\n\r\n鳩：足りるから早く来て。",
+            "korean": ""
+          },
+          "properties": {
+            "code": "",
+            "chinese": "",
+            "chineseTraditional": "",
+            "english": "",
+            "japanese": "",
+            "korean": "\r"
+          }
+        },
+        {
+          "key": "Kalpa5",
+          "subIndex": 1,
+          "getSong": -10082,
+          "name": {
+            "code": "",
+            "chinese": "未来降临我身边",
+            "chineseTraditional": "未來降臨我身邊",
+            "english": "Future falls down to me",
+            "japanese": "未来が私に舞い降りた",
+            "korean": ""
+          },
+          "date": "771/12/23",
+          "supervisor": {
+            "code": "",
+            "chinese": "鸠",
+            "chineseTraditional": "Geopelia",
+            "english": "Geopelia",
+            "japanese": "鳩",
+            "korean": ""
+          },
+          "category": "key",
+          "content": {
+            "code": "",
+            "chinese": "Lana：频道里的大家好啊！我又回来啦～\\n\nLana：呀～Lana也没想到会被春晚邀请呢，毕竟我就是个打游戏的。\\n\nLana：让演员上去唱歌是春晚传统？说谁演员，搞事是吧，房管呢，房管呢，起点作用啊！\\n\n【就在Lana和副频道观众对线时，直播间的门打开了，名为咏歌的特型师带着她的使命，蹑手蹑脚地挪到了Lana的背后，她深吸一口气，大吼着自报家门。】\\n\n咏歌：束手就擒吧！ANOTHER ME！\\n\nLana：！！！\\n\n【铁皮的吉他说砸就砸，Lana左一个急闪，右脚蹬地，手掌反撑座椅，旋转一圈半，完美落地，转瞬之间，Lana的胜率大增，离门较远的咏歌反而处于劣势。】\\n\nLana：你谁啊你！因爱生恨可以，真人快打就算了！\\n\n咏歌：胡言乱语，我是来终结你的！\\n\n【而这一切都被观众看在了眼里，当然也包括编辑部的众人。】\\n\n弭儿：又是异想之物，要我帮你抓来研究吗。\\n\n纳贝流士：等等，那个捣乱的小姑娘，我好像在哪里见过她。\\n\n鸠：【恍然大悟】这是鸽游新作的女主角啊，怪不得我觉得眼熟。\\n\nFuli：【棒读】啊——拿了编辑部肖像权，结果一天到晚不干正事的游戏公司，又要做新游戏了。\\n\nGino：Phigros才出原型，开新项目忙得过来吗。\\n\n鸠：不知道，反正咕咕的主题曲写好了，嘿。\\n\nKalpa：就这么放着他们打，不太好吧。\\n\nIris：左边有破绽，打左边啊！\\n\nIgallta：确实不太好，把他们拉过来吧，弭儿。\\n\n弭儿：啧，麻烦。\\n\n【嘴上抱怨归抱怨，弭儿还是迈步到电视跟前，双手握拳，继而微张，十指迅速插进荧幕中，四周空气高频振动，连连发出沉闷的鼓轰。】\\n\nKalpa：难道说，她在操控空间？\\n\nIris：听起来很厉害。\\n\n【屏幕对面的二人感觉到不对劲，仿佛有一股无形的力量，禁锢住他们的四肢，将其拉往未知的远方。】\\n\nLana：这种感觉，难道是！\\n\n咏歌：新机制吗。\\n\n【咏歌本想更换特型，亮起的手环终端吸引了她的注意，她用尽了手腕的力气，才勉强开机。】\\n\n卡门：今早欲念值识别异常，已确定并非演剧上演，行动终止，请尽快返回基地。\\n\n咏歌：？？？\\n\nLana：我都看到了，刚才的信息。\\n\n咏歌：咳咳，我们之间可能有什么误会。\\n\nLana：我要索赔精神损失费！五十万，不，一百万！\\n\n咏歌：冷静！有事好商量！\\n\n弭儿：需要我叫警察吗？\\n\n【就在咏歌说话的刹那，眼前的场景宛若万花筒任人扭转，那一刻，她的思绪回到了诞生之初的纯白房间，无尽的可能和恐惧浮上心头，她好像忘记了很重要的事，不只是和*，和大家旅行记忆，还有。】\\n\n弭儿：醒一醒。\\n\n咏歌：啊。\\n\n弭儿：已经过去了，一切的斗争。\\n\n咏歌：你知道我的——\\n\n弭儿：我不知道，但你会想起来的。\\n\n【弭儿是个谜，一个永远解不开的谜。】\\n\nLana：别聊了，我的赔偿金呢！\\n\nKalpa：我了解你，Lana，你不是真的想要赔偿金。\\n\nElaine：生气就是生气，这没什么不好说的。\\n\nIris：Lana不坦率这点最可爱啦！\\n\nLana：【脸红】我，我才没有。\\n\n咏歌：对不起，是我搞错了！我太着急回去到原本的世界，才会失去冷静！\\n\nLana：你这样，反而搞得我不好意思……好吧，我原谅你了。\\n\n咏歌：感动！\\n\nElaine：巧了，我们也不是Phigros的住民。\\n\n咏歌：是这样吗？\\n\n鸠：嗯，Phigros已经被穿成筛子了。\\n\n【Phigros这边的大家很想吐槽，但还是忍住了。】\\n\nIris：Kalpa，帮帮她吧。\\n\nKalpa：很抱歉，我只能凭借坐标前往别的世界，倒是弭儿小姐应该有办法。\\n\n弭儿：不是现在，你们会回去的，我保证。\\n\n咏歌：【失落】只能相信弭儿小姐了。\\n\nFuli：别说这些了！菜齐咯，大家吃饭吧！\\n\n鸠：年夜饭！呜呼！\\n\nIris：【站起】Kalpa！这个鸡肉好好吃！比我做得还好吃！Elaine你也快吃！\\n\nElaine：坐下再说，酱弄到领子上了。\\n\nFuli：尝尝这个，百科上说，嚼上十五下，会有汽油味。\\n\nIgallta：虽然AI不用石油燃料很久了，还是谢谢你的好意。\\n\n鸠：电视怎么开不开了？弭儿啊，你的能力不会用一次，就要消耗一台电视吧。\\n\n弭儿：想太多，吃你的饭。\\n\n纳贝流士：电视没问题，流媒体信号没了。\\n\n鸠：对哦，Lana你快回去直播，别吃了。\\n\nLana：你有问题。\\n\nGino：换个台【拿过遥控器，按按钮】不就好了。\\n\n鸠：有道理。\\n\n【就这样，所有人在欢声笑语中迎来了新的一年。】",
+            "chineseTraditional": "Lana：「螢幕前的大家好啊！我又回來啦～」\\n\r\nLana：「呀～Lana也沒想到會被春晚邀請呢，畢竟我就是個打遊戲的。」 \\n\r\nLana：「讓演員上去唱歌是春晚傳統？說誰演員，找麻煩呀，警衛呢，警衛呢，起點作用啊！」 \\n\r\n【就在Lana和副頻道觀眾辯論時，直播間的門打開了，名為詠歌的造型師帶著她的使命，躡手躡腳地挪到了Lana的背後，她深吸一口氣，大吼著自報家門。 】\\n\r\n詠歌：「束手就擒吧！ ANOTHER ME！」 \\n\r\nLana：「！ ！ ！」 \\n\r\n【鐵皮的吉他說砸就砸，Lana左一個急閃，右腳蹬地，手掌反撐座椅，旋轉一圈半，完美落地，轉瞬之間，Lana的勝率大增，離門較遠的詠歌反而處於劣勢。 】\\n\r\nLana：「你誰啊你！因愛生恨可以，真人快打就算了！」 \\n\r\n詠歌：「胡言亂語，我是來終結你的！」 \\n\r\n【而這一切都被觀眾看在了眼裡，當然也包括編輯部的眾人。 】\\n\r\n弭兒：「又是異想之物，要我幫你抓來研究嗎？」 \\n\r\n納貝流士：「等等，那個搗亂的小姑娘，我好像在哪裡見過她。」 \\n\r\n Geopelia：【恍然大悟】「這是鴿遊新作的女主角啊，怪不得我覺得眼熟。」 \\n\r\nFuli：【捧讀】「啊——拿了編輯部肖像權，結果一天到晚不幹正事的遊戲公司，又要做新遊戲了。」 \\n\r\nGino：「Phigros才出原型，新項目還忙得過來嗎？」 \\n\r\nGeopelia：「不知道，反正咕咕的主題曲寫好了，嘿。」 \\n\r\nKalpa：「就這麼放著他們打，不太好吧。」 \\n\r\nIris：「左邊有破綻，打左邊啊！」 \\n\r\nIgallta：確「實不太好，把他們拉過來吧，弭兒。」 \\n\r\n弭兒：「嘖，麻煩。」 \\n\r\n【嘴上抱怨歸抱怨，弭兒還是邁步到電視跟前，雙手握拳，繼而微張，十指迅速插進螢幕中，四周空氣高頻振動，連連發出沉悶的鼓轟。 】\\n\r\nKalpa：「難道說，她在操控空間？」 \\n\r\nIris：「聽起來很厲害。」 \\n\r\n【螢幕對面的二人感覺到不對勁，彷彿有一股無形的力量，禁錮住他們的四肢，將其拉往未知的遠方。 】\\n\r\nLana：「這種感覺，難道是！」 \\n\r\n詠歌：「新機制嗎。」 \\n\r\n【詠歌本想更換特型，亮起的手環終端吸引了她的注意，她用盡了手腕的力氣，才勉強開機。 】\\n\r\n卡門：「今早意念值已偵測異常，已確定並非演劇上演，行動終止，請盡快返回基地。」 \\n\r\n詠歌：「？ ？ ？」 \\n\r\nLana：「我都看到了，剛才的訊息。」 \\n\r\n詠歌：「咳咳，我們之間可能有什麼誤會。」 \\n\r\nLana：「我要索取精神賠償費！五十萬，不，一百萬！」 \\n\r\n詠歌：「冷靜！有事好商量！」 \\n\r\n弭兒：「需要我叫警察嗎？」 \\n\r\n【就在詠歌說話的剎那，眼前的場景宛若萬花筒任人扭轉，那一刻，她的思緒回到了誕生之初的純白房間，無盡的可能和恐懼浮上心頭，她好像忘記了很重要的事，不只是和*，和大家旅行記憶，還有… 】\\n\r\n弭兒：「醒一醒。」 \\n\r\n詠歌：「啊。」 \\n\r\n弭兒：「已經過去了，一切的紛爭。 」\\n\r\n詠歌：「你知道我的——」\\n\r\n弭兒：「我不知道，但你會想起來的。」 \\n\r\n【弭兒是個謎，一個永遠解不開的謎。 】\\n\r\nLana：「別聊了，我的賠償金呢！」 \\n\r\nKalpa：「我了解你，Lana，你不是真的想要賠償金。 」\\n\r\nElaine：「生氣就是生氣，這沒什麼不好說的。」 \\n\r\nIris：「Lana不坦率這點最可愛啦！」 \\n\r\nLana：【臉紅】「我，我才沒有。 」\\n\r\n詠歌：「對不起，是我搞錯了！我太著急回去到原本的世界，才會失去冷靜！」 \\n\r\nLana：「你這樣，反而搞得我不好意思……好吧，我原諒你了。」 \\n\r\n詠歌：「感動！」 \\n\r\nElaine：「巧了，我們也不是Phigros的住民。」 \\n\r\n詠歌：「是這樣嗎？」 \\n\r\nGeopelia：「嗯，Phigros已經被串成篩子了。」 \\n\r\n【Phigros這邊的大家很想吐槽，但還是忍住了。 】\\n\r\nIris：「Kalpa，幫幫她吧。 」\\n\r\nKalpa：「很抱歉，我只能憑藉著坐標前往別的世界，倒是弭兒小姐應該有辦法。」 \\n\r\n弭兒：「不是現在，你們會回去的，我保證。」 \\n\r\n詠歌：【失落】「只能相信弭兒小姐了。」 \\n\r\nFuli：「別說這些了！菜齊囉，大家吃飯吧！」 \\n\r\nGeopelia：「年夜飯！嗚呼！」 \\n\r\nIris：【站起】「Kalpa！這個雞肉好好吃！比我做得還好吃！ Elaine你也快吃！」 \\n\r\nElaine：「坐下再說，醬弄到領帶上了。 」\\n\r\nFuli：「嚐嚐這個，百科上說，嚼上十五下，會有汽油味。」 \\n\r\nIgallta：「雖然AI不用石油燃料很久了，還是謝謝你的好意。 」\\n\r\nGeopelia：「電視怎麼開不開了？弭兒啊，你的能力不會用一次，就要消耗一台電視吧。 」\\n\r\n弭兒：「想太多，吃你的飯。」 \\n\r\n納貝流士：「電視沒問題，流媒體訊號沒了。」 \\n\r\nGeopelia：「對哦，Lana你快回去直播，別吃了。」 \\n\r\nLana：「你有問題。」 \\n\r\nGino：「換個台【拿過遙控器，按按鈕】不就好了。 」\\n\r\nGeopelia：「有道理。」 \\n\r\n【就這樣，所有人在歡聲笑語中迎來了新的一年。 】",
+            "english": "Lana: Welcome everyone to the channel! I’m back again~\\n\r\nLana: Yah, Lana didn’t expect to be invited by the New Year’s Gala either. I’m just a gamer anyway\\n\r\nLana: Ask actors to go there and sing is a Gala tradition? Who says I’m a faking actor? Don’t try to mess with me ok. Hey mod! Do something, mod!\\n\r\n[While Lana is arguing with the viewers, the door of the streaming studio opens. The specialist named Yomiga quietly moves behind Lana with her mission. Taking in a deep breath, she announces her arrival.]\\n\r\nYomiga: Surrender now! ANOTHER ME!\\n\r\nLana: !!!\\n\r\n[The tin guitar smashes. Lana makes a sharp dodge to her left and kicks the ground with her right foot. Holding onto the back of the chair, she spins one and a half round and lands gracefully. In a split second, Lana’s chance to win the fight sharply rises, making Yomiga, who is further away from the door, greatly disadvantaged instead.]\\n\r\nLana: Who on earth are you! You can hate me for your unrequited love, but gosh don’t make it physical please!\\n\r\nYomiga: Nonsense. I’m here to finish you off!\\n\r\n[Everyone in the editorial office, plus all the viewers, are watching this right now.]\\n\r\nMill: Whims again. You want me to catch it for research?\\n\r\nNaberius: Wait, I might have seen that trouble making girl before.\\n\r\nGeopelia: [Sudden realization] Isn’t her the heroine of the new release of Pigeon Games? No wonder I find it familiar.\\n\r\nFuli: [Emotionlessly] Ah right – That game studio, who took the portrait rights of the editorial office yet doing no legitimate work, is making a new game.\\n\r\nGino: They just only made the Phigros prototype. Do they even have enough time for the new project?\\n\r\nGeopelia: No idea. But the theme song for Coo-coo is ready. Heh.\\n\r\nKalpa: It’s no good to just let them fight right?\\n\r\nIris: There’s a weak point on the left! Attack the left!\\n\r\nIgallta: It’s really no good. Just bring them here, Mill.\\n\r\nMill: Tsk, what a trouble.\\n\r\n[Despite saying that, Mill still walks up to the TV, clenches her fits, then slightly opens them, puts her fingers into the screen. The surrounding air vibrates at a high frequency, making a continuous deep drum noise.]\\n\r\nKalpa: Is she manipulating space?\\n\r\nIris: Sounds very impressive.\\n\r\n[The two from the other side of the screen feel something is wrong, as if an invisible force locking up their limbs, pulling them to the unknown faraway.]\\n\r\nLana: This feeling, could it be!\\n\r\nYomiga: New mechanism?\\n\r\n[Yomiga wants to change speciality. The lit-up bracelet terminal catches her attention. She uses up all the strength on her wrist to barely boot it up.]\\n\r\nCarmen: Desire value recognition anomaly detected this morning. Not any Act on the show confirmed. Mission aborted. Please return to the base ASAP.\\n\r\nYomiga: ???\\n\r\nLana: I saw all of it, the message just now.\\n\r\nYomiga: Ahem, there might be some misunderstanding between us.\\n\r\nLana: I want my mental damage compensation! Half a million, no, 1 million!\\n\r\nYomiga: Chill! We can talk.\\n\r\nMill: Need me to call the cops?\\n\r\n[The moment Yomiga speaks, scenes before her eyes twist and turn like a kaleidoscope. At that moment, her thoughts go back to the pure white room of the beginning of birth. Countless possibilities and fear rise up her mind. She seems to have forgotten something important. Not just travelling with *, with the rest, and more.]\\n\r\nMill: Wake up.\\n\r\nYomiga: Ah.\\n\r\nMill: It’s over, all the struggles.\\n\r\nYomiga: You know my --\\n\r\nMill: No I don’t. But you will remember.\\n\r\n[Mill is a mystery. A forever unsolvable mystery.]\\n\r\nLana: Stop chatting over there. Where is my compensation!\\n\r\nKalpa: I know you, Lana. You don’t really want the compensation.\\n\r\nElaine: You’re just angry. Nothing wrong with it.\\n\r\nIris: Lana is the cutest for not being frank! \\n\r\nLana: [Blushes] I, I’m not that.\\n\r\nYomiga: Sorry, my bad! I was too eager to go back to my original world and I lost my cool!\\n\r\nLana: You are making me embarrassed now…… All right, I forgive you.\\n\r\nYomiga: I’m so touched!\\n\r\nElaine: What a coincidence. We are not residents of Phigros either.\\n\r\nYomiga: Is that so?\\n\r\nGeopelia: Well, Phigros has been pierced like a sieve.[People from the Phigros side really want to roast it but they held up.]\\n\r\nIris: Kalpa, help her out.\\n\r\nKalpa: I’m sorry, but I can only travel to other worlds by coordinates. I think Miss Mill should have a way though.Mill: Not now. You will go back. I promise.\\n\r\nYomiga: [Upset] I guess we have to trust Miss Mill for now.\\n\r\nFuli: Never mind all of those! The dishes are ready! Let’s have dinner!\\n\r\nGeopelia: The New Year’s Eve dinner! Yay!\\n\r\nIris: [Stands up] Kalpa! This chicken is soooo delicious! Better that the ones I cooked! Elaine you should try it too!\\n\r\nElaine: Sit down first. You are getting the sauce onto your clothes.\\n\r\nFuli: Try this. The wiki says, if you chew for 50 times, it will taste like petrol.\\n\r\nIgallta: Though AI has not been using petrol fuel for a long time, but still I appreciate your kindness.\\n\r\nGeopelia: Why I can’t turn on the TV? Hey Mill, your power does not consume one TV every time you use it, does it?\\n\r\nMill: You are thinking too much. Just eat.\\n\r\nNaberius: The TV is fine. The streaming media signal is gone.\\n\r\nGeopelia: Oh yea, Lana you should go back to your live stream. Stop eating.\\n\r\nLana: What’s wrong with you?\\n\r\nGino: Just change a channel. [Takes the remote, and presses some buttons] There you go.\\n\r\nGeopelia: That makes sense.\\n\r\n[And so, everyone welcomes the new year in happiness and laughter.]",
+            "japanese": "Lana：チャンネルを視聴しているみんなこんばんは！戻ってきたよ～\\n\nLana：やあ～Lanaも春晩に誘われるなんて思ってなかったよ、何せただのゲーマーだから。\\n\nLana：俳優に曲を歌わせるのは春晩の伝統かって？誰が俳優なのよ、さてはわざと邪魔しに来たな、モデレーター、モデレーターはどこに行ったの？！\\n\n【Lanaとサブチャンネルの視聴者がやりあっている最中、配信スタジオのドアが開いた。詠歌という名の特型使いが静かにLanaの背後まで歩み寄せ、深く息を吸ってから大きな声で名乗った。】\\n\n詠歌：無駄な抵抗をするな！ANOTHER ME！\\n\nLana：！！！\\n\n【鉄製のギターが飛んでくる、Lanaは素早く左へ避けると右足で地面を蹴り、逆さに椅子に手をつき、一周半回ってきれいに着地。束の間にLanaは優勢になり、ドアから離れた詠歌のほうが逆に劣勢に陥った。】\\n\nLana：誰だよ君は！愛から生じた憎しみならともかく、本気のやりあいには付き合いたくないわ！\\n\n詠歌：戯言を、私はあなたを始末しに来た！\\n\n【このすべてはチャンネルを視聴している人たちに見られ、もちろん編集部にいるみんなも全部見ている。】\\n\nミエル：また異想の物か、研究で需要があれば捕まえてくるが？\\n\nナベリウス：待ってよ、あの邪魔に入った小娘、どっかで見たような気がする。\\n\n鳩：【はっと悟る】これ、ピジョンゲームズの新作のヒロインじゃないか、どうも見覚えがあると思いきや。\\n\nFuli：【奉読】あ——編集部の肖像権を手にしても結局は何もやらないゲーム会社がまた新しいゲームを作り出した。\\n\nGino：Phigrosの初代を完成したばかりだぞ。もう新しく立案して、ちゃんと両立できるのか？\\n\n鳩：知らない。でもどうせポッポのテーマソングはもう完成してるし、へい。\\n\nKalpa：このまま放っておいていいのですか。\\n\nIris：左に隙あり、左だよ！\\n\nIgallta：確かに良くないですね。あの二人を連れてきてください、ミエル。\\n\nミエル：ち、めんど。\\n\n【愚痴を言っても、ミエルはちゃんとテレビに近づき、両手を握りしめてから少し広げ、十本の指を素早くモニターに差し込んだ。周りの大気が高周波に振動し始め、もんもんと低い音で唸り出した。】\\n\nKalpa：もしかして、空間を操っています？\\n\nIris：なんかすごそう。\\n\n【モニター越しの二人は違和感を感じた。見えない力に四肢を抑えられ、知らない遠方へと引きずっていかれるような感じがした。】\\n\nLana：この感覚、まさか！\\n\n詠歌：何か新しいメカニクスか。\\n\n【詠歌は特型を変換しようとしたが、光るブレスレットの端末が彼女の注意を引いた。彼女は手の力を使い尽くして何とかそれを起動させた。】\\n\nカーメン：今朝の欲望値の識別に異常を検知、演劇上演ではないことが確かめられました。直ちに行動を中止し、基地に帰還してください。\\n\n詠歌：？？？\\n\nLana：全部見てたよ、さっきのメッセージ。\\n\n詠歌：えっと、私たちの間には何か誤解があるみたいだね。\\n\nLana：慰謝料を請求するわ！五十万、いや、百万！\\n\n詠歌：落ち着いて！ちゃんと話そう！\\n\nミエル：警察呼んでくるか？\\n\n【詠歌が話をしている刹那、目に映る光景は万華鏡のように捻じ曲げられた。この一瞬、彼女は自分が誕生したあの真っ白な部屋を思い出した。計り知れない可能性と恐怖が彼女に襲い掛かる。彼女は何か大事なことを忘れた気がした。*と、みんなと一緒に旅した記憶だけでなく、何か別のものも。】\\n\nミエル：目を覚ませ。\\n\n詠歌：あ。\\n\nミエル：争いはもう、全部終わったんだ。\\n\n詠歌：あなたは私を——\\n\nミエル：私は知らない、でもあんたはいずれ思い出す。\\n\n【ミエルは謎だ、永遠に解けない謎だ。】\\n\nLana：話をやめい、私の慰謝料は？！\\n\nKalpa：私は君をよく知っているよ、Lana。君は本気で慰謝料が欲しいわけではない。\\n\nElaine：怒ってるなら素直に言えばいいじゃん。\\n\nIris：Lanaの素直でないところが一番かわいい！\\n\nLana：【真っ赤になって】お、怒ってなんかない。\\n\n詠歌：ごめんなさい、私が勘違いしていました！元の世界に戻りたくて、つい冷静さを失ってしまいました！\\n\nLana：これだと、逆に私のほうが気まずいんだけど……いいわ、許してあげる。\\n\n詠歌：感謝！\\n\nElaine：奇遇だね、私たちもPhigrosの住民ではないわ。\\n\n詠歌：そうなんですか？\\n\n鳩：うん、Phigrosはもうボロボロに穴をあけられた。\\n\n【Phigrosのみんなはツッコミたかったが、どうにか我慢した。】\\n\nIris：Kalpa，彼女を助けてあげてよ。\\n\nKalpa：ごめんね、私は座標だよりに別の世界へ行くことしかできないの。でもミエルさんなら何か方法がありそうだ。\\n\nミエル：しかし今ではない。あんたたちはいずれ戻れるさ、保証する。\\n\n詠歌：【落ち込んで】ミエルさんを信じるしかありません。\\n\nFuli：まあそれは置いといて！料理が揃ったから、みんなでご飯を食べようよ！\\n\n鳩：年越し飯！やった！\\n\nIris：【立ち上がって】Kalpa！この鶏肉おいしいの！うちが作ったものよりもおいしい！Elaineも早く食べて！\\n\nElaine：わかったから座って、襟元が汚れたじゃない。\\n\nFuli：これも食べてみて、wikiによると五十回噛むとガソリンの味がするって。\\n\nIgallta：AIはもう長い間ガソリンを使っていませんが、感謝します。\\n\n鳩：テレビつかなくなったよ？ミエルよ、君のその能力は使うたびに一台のテレビを消費するわけではないよな。\\n\nミエル：考えすぎだ、早くご飯を食え。\\n\nナベリウス：テレビは問題ない、信号がなくなっただけだ。\\n\n鳩：そっか、Lanaもう食べないで、早く生放送に戻って。\\n\nLana：頭がおかしいの？\\n\nGino：チャンネルを変えれば【リモコンを手に取ってボタンを押す】いいじゃないか。\\n\n鳩：確かに。\\n\n【こうして、みんなは楽しい雰囲気で新しい一年を迎えた。】",
+            "korean": ""
+          },
+          "properties": {
+            "code": "",
+            "chinese": "",
+            "chineseTraditional": "",
+            "english": "",
+            "japanese": "",
+            "korean": "\r"
+          }
+        },
+        {
+          "key": "Lanota1",
+          "subIndex": 1,
+          "getSong": -10091,
+          "name": {
+            "code": "",
+            "chinese": "破译·最后的音矿",
+            "chineseTraditional": "破譯·最後的音礦",
+            "english": "Decryption – The Last Notalium",
+            "japanese": "解読・最後のノタリウム",
+            "korean": ""
+          },
+          "date": "771/05/10",
+          "supervisor": {
+            "code": "",
+            "chinese": "鸠",
+            "chineseTraditional": "Geopelia",
+            "english": "Geopelia",
+            "japanese": "鳩",
+            "korean": ""
+          },
+          "category": "main",
+          "content": {
+            "code": "",
+            "chinese": "“还没找到吗。”\\n\n“钥匙错了？”\\n\n诞生于回忆中的亚空间“Lanota”，承载着音游玩家们的共同记忆，挂靠港湾以来，已存世数百年，近日终于到达故事开始的节点。\\n\n为了寻回彩色的世界，菲希卡和里莫踏上旅程，先是遇见了沉默边境守备队的罗莎和尼洛，随后又被局长哈帕斯追捕——鸠在来的路上喋喋不休，试图让Gino听懂Lanota的故事。\\n\n自方舟蜃景以来，Gino作为私家侦探活跃着，鸠则专心于整理“遗产”，她很少离开穹顶的住处，但这次是特例。\\n\n一个金发的女人找上门来，希望他们能去Lanota的世界，帮她找回丢失品，而打开亚空间的钥匙正是：\\n\n“不会导致静默化的音矿，这是唯一一块，至于进入方法，请你们自行探索。”\\n\nGino本不想接手这类找小猫的工作，但音游玩家·鸠恳求的眼神，让他迟疑了半刻，委托人见机留下信物，消失得无影无踪。\\n\n771年5月，港湾层仅剩的废墟中，鸠手握红色音矿，漫步在碎石瓦楞间，Gino和她已经在规定地点徘徊了整个上午，信物没有反应，“Lanota”仍未向他们揭开神秘的面纱。\\n\nGino低头思索，眼底闪过行行文字，他在复核委托书，一定是遗漏了什么重要信息。\\n\n远处，幽蓝国吞噬着楼层边界，偌大的城市群，现今只剩首府一江中孤岛，建筑无时无刻不在改变位置，他们步行到纽结雕塑广场前，大理石与钢铁结构，好似一张黑白的感光片。\\n\n“哎，那是里莫的鲁特琴吗？”鸠指向不远处的废墟堆。\\n\n“进入方法？”Gino疑惑道。\\n\n随着亚空间发展，影响主楼层也是有可能的。\\n\n“弹弹看吧，Gino！感觉能行！”鸠望见手中发光的音矿，又看向Gino。\\n\nGino叹气，他坐到石阶上，左手摸索音程，稍作调音，遂弹奏起委托人提及的歌曲。\\n\nApocalypse，启示录。\\n\n音矿光芒大作，飘于空中，幻化出石门一扇，上面写道：\\n\n“入此门者，当重拾一切旋律。”\\n\nGino和鸠四目相对，已做出决定。 \\n\n\\n\nHINT：完成Protoflicker的IN难度，且ACC大于95%。",
+            "chineseTraditional": "「還沒找到嗎。」\\n\n「鑰匙錯了？」\\n\n誕生於回憶中的子空間「Lanota」，承載著音遊玩家們的共同記憶，自靠港灣以來，已存世數百年，近日終於到了故事開始的節點。 \\n\n為了尋回彩色的世界，菲希卡和里莫踏上旅程，先是遇見了沉默邊境守備隊的羅莎和尼洛，隨後又被局長哈帕斯追捕——Geopelia在來的路上喋喋不休，試圖讓Gino聽懂Lanota的故事。 \\n\n自方舟蜃景以來，Gino作為私家偵探活躍著，Geopelia則專心於整頓「遺產」，她很少離開穹頂的住處，但這次是特例。 \\n\n一個金髮的女人找上門來，希望他們能去Lanota的世界，幫她找回遺失品，而打開子空間的鑰匙正是：\\n\n「這是唯一一塊，不會導致靜默化的音礦。至於進入方法，請你們自行探索。」\\n\nGino本不想接手這類找小貓的工作，但音遊玩家·Geopelia懇求的眼神，讓他遲疑了半頃，委託人見機留下信物，消失得無影無踪。 \\n\n771年5月，港灣層僅剩的廢墟中，Geopelia手握紅色音礦，漫步在碎石瓦楞間，Gino和她已經在規定地點徘徊了整個上午，信物都沒有反應，「Lanota」仍未向他們揭開神秘的面紗。 \\n\nGino低頭思索，眼中閃過行行文字，他在復核委託書，一定是遺漏了什麼重要訊息。 \\n\n遠處，幽藍國吞噬著樓層邊界，諾大的城市群，現今只剩首府一江中孤島，建築無時無刻不在改變位置，他們步行到紐結雕塑廣場前，大理石與鋼鐵結構，好似一張黑白的感光片。 \\n\n「欸，那是里莫的魯特琴嗎？」Geopelia指向不遠處的廢墟堆。 \\n\n「進入方法？」Gino疑惑道。 \\n\n隨著子空間發展，影響到主樓層也是有可能的。 \\n\n「彈彈看吧，Gino！感覺能行！」Geopelia望見手中發光的音礦，又看向Gino。 \\n\nGino嘆氣，他坐到石階上，左手摸索著音程，稍作調音，遂彈奏起委託人提及的歌曲。 \\n\nApocalypse，啟示錄。 \\n\n音礦光芒大作，飄向空中，幻化出石門一扇，上面寫道：\\n\n「入此門者，當重拾一切旋律。」\\n\nGino和Apocalypse四目相對，已做出決定。 \\n\n\\n\nHINT：完成Protoflicker的IN難度，且ACC大於95%。",
+            "english": "\"Still haven't found it yet?\"\\n\n\"Wrong key?\"\\n\nLanota, a subspace born from memories, carrying the shared memories of rhythm game players, has survived for centuries since it first docked at the Harbour, and has finally reached the beginning of the story.\\n\nIn their quest to retrieve the world of colour, Fisika and Ritmo embarked on a journey. They first met Rossa and Nero from the Silence Border Guard, and then tracked down by Director Halpas - Geopelia chattered nonstop on the way here, trying to get Gino to understand the story of Lanota.\\n\nEver since Ark Mirage, Gino has been active as a private detective, while Geopelia focused on tidying up the \"Legacy\". She rarely leaves her place in Dome, but this was an exception.\\n\nA blonde woman approached them, and hope that they could go to the world of Lanota to help her retrieve the loss, and the key to unlocking the subspace is:\\n\n|A piece of Notalium which won't trigger Al Niente. This is the only one. As for the way to enter, please explore on your own.\"\\n\nGino initially did not want to take on this kind of \"find my lost cat\" type of job, but the sincere pleading eyes of the rhythm game player Geopelia made him hesitate. The client caught that opportunity, left the token here and disappeared into nowhere.\\n\nYear 771, May. In the remaining ruins of the Harbour layer, Geopelia strolled around the broken stones and debris while holding the red Notalium. Gino and she had been wandering around the designated area for the whole morning, and there was no reaction from the token at all. \"Lanota| has yet to reveal its mystery to them.\\n\nGino looked down in deep thought, lines of texts flashed in front of his eyes. He was reviewing the client request letter. They must have missed something important.\\n\nFaraway, Mazarine was engulfing the edges of the layer. The once ginormous city complex has now only left with the capital, like a lonely isle in the river. The buildings were continuously relocating. They walked in front of the Newknot Sculpture Square. Their marble and steel structure looked like a monotone photographic film.\\n\n|Hey, is that Ritmo's lute?\" Geopelia pointed towards the debris not far away.\\n\n\"Could it be a way in?\" Gino wondered.\\n\nAs the subspace evolved, it is possible to influence the main layer.\\n\n|Try playing it, Gino! It looks promising!| Geopelia looked at the glowing Notalium, then back to Gino.\\n\nGino sighed. He sat on the stone stair, with his left hand he fumbled with the intervals. After slight tuning, he played the piece mentioned by the client.\\n\nApocalypse.\\n\nThe Notalium glowed brightly, floated into the air, and create a stone door that reads:\\n\n\"He who enters this door, shall regain all melody.\"\\n\nGino and Geopelia looked at each other, and made the decision.\\n\n\\n\nHINT: Complete Protoflicker IN difficulty, with ACC greater than 95%.",
+            "japanese": "「まだ見つからないのか。」\\n\n「鍵を間違えた？」\\n\n記憶の中に生まれた亜空間「Lanota」は、音楽ゲームプレイヤーたち共通の思い出を運んでいる。それが誕生し港に停泊して既に数百年経つが、近日ようやく物語が始まった節点にたどり着けた。\\n\n世界の色を取り戻すために、フィシカとリツモは旅に出た。二人はまず沈黙辺境守備隊のロッサとネロに会い、そしてハルパス局長に追われ——鳩は来る途中ひたすらにしゃべり続け、GinoにLanotaの物語を理解させようとしていた。\\n\n方舟の蜃気楼以来、Ginoは私立探偵として活躍している。一方、鳩は「遺産」の整理に専念していた。彼女がドームの住処を離れることは少ないが、今回は特例だ。\\n\nとある金髪の女が訪れて、鳩たちにLanotaの世界に行って彼女が落としたモノを取り戻してほしいと頼んできたのだ。そしてその亜空間を開く鍵となったのは：\\n\n「アル・ニエンテを抑制できるノタリウムです。これ一つしかありません。そしてそこに入る方法については、あなたたちで模索してみてください。」\\n\nGinoはこういう探し物の依頼を承諾したくなかったが、音ゲープレイヤー·鳩の真摯な眼差しが彼を戸惑わせた。そして依頼人はその隙を見て、ものだけを残して消えた。\\n\n771年5月、ヘブン層の廃墟の中、鳩は赤いノタリウムを手にして瓦礫間を歩いている。Ginoと彼女はすでに指定された地点で半日間もさまよい続けたが、石は何の反応も見せなかった。「Lanota」は未だに二人に正体を現していない。\\n\nGinoは俯いて考える、その目にたくさんの文字が映された。彼は依頼書を読み返している。きっと何か重要なメッセージを読み落としたに違いない。\\n\n遠く離れたところで、マザリノは階層の辺境を飲み込んでいる。立派な都市群だったものが、今は江中の首都の島しか残っていない。建物の位置は絶え間なく変えられている。二人は結び目像の広場にたどり着いた。大理石と鋼鉄によってできたこの場所はまるでモノクロの感光性フィルムのようだ。\\n\n「ねぇ、あれってリツモのリュート？」鳩は近くの廃墟を指しながら言った。\\n\n「ここが入り口？」Ginoは戸惑いながら答える。\\n\n亜空間の発展につれ、メインの階層を影響することも十分にあり得る。\\n\n「弾いてみようよ、Gino！行けると思うよ！」鳩は手の中で光るノタリウムを見てから目をGinoに向けて言った。\\n\nGinoは軽くため息をついた。彼は石階段に座って、左手で音程を探り、調律してから依頼人が言っていた曲を演奏し始めた。\\n\nApocalypse、黙示録。\\n\nノタリウムは眩しい光を放ちながら空中に浮いた。すると、一面の石門が現れた。その上にはこう書かれている：\\n\n「この門に入りし者、すべての旋律を取り戻すべし。」\\n\nGinoと鳩は目を合わせ、覚悟を決めた。 \\n\n\\n\nHINT：ACC95%以上でProtoflickerのIN難易度をクリアせよ。",
+            "korean": ""
+          },
+          "properties": {
+            "code": "",
+            "chinese": "",
+            "chineseTraditional": "",
+            "english": "",
+            "japanese": "",
+            "korean": "\r"
+          }
+        },
+        {
+          "key": "Lanota2",
+          "subIndex": 1,
+          "getSong": -10092,
+          "name": {
+            "code": "",
+            "chinese": "破译·半封信",
+            "chineseTraditional": "破譯·半封信",
+            "english": "Decryption – Half A Letter",
+            "japanese": "解読・半分の手紙",
+            "korean": ""
+          },
+          "date": "771/05/10",
+          "supervisor": {
+            "code": "",
+            "chinese": "Alpa",
+            "chineseTraditional": "Alpa",
+            "english": "Alpa",
+            "japanese": "Alpa",
+            "korean": ""
+          },
+          "category": "main",
+          "content": {
+            "code": "",
+            "chinese": "他们来到国家音矿研究所地道，沉默边境守备队的职责之一，便是寻找地道的尽头。\\n\n音矿武器——“启示录”已然启动，一行字缓慢地显示在装置表面，“静默化95%”。鸠立即意识到，他们已经错过了故事最开始的部分。\\n\n鸠着急说：“去天空船，说不定还能阻止里莫他们。”\\n\n“不急，他们不会有事的，先去研究所，把委托人要的东西拿上。”\\n\n玩家思维的鸠这才记起，委托人是说过丢失品的去向，她召唤出成年体Alpa。体长两米的黑皮老虎，目光锐利，吞吐之间，黑雾弥漫八方，不出片刻，便寻到了研究所的所在地。等到了地方，Alpa故技重施，它发现在一个装满钟表的房间，有带主楼层标记的物品。那是一封用自造语写的信，只有上半篇，下半篇不知去向。\\n\n“喵～”完成任务的Alpa直往鸠怀里乱钻，还像小时候一样粘人。至于老虎为什么会猫叫，这就得问咕咕了。\\n\n“我记得菲希卡捡到过一个看不懂的文件，会不会是那个？”鸠补充道。\\n\n“有可能，那么去管理局本部？”Gino看向Alpa。\\n\nAlpa凝视北方的地平线，过了会儿，像是锁定了目标。\\n\n\\n\nHINT：完成Horizon Blue的任意难度，且miss和bad总数为0。",
+            "chineseTraditional": "他們來到國家音礦研究所的地道，沉默邊境守備隊的職責之一，便是尋找地道的盡頭。 \\n\r\n音礦武器——「啟示錄」已然啟動，一行字緩慢地顯示在裝置表面，「靜默化95%」。Geopelia立即意識到，他們已經錯過了故事最開始的部分。 \\n\r\nGeopelia急著說：「去天空船，說不定還能阻止里莫他們。」\\n\r\n「不急，他們不會有事的，先去研究所，把委託人要的東西拿上。」\\n\r\n玩家思維的Geopelia這才想起，委託人是說過遺失品的去向。她召喚出成年體Alpa，體長兩米的黑皮老虎，目光銳利，吞吐之間，黑霧瀰漫八方，不出片刻，便尋到了研究所的所在地。等到了地方，Alpa故技重施，它發現在一個裝滿鐘錶的房間，有著主樓層標記的物品。那是一封用自造語寫的信，只有上半篇，下半篇不知去向。 \\n\r\n「喵～」完成任務的Alpa直往Geopelia懷裡亂鑽，還像小時候一樣黏人。至於老虎為什麼會貓叫，這就得問咕咕了。 \\n\r\n「我記得菲希卡撿到過一個看不懂的文件，會不會是那個？」Geopelia補充道。 \\n\r\n「有可能，那麼去管理局總部？」Gino看向Alpa。 \\n\r\nAlpa凝視北方的地平線，過了會兒，像是鎖定了目標。 \\n\r\n\\n\r\nHINT：完成Horizon Blue的任意難度，且miss和bad總數為0。",
+            "english": "They arrived at the tunnel of the National Institute of Notalium. One of the duties of the Silence Border Guard was to find the end of the tunnel.\\n\r\nThe Notalium weapon, Apocalypse, has already been activated. A line of text slowly displayed on the surface of the device, \"Al Niente 95%\". Geopelia immediately realised, that they had already missed the very beginning of the story.\\n\r\nGeopelia said anxiously, \"Let's go to the Aircraft. Maybe we can still stop Ritmo and the others.\"\\n\r\n\"No worries, they'll be fine. Let’s go to the institute first and get the stuff the client wants.\"\\n\r\nIt was only then that the player minded Geopelia remembered that the client had mentioned the whereabouts of the missing item. She summoned the adult Alpa, a black tiger 2 metres in size with a sharp gaze. With its breaths, a black mist filled all directions around, and within moments the location of the institute is discovered.\\n\r\nUpon arrival, Alpa used the old trick and found the item in a room full of clocks and objects with marks from the main layer. It was a letter written in a self-made language. Only the first half of it, while the second half was nowhere to be found.\\n\r\n\"Meow~\" After completing its tasks, Alpa jumped straight into Geopelia's arms, still clinging to her as if it were a child.As for why a tiger meows, that's a question for Coo-coo.\"I remember Fisika picking up an unreadable document. Could it be that?\" Geopelia added.\\n\r\n\"Possible. So to the Administration headquarter?\" Gino looked toward Alpa.\\n\r\nAlpa gazed at the northern horizon. After a while, it seemed to have locked on to the target.\\n\r\n\\n\r\nHINT: Complete Horizon Blue on any difficulty with a total of 0 miss and bad.",
+            "japanese": "二人は国立ノタリウム研究所のトンネルに着いた。沈黙辺境守備隊の使命の一つは、このトンネルの終点を見つけることである。\\n\nノタリウム武器——「黙示録」はすでに起動され、一行の文字がゆっくり装置の表面に浮かんでくる。「アル・ニエンテ進行度95％」。鳩はすぐに、自分たちは物語の始まりに間に合えなかったことを悟った。\\n\n鳩は焦りながら言った：「飛行船のところに行こう、まだリツモたちを止められるかもしれない。」\\n\n「焦るな、彼らは大丈夫だ。まずは研究所に行って、依頼人のモノを取り戻そう。」\\n\nすっかり音ゲープレイヤーと化した鳩は、依頼人がモノを落としたの場所について言っていたことを思い出す。彼女は成年体のAlpaを呼び出した。体長2メートルの黒い虎は鋭い目つきで、瞬く間に黒霧を四方八方へと拡散し、すぐに研究所の位置を特定できた。そこについてから、Alpaはもう一度その技を繰り返した。すると今回はとあるたくさんの時計が置いてある部屋で、メイン階層マークがついているものを見つけた。それは架空言語で書かれた、上半分しかない一通の手紙であった。\\n\n「ニャ~」任務を成し遂げたAlpaは鳩の懐にもぐりこんだ。幼かった頃と変わらないくらい人懐こい。なんで虎の鳴き声が猫に似てるかは、ポッポに聞くしかない。\\n\n「確かフィシカは読めない文書を拾ったことがあるんだけど、これがあの文書かな？」鳩はこう言った。\\n\n「あり得るね。じゃあ管理局本部に行ってみる？」GinoはAlpaを見つめる。\\n\nAlpaは北の地平線をじっと見ている。少し経つと、どうやらターゲットをロックしたらしい。\\n\n\\n\nHINT：missとbadの合計が0の状態でHorizon Blueの任意難易度をクリアせよ。",
+            "korean": ""
+          },
+          "properties": {
+            "code": "",
+            "chinese": "",
+            "chineseTraditional": "",
+            "english": "",
+            "japanese": "",
+            "korean": "\r"
+          }
+        },
+        {
+          "key": "Lanota3",
+          "subIndex": 1,
+          "getSong": -10093,
+          "name": {
+            "code": "",
+            "chinese": "破译·人偶",
+            "chineseTraditional": "破譯·人偶",
+            "english": "Decryption - Golem",
+            "japanese": "解読・人形",
+            "korean": ""
+          },
+          "date": "771/05/10",
+          "supervisor": {
+            "code": "",
+            "chinese": "Gino",
+            "chineseTraditional": "Gino",
+            "english": "Gino",
+            "japanese": "Gino",
+            "korean": ""
+          },
+          "category": "main",
+          "content": {
+            "code": "",
+            "chinese": "他们骑着摩托飞到音矿管理局本部，只发现了一片废墟。\\n\n“战斗已经结束了。”Gino感叹。\\n\n踢了踢失去活力的机械人偶，鸠幽怨地看着Gino，仿佛错过了一个亿。\\n\n“别想了，就算赶上了，他们也不会跟着Horizon Blue的节奏边打边跳舞。”\\n\n“不一定，我们在像素塔，在这里，任何事都可能发生。”\\n\n鸠话音刚落，机械人偶胸前的音矿亮起，又恢复了生机。它跳着诡异的舞蹈，寄生的紫黑色藤蔓迅速伸长，向二人袭来。\\n\n“咕咕老师，一语成谶。”\\n\n“不，主播你碟放错了，我没点You are the miserable啊。”\\n\n“这重要吗？”\\n\n“这对咕咕很重要！”\\n\n\\n\nHINT：完成You are the miserable的AT难度，且总分高于820000。",
+            "chineseTraditional": "他們騎著摩托飛到音礦管理局總部，只發現了一片廢墟。 \\n\r\n「戰鬥已經結束了。」Gino感嘆。 \\n\r\n踢了踢失去活力的機械人偶，鳩幽怨地看著Gino，彷彿錯過了一個億。 \\n\r\n「別想了，就算趕上了，他們也不會跟著Horizon Blue的節奏邊打邊跳舞。」\\n\r\n「不一定，我們在像素塔，在這裡，任何事都可能發生。」\\n\r\nGeopelia話音剛落，機械人偶胸前的音礦亮起，又恢復了生機。它跳著詭異的舞蹈，紫黑色的寄生藤蔓迅速伸長，向二人襲來。 \\n\r\n「咕咕老師，一語成讖。」\\n\r\n「不，主播你音軌放錯了，我沒點You are the miserable啊。」\\n\r\n「這重要嗎？」\\n\r\n「這對咕咕很重要！」\\n\r\n\\n\r\nHINT：完成You are the miserable的AT難度，且總分高於820000。",
+            "english": "They flew on their motorbike to the Notalium Administration headquarter, finding only debris and ruins.\\n\r\n\"The fight is already over.\" Gino sighed.\\n\r\nKicking the mechanical golem who had lost its vitality, Geopelia looked at Gino bitter, as if she had missed something worth a billion.\\n\r\n\"Don't think about it. Even if we caught it, they won't be dancing to Horizon Blue's beat as they fight.\"\\n\r\n\"Not necessarily. We're in the Pixel Tower. Here anything's possible.\"\\n\r\nAs soon as Geopelia’s words left her mouth, the Notalium on the golem's chest lit up and came back to life. It danced a bizarre move as the parasitic purplish-black vines quickly grew out and came towards them.\\n\r\n\"Ms Goo Goo, your prediction just came true.\"\\n\r\n\"No, Mr DJ you dropped the wrong beat. I didn't ask for You are the miserable.\"\\n\r\n\"Does it matter?\"\\n\r\n\"It matters for Coo-coo!\"\\n\r\n\\n\r\nHINT: Complete You are the miserable AT difficulty with a total score above 820000.",
+            "japanese": "一行はバイクでノタリウム管理局本部まで飛んできたが、ここはすでに廃墟と化していた。\\n\n「戦闘はすでに終了したのか。」Ginoが嘆く。\\n\n活気を失った機械人形に蹴りを入れてみた鳩はGinoを睨みつけた。千載一遇のチャンスを逃したかのように。\\n\n「諦めろ。間に合ったとしても、彼らがHorizon Blueのリズムに合わせて戦いながら踊るわけがない。」\\n\n「それはどうかな。私たちはピクセルタワーの中にいる。ここでは、なんでも起こりえる。」\\n\n刹那、機械人形は胸元にあるノタリウムを光らせながら生き返った。それが不気味に踊り出すと、寄生している黒紫色の蔓は勢いよく伸び、二人に襲いかかる。\\n\n「ポッポ先生、予言お見事です。」\\n\n「いやいや、曲が違うよ、私が思ってたのはYou are the miserableじゃないよ。」\\n\n「それ、大事なことなの？」\\n\n「ポッポにとっては大事です！」\\n\n\\n\nHINT：スコア820000以上でYou are the miserableのAT難易度をクリアせよ。",
+            "korean": ""
+          },
+          "properties": {
+            "code": "",
+            "chinese": "",
+            "chineseTraditional": "",
+            "english": "",
+            "japanese": "",
+            "korean": "\r"
+          }
+        },
+        {
+          "key": "Lanota4",
+          "subIndex": 1,
+          "getSong": -10094,
+          "name": {
+            "code": "",
+            "chinese": "破译·委托人",
+            "chineseTraditional": "破譯·委託人",
+            "english": "Decryption - The Client",
+            "japanese": "解読・依頼人",
+            "korean": ""
+          },
+          "date": "771/05/10",
+          "supervisor": {
+            "code": "",
+            "chinese": "Gino",
+            "chineseTraditional": "Gino",
+            "english": "Gino",
+            "japanese": "Gino",
+            "korean": ""
+          },
+          "category": "main",
+          "content": {
+            "code": "",
+            "chinese": "随口赋予生命的异想，通常力量有限，二人没用多久便结束了战斗，而Alpa还没探测到之前锁定的目标。\\n\n金色耀眼的管风琴不知何时具现化，以天地为厅，乐声足以响彻四野。二人并坐在钢琴椅，四手联弹着Igallta，而非You are the miserable。\\n\n“侦探先生，相信我，不是我选的，我会点合体的那首。”鸠仍想辩解。\\n\n“也不是我。咕咕老师，你是知道我的，要是我，我会点Rrhar'il。”\\n\n“没听过的曲子……”\\n\n“嗯，刚编的。”Gino在思考怎么把琴搬走，要是被人看到就不好了。\\n\n“猎犬吗？咕咕——总感觉——”\\n\n她巡视管风琴的风管，像是发现了什么，她突然站起：“哪里奇怪。Lanota是自然生成的回忆型亚空间，除了异想污染集中的时期，没人可以进入这里，委托人怎么可能丢失物品在封闭状态的亚空间呢。”\\n\nGino眸光轻移，他意识到：“除非——”\\n\n\\n\nHINT：完成Stasis的AT难度，且总分高于700000。",
+            "chineseTraditional": "隨口賦予生命的異想，通常力量有限，二人沒用多久便結束了戰鬥，而Alpa還沒探測到之前鎖定的目標。 \\n\r\n金色耀眼的管風琴不知何時具象化，以天地為廳，樂聲足以響徹四野。二人並坐在鋼琴椅，四手連彈著Igallta，而非You are the miserable。 \\n\r\n「偵探先生，相信我，不是我選的，我會點合體的那首。」Geopelia仍想辯解。 \\n\r\n「也不是我。咕咕老師，你是知道我個性的，要是我，我會點Rrhar'il。」\\n\r\n「沒聽過的曲子……」\\n\r\n「嗯，剛編的。」Gino在思考怎麼把琴搬走，要是被人看到就不好了。 \\n\r\n「獵犬嗎？咕咕——總感覺——」\\n\r\n她巡視管風琴的風管，像是發現了什麼，她突然站起：「我還想哪裡奇怪。Lanota是自然生成的回憶型子空間，除了異想污染集中的時期，沒人可以進入這裡，委託人怎麼可能遺失物品在封閉狀態的子空間呢。」\\n\r\nGino眸光輕移，他意識到：「除非——」\\n\r\n\\n\r\nHINT：完成Stasis的AT難度，且總分高於700000。",
+            "english": "A whim that was given life casually usually has limited power. The two didn't take long to end the fight, while Alpa had yet to detect their previously locked target.\\n\r\nThe dazzling golden organ had somehow materialised, with heaven and earth as its hall, and its music loud enough to resonate in all directions. The two sat side by side on the piano bench, playing Igallta together, not You are the miserable.\\n\r\n\"Mr Detective, trust me, I didn't choose it. I would have chosen the one that merges.\" Geopelia was still trying to explain.\\n\r\n\"It wasn't me either. You know me, Ms Coo-coo. I would have chosen Rrhar'il.\"\\n\r\n\"A tune never heard before ......\"\\n\r\n\"Well, just came up with it.\" Gino was thinking about how to move the organ. It would be bad if someone else saw it.\"A hound? Coo-coo - it feels like -\"\\n\r\nShe examined the organ's windpipe as if she had spotted something and suddenly stood up, \"Something's wrong. Lanota is a naturally occurring memory typed subspace. No one can enter except during periods of concentrated whimify. How could the client lose items in a closed state subspace…\"\\n\r\nGino's eyes shifted as he realised, \"Unless-\"\\n\r\n\\n\r\nHINT: Complete Stasis AT difficulty with a total score above 700000.",
+            "japanese": "適当な言葉によって生命を与えられた異想は、力に限界がある。二人は苦労もせずに戦いを終わらせた。だが、Alpaはまだロックしたターゲットを見つかっていないようだ。\\n\n金色の輝かしいパイプオルガンはいつの間にか具現化していた。まるでこの世界が一つのシンフォニーホールのように、それが奏でる音は天地の間で響くほど壮大なものだった。二人は隣り合ってピアノチェアに座り、四本の手でYou are the miserableではなく、Igalltaを演奏している。\\n\n「探偵さん、信じてください。これは私がやったことではありません。私ならあれらが合体するあの曲を選びます。」鳩はまだ弁解を試みている。\\n\n「僕がやったことでもないですよ、ポッポ先生。君は僕のことをよく知っている。僕ならRrhar'ilを選ぶよ。」\\n\n「聞いたことのない曲……」\\n\n「そう、今考えた名前だ。」Ginoはどうやったらこのオルガンを運べるかを考えている。誰かに見られたらまずいのだ。\\n\n「猟犬か？ポッポ——なんだか——」\\n\n鳩はパイプオルガンのパイプを見つめた。何かを発見したかのように。すると突然、彼女は立ち上がってこう言った：「何か変だ。Lanotaは自然形成された思い出型の亜空間、異想汚染が集中して発生する時期以外、誰も入ることができないはず。あの依頼人はどうやってこの密閉状態の亜空間にモノを落としたんだ？」\\n\nGinoは少し視線を移すと、何かに気づいたようだ：「まさか——」\\n\n\\n\nHINT：スコア700000以上でStasisのAT難易度をクリアせよ。",
+            "korean": ""
+          },
+          "properties": {
+            "code": "",
+            "chinese": "",
+            "chineseTraditional": "",
+            "english": "",
+            "japanese": "",
+            "korean": "\r"
+          }
+        },
+        {
+          "key": "Lanota5",
+          "subIndex": 1,
+          "getSong": -10095,
+          "name": {
+            "code": "",
+            "chinese": "生命之音",
+            "chineseTraditional": "生命之音",
+            "english": "Sound of Life",
+            "japanese": "命の音",
+            "korean": ""
+          },
+          "date": "771/05/10",
+          "supervisor": {
+            "code": "",
+            "chinese": "鸠",
+            "chineseTraditional": "Geopelia",
+            "english": "Geopelia",
+            "japanese": "鳩",
+            "korean": ""
+          },
+          "category": "main",
+          "content": {
+            "code": "",
+            "chinese": "音矿之母，艾娜，局长哈帕斯的妻子，逝世前托人建立了沉默边境守备队。\\n\n“一定要摧毁音矿。”是他们唯一的准则。\\n\n但是这样，故事就能完结了吗。\\n\n这个组织在寻找地道的尽头，尽头只有两样东西——写有“艾娜，等我”的管风琴，和飞向音矿管理局本部的天空船。\\n\n这一切是巧合吗。\\n\n“勿忘我的花语是‘希望’。”\\n\n风吹铃动，大自然自有其音律，苹果树下，少年们向着“外面的世界”出发。吟游诗人弹奏夜半的小曲，摩擦圆盘唤回满心的华彩。\\n\n故事的最后，是音矿消失的平静吗。\\n\n我不希望如此。\\n\n手脚灵活的她，爬上巨树的枝桠，采摘成熟的果实，红彤表皮下，有它甜蜜的果肉，和坚硬的内心。她丢失的东西，真的需要一个资深侦探才行。\\n\n“找到了吗。”\\n\n“找到了。”\\n\n\\n\n致委托人——献给喜欢Lanota的你",
+            "chineseTraditional": "音礦之母，艾娜，局長哈帕斯的妻子，逝世前託人建立了沉默邊境守備隊。 \\n\r\n「一定要摧毀音礦。」是他們唯一的準則。 \\n\r\n但是這樣，故事就能完結了嗎。 \\n\r\n這個組織在尋找地道的盡頭，盡頭只有兩樣東西——寫有「艾娜，等我」的管風琴，和飛向音礦管理局總部的天空船。 \\n\r\n這一切是巧合嗎。 \\n\r\n「勿忘我的花語是『希望』。」\\n\r\n風吹鈴動，大自然自有其音律，蘋果樹下，少年們向著「外面的世界」出發。吟遊詩人彈奏夜半的小曲，摩擦圓盤喚回滿心的華彩。 \\n\r\n故事的最後，是音礦消失的平靜嗎。 \\n\r\n我不希望如此。 \\n\r\n手腳靈活的她，爬上巨樹的枝頭，採摘成熟的果實，紅彤表皮下，有它甜蜜的果肉，和堅硬的內心。她遺失的東西，真的需要一個資深偵探才行。 \\n\r\n「找到了嗎。」\\n\r\n「找到了。」\\n\r\n\\n\r\n致委託人——獻給喜歡Lanota的你",
+            "english": "Mother of Notalium, Ena, wife of Director Halpas, entrusted others to establish the Silence Border Guard before she passed away. \\n\n\"Notalium must be destroyed.\" It was their only principle. \\n\nBut, could this be the end of the story.\\n\nThe organisation is looking for the end of the tunnel, and there are only two things at the end - a pipe organ with the words \"Ena, wait for me\" written on it, and an airship that flies to the headquarter of the Notalium Administration.\\n\nIs this all a coincidence.\\n\n\"The flower language of the forget-me-not is 'hope'.\"\\n\nThe chime rings, and nature has its own rhythm. Under the apple tree, the boys set off for the \"outside world\". The bard plays the tune of midnight, rubbing the disc to bring back a heart full of colours.\\n\nAt the end of the story, is there the peace of Notalium's disappearance.\\n\nI hope not.\\n\nAgilely, she climbs up the branches of the giant tree to pick a ripe fruit, with its sweet flesh and solid core beneath its reddish skin. It really does take a veteran detective to find what she lost.\\n\n\"Have you found it.\"\\n\n\"Found it.\"\\n\n\\n\nTo the client - for you who love Lanota",
+            "japanese": "ノタリウムの母、エナ。局長ハルパスの妻であり、この世を去る前に沈黙辺境守備隊を設立することを誰かにお願いした。\\n\n「確とノタリウムを破壊する。」これが彼らの唯一の鉄則である。\\n\nしかし、果たしてこれで物語は終わりを迎えられるのか。\\n\nこの組織はトンネルの終点を探している。その終点には二つのものしかない——「待っていてくれ、エナ」と書かれてあるパイプオルガンと、ノタリウム管理局本部に向かう飛行船。\\n\nこのすべては偶然なのか。\\n\n「勿忘草の花言葉は『希望』。」\\n\n風が鈴を吹き鳴らす、大自然にもその音律がある。リンゴの木の下、少年たちは「外の世界」を目指して出発する。吟遊詩人は夜半の曲を奏で、円盤を擦りながら心いっぱいの華彩を呼び起こす。\\n\n物語の最後は、ノタリウムが消えた静寂なのか。\\n\n私はそれを望まない。\\n\n巧みな彼女は巨木の枝に登り、成熟した果実を摘み取る。赤い皮の下に、その甘い果肉と硬い核心がある。彼女が落としたモノを探すのに、どうやら本当に優れた探偵を雇う必要があったようだ。\\n\n「見つかったか？」\\n\n「見つかったよ。」\\n\n\\n\n依頼人——Lanotaが大好きなあなたへ",
+            "korean": ""
+          },
+          "properties": {
+            "code": "",
+            "chinese": "",
+            "chineseTraditional": "",
+            "english": "",
+            "japanese": "",
+            "korean": "\r"
+          }
+        },
+        {
+          "key": "roteano1",
+          "subIndex": 1,
+          "getSong": -10142,
+          "name": {
+            "code": "",
+            "chinese": "摘录·莫比乌斯工作室日志·一",
+            "chineseTraditional": "摘錄·莫比烏斯工作室日志·一",
+            "english": "",
+            "japanese": "抜粋・メビウス工房日記・一",
+            "korean": ""
+          },
+          "date": "242/11/17",
+          "supervisor": {
+            "code": "",
+            "chinese": "Gino",
+            "chineseTraditional": "Gino",
+            "english": "",
+            "japanese": "Gino",
+            "korean": ""
+          },
+          "category": "main",
+          "content": {
+            "code": "",
+            "chinese": "【扉页：从那天起，雨就没有停息。】\\n\n\\n\n阿特拉斯的忘忧宫，天穹水蓝犹如静海，大气之外的水层倒影着“港湾”的光景，像素塔历242年的尾声，一切都好似梦境。\\n\n今天要做的事很多，就比如迎接那位天才研究员，来自亚空间ROTAENO，为“港湾”之雨而来的交流学者荷珀。与约定的不同，荷珀搭了早一班的飞船，等我踏出工作室的大门，便已见到她彷徨不知所措徘徊在门前。\\n\n“请问这里是莫比乌斯研究中心吗？我是阿古亚星的荷珀，之前申请了贵中心的学术交流。”\\n\n这打乱了我的计划，今日有两位客人，本该在港口一同会面，我一时不知该如何处理荷珀的情况，工作室如今只有我一人，除了再带她去港口，似乎没有其他选择。荷珀的好奇心，正如她对学术问题的热情一般，一路上她的问题便没有停歇。\\n\n她看向这违反常理的世界，向身边唯一一个理性的生物——我，问道：“天上的白线那是什么？起初我以为是云朵，但它们太分散又消失的太快了。”\\n\n“船舶驶过的浪线，我们头顶的景色既是天空，亦是海洋。你可能好奇大气外的水层从何而来，我只能告诉你，那是个星球的倒影，它曾经叫做港湾，现在改名为霓虹，也是你申请调查的地方。但我得告诉你，那里正在发生战争，你没有来对时候。”\\n\n战争的信息，并没熄灭她求知的欲望，她将跟随记者前往霓虹，我期待她的旅行顺利，正如我期待和平的来临。\\n",
+            "chineseTraditional": "【扉頁：從那天起，雨就沒有停息。】\\n\n\\n\n阿特拉斯的忘憂宮，天穹水藍猶如靜海，大氣之外的水層倒影著“港灣”的光景，像素塔歷242年的尾聲，一切都好似夢境。\\n\n今天要做的事很多，就比如迎接那位天才研究員，來自亞空間ROTAENO，為“港灣”之雨而來的交流學者荷珀。與約定的不同，荷珀搭了早一班的飛船，等我踏出工作室的大門，便已見到她彷徨不知所措徘徊在門前。\\n\n“請問這里是莫比烏斯研究中心嗎？我是阿古亞星的荷珀，之前申請了貴中心的學術交流。”\\n\n這打亂了我的計劃，今日有兩位客人，本該在港口一同會面，我一時不知該如何處理荷珀的情況，工作室如今只有我一人，除了再帶她去港口，似乎沒有其他選擇。荷珀的好奇心，正如她對學術問題的熱情一般，一路上她的問題便沒有停歇。\\n\n她看向這違反常理的世界，向身邊唯一一個理性的生物——我，問道：“天上的白線那是什麼？起初我以為是雲朵，但它們太分散又消失的太快了。”\\n\n“船舶駛過的浪線，我們頭頂的景色既是天空，亦是海洋。你可能好奇大氣外的水層從何而來，我只能告訴你，那是個星球的倒影，它曾經叫做港灣，現在改名為霓虹，也是你申請調查的地方。但我得告訴你，那裡正在發生戰爭，你沒有來對時候。”\\n\n戰爭的信息，並沒熄滅她求知的欲望，她將跟隨記者前往霓虹，我期待她的旅行順利，正如我期待和平的來臨。\\n",
+            "english": "",
+            "japanese": "【標題紙：あの日以来、雨が止むことはなかった。】\\n\n\\n\nアトラスに位置するロートス、そこの空は水のように青く海のように静かで、大気の外にある水層は「ヘブン」の倒影を映している。ピクセルタワー暦242年の終わり、すべてが夢のように美しい。\\n\n今日はやることがいっぱいだ、例えばあの天才科学者——「ヘブン」の雨の問題について議論するために、亜空間ROTAENOから来た学者ホッパを出迎えなければならない。予定とは違って、ホッパは1本前の飛行機に乗ったらしく、俺がオフィスから出たとき彼女はすでにオフィスの前で彷徨っていた。\\n\n「すみません、ここがメビウス研究所ですか？私はアクア星から来ましたホッパと申します、ここで開かれる学会の参加を申し込んでおりまして」\\n\nこれは少々まずいことになった。今日は二人の客人を、本来ならば港で一緒に出迎えて顔合わせする予定だったが、計画が乱れてしまった。工房に今は俺一人しかいなく、より良い解決策も思いつかなかったため、仕方なく俺はホッパを連れて港に戻ることにした。ホッパの好奇心はまさに彼女が学術に対する熱意と同じくらい熱烈なもので、次から次へと俺に質問をしてきたのだ。\\n\n彼女はこの常理から逸した世界を見ると、傍らにいる唯一の理性的な生き物である俺に問うた：「空にある白い線はなんですか？はじめは雲かと思ってましたが、一体感がない上にすぐに消えてしまうもので……」\\n\n「あれは船が通ったときに海を切り分けた跡だ。私達の頭上にあるのは空であり、海でもある。君は大気の外になんで水があるのかと気になるかもしれないが、俺が言えるのはあれは惑星の倒影であることだ。そこは以前ヘブンと呼ばれていたが、今ではネオンに改名している。まさに君が調査希望を出した場所だ。しかしこれだけは伝えておかないと——あそこは今、戦争をしている。君は最悪なタイミングで来てしまったんだ。」\\n\n戦争をしているという情報は、しかし彼女の探求に燃える心を消してしまうことはなかった。彼女は記者とともにネオンに向かうことになる。平和の到来を願っているように、俺は彼女の旅が順風満帆であることを祈った。\\n",
+            "korean": ""
+          },
+          "properties": {
+            "code": "",
+            "chinese": "",
+            "chineseTraditional": "",
+            "english": "",
+            "japanese": "",
+            "korean": "\r"
+          }
+        },
+        {
+          "key": "rotaeno2",
+          "subIndex": 1,
+          "getSong": -10143,
+          "name": {
+            "code": "",
+            "chinese": "摘录·莫比乌斯工作室日志·二",
+            "chineseTraditional": "摘錄·莫比烏斯工作室日志·二",
+            "english": "",
+            "japanese": "抜粋・メビウス工房日記・二",
+            "korean": ""
+          },
+          "date": "242/11/17",
+          "supervisor": {
+            "code": "",
+            "chinese": "Gino",
+            "chineseTraditional": "Gino",
+            "english": "",
+            "japanese": "Gino",
+            "korean": ""
+          },
+          "category": "main",
+          "content": {
+            "code": "",
+            "chinese": "“真是好久不见了，吉诺。哦，一想到审判航道已经乱成一团，忘忧宫却丝毫不受影响，我就觉得不可思议。”\\n\n能让我一字不差记录下讽刺话语的，只有那位如今霓虹的二把手，魔女会议的隼。先统的代行人，战争的煽动者，立场不明的两面派，知道这么多内幕的我，除了在日志里发牢骚，竟对她一点办法没有，实在可恶。她毕竟是工作室的客人，我也不好下驱逐令，只能仍由她在眼前晃悠，你们到底什么时候回来，真不知道战场有什么好研究的。\\n\n我没在仓库里找到隼要的道具，现做需要点时间，还麻烦负责交涉的同事，和那边重新商量条件。说起来，我到现在都不知道那边的情况，只是我单方面写日志过于不公平，希望明天睡前，能看到来自你们的系统邮件。\\n\n是的，这不是商量。\\n\n隼说虹之战将持续到港湾彻底建成，以我对创世光盘的了解，这起码要再过十年。十年，足够发生多少变化，我们真的还有时间吗。",
+            "chineseTraditional": "“真是好久不見了，吉諾。哦，一想到審判航道已經亂成一團，忘憂宮卻絲毫不受影響，我就覺得不可思議。”\\n\n能讓我一字不差記錄下諷刺話語的，只有那位如今霓虹的二把手，魔女會議的隼。先統的代行人，戰爭的煽動者，立場不明的兩面派，知道這麼多內幕的我，除了在日誌里發牢騷，竟對她一點辦法沒有，實在可惡。她畢竟是工作室的客人，我也不好下驅逐令，只能仍由她在眼前晃悠，你們到底什麼時候回來，真不知道戰場有什麼好研究的。\\n\n我沒在倉庫里找到隼要的道具，現做需要點時間，還麻煩負責交涉的同事，和那邊重新商量條件。說起來，我到現在都不知道那邊的情況，只是我單方面寫日誌過於不公平，希望明天睡前，能看到來自你們的系統郵件。\\n\n是的，這不是商量。\\n\n隼說虹之戰將持續到港灣徹底建成，以我對創世光盤的瞭解，這起碼要再過十年。十年，足夠發生多少變化，我們真的還有時間嗎。",
+            "english": "",
+            "japanese": "「久しぶりだね、ジノ。まったく、審判航路は混乱状態に陥ってるのに、ロートスは微塵も影響を受けてないなんて、不思議なものだ。」\\n\n脳に刻まれるほどの皮肉が言えるのは、今となってはあのネオンの二番手、魔女会議の隼だけ。先代統治者の代行者、戦争のアジテーター、立場不明の二枚舌。内情を知り尽くしている俺でさえも、日記で悪口を書くぐらいのことしかできなく、彼女を牽制できる方法は全く見当つかない。実に憎らしい。それに彼女は工房の客人であり、簡単に駆逐令を出すこともできなく、彼女の勝手を許すしかない。まったく君たちはいつになったら戻ってくることやら、戦争についていくら研究してもなにも出ないと思うが。\\n\n倉庫から隼が欲しがっているものを見つけることはできなかった。しかし一から作るのも時間がかかる、仲介人の同僚に迷惑をかけてもう一度話し合いをさせる必要がある。そういえば、そちらの状況についてはまったく報告を受けていない、俺だけが日記を書き倒しているのは不公平じゃないか。明日の就寝までの間に、君たちからのメールが来ることを願おう。\\n\nそうだ、これは話し合うなんて単純なことじゃないんだ。\\n\n隼は虹の戦いはヘブンが竣工するまで続くと言っていた。それに俺の創世円盤について知っていることを加えると、少なくともまだ十年は必要だ。十年の間、果たしていくらの変化が生じるのだろうか。本当に俺たちにはまだ時間が残されているのか。",
+            "korean": ""
+          },
+          "properties": {
+            "code": "",
+            "chinese": "",
+            "chineseTraditional": "",
+            "english": "",
+            "japanese": "",
+            "korean": "\r"
+          }
+        },
+        {
+          "key": "rotaeno3",
+          "subIndex": 1,
+          "getSong": -10144,
+          "name": {
+            "code": "",
+            "chinese": "摘录·莫比乌斯工作室日志·三",
+            "chineseTraditional": "摘錄·莫比烏斯工作室日志·三",
+            "english": "",
+            "japanese": "抜粋・メビウス工房日記・三",
+            "korean": ""
+          },
+          "date": "242/11/17",
+          "supervisor": {
+            "code": "",
+            "chinese": "Gino",
+            "chineseTraditional": "Gino",
+            "english": "",
+            "japanese": "Gino",
+            "korean": ""
+          },
+          "category": "main",
+          "content": {
+            "code": "",
+            "chinese": "在港口还有个小插曲，荷珀想要帮助我寻找隼的行踪，我试图和她解释林泊是一种自由的生物，他们能随着心象的不同，而改变自己的外貌，就像生老病死，他们的变化也是遵循了一种规律，也就是内心的规律。\\n\n我最后也只能这么和她说：“可以将林泊理解为类似维克斯族的生物，没有固定的样貌，只有熟人能凭感觉找到他们。”\\n\n但她之后的提问也点醒了我，林泊的肉体、记忆、灵魂都是变化无常的，像素塔里的心又指的是什么呢？\\n\n我向她举了记忆金属的例子，记忆金属是一种特殊的合金材料，会在条件恢复正常时恢复到原来的形状。心也是这样一种，永远会回到起点的物质。\\n\n隼赞同了我的说法，但我至今不曾了解她，她的起点是什么样的，这是我这数百年来，从未想透的秘密。\\n",
+            "chineseTraditional": "在港口還有個小插曲，荷珀想要幫助我尋找隼的行蹤，我試圖和她解釋林泊是一種自由的生物，他們能隨著心象的不同，而改變自己的外貌，就像生老病死，他們的變化也是遵循了一種規律，也就是內心的規律。\\n\n我最後也只能這麼和她說：“可以將林泊理解為類似維克斯族的生物，沒有固定的樣貌，只有熟人能憑感覺找到他們。”\\n\n但她之後的提問也點醒了我，林泊的肉體、記憶、靈魂都是變化無常的，像素塔里的心又指的是什麼呢？\\n\n我向她舉了記憶金屬的例子，記憶金屬是一種特殊的合金材料，會在條件恢復正常時恢復到原來的形狀。心也是這樣一種，永遠會回到起點的物質。\\n\n隼贊同了我的說法，但我至今不曾瞭解她，她的起點是什麼樣的，這是我這數百年來，從未想透的秘密。\\n",
+            "english": "",
+            "japanese": "港でこのようなこともあった。ホッパは俺が隼を探すのを手伝いたかったが、彼女はリンボについてまったく知らない。リンボは自由自在な生き物だと俺は彼女に説明した。リンボたちは心が思うままに自分の外見を変えることができる。人はいつか老いるように、リンボの変化もまた一種の規律に従うものだ。それは、心の規律。\\n\n最終的に、俺は彼女にこう説明するしかなかった：「リンボはヴィッカスと似たような生き物だと捉えて構わない。決まった外見がないため、付き合いの長い人が感覚を頼って彼らを探すしかない。」\\n\nしかしその後の彼女からの質問は俺を悟らせた。リンボの肉体、記憶、更には魂もが変幻自在なものであれば、ピクセルタワーにおける心は何を意味するのか？\\n\n俺は形状記憶合金で彼女に例えた。形状記憶合金は一種の特殊な合金で、周りの環境が自然状態に戻るとたとえ変形していても元の形状に戻る。心もこれと似たような、最終的には始点に戻ってくる物質である。\\n\n隼は俺のこの例えに賛同していた。しかし俺は今でも彼女をよく知らない。彼女の始点はどのようなものなのか、これはこの数百年の間俺を悩ませ続けた秘密であった。\\n",
+            "korean": ""
+          },
+          "properties": {
+            "code": "",
+            "chinese": "",
+            "chineseTraditional": "",
+            "english": "",
+            "japanese": "",
+            "korean": "\r"
+          }
+        },
+        {
+          "key": "rotaeno4",
+          "subIndex": 1,
+          "getSong": -10150,
+          "name": {
+            "code": "",
+            "chinese": "隼的行船记录仪·一",
+            "chineseTraditional": "隼的行船記錄儀·一",
+            "english": "",
+            "japanese": "隼の飛行レコード・一",
+            "korean": ""
+          },
+          "date": "243/01/20",
+          "supervisor": {
+            "code": "",
+            "chinese": "鸠",
+            "chineseTraditional": "Geopelia",
+            "english": "",
+            "japanese": "鳩",
+            "korean": ""
+          },
+          "category": "main",
+          "content": {
+            "code": "",
+            "chinese": "像素塔管理会发放给下属成员的制式补给，用以监控飞船附近的异常参数。\\n\n像素塔历243年1月20日，驾驶者行驶至距离阿特拉斯层三千六百千里外的小天体“psyche-327”，在此期间，就违规停泊同异常飞行装置通信，双方通信记录如下：\\n\n【Alpa：本条为异想处理部巡逻三队工务舰67号的自动发信，你已偏离正常航线，请跟随前方飞船前往阿特拉斯八号中转站，重新规划你的行进道路。\\n\nAlpa：检测到对象处于昏迷状态，已启动清醒射线。（biu——）\\n\n伊洛：（惊醒）啊啊啊——哎，猫猫？我，我又在哪里！\\n\nAlpa：检查到对象情绪激动，已转接人工服务。\\n\n隼：哈喽！哈喽！迷路的朋友！欢迎来到阿特拉斯！\\n\n伊洛：哇啊，你不要过来啊啊啊啊啊！\\n\n隼：（小声）糟糕，不会电傻了吧。\\n\nAlpa：此乃正常反应。】\\n",
+            "chineseTraditional": "像素塔管理會發放給下屬成員的制式補給，用以監控飛船附近的異常參數。\\n\n像素塔歷243年1月20日，駕駛者行駛至距離阿特拉斯層三千六百千裡外的小天體“psyche-327”，在此期間，就違規停泊同異常飛行裝置通信，雙方通信記錄如下：\\n\n【Alpa：本條為異想處理部巡邏三隊工務艦67號的自動發信，你已偏離正常航線，請跟隨前方飛船前往阿特拉斯八號中轉站，重新規劃你的行進道路。\\n\nAlpa：檢測到對象處於昏迷狀態，已啟動清醒射線。（biu——）\\n\n伊洛：（驚醒）啊啊啊——哎，貓貓？我，我又在哪裡！\\n\nAlpa：檢查到對象情緒激動，已轉接人工服務。\\n\n隼：哈嘍！哈嘍！迷路的朋友！歡迎來到阿特拉斯！\\n\n伊洛：哇啊，你不要過來啊啊啊啊啊！\\n\n隼：（小聲）糟糕，不會電傻了吧。\\n\nAlpa：此乃正常反應。】\\n",
+            "english": "",
+            "japanese": "ピクセルタワー管理会がメンバーに配給した装置、宇宙船周囲の異常数値を検知する機能を持つ。\\n\nピクセルタワー歴243年1月20日、パイロットはアトラス層から3600キロメートル離れた小天体「psyche-327」にたどり着いた。その途中でとある違法停泊の飛行装置との通信があった。以下がその記録である：\\n\n【Alpa：これは異想処理部第三巡回隊69号艦より自動発信しているメッセージです。正しい航路から外れている可能性があります、前方の宇宙船の指示に従いアトラス第8中継ステーションまで行き、航路を見直してください。\\n\nAlpa：対象が昏睡状態にあると検知しました。目覚め射線を起用します。（ビューー）\\n\nイロ：（目覚めて）うあああ——え、猫？私、またどこに来ちゃったんだよ！\\n\nAlpa：対象の情緒の起伏を検知しました。人工サービスに変わります。\\n\n隼：ハロー！ハロー！迷子になった友よ！アトラスへようこそ！\\n\nイロ：うあああ、近づかないでいやああああ！\\n\n隼：（小声で）やばいな、まさか目覚め射線で理性を失ってしまったのか。\\n\nAlpa：これは正常な反応です。】\\n",
+            "korean": ""
+          },
+          "properties": {
+            "code": "",
+            "chinese": "",
+            "chineseTraditional": "",
+            "english": "",
+            "japanese": "",
+            "korean": "\r"
+          }
+        },
+        {
+          "key": "rotaeno5",
+          "subIndex": 1,
+          "getSong": -10151,
+          "name": {
+            "code": "",
+            "chinese": "隼的行船记录仪·二",
+            "chineseTraditional": "隼的行船記錄儀·二",
+            "english": "",
+            "japanese": "隼の飛行レコード・二",
+            "korean": ""
+          },
+          "date": "243/01/20",
+          "supervisor": {
+            "code": "",
+            "chinese": "鸠",
+            "chineseTraditional": "Geopelia",
+            "english": "",
+            "japanese": "鳩",
+            "korean": ""
+          },
+          "category": "main",
+          "content": {
+            "code": "",
+            "chinese": "【隼：冷静下来就好，你叫伊洛，来自阿古亚星是吗？这里是像素塔星区阿特拉斯殖民地，Alpa检查过航行记录了，你似乎……偏移了六百光年？\\n\n伊洛：六百光年！这怎么可能呢，我明明刚才还在——等等，你是怎么知道飞船数据的，难道你是星际警察！（星星眼）我还是第一次在综艺以外地方看到星际警察呢！\\n\n隼：（停顿）呃，你也可以这么想。回到正题，我们现在的首要任务是把你送回到正确的航线。\\n\n伊洛：第八中转站对吧，我都听到了。我们现在就出发？\\n\n隼：不急，你这种情况需要特殊处理，容我联系一下后勤部门。】\\n\n以下为隼与星标联系人Gino的私下通信：\\n\n【Gino：（接通）莫比乌斯工作室，留言请按1，钻石姬请挂机。\\n\n隼：听我说，无敌的阿吉，宇宙需要你！我遇到了荷珀提过的伙伴，亚空间ROTAENO越发不稳定了！\\n\nGino：亚空间服务请按2，退出请按#字键。\\n\n隼：2。\\n\nGino：重新锚定请按1，驱逐入侵异想请按2，其他服务请按3。\\n\n隼：3。\\n\nGino：已向您所在位置发送“追踪防异弹”，导弹到达之前请勿随便离开，预计到达时间还剩1小时。\\n\n隼：哎，我按的是3哎。】\\n",
+            "chineseTraditional": "【隼：冷靜下來就好，你叫伊洛，來自阿古亞星是嗎？這里是像素塔星區阿特拉斯殖民地，Alpa檢查過航行記錄了，你似乎……偏移了六百光年？\\n\n伊洛：六百光年！這怎麼可能呢，我明明剛才還在——等等，你是怎麼知道飛船數據的，難道你是星際警察！（星星眼）我還是第一次在綜藝以外地方看到星際警察呢！\\n\n隼：（停頓）呃，你也可以這麼想。回到正題，我們現在的首要任務是把你送回到正確的航線。\\n\n伊洛：第八中轉站對吧，我都聽到了。我們現在就出發？\\n\n隼：不急，你這種情況需要特殊處理，容我聯系一下後勤部門。】\\n\n以下為隼與星標聯系人Gino的私下通信：\\n\n【Gino：（接通）莫比烏斯工作室，留言請按1，鑽石姬請掛機。\\n\n隼：聽我說，無敵的阿吉，宇宙需要你！我遇到了荷珀提過的夥伴，亞空間ROTAENO越發不穩定了！\\n\nGino：亞空間服務請按2，退出請按#字鍵。\\n\n隼：2。\\n\nGino：重新錨定請按1，驅逐入侵異想請按2，其他服務請按3。\\n\n隼：3。\\n\nGino：已向您所在位置發送“追蹤防異彈”，導彈到達之前請勿隨便離開，預計到達時間還剩1小時。\\n\n隼：哎，我按的是3哎。】\\n",
+            "english": "",
+            "japanese": "【隼：落ち着いたならいい。君の名はイロで、アクア星から来た者。間違いないね？ここはピクセル星域のアトラス植民地。Alpaが飛行レコードを見たんだが、君は……航路から600光年ズレている？\\n\nイロ：600光年！ありえない、私はさっきまで——待って、どうして私の宇宙船のデータを知っているんだ、まさか宇宙警察なのか！バラエティ番組以外では初めて見たかも！\\n\n隼：うーん……そう思ってもらっても構わない。話を戻そう、今は君を元の航路に送り帰らなければならないんだ。\\n\nイロ：第8中継ステーションだよね、聞いてたよ。今から出発？\\n\n隼：そう急がなくてもいい。君の状況はちょっと特殊でね、まずはバックオフィスに連絡を入れてくるよ。】\\n\n以下は隼と星標連絡係Ginoとの個人間の通信記録である：\\n\n【Gino：こちらメビウス工房です、メッセージを残したい場合は1を押し、それ以外は電話を下ろしてください。\\n\n隼：聞いてくれ無敵たるジノくん、宇宙があなたを必要としている！ホッパが言っていた仲間に出会ったんだ、亜空間ROTAENOはますます不安定になっている！\\n\nGino：亜空間サービスは2、中断する場合は#を押してください。\\n\n隼：2。\\n\nGino：照準要請は1，侵入異想の駆逐は2，他のサービスは3を押してください。\\n\n隼：3。\\n\nGino：所在の位置に向かって「異想駆逐誘導ミサイル」を発射しました。ミサイルが到着するまでその場にいてください、およそ1時間後に到着する予定です。\\n\n隼：ちょ、押したのは3なんだけど。】\\n",
+            "korean": ""
+          },
+          "properties": {
+            "code": "",
+            "chinese": "",
+            "chineseTraditional": "",
+            "english": "",
+            "japanese": "",
+            "korean": "\r"
+          }
+        },
+        {
+          "key": "rotaeno6",
+          "subIndex": 1,
+          "getSong": -10152,
+          "name": {
+            "code": "",
+            "chinese": "隼的行船记录仪·三",
+            "chineseTraditional": "隼的行船記錄儀·三",
+            "english": "",
+            "japanese": "隼の飛行レコード・三",
+            "korean": ""
+          },
+          "date": "243/01/20",
+          "supervisor": {
+            "code": "",
+            "chinese": "鸠",
+            "chineseTraditional": "Geopelia",
+            "english": "",
+            "japanese": "鳩",
+            "korean": ""
+          },
+          "category": "main",
+          "content": {
+            "code": "",
+            "chinese": "【隼：咳咳，伊洛同学，你听说过流形假说吗。\\n\n伊洛：那是，什么。\\n\n隼：（打开小抄）专业一点讲就是局部类似欧几里得空间的总空间，映射到高维空间将必然达成局部聚集性。因此亚空间和像素塔汇合期间，作为故事中心的你，代表整个亚空间出场了！\\n\n伊洛：完全没听懂！\\n\n隼：是吧，我也听不懂吉诺的大道理！现在装好了修正装置，再等五分钟，你就能返回正常的航线啦。\\n\n伊洛：哦哦哦，是吗！（迟疑）其实……\\n\n隼：怎么了？\\n\n伊洛：很抱歉我偷听了你的电话！但是我真的真的想问！荷珀，她有说过她的下一站是哪里吗？\\n\n隼：她没有说。（停顿）时间和距离，一旦放到宇宙的尺度便不再恒定，我的两个月，可能在她的生命里流动了许久许久。即便我知道她的目的地，也不该将误导性的信息告知你。\\n\n伊洛：（昏沉沉）啊哈哈，宇宙真是复杂。（打起精神）不行！伊洛！打起精神来，就快找到荷珀了！\\n\n隼：她会在终点等你。\\n\n伊洛：什么？\\n\n隼：不用在意，只是一些前车之鉴吧，人们总会回到思念之人的身边。\\n\n伊洛：什么！思念之人啊……那个，我也该出发了！再见了，好心的小姐姐！\\n\n隼：再见，愿你一路顺风。】\\n",
+            "chineseTraditional": "【隼：咳咳，伊洛同學，你聽說過流形假說嗎。\\n\n伊洛：那是，什麼。\\n\n隼：（打開小抄）專業一點講就是局部類似歐幾里得空間的總空間，映射到高維空間將必然達成局部聚集性。因此亞空間和像素塔匯合期間，作為故事中心的你，代表整個亞空間出場了！\\n\n伊洛：完全沒聽懂！\\n\n隼：是吧，我也聽不懂吉諾的大道理！現在裝好了修正裝置，再等五分鐘，你就能返回正常的航線啦。\\n\n伊洛：哦哦哦，是嗎！（遲疑）其實……\\n\n隼：怎麼了？\\n\n伊洛：很抱歉我偷聽了你的電話！但是我真的真的想問！荷珀，她有說過她的下一站是哪裡嗎？\\n\n隼：她沒有說。（停頓）時間和距離，一旦放到宇宙的尺度便不再恆定，我的兩個月，可能在她的生命里流動了許久許久。即便我知道她的目的地，也不該將誤導性的信息告知你。\\n\n伊洛：（昏沉沉）啊哈哈，宇宙真是復雜。（打起精神）不行！伊洛！打起精神來，就快找到荷珀了！\\n\n隼：她會在終點等你。\\n\n伊洛：什麼？\\n\n隼：不用在意，只是一些前車之鑒吧，人們總會回到思念之人的身邊。\\n\n伊洛：什麼！思念之人啊……那個，我也該出發了！再見了，好心的小姐姐！\\n\n隼：再見，願你一路順風。】\\n",
+            "english": "",
+            "japanese": "【隼：あの、ホッパさん、多様体仮説というものを聞いたことはあるかい？\\n\nイロ：なんだそれは。\\n\n隼：（事前に準備したメモを出して）専門的に言うと、局部のユーグリッド空間に似た総空間がより高度な次元の空間に投射されると、必然的に局部集中性が成されるという仮説のこと。したがって、亜空間とピクセルタワーが会合している間、物語の主人公である君は亜空間の代表として登場したわけだ！\\n\nイロ：全然わからん！\\n\n隼：でしょう！私にもジノの言っていることはわからないんだ！修正装置をつけといたから、後5分もすれば君は正常な航路に戻れるはずだ。\\n\nイロ：うおおお、本当か！（間をあけて）けど実は……\\n\n隼：なんだ？\\n\n伊洛：電話を盗み聞きしてすみません！でも本当に知りたいんだ！ホッパ、彼女は次に向かう場所について言ってなかったか？\\n\n隼：言ってなかったな。時間と距離は、宇宙尺度にもなれば永久不変なものでは無くなる。私にとっての2ヶ月は、彼女にとっては長すぎた年月なのかもしれない。その目的地を知っていたとしても、誤っているかもしれない情報を君に教える訳にはいかない。\\n\nイロ：……あはは、宇宙って複雑ね。ダメだ、イロ！元気を出して！もうすぐホッパに会えるよ！\\n\n隼：彼女は終点で君を待っているだろう。\\n\nイロ：え？\\n\n隼：気にするな、前に見たことがあるんだ。人々は必ず会いたい人のそばに戻ってくる。\\n\nイロ：そうなのか！会いたい人か……その、私そろそろ出発するね！またね、優しいお姉さん！\\n\n隼：またな、君の旅路に幸あれ。】\\n",
+            "korean": ""
+          },
+          "properties": {
+            "code": "",
+            "chinese": "",
+            "chineseTraditional": "",
+            "english": "",
+            "japanese": "",
+            "korean": "\r"
+          }
+        },
+        {
+          "key": "paradigm1",
+          "subIndex": 1,
+          "getSong": -10120,
+          "name": {
+            "code": "",
+            "chinese": "观察记录：雪",
+            "chineseTraditional": "",
+            "english": "",
+            "japanese": "",
+            "korean": ""
+          },
+          "date": "2096/04/05",
+          "supervisor": {
+            "code": "",
+            "chinese": "Para",
+            "chineseTraditional": "",
+            "english": "",
+            "japanese": "",
+            "korean": ""
+          },
+          "category": "main",
+          "content": {
+            "code": "",
+            "chinese": "春雪磐音，大地回荡着历史的低鸣，已沦为废墟的市民档案馆，残缺的义体散布各处，一片空冥。曾经有旅人，至此铭刻诗句：“春天还没到来……冬天便已过去……无人依偎的家园……还有多少残魂游荡……死寂……皆是死寂。” \\n\n骚动，暴乱，失去知觉的前一刻，瞭望地平线的人们，是否在思考生命的意义。\\n\n摇光脱去手套，二指插入雪地，抵着阻力划出圆弧几道，建筑的标识出现，地下通道的井门出现在二人眼前。\\n\n“Para，我们下去吧。”\\n\n“恩。”\\n\n任务是回收存储元件，以现在的雪势，他们要在天黑之前回到据点，必须加快步伐。\\n\n地下通道积满了水，摇光卷起裤脚，扶着墙壁前进。Para观察着墙壁的痕迹，几道巨大的裂痕内，隐隐可以看见棕红色的树根横行。\\n\n“摇光，这里……”\\n\n“怎么了？”\\n\nPara摇摇头，她回想着进入前的场景，刚刚的猜想几乎无可能。\\n\n“前面就是数据中心，等下我先去准备抓取工具，拜托Para你筛选空置元件了。”\\n\n“摇光，我觉得……”\\n\n大门洞开，只见天光从破碎的穹顶射下树冠，化作万般光点柔影，草叶纷飞，绿意扩散，暖风袭上眉头。\\n\n“Para！”\\n\n只眼春光好，风景旧曾谙。\\n",
+            "chineseTraditional": "",
+            "english": "",
+            "japanese": "",
+            "korean": ""
+          },
+          "properties": {
+            "code": "",
+            "chinese": "",
+            "chineseTraditional": "",
+            "english": "",
+            "japanese": "",
+            "korean": "\r"
+          }
+        },
+        {
+          "key": "paradigm2",
+          "subIndex": 1,
+          "getSong": -10157,
+          "name": {
+            "code": "",
+            "chinese": "观察记录：像",
+            "chineseTraditional": "",
+            "english": "",
+            "japanese": "",
+            "korean": ""
+          },
+          "date": "2096/04/06",
+          "supervisor": {
+            "code": "",
+            "chinese": "Para",
+            "chineseTraditional": "",
+            "english": "",
+            "japanese": "",
+            "korean": ""
+          },
+          "category": "main",
+          "content": {
+            "code": "",
+            "chinese": "“摇光？”\\n\n“摇光！”\\n\nPara不断地呼唤着同行人，却久久不见答应。\\n\n这里已不是刚才的数据中心，积雪和绿色装点的森林，大地空荡荡，唯有一辆生锈的火车，在拖尾雪痕的尽头搁浅，给四周的树木，留下焦黑的印记。\\n\n冷静下来，Para。大静默事件爆发之后，全球网络断连，这只可能是局域网的具现化。\\n\n摇光他一定在附近。Para在心中祈祷着，然而这祷声尚未通达天空，远方的巨响，便将她拉回现实。\\n\n咚，咚，咚。\\n\n石头砸地的震波由远而近，雪花和碎尘，沉入少女的视线。抬起头，高处是生锈的单梁起重机，吊钩如摆锤，荡向她的方向。\\n\n咚，咚，咚。\\n\n闪身躲过吊钩，Para看向远处轰然倒塌的树木，脑中响起了未知却能理解的语言。\\n\n——我为你而来。\\n\n提着野餐篮的高大巨人，他的阴影遮蔽了Para所在的位置，石质的关节间，青草碎花弥漫，蕴含着不属于冬季的生机。\\n\n“你是谁？”\\n",
+            "chineseTraditional": "",
+            "english": "",
+            "japanese": "",
+            "korean": ""
+          },
+          "properties": {
+            "code": "",
+            "chinese": "",
+            "chineseTraditional": "",
+            "english": "",
+            "japanese": "",
+            "korean": "\r"
+          }
+        },
+        {
+          "key": "paradigm3",
+          "subIndex": 1,
+          "getSong": -10158,
+          "name": {
+            "code": "",
+            "chinese": "观察记录：友",
+            "chineseTraditional": "",
+            "english": "",
+            "japanese": "",
+            "korean": ""
+          },
+          "date": "2096/04/07",
+          "supervisor": {
+            "code": "",
+            "chinese": "Para",
+            "chineseTraditional": "",
+            "english": "",
+            "japanese": "",
+            "korean": ""
+          },
+          "category": "main",
+          "content": {
+            "code": "",
+            "chinese": "水壶滚烫的压鸣，化作暖风，吹至Para的耳畔，她微微皱眉，轻扯身上的薄毯。\\n\n茶杯，糕点，占据了篝火的四周，营造出一副野餐的景象，事实也确实如此。那巨人见了她后，便散作石子，排列成阵，从野餐篮抬出野炊工具，又将餐布披在Para肩上，试图让少女暖和些许。\\n\n——他不在这里。\\n\n又是这个直传心灵的声音。\\n\n——为什么？\\n\n——客人只有你。\\n\n水壶开了，“翩翩起舞”的石头，急忙将滚烫的壶传递给同伴，本安坐地面的石子，蹦跳着躲避热度，将水倒入杯中。\\n\n迎着茶香，Para再度问道。\\n\n“这里是哪里？”\\n\n——PhigrOS，心灵世界已然倒塌的理想乡，一个曾经有人，寻找生命意义的地方。\\n\n“你们找到了吗？”\\n\n他沉默了许久。\\n\n——可能寻找的人只有我吧。\\n\n热气之下，视线模糊了，茶梗下沉，光滑的水面映照出他们——理想者的面容。\\n\n“谢谢……你的茶……”\\n\n告别渗进柔软的雪地，宁静无痕。\\n",
+            "chineseTraditional": "",
+            "english": "",
+            "japanese": "",
+            "korean": ""
+          },
+          "properties": {
+            "code": "",
+            "chinese": "",
+            "chineseTraditional": "",
+            "english": "",
+            "japanese": "",
+            "korean": "\r"
+          }
+        },
+        {
+          "key": "paradigm4",
+          "subIndex": 1,
+          "getSong": -10159,
+          "name": {
+            "code": "",
+            "chinese": "观察记录：痕",
+            "chineseTraditional": "",
+            "english": "",
+            "japanese": "",
+            "korean": ""
+          },
+          "date": "2096/04/08",
+          "supervisor": {
+            "code": "",
+            "chinese": "Para",
+            "chineseTraditional": "",
+            "english": "",
+            "japanese": "",
+            "korean": ""
+          },
+          "category": "main",
+          "content": {
+            "code": "",
+            "chinese": "“你没事吧！”\\n\nPara醒来，便瞧见摇光焦急的神情。\\n\n“对不起，我……”\\n\n“刚才真是太惊险了，谁能想到起重机会在那时候，我还以为你……反正，没事就好。我刚才检查过了，这里没有联网，元件我也处理好了，我们赶紧回去吧。”\\n\n“嗯，好。”\\n",
+            "chineseTraditional": "",
+            "english": "",
+            "japanese": "",
+            "korean": ""
+          },
+          "properties": {
+            "code": "",
+            "chinese": "",
+            "chineseTraditional": "",
+            "english": "",
+            "japanese": "",
+            "korean": ""
           }
         }
       ],
@@ -5074,7 +6589,7 @@
           "content": {
             "code": "",
             "chinese": "奔跑，蹦跳，游嬉，在橄榄山上。\\n\n海风吹角，巨兽鲸鸣，\\n\n在橄榄山上，碎石，烂布，菖蒲。\\n\n紫的，黑的，油光的，卵石，\\n\n透得水冰，润得羊脂。\\n\n枝晶，霜花，微观，菌体，\\n\n水份渗透，根深茎营。\\n\n流体的，原子的，电离的，撞击可见的，\\n\n再进入，再深入，再融入，\\n\n凝视不可分割的介质，\\n\n那是否，\\n\n是现实的本质，\\n\n抑或像素的锯齿。",
-            "chineseTraditional": "奔跑，蹦跳，遊戲，在橄欖山上。\\n\r\n海風吹角，巨獸驚鳴，\\n\r\n在橄欖山上，碎石，爛布，菖蒲。\\n\r\n紫的，黑的，油光的，卵石，\\n\r\n透得水冰，潤得羊脂。\\n\r\n枝晶，霜花，微觀，菌體，\\n\r\n水份滲透，根深莖營。\\n\r\n流體的，原子的，電離的，撞擊可見的，\\n\r\n再進入，再深入，再融入，\\n\r\n凝視不可分割的介質，\\n\r\n那是否，\\n\r\n是現實的本質，\\n\r\n亦或圖元的鋸齒。",
+            "chineseTraditional": "奔跑，蹦跳，遊戲，在橄欖山上。\\n\r\n海風吹角，巨獸驚鳴，\\n\r\n 在橄欖山上，碎石，爛布，菖蒲。\\n\r\n紫的，黑的，油光的，卵石，\\n\r\n透得水冰，潤得羊脂。\\n\r\n 枝晶，霜花，微觀，菌體，\\n\r\n水份滲透，根深莖營。\\n\r\n 流體的，原子的，電離的，撞擊可見的，\\n\r\n再進入，再深入，再融入，\\n\r\n凝視不可分割的介質，\\n\r\n 那是否，\\n\r\n是現實的本質，\\n\r\n 亦或圖元的鋸齒。",
             "english": "Run, jump, wander, on the olive mountain.\\n\nSea breezes through the horn, the giant beast shrieks,\\n\nOn the olive mountain, broken gravels, rotten cloths, wilted calami.\\n\nPurple, black, shiny pebbles, \\n\nTranslucent as ice, greasy as butter.\\n\nCrystals, frosts, microscopic, fungus,\\n\nWater penetrates deep into the stems and roots.\\n\nFluid, atomic, ionised, visible on collision,\\n\nRe-enter, re-deepen, re-merge,\\n\nGaze into the indivisible media,\\n\nIs that,\\n\nThe essence of reality,\\n\nOr pixelated serration.",
             "japanese": "オリーブの山の上で走り、跳び、遊びまわる。\\n\n海風がその角に当たり、巨獣は声を上げる。\\n\n砕石、布切れ、菖蒲がオリーブの山の上に。\\n\n紫色の、黒色の、照り返す礫、\\n\n水に沈み、脂に潤う。\\n\n結晶、霜花、微視、菌体、\\n\n水に滲み、根を生やす。\\n\n流体の、原子の、電離した、ぶつかれば見えるもの、\\n\n再び入り、より深く、いっそう溶けあい、\\n\n離れることのない媒質に目を凝らす。\\n\nそれは、\\n\n現実の本質か、\\n\nあるいは、絵素のエイリアスか。",
             "korean": ""
@@ -5152,7 +6667,7 @@
           "content": {
             "code": "",
             "chinese": "夜晚，牛嚼云丹。\\n\n于海岸，\\n\n背上行囊，\\n\n流浪人，\\n\n在寻找答案。\\n\n飞轴转动，\\n\n故事承前。\\n\n\\n\n入世沉浮风渡，\\n\n淘沙运浪空留。\\n\n月上柳梢，\\n\n子午。\\n",
-            "chineseTraditional": "夜晚，牛嚼雲丹。 \\n\n於海岸，\\n\n背上行囊，\\n\n 流浪人，\\n\n在尋找答案。 \\n\n 飛軸轉動，\\n\n故事承前。 \\n\n \\n\n 入世沉浮風渡，\\n\n淘沙運浪空留。 \\n\n 月上柳梢，\\n\n子午。 \\n",
+            "chineseTraditional": "夜晚，牛嚼雲丹。 \\n\n於海岸，\\n\n 背上行囊，\\n\n 流浪人，\\n\n在尋找答案。 \\n\n 飛軸轉動，\\n\n故事承前。 \\n\n \\n\n 入世沉浮風渡，\\n\n淘沙運浪空留。 \\n\n 月上柳梢，\\n\n子午。 \\n",
             "english": "",
             "japanese": "",
             "korean": ""
@@ -5191,7 +6706,7 @@
           "content": {
             "code": "",
             "chinese": "冰封·53.A.P\\n\r\n\\n\r\n“握住缰绳，熟悉马的呼吸，想象你要去的地方。”\\n\r\n冬日里，她教导着“我”操控梦魇马的办法，“我”闭目畅想，看见了漫天的飘雪，和远处不断浮动的幻影，便张开了眼睛。\\n\r\n“我做不到。”\\n\r\n“你看到了什么？”\\n\r\n“我”再次闭上眼睛，雪停了，落日似雁阵，向北徐行，鳞云流散，他站在空中，云的河流从身侧流过，扑面而来的水汽洗清他浑浊的双眼，并揭开了传说的面纱，那巨塔倒悬在天际，幻想是它的血肉，钢铁是它的骨骼，“我”看向塔，塔的住民也看向他，停止了耕作，生锈的镰刀上，闪过一抹寒光。\\n\r\n“我，什么也没看到。”",
-            "chineseTraditional": "冰封·53.A.P\\n\n \\n\n 「握住韁繩，熟悉馬的呼吸，想像你要去的地方。」\\n\n冬日裡，她教導著「我」控制夢魘馬的辦法，「我」閉目暢想，看見了漫天的飄雪，和遠處不斷浮動的幻影，便張開了眼睛。\\n\n「我做不到。」\\n\n「你看到了什麼？」\\n\n「我」再次閉上眼睛，雪停了，落日似雁陣，向北徐行，鱗雲流散，他站在空中，雲的河流從身側流過，撲面而來的水氣洗清他渾濁的雙眼，並揭開了傳說的面紗，那巨塔倒懸在天際，幻想是它的血肉，鋼鐵是它的骨骼，「我」看向塔，塔的住民也看向他，停止了耕作。生鏽的鐮刀上，閃過一抹寒光。\\n\n「我，什麼也沒看到。」",
+            "chineseTraditional": "冰封·53.A.P\\n\n \\n\n 「握住韁繩，熟悉馬的呼吸，想像你要去的地方。」\\n\n冬日裡，她教導著「我」控制夢魘馬的辦法，「我」閉目暢想，看見了漫天的飄雪，和遠處不斷浮動的幻影，便張開了眼睛。\\n\n「我做不到。」\\n\n 「你看到了什麼？」\\n\n「我」再次閉上眼睛，雪停了，落日似雁陣，向北徐行，鱗雲流散，他站在空中，雲的河流從身側流過，撲面而來的水氣洗清他渾濁的雙眼，並揭開了傳說的面紗，那巨塔倒懸在天際，幻想是它的血肉，鋼鐵是它的骨骼，「我」看向塔，塔的住民也看向他，停止了耕作。生鏽的鐮刀上，閃過一抹寒光。\\n\n「我，什麼也沒看到。」",
             "english": "Glaciaxia-53.A.P\\n\n\\n\n\"Hold the reins, get familiar with the horse's breathing, and imagine where you want to go.\"\\n\nOn a day in winter, she's teaching \"me\" the method to control the ghast horse. \"I\" closed my eyes, imagined the drifting snow, and floating phantom in the distance, then opened my eyes.\\n\n\"I can't do it.\"\\n\n\"What did you see?\"\\n\n\"I\" closed my eyes once more. The snow had stopped. The sun set like a horde of migratory wild geese heading towards north, cirrocumulus clouds scattered around it. He stood in the air, streams of clouds flew by his side. The giant tower hung upside down in the sky. Its flesh was made of whims and bones of steel. \"I\" looked at the tower, and the residents of the tower looked at him, stopped cultivating. A cold light of reflection flashed from the blade of their rusty scythes. \\n\n\"I, saw nothing.\"",
             "japanese": "氷封·53.A.P\\n\n\\n\n「手綱を掴んで、馬の呼吸を聞きながら、行きたい場所を想像するんだ。」\\n\n冬の日、彼女は『私』に魘馬(えんば)の乗り方を教えてくれている。『私』は目を瞑って想像した。しかし降り積もる雪と遠くで漂う幻影ばかりが脳内に浮ぶため、目を開けた。\\n\n「できない。」\\n\n「何が見えた？」\\n\n『私』は再び目を閉じた。雪は止み、夕日は雁のごとく北へ移る。雲が流れていく中、彼は空中に立ち、雲の川がその両側を通り抜けた。顔に降りかかる水気は彼の濁った両目を洗浄し、伝説の中身を明かした。あの巨大な塔は逆さに空に掛っている、幻想はその血肉となり、鋼鉄はその骨格を成す。『私』はあの塔を見た。塔の住民たちも彼を見て、耕作する手が止まった。冷たい光は錆びた鎌を照らしては消えていった。\\n\n「…何も見えなかった。」",
             "korean": ""
@@ -5308,7 +6823,7 @@
           "content": {
             "code": "",
             "chinese": "冰封·60.A.P\\n\n\\n\n天地同色，皓白渺茫，囚人跪于地上，浅唱古调。\\n\n空气剥夺他的体温，低温阻碍他的思考，感光细胞抽搐着发挥作用，眼前黑中泛亮，肆意扭动的人面怪物，正出现在现实中，还是他的梦里。\\n\n“……”\\n\n说些什么吧，说些什么吧！告诉他，冰封世界上，还有人类呼吸，生命的诗篇仍在咏唱，还有他们坚守的家园，人们建塔并非为离开，他们只是，只是……\\n\n“你要死了，如我们般，被人类处死。”\\n\n“没有未来，永远地游荡，在雪原之上，一遍一遍重复，轮回。”\\n\n“像个。”\\n\n“人类一样。”\\n",
-            "chineseTraditional": "冰封·60.A.P\\n\r\n \\n\r\n 天地同色，皓白渺茫，囚人跪於地上，淺唱古調。\\n\r\n空氣剝奪他的體溫，低溫阻礙他的思考，感光細胞抽搐著發揮作用，眼前黑中泛亮，肆意扭動的人面怪物，正出現在現實中，還是他的夢裡。\\n\r\n“……”\\n\r\n說些什麼吧，說些什麼吧！告訴他，冰封世界上，還有人類呼吸，生命的詩篇仍在詠唱，還有他們堅守的家園，人們建塔並非為了離開，他們只是，只是……\\n\r\n「你要死了，如我們般，被人類處死。」\\n\r\n「沒有未來，永遠地遊蕩，在雪原之上，一遍一遍重複，輪回。」\\n\r\n「像個。」",
+            "chineseTraditional": "冰封·60.A.P\\n\r\n \\n\r\n 天地同色，皓白渺茫，囚人跪於地上，淺唱古調。\\n\r\n空氣剝奪他的體溫，低溫阻礙他的思考，感光細胞抽搐著發揮作用，眼前黑中泛亮，肆意扭動的人面怪物，正出現在現實中，還是他的夢裡。\\n\r\n“……”\\n\r\n 說些什麼吧，說些什麼吧！告訴他，冰封世界上，還有人類呼吸，生命的詩篇仍在詠唱，還有他們堅守的家園，人們建塔並非為了離開，他們只是，只是……\\n\r\n「你要死了，如我們般，被人類處死。」\\n\r\n「沒有未來，永遠地遊蕩，在雪原之上，一遍一遍重複，輪回。」\\n\r\n「像個。」",
             "english": "Glaciaxia-60.A.P\\n\r\n\\n\r\nThe sky and earth shared the same colour, white and vague. The prisoners kneeled on the ground, humming the ancient tone.\\n\r\nAir stripped away his body heat, and the hyperthermia deprived his thoughts. The photoreceptor cells twisted and struggled to function. The darkness in his eyes glowed with light. The recklessly writhing monsters with human faces, are appearing into reality, or his dreams.\\n\r\n\"……\"\\n\r\nSay something, say something! Tell him, that in the world of Glaciaxia, there were still men breathing, that the poem of life was still being chanted. And the homeland they stood up to. People built the tower not just to leave, they just, just……\\n\r\n\"You are going to die, just like us, put to death by human.\"\\n\r\n\"There is no future, but wandering forever, on the snowy field, over and over again, reincarnating.\"\\n\r\n\"Just like.\"",
             "japanese": "氷封·60.A.P\\n\r\n\\n\r\n空も土も見渡す限り白く染まっている。囚人は地に跪き、古の歌を口ずさむ。\\n\r\n大気は彼の体温を奪い、低温は彼の思考を妨げる。感光細胞は痙攣しつつも作用を発揮し、真っ暗な視界の中に光が灯される。体をくねらせる人面の怪物、ここは夢か、うつつか。\\n\r\n「……」\\n\r\n口を動かすんだ、声に出して言うんだ！凍り付いた世界にまだ人類がいることを、生命の唄はまだ歌われ続けていることを、彼らが守り続けた故郷がまだ存在することをこいつに教えるんだ。人類が塔を建てたのは離れるためではない。彼らはただ、ただ……\\n\r\n「お前はもうじき死ぬ。我々のように、人類に処刑される。」\\n\r\n「未来も見えずに永遠にさまよい続ける。雪原の上で、何度も繰り返していく、輪廻する。」\\n\r\n「まるで。」",
             "korean": ""
@@ -5386,7 +6901,7 @@
           "content": {
             "code": "",
             "chinese": "港湾·740.A.P\\n\r\n\\n\r\n“我想去冰封层。”\\n\r\n“你决定好了。”\\n\r\n“决定好了。”\\n\r\n“毕竟是志愿行为，我也没法阻止你……你真的决定好了吗？决定好见他们了吗。”\\n\r\n“他们不是真的他们，你我都知道，过去的人类种已经灭亡了。”\\n\r\n“确实，新的冰封巡逻队安全无害，但它们毕竟是异想之物，变数太大。”\\n\r\n“像素塔的变数，只有人类。你是怕我回去，做些多余的事。”\\n\r\n“总队长，我们无法再承受一次牛肚谷战役。”\\n\r\n“不会的，他们已经不在了。”",
-            "chineseTraditional": "港灣·740.A.P\\n\r\n \\n\r\n 「我想去冰封層。」\\n\r\n「你決定好了？」\\n\r\n「決定好了。」\\n\r\n「畢竟是志願行為，我也無法阻止你……你真的確定了嗎？決定好見他們了嗎。」\\n\r\n「他們不是真的他們，你我都知道，過去的人類種族已經滅亡了。」\\n\r\n「確實，新的冰封巡邏隊安全無害，但它們畢竟是異想之物，變數太大。」\\n\r\n「像素塔的變數，只有人類。你是怕我回去，做些多餘的事。」\\n\r\n「組長，我們無法再承受一次牛肚穀戰役。」\\n\r\n「不會的，他們已經不在了。」",
+            "chineseTraditional": "港灣·740.A.P\\n\r\n \\n\r\n 「我想去冰封層。」\\n\r\n「你決定好了？」\\n\r\n 「決定好了。」\\n\r\n「畢竟是志願行為，我也無法阻止你……你真的確定了嗎？決定好見他們了嗎。」\\n\r\n「他們不是真的他們，你我都知道，過去的人類種族已經滅亡了。」\\n\r\n「確實，新的冰封巡邏隊安全無害，但它們畢竟是異想之物，變數太大。」\\n\r\n「像素塔的變數，只有人類。你是怕我回去，做些多餘的事。」\\n\r\n「組長，我們無法再承受一次牛肚穀戰役。」\\n\r\n「不會的，他們已經不在了。」",
             "english": "Harbour-740.A.P\\n\r\n\\n\r\n\"I want to go to the Glaciaxia.'\\n\r\n\"You have made the decision.\"\\n\r\n\"I've made my mind.\"\\n\r\n\"It's a voluntary action, so I can't stop you……are you really sure? Ready to meet them?\"\\n\r\n\"They are not real them, we both know it. The past human species has already gone extinct.\"\\n\r\n\"Indeed. The new Glaciaxia patrol is harmless, but they are still whims. There're just too many uncertainties.\"\\n\r\n\"The only uncertainly to the pixel tower, is human. You are afraid of me going back and do something uncalled for.\"\\n\r\n\"Captain, we cannot afford another battle of Cowbelly valley.\"\\n\r\n\"We won't. They are not there anymore.“",
             "japanese": "ヘブン·740.A.P\\n\n\\n\n「私、氷封層に行きたい。」\\n\n「覚悟できたのか？」\\n\n「できてる。」\\n\n「なにせボランティア活動だから、あんたを止めることもできないけど……本当に決めたの？彼らに会うって？」\\n\n「彼らは本当の彼らじゃない、私たちも知ってるでしょ。過去の人類は滅亡した。」\\n\n「確かに、新しくできた氷封偵察隊はとても安全だ。だが所詮は異想の物だから、未知数が多いよ。」\\n\n「ピクセルタワーにおける未知数は、人類しかない。お前は私があそこに戻って余計なことをするのを恐れているでしょ。」\\n\n「総隊長、我々にもう一回牛ハチノス谷の戦いに耐えられる余裕なんてないんだ。」\\n\n「大丈夫だ。だって彼らはもう、いないんだから。」",
             "korean": ""
@@ -5453,7 +6968,7 @@
           "content": {
             "code": "",
             "chinese": "必然的背叛，无非发生早晚，\\n\n耳边的轻语，忿恨溢出言喻，\\n\n她逃不了了，\\n\n她只能飞向天空，\\n\n飞向无人问津的孤岛，\\n\n萧条冷清的大街，\\n\n把歌声卖给现实，\\n\n将过去关在过去，\\n\n让未来回归山野，\\n\n回归那羚羊粘了雪花的墨眼。",
-            "chineseTraditional": "必然的背叛，無非發生早晚，\\n\n耳邊的輕語，忿恨溢出言喻，\\n\n她逃不了了，\\n\n她只能飛向天空，\\n\n飛向無人問津的孤島，\\n\n蕭條冷清的大街，\\n\n把歌聲賣給現實，\\n\n將過去關在過去，\\n\n讓未來回歸山野，\\n\n回歸那羚羊貼了雪花的墨眼。 ",
+            "chineseTraditional": "必然的背叛，無非發生早晚，\\n\n耳邊的輕語，忿恨溢出言喻，\\n\n她逃不了了，\\n\n 她只能飛向天空，\\n\n飛向無人問津的孤島，\\n\n 蕭條冷清的大街，\\n\n把歌聲賣給現實，\\n\n 將過去關在過去，\\n\n讓未來回歸山野，\\n\n 回歸那羚羊貼了雪花的墨眼。 ",
             "english": "",
             "japanese": "必然的な裏切り、起こるのは時間の問題に過ぎない。\\n\n耳元のささやき、怒りと恨みが言葉と化し溢れ出す。\\n\n彼女はもう逃れない、\\n\n空に向かって飛び立ち、\\n\n誰も知らない孤島へと行くしかない。\\n\n静寂な街道、\\n\n歌声を現実に売りつけ、\\n\n過去を過去に閉じ込み、\\n\n未来を山野に帰らす。\\n\n再び、羚羊の目に雪の花が降りつく。",
             "korean": ""
@@ -6388,7 +7903,7 @@
           "category": "bold",
           "content": {
             "code": "",
-            "chinese": "“莲渡，你很纯粹。”\\n\n“说什么鬼话。”\\n\n“就是，我有点东西想给你，但是我不确定你怎么想。”\\n\n“你刚刚还说我很纯粹。”\\n\n“你确实很纯粹，但我不确定你的水平如何。”\\n\n“你在小瞧我。” \\n\n“我没有，你是了解我的。人在这里可以使用一种很特别的力量，但是如果没有办法掌握它，这种力量就会反过来危害到你。所以我需要确定你心灵的深度，也是为了你的安全着想。” \\n\n“不仅是异想的力量？”\\n\n“取决于你的本质。取决于你如何认识这个世界，如何认识这里，如何做出每一个决定。一般人只会盲目地活着，甚至不明白自己为什么会笑，为什么会发怒。就像你也许没意识到，你绝对不会进行没有准备的战斗。我知道你不是一般人，但我不确定你能否承担这种力量。”",
+            "chinese": "“莲渡，你很纯粹。”\\n\n“说什么鬼话。”\\n\n “就是，我有点东西想给你，但是我不确定你怎么想。”\\n\n“你刚刚还说我很纯粹。”\\n\n“你确实很纯粹，但我不确定你的水平如何。”\\n\n“你在小瞧我。” \\n\n“我没有，你是了解我的。人在这里可以使用一种很特别的力量，但是如果没有办法掌握它，这种力量就会反过来危害到你。所以我需要确定你心灵的深度，也是为了你的安全着想。” \\n\n“不仅是异想的力量？”\\n\n“取决于你的本质。取决于你如何认识这个世界，如何认识这里，如何做出每一个决定。一般人只会盲目地活着，甚至不明白自己为什么会笑，为什么会发怒。就像你也许没意识到，你绝对不会进行没有准备的战斗。我知道你不是一般人，但我不确定你能否承担这种力量。”",
             "chineseTraditional": "「蓮渡，你很單純。」\\n\n「說什麼鬼話。」\\n\n「就是，我有點東西想給你，但是我不確定你怎麼想。」\\n\n「你剛剛還說我很單純。」\\n\n「你確實很單純，但我不確定你的水準如何。」\\n\n「你在小瞧我。」\\n\n「我沒有，你瞭解我。人在這裡可以使用一種很特別的力量，但是如果沒有辦法掌握它，這種力量就會反過來危害到你。所以我需要確定你心靈的深度，也是為了你的安全著想。」 \\n\n「不僅是異想的力量？」\\n\n「取決於你的本質。取決於你如何認識這個世界，如何認識這裡，如何做出每一個決定。一般人只會盲目地活著，甚至不明白自己為什麼會笑，為什麼會發怒。就像你也許沒意識到，你絕對不會進行沒有準備的戰鬥。我知道你不是一般人，但我不確定你能否承擔這種力量。」",
             "english": "",
             "japanese": "「スルダン、君は純粋な人だ。」\\n\n「でたらめを言うな。」\\n\n「その、渡したいものがあるんだけど、君がどう受け入れるかがいまいち予測できなくてさ。」\\n\n「さっき純粋といったはずだが。」\\n\n「君は確かに純粋だ、だがどこまでかはわからないもので。」\\n\n「舐めてる。」\\n\n「いや、私という人を君はよく知ってるだろう。この場所で人間は特殊な力を扱えるんだ。だがうまく抑えることができないと、それはかえって君自身を食らう。だから君の心を確かめたのも君のためだ。」\\n\n「異想の力だけじゃないのか？」\\n\n「君の本質、君がどういう風にこの世界を認識し、どういう風にここを認識し、そしてどういう風に決断を下すかによる。普通の人は何も考えずに生きていることが多い、自分がなぜ笑うのか、なぜ怒るのかさえも知らずに。君が無謀で戦いに挑むことは決してない、君自身がそれを認識していないだけだ。これらは同じことさ。君はただならぬ者であることは知ってるが、この力に耐えれるかどうかがわからないんだ。」",
@@ -6935,7 +8450,7 @@
           "content": {
             "code": "",
             "chinese": "一道彩虹指引着他们前进的道路，直到管道迷宫的尽头，一路走来道路两边鲜花绽放，幽香四溢，旷无天地间，白茫茫空荡荡，却不压抑，心中敞亮。\\n\n“这里也要投币吗？”\\n\n不知去哪儿的鸠，回到队伍之中，她指着远方藤蔓缠绕的售货机，手里拿着一枚游戏币。\\n\n同行的素檀，还没接受Gino不过几下操作便通过游戏的事实，他以前也尝试过同样的路线，却没达成同样的结果。\\n\n“有人在和我作对。”\\n\n“嗯？”鸠回头，不解得问道。\\n\n“我不能再过去了，你们看不出来吗。”素檀展示手腕上的锁链，那物什有形亦无形，束缚着它使命中的猎物。\\n\nGino回答他：“你不想离开这里。”\\n\n“你从哪里得出的结论？”\\n\n“像素塔是个心想事成的世界，在这里你可以成为任何人。你理应能做到一切，但你不愿意这么行动。”\\n\n此时，鸠已走到售货机前，她按下“管道迷宫纪念章”的按钮，很快一包塑料包装的小物件掉了出来。她拆开包装，立刻走到素檀身边把印章盖在了锁链之上，这锁链瞬时应声破碎脱落。\\n\n“走吧，离开这里。”",
-            "chineseTraditional": "一道彩虹指引著他們前進的道路，直到管道迷宮的盡頭，一路走來道路兩邊鮮花綻放，幽香四溢，曠無天地間，白茫茫空蕩蕩，卻不壓抑，心中敞亮。\\n\n「這裡也要投幣嗎？」\\n\n不知去哪兒的鳩，回到隊伍之中，她指著遠方藤蔓纏繞的販賣機，手裡拿著一枚遊戲幣。\\n\n同行的素檀，還沒接受Gino不過幾下操作便通過遊戲的事實，他以前也嘗試過同樣的路線，卻沒達成同樣的結果。\\n\n「有人在和我作對。」\\n\n「嗯？」鳩回頭，不解得問道。\\n\n「我不能再過去了，你們看不出來嗎。」素檀展示手腕上的鎖鏈，那物時有形亦無形，束縛著它使命中的獵物。\\n\nGino回答他：「你不想離開這裡。」\\n\n「你從哪裡得出的結論？」\\n\n「像素塔是個心想事成的世界，在這裡你可以成為任何人。你理應能做到一切，但你不願意這麼行動。」\\n\n此時，鳩已走到販賣機前，她按下「管道迷宮紀念章」的按鈕，很快一包塑膠包裝的小物件掉了出來。她拆開包裝，立刻走到素檀身邊把印章蓋在了鎖鏈之上，這鎖鏈暫態應聲破碎脫落。\\n\\n\n「走吧，離開這裡。」\n",
+            "chineseTraditional": "一道彩虹指引著他們前進的道路，直到管道迷宮的盡頭，一路走來道路兩邊鮮花綻放，幽香四溢，曠無天地間，白茫茫空蕩蕩，卻不壓抑，心中敞亮。\\n\n「這裡也要投幣嗎？」\\n\n 不知去哪兒的鳩，回到隊伍之中，她指著遠方藤蔓纏繞的販賣機，手裡拿著一枚遊戲幣。\\n\n同行的素檀，還沒接受Gino不過幾下操作便通過遊戲的事實，他以前也嘗試過同樣的路線，卻沒達成同樣的結果。\\n\n「有人在和我作對。」\\n\n 「嗯？」鳩回頭，不解得問道。\\n\n「我不能再過去了，你們看不出來嗎。」素檀展示手腕上的鎖鏈，那物時有形亦無形，束縛著它使命中的獵物。\\n\nGino回答他：「你不想離開這裡。」\\n\n「你從哪裡得出的結論？」\\n\n「像素塔是個心想事成的世界，在這裡你可以成為任何人。你理應能做到一切，但你不願意這麼行動。」\\n\n此時，鳩已走到販賣機前，她按下「管道迷宮紀念章」的按鈕，很快一包塑膠包裝的小物件掉了出來。她拆開包裝，立刻走到素檀身邊把印章蓋在了鎖鏈之上，這鎖鏈暫態應聲破碎脫落。\\n\\n\n「走吧，離開這裡。」\n",
             "english": "",
             "japanese": "虹がパイプ迷路の出口まで二人を導いてくれた。道の両側には鮮やかに香り出す花が咲き、周りは何もない白い空間、妙だがここにいると晴れ晴れとした気持ちになれる。\\n\n「ここもコインを入れるの？」\\n\n行き場に迷った鳩はチームに合流した。遠くの蔓に絡まっている販売機を指した手には一枚のゲームコインを持っている。\\n\n同行しているスルダンはまだGinoがいと容易くゲームをクリアしたことを納得できずにいる。彼も前に同じルートを試したことががあったが、同じ結末にはならなかった。\\n\n「何者かが私を邪魔している。」\\n\n「え？」鳩は不思議に声をあげた。\\n\n「もう先に進むことはできない。あなたたちには見えないのか。」スルダンは自分の腕に絡まっている鎖を二人に見せた。あれは実在なものとは思えないほど不安定な形で己の獲物を縛り付けている。\\n\nGinoが口を開いた：「あんたはここを離れたくない。」\\n\n「どうしてそのような結論を？」\\n\n「ピクセルタワーは思考が現実となる場所、ここでは何者にでもなれる。あんたは何もかもできたはず、それを望まなかっただけ。」\\n\n鳩は既に販売機の前まで来ている。「パイプ迷路記念スタンプ」というボタンを押すとプラスチックで包装された小物が出てきた。鳩はそれを開けて、スタンプをスルダンに縛り付けている鎖に押すと、鎖が音を立てて砕け散った。\\n\n「行こう、ここを出よう。」",
             "korean": ""
@@ -8717,7 +10232,7 @@
           "category": "souvenir",
           "content": {
             "code": "",
-            "chinese": "Dlyro：我们成为好友了，快来聊天吧～（1:00）\\n\n鸠：队长好！（1:01）\\n\nDlyro：你好[挥手]是鸠吗？（1:02）\\n\n鸠：是我哦（1:02）\\n\nDlyro：看来没加错，那明天见，晚安（1:03）\\n\n鸠：队长晚安～（1:03）\\n\n———\\n\ngino：咕咕起床没？我先出去了（8:40）\\n\ngino：你要十一点后才看PhigrOS，就直接去书店吧，不用来找我（8:41）\\n\n鸠：啊，我才起（9:56）\\n\n鸠：你在哪儿，我去找你（9:57）\\n\ngino：我还在广场这边（10:00）\\n\ngino：[位置共享]（10:00）\\n\n———\\n\nDlyro：那边有动作，暂时别来了。（10:32）\\n\n鸠：好吧[失落]（10:32）\\n\nDlyro：我早上已经把情报给Gino了，那边确定虹再现的日期了吗（15:00）\\n\n鸠：久住说是月底（15:21）\\n\n鸠：我们真走不了了吗？（15:23）\\n\nDlyro：现在尊师失踪，谁也走不了，你和久住那边保持联系，魔女会议最近行为很诡异（15:25）\n\\n鸠：其实（15:25）\\n\nDlyro：怎么了？（15:25）\\n\n鸠：没啥……（15:26）",
+            "chinese": "Dlyro：我们成为好友了，快来聊天吧～（1:00）\\n\n鸠：队长好！（1:01）\\n\nDlyro：你好[挥手]是鸠吗？（1:02）\\n\n鸠：是我哦（1:02）\\n\nDlyro：看来没加错，那明天见，晚安（1:03）\\n\n鸠：队长晚安～（1:03）\\n\n———\\n\ngino：咕咕起床没？我先出去了（8:40）\\n\ngino：你要十一点后才看PhigrOS，就直接去书店吧，不用来找我（8:41）\\n\n鸠：啊，我才起（9:56）\\n\n鸠：你在哪儿，我去找你（9:57）\\n\ngino：我还在广场这边（10:00）\\n\ngino：[位置共享]（10:00）\\n\n———\\n\nDlyro：那边有动作，暂时别来了。（10:32）\\n\n鸠：好吧[失落]（10:32）\\n\nDlyro：我早上已经把情报给Gino了，那边确定虹再现的日期了吗（15:00）\\n\n鸠：久住说是月底（15:21）\\n\n鸠：我们真走不了了吗？（15:23）\\n\nDlyro：现在尊师失踪，谁也走不了，你和久住那边保持联系，魔女会议最近行为很诡异（15:25）\\n\n鸠：其实（15:25）\\n\nDlyro：怎么了？（15:25）\\n\n鸠：没啥……（15:26）",
             "chineseTraditional": "",
             "english": "",
             "japanese": "",
@@ -9213,10 +10728,10 @@
           "category": "key",
           "content": {
             "code": "",
-            "chinese": "Trending：\\n\n 00:00 Genesis 8:12\\n\n 02:08 Trecheng Breth Féne 29/92/133/244/255\\n\n 04:01 二子乘舟，泛泛其景。愿言思子，中心养养。\\n\n06:31 PPPPPPhigrOS_Project_Stage_Final_VI_ArkDoom_Igallta_deciphered\\n\n08:31 久等了，接下来，请根据我的指示操作。\\n\n\\n\nHINT:\\n\n 请不要击打以下冒牌notes:\\n\nEZ:214\\n\nHD:185/398\\n\n IN:218/495/629\\n\n 敌人对「方舟Six」的侵入停止了，Igallta比我们想象的要弱。\\n\n冒牌note和其他正常note格格不入，所以数note是不必要的，请相信你的直觉。",
+            "chinese": "Trending：\\n\n 00:00 Genesis 8:12\\n\n 02:08 Trecheng Breth Féne 29/92/133/244/255\\n\n 04:01 二子乘舟，泛泛其景。愿言思子，中心养养。\\n\n06:31 PPPPPPhigrOS_Project_Stage_Final_VI_ArkDoom_Igallta_deciphered\\n\n08:31 久等了，接下来，请根据我的指示操作。\\n\n\\n\n HINT:\\n\n 请不要击打以下冒牌notes:\\n\nEZ:214\\n\n HD:185/398\\n\n IN:218/495/629\\n\n 敌人对「方舟Six」的侵入停止了，Igallta比我们想象的要弱。\\n\n冒牌note和其他正常note格格不入，所以数note是不必要的，请相信你的直觉。",
             "chineseTraditional": "Trending：\\n\r\n00:00 Genesis 8:12\\n\r\n02:08 Trecheng Breth Féne 29/92/133/244/255\\n\r\n04:01 二子乘舟，泛泛其景。愿言思子，中心养养。\\n\r\n06:31 PPPPPPhigrOS_Project_Stage_Final_VI_ArkDoom_Igallta_deciphered\\n\r\n08:31 久等了。接下來，請根據我的指示操作。\\n\r\n\\n\r\nHINT：\\n\r\n請不要敲打以下冒牌notes：\\n\r\nEZ：214\\n\r\nHD：185/398\\n\r\nIN：218/495/629\\n\r\n敵人停止侵入「方舟Six」了，Igallta比我們想像的還要弱。\\n\r\n冒牌note和其他正常note格格不入，所以數note是不必要的，請相信你的直覺。",
             "english": "Trending: \\n\r\n00:00 - Genesis 8:12\\n\r\n02:08 - Trecheng Breth Féne 29/92/133/244/255\\n\r\n04:01 - 二子乘舟，泛泛其景。愿言思子，中心养养。\\n\r\n06:31 -  PPPhigrOS_Project_Stage_Final_VI_ArkDoom_Igallta_deciphered\\n\r\n08:31 - Thank you for your waiting. Now, follow my instructions.\\n\r\n\\n\r\n[CLUE]:\\n\r\nAvoid the notes that are out of place. Don't be decieved.\\n\r\nEZ: 214\\n\r\nHD: 185/398\\n\r\nIN: 218/495/629\\n\r\nThe enemies have ceased their invasion towards the Six. Igallta is weaker than we first thought.",
-            "japanese": "Trending：\\n\r\n 00:00 Genesis 8:12\\n\r\n 02:08 Trecheng Breth Féne 29/92/133/244/255\\n\r\n 04:01 二子乘舟，泛泛其景。愿言思子，中心养养。\\n\r\n06:31 PPPPPPhigrOS_Project_Stage_Final_VI_ArkDoom_Igallta_deciphered\\n\r\n08:31 お待たせしました、これからは私の指示に従って操作してください。\\n\r\n\\n\r\nHINT:\\n\r\n 以下のコンボ数に出てくる偽のノーツに触れないでください:\\n\r\nEZ:214\\n\r\nHD:185/398\\n\r\n IN:218/495/629\\n\r\n 敵側から「方舟Six」への侵入は止まりました。Igalltaは私たちが想像したものよりも弱いです。\\n\r\n偽のノーツは他の正常ノーツとは違いがあるので，ノーツの数を数える必要はありません。自分の勘を信じてください。",
+            "japanese": "Trending：\\n\r\n 00:00 Genesis 8:12\\n\r\n 02:08 Trecheng Breth Féne 29/92/133/244/255\\n\r\n 04:01 二子乘舟，泛泛其景。愿言思子，中心养养。\\n\r\n06:31 PPPPPPhigrOS_Project_Stage_Final_VI_ArkDoom_Igallta_deciphered\\n\r\n08:31 お待たせしました、これからは私の指示に従って操作してください。\\n\r\n\\n\r\n HINT:\\n\r\n 以下のコンボ数に出てくる偽のノーツに触れないでください:\\n\r\nEZ:214\\n\r\n HD:185/398\\n\r\n IN:218/495/629\\n\r\n 敵側から「方舟Six」への侵入は止まりました。Igalltaは私たちが想像したものよりも弱いです。\\n\r\n偽のノーツは他の正常ノーツとは違いがあるので，ノーツの数を数える必要はありません。自分の勘を信じてください。",
             "korean": ""
           },
           "properties": {
@@ -13526,7 +15041,7 @@
           "category": "souvenir",
           "content": {
             "code": "",
-            "chinese": "波提切利二代相机的诞生无疑是一场运动相机爱好者的狂欢，该机搭载的地理信息记录功能被用来增强画质，足以将细节和光影调整到专业相机也无法企及的程度。不过今日有用户反映，该相机在滥用这一功能。\\n\n也许你们曾听说过波提切利二代机拍出过的完美月亮照片，可是有用户发现，如果被拍摄的物品是任何圆形的淡黄色光源，该相机也会把这个光源作为月亮看待，并为其添加月亮表面的纹理。\\n\n【图片：波提切利拍摄的月亮】\\n\n【图片：波提切利拍摄的与月亮重合的圆形路灯】\\n\n我们采访了极限运动家坎风-莱斯波斯，她认为这个功能并不会影响到他，因为他多数情况下都会把相机对准自己。\\n",
+            "chinese": "波提切利二代相机的诞生无疑是一场运动相机爱好者的狂欢，该机搭载的地理信息记录功能被用来增强画质，足以将细节和光影调整到专业相机也无法企及的程度。不过今日有用户反映，该相机在滥用这一功能。\\n\n也许你们曾听说过波提切利二代机拍出过的完美月亮照片，可是有用户发现，如果被拍摄的物品是任何圆形的淡黄色光源，该相机也会把这个光源作为月亮看待，并为其添加月亮表面的纹理。\\n\n【图片：波提切利拍摄的月亮】\\n\n【图片：波提切利拍摄的与月亮重合的圆形路灯】\\n\n我们采访了极限运动家坎风-莱斯波斯，他认为这个功能并不会影响到他，因为他多数情况下都会把相机对准自己。\\n",
             "chineseTraditional": "",
             "english": "",
             "japanese": "",
@@ -14942,7 +16457,7 @@
             "chineseTraditional": "",
             "english": "",
             "japanese": "",
-            "korean": ""
+            "korean": "\r"
           }
         }
       ],
@@ -15075,10 +16590,10 @@
           "category": "main",
           "content": {
             "code": "",
-            "chinese": "序\\n\n \\n\n二十一世纪中叶，宇宙探索热潮再启。\\n\n\\n\n人们在社交网络上激烈地讨论。少年吉诺坐在电脑前，屏幕上的新闻标题不停变换。\\n\n\\n\n“超越光速，第四次工业革命已经到来”\\n\n\\n\n“新的可移居星球完美复刻地球，应许之地的发现”\\n\n\\n\n“世界工业大会开幕，本期主题：前往宇宙”\\n\n\\n\n“先遣队成立，他们将开阔五个类地行星”\\n\n\\n\n“工业奇迹！蒸汽引擎横空出世”\\n\n\\n\n新闻上大大的蒸汽标志，逐渐变淡，变成钢印，投射到工厂正在生产的引擎上。\\n\n\\n\n流水线移动，“蒸汽”型引擎被打好标签，套壳装袋，运往各大船厂。\\n\n\\n\n飞船装载上引擎，转瞬间，引擎轰鸣，蒸汽涌动，超越宇宙第三速度，飞向深空。\\n\n\\n\n此时，货仓里，一双机械质的狐狸眼亮起。\\n\n\\n\n宇宙的深处，星河灿烂。一片黑布抖出，它意图遮蔽星河光辉，却只能蒙住人类的眼睛，创造出无边黑暗的假象，而就在这片黑暗中，片名浮出水面：\\n\n\\n\n<b>极星卫</b>\\n\n\\n\n……\n \n\n ",
-            "chineseTraditional": "序\\n\n \\n\n二十一世纪中葉，宇宙探索熱潮再啟。\\n\n\\n\n人們在社交網路上激烈地討論。少年吉諾坐在電腦前，屏幕上的新聞標題不停變換。\\n\n\\n\n“超越光速，第四次工業革命已經到來”\\n\n\\n\n“新的可移居星球完美復刻地球，應許之地的發現”\\n\n\\n\n“世界工業大會開幕，本期主题：前往宇宙”\\n\n\\n\n“先遣隊成立，他们將開闊五個類地行星”\\n\n\\n\n“工業奇蹟！蒸氣引擎横空出世”\\n\n\\n\n新聞上大大的蒸氣標誌，逐漸變淡，變成鋼印，投射到工廠正在生產的引擎上。\\n\n\\n\n流水線移動，“蒸氣”型引擎被打好標籤，套殼装袋，運往各大船廠。\\n\n\\n\n飛船裝載上引擎，轉瞬间，引擎轟鳴，蒸氣湧動，超越宇宙第三速度，飛向深空。\\n\n\\n\n此時，貨艙裡，一雙機械質的狐狸眼亮起。\\n\n\\n\n宇宙的深處，星河燦爛。一片黑布抖出，它意圖遮蔽星河光輝，卻只能蒙住人類的眼睛，創造出無邊黑暗的假象，而就在这片黑暗中，片名浮出水面：\\n\n\\n\n<b>極星衛</b>\\n\n\\n\n……\n \n\n ",
+            "chinese": "序\\n\n \\n\n二十一世纪中叶，宇宙探索热潮再启。\\n\n\\n\n人们在社交网络上激烈地讨论。少年吉诺坐在电脑前，屏幕上的新闻标题不停变换。\\n\n\\n\n“超越光速，第四次工业革命已经到来”\\n\n\\n\n“新的可移居星球完美复刻地球，应许之地的发现”\\n\n\\n\n“世界工业大会开幕，本期主题：前往宇宙”\\n\n\\n\n“先遣队成立，他们将开阔五个类地行星”\\n\n\\n\n“工业奇迹！蒸汽引擎横空出世”\\n\n\\n\n新闻上大大的蒸汽标志，逐渐变淡，变成钢印，投射到工厂正在生产的引擎上。\\n\n\\n\n流水线移动，“蒸汽”型引擎被打好标签，套壳装袋，运往各大船厂。\\n\n\\n\n飞船装载上引擎，转瞬间，引擎轰鸣，蒸汽涌动，超越宇宙第三速度，飞向深空。\\n\n\\n\n此时，货仓里，一双机械质的狐狸眼亮起。\\n\n\\n\n宇宙的深处，星河灿烂。一片黑布抖出，它意图遮蔽星河光辉，却只能蒙住人类的眼睛，创造出无边黑暗的假象，而就在这片黑暗中，片名浮出水面：\\n\n\\n\n<b>极星卫</b>\\n\n \\n\n……\n \n\n ",
+            "chineseTraditional": "序\\n\n \\n\n二十一世纪中葉，宇宙探索熱潮再啟。\\n\n\\n\n人們在社交網路上激烈地討論。少年吉諾坐在電腦前，屏幕上的新聞標題不停變換。\\n\n\\n\n“超越光速，第四次工業革命已經到來”\\n\n\\n\n“新的可移居星球完美復刻地球，應許之地的發現”\\n\n\\n\n“世界工業大會開幕，本期主题：前往宇宙”\\n\n\\n\n“先遣隊成立，他们將開闊五個類地行星”\\n\n\\n\n“工業奇蹟！蒸氣引擎横空出世”\\n\n\\n\n新聞上大大的蒸氣標誌，逐漸變淡，變成鋼印，投射到工廠正在生產的引擎上。\\n\n\\n\n流水線移動，“蒸氣”型引擎被打好標籤，套殼装袋，運往各大船廠。\\n\n\\n\n飛船裝載上引擎，轉瞬间，引擎轟鳴，蒸氣湧動，超越宇宙第三速度，飛向深空。\\n\n\\n\n此時，貨艙裡，一雙機械質的狐狸眼亮起。\\n\n\\n\n宇宙的深處，星河燦爛。一片黑布抖出，它意圖遮蔽星河光輝，卻只能蒙住人類的眼睛，創造出無邊黑暗的假象，而就在这片黑暗中，片名浮出水面：\\n\n\\n\n<b>極星衛</b>\\n\n \\n\n……\n \n\n ",
             "english": "",
-            "japanese": "序\\n\n \\n\n二十一世紀半ば、宇宙探索という欲望が再び人々の中で燃え上がった。\\n\n\\n\n熱狂する人々はネット上で熱弁を繰り返している。少年ジノはパソコンの前に座り、モニター上で移り変わるニュースのタイトルを見つめていた。\\n\n\\n\n「光速突破に成功、第四次産業革命の到来か」\\n\n\\n\n「地球と瓜二つの惑星、人類の新たな居住地を発見」\\n\n\\n\n「世界産業大会開幕、テーマ『宇宙へ』」\\n\n\\n\n「先遣隊結成、5つの地球型惑星を開拓予定」\\n\n\\n\n「産業の奇跡！画期的な発明——蒸気エンジン」\\n\n\\n\nニュースで大きく出されたスチームのロゴはだんだん浅く、やがて刻印となり、工場で製造途中のエンジンに映写される。\\n\n\\n\nラインの処理を経て、「スチーム」型エンジンはタグをつけられ包装されて、各造船所へと輸送される。\\n\n\\n\n飛行船はエンジンを搭載して起動し、轟きと蒸気を発しながら第三宇宙速度を超え、深宇宙へと飛び立つ。\\n\n\\n\nその貨物庫で、一対の金属質のキツネの目がきらりと光り出す。\\n\n\\n\n宇宙の奥底で銀河が煌めいている。黒い布が放り出され、銀河の煌めきを遮ろうとするも人々の目を遮ることしかできず、偽りの暗闇を作り出した。その暗闇の中で、タイトルが浮かび上がる：\\n\n\\n\n<b>バサレウス</b>\\n\n\\n\n……\n \n\n ",
+            "japanese": "序\\n\n \\n\n二十一世紀半ば、宇宙探索という欲望が再び人々の中で燃え上がった。\\n\n\\n\n熱狂する人々はネット上で熱弁を繰り返している。少年ジノはパソコンの前に座り、モニター上で移り変わるニュースのタイトルを見つめていた。\\n\n\\n\n「光速突破に成功、第四次産業革命の到来か」\\n\n\\n\n「地球と瓜二つの惑星、人類の新たな居住地を発見」\\n\n\\n\n「世界産業大会開幕、テーマ『宇宙へ』」\\n\n\\n\n「先遣隊結成、5つの地球型惑星を開拓予定」\\n\n\\n\n「産業の奇跡！画期的な発明——蒸気エンジン」\\n\n\\n\nニュースで大きく出されたスチームのロゴはだんだん浅く、やがて刻印となり、工場で製造途中のエンジンに映写される。\\n\n\\n\nラインの処理を経て、「スチーム」型エンジンはタグをつけられ包装されて、各造船所へと輸送される。\\n\n\\n\n飛行船はエンジンを搭載して起動し、轟きと蒸気を発しながら第三宇宙速度を超え、深宇宙へと飛び立つ。\\n\n\\n\nその貨物庫で、一対の金属質のキツネの目がきらりと光り出す。\\n\n\\n\n宇宙の奥底で銀河が煌めいている。黒い布が放り出され、銀河の煌めきを遮ろうとするも人々の目を遮ることしかできず、偽りの暗闇を作り出した。その暗闇の中で、タイトルが浮かび上がる：\\n\n\\n\n<b>バサレウス</b>\\n\n \\n\n……\n \n\n ",
             "korean": ""
           },
           "properties": {
@@ -15387,10 +16902,10 @@
           "category": "main",
           "content": {
             "code": "",
-            "chinese": "20 九仙街小巷 日 外\\n\n\\n\n吉诺：你的心脏是蒸汽引擎？\\n\n\\n\n鸠：嗯。\\n\n\\n\n吉诺：真是不可思议。\\n\n\\n\n小巷外传来整齐的脚步声，约莫有一队全副武装的士兵正在接近。鸠拉过吉诺，做最后的嘱咐。\\n\n\\n\n鸠：不是说这个的时候，朝那边走，走到尽头，会有人接应你。\\n\n\\n\n\\n\n\\n\n\\n\n \\n\n\\n\n21 载具试验场 日 外 回忆\\n\n\\n\n白裙的女孩，站在升降梯上，向镜头外问好。\\n\n\\n\n鸠：你好啊，巴萨雷乌斯，我叫鸠。\\n\n\\n\n\\n\n\\n\n22 九仙街小巷 日 外\\n\n\\n\n女子说完转身准备离开，吉诺不自觉地叫住了她。\\n\n\\n\n吉诺：鸠!\\n\n\\n\n吉诺：过会儿见。\\n\n\\n\n鸠回头笑了笑，激活右臂装置，朝敌人的方向走去。\\n\n\\n\n\\n\n\\n\n23 九仙街步道的废墟 日 外\\n\n\\n\n医疗兵正为尼格拉包扎伤口，副官清扫战场回来。\\n\n\\n\n副官：长官，没找到。\\n\n\\n\n尼格拉：他家呢。\\n\n\\n\n副官：没有人，您说是不是……\\n\n\\n\n尼格拉：他绝不可能背叛。\\n\n\\n\n副官不敢说话了。她再怎么怀疑，也不如长官一句信任。\\n\n\\n\n尼格拉：鸠还有同谋，一定是他们趁刚才的混乱绑走了尤埃。派士兵去搜，人还没走远。\\n\n\\n\n尼格拉其实也不确定自己的判断，他撑着膝盖的左手，不停敲击着咚咚咚的节奏，思考了良久。",
+            "chinese": "20 九仙街小巷 日 外\\n\n\\n\n吉诺：你的心脏是蒸汽引擎？\\n\n\\n\n鸠：嗯。\\n\n\\n\n吉诺：真是不可思议。\\n\n\\n\n小巷外传来整齐的脚步声，约莫有一队全副武装的士兵正在接近。鸠拉过吉诺，做最后的嘱咐。\\n\n\\n\n鸠：不是说这个的时候，朝那边走，走到尽头，会有人接应你。\\n\n\\n\n\\n\n \\n\n\\n\n \\n\n\\n\n21 载具试验场 日 外 回忆\\n\n\\n\n白裙的女孩，站在升降梯上，向镜头外问好。\\n\n\\n\n鸠：你好啊，巴萨雷乌斯，我叫鸠。\\n\n\\n\n\\n\n\\n\n22 九仙街小巷 日 外\\n\n\\n\n女子说完转身准备离开，吉诺不自觉地叫住了她。\\n\n\\n\n吉诺：鸠!\\n\n\\n\n吉诺：过会儿见。\\n\n\\n\n鸠回头笑了笑，激活右臂装置，朝敌人的方向走去。\\n\n\\n\n\\n\n\\n\n23 九仙街步道的废墟 日 外\\n\n\\n\n医疗兵正为尼格拉包扎伤口，副官清扫战场回来。\\n\n\\n\n副官：长官，没找到。\\n\n\\n\n尼格拉：他家呢。\\n\n\\n\n副官：没有人，您说是不是……\\n\n\\n\n尼格拉：他绝不可能背叛。\\n\n\\n\n副官不敢说话了。她再怎么怀疑，也不如长官一句信任。\\n\n\\n\n尼格拉：鸠还有同谋，一定是他们趁刚才的混乱绑走了尤埃。派士兵去搜，人还没走远。\\n\n\\n\n尼格拉其实也不确定自己的判断，他撑着膝盖的左手，不停敲击着咚咚咚的节奏，思考了良久。",
             "chineseTraditional": "",
             "english": "",
-            "japanese": "20 九仙通り路地 昼 外\\n\n\\n\nジノ：お前の心臓は、蒸気エンジンなのか？\\n\n\\n\n鳩：うん。\\n\n\\n\nジノ：...全く不思議だ。\\n\n\\n\n揃った足音が聞こえた、おそらく一部隊の兵士がここに近づいている。鳩はジノを引き寄せて最後の言葉を伝える。\\n\n\\n\n鳩：今はこれを話している場合じゃない。あの方向を、突き当りまで行って。迎えてくれる人がそこにいる。\\n\n\\n\n\\n\n\\n\n\\n\n \\n\n\\n\n21 テストコース 昼 外 追憶\\n\n\\n\n白いワンピースの女の子が昇降台の上に立って、カメラの向こう側に挨拶をしている。\\n\n\\n\n鳩：こんにちは、バサレウス。私の名前は鳩。\\n\n\\n\n\\n\n\\n\n22 九仙通り路地 昼 外\\n\n\\n\n言葉だけを残して離れていく娘を見て、ジノは思わず呼び止めた。\\n\n\\n\nジノ：鳩！\\n\n\\n\nジノ：また後で。\\n\n\\n\n鳩は振り返って微笑んだ。そして右腕の装置を起動して、敵が来る方向へと向う。\\n\n\\n\n\\n\n\\n\n23 九仙通り歩道廃墟 昼 外\\n\n\\n\n衛生兵に傷の手当てをしてもらっている二コラのところに、あたりを駆け回った副官が戻ってきた。\\n\n\\n\n副官：見つけられませんでした。\\n\n\\n\n二コラ：彼の家は探ったのか。\\n\n\\n\n副官：誰もいませんでした。まさか……\\n\n\\n\n二コラ：彼が裏切ることはない。\\n\n\\n\n副官はこれ以上喋ることがなかった。いくら疑っても、上官の信頼には叶わないことだ。\\n\n\\n\n二コラ：鳩には協力者がいる、その人たちがどさくさに紛れてユーエをさらったんだ。兵を出せ、まだそう遠くには行っていないはずだ。\\n\n\\n\n二コラにも自分の判断は正しいかどうかがわからない。ただただ焦る気持ちを抑えて、考え込むしかなかった。",
+            "japanese": "20 九仙通り路地 昼 外\\n\n\\n\nジノ：お前の心臓は、蒸気エンジンなのか？\\n\n\\n\n鳩：うん。\\n\n\\n\nジノ：...全く不思議だ。\\n\n\\n\n揃った足音が聞こえた、おそらく一部隊の兵士がここに近づいている。鳩はジノを引き寄せて最後の言葉を伝える。\\n\n\\n\n鳩：今はこれを話している場合じゃない。あの方向を、突き当りまで行って。迎えてくれる人がそこにいる。\\n\n\\n\n\\n\n \\n\n\\n\n \\n\n\\n\n21 テストコース 昼 外 追憶\\n\n\\n\n白いワンピースの女の子が昇降台の上に立って、カメラの向こう側に挨拶をしている。\\n\n\\n\n鳩：こんにちは、バサレウス。私の名前は鳩。\\n\n\\n\n\\n\n\\n\n22 九仙通り路地 昼 外\\n\n\\n\n言葉だけを残して離れていく娘を見て、ジノは思わず呼び止めた。\\n\n\\n\nジノ：鳩！\\n\n\\n\nジノ：また後で。\\n\n\\n\n鳩は振り返って微笑んだ。そして右腕の装置を起動して、敵が来る方向へと向う。\\n\n\\n\n\\n\n\\n\n23 九仙通り歩道廃墟 昼 外\\n\n\\n\n衛生兵に傷の手当てをしてもらっている二コラのところに、あたりを駆け回った副官が戻ってきた。\\n\n\\n\n副官：見つけられませんでした。\\n\n\\n\n二コラ：彼の家は探ったのか。\\n\n\\n\n副官：誰もいませんでした。まさか……\\n\n\\n\n二コラ：彼が裏切ることはない。\\n\n\\n\n副官はこれ以上喋ることがなかった。いくら疑っても、上官の信頼には叶わないことだ。\\n\n\\n\n二コラ：鳩には協力者がいる、その人たちがどさくさに紛れてユーエをさらったんだ。兵を出せ、まだそう遠くには行っていないはずだ。\\n\n\\n\n二コラにも自分の判断は正しいかどうかがわからない。ただただ焦る気持ちを抑えて、考え込むしかなかった。",
             "korean": ""
           },
           "properties": {

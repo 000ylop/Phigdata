@@ -6,7 +6,7 @@
   "m_Enabled": 1,
   "m_Script": {
     "m_FileID": 1,
-    "m_PathID": 864
+    "m_PathID": 866
   },
   "m_Name": "",
   "collectionItems": [
@@ -6429,7 +6429,7 @@
       "subIndex": 2,
       "multiLanguageTitle": {
         "code": "",
-        "chinese": "PhigrOS记录：路星67大胜利（￣︶￣）↗·线索",
+        "chinese": "PhigrOS记录：路星67大胜利（￣︶￣）↗·线索一",
         "chineseTraditional": "",
         "english": "",
         "japanese": "",
@@ -6663,7 +6663,7 @@
       "subIndex": 2,
       "multiLanguageTitle": {
         "code": "",
-        "chinese": "674:律动星盗乐行事件 亚空间副本·线索一",
+        "chinese": "673:律动星盗乐行事件 亚空间副本·线索一",
         "chineseTraditional": "",
         "english": "",
         "japanese": "",
@@ -6681,7 +6681,7 @@
       "subIndex": 3,
       "multiLanguageTitle": {
         "code": "",
-        "chinese": "675:律动星盗乐行事件 亚空间副本·线索二",
+        "chinese": "673:律动星盗乐行事件 亚空间副本·线索二",
         "chineseTraditional": "",
         "english": "",
         "japanese": "",
@@ -6699,7 +6699,7 @@
       "subIndex": 1,
       "multiLanguageTitle": {
         "code": "",
-        "chinese": "报道：《 相机里的真假月亮》",
+        "chinese": "报道：《相机里的真假月亮》",
         "chineseTraditional": "",
         "english": "",
         "japanese": "",
@@ -7348,6 +7348,78 @@
       "multiLanguageTitle": {
         "code": "",
         "chinese": "波提切利原型机·线索三",
+        "chineseTraditional": "",
+        "english": "",
+        "japanese": "",
+        "korean": ""
+      }
+    },
+    {
+      "getSong": -10120,
+      "getType": -1,
+      "getPower": 100,
+      "getInfo1": "",
+      "getInfo2": "",
+      "getInfo3": "",
+      "key": "paradigm1",
+      "subIndex": 1,
+      "multiLanguageTitle": {
+        "code": "",
+        "chinese": "观察记录：雪",
+        "chineseTraditional": "",
+        "english": "",
+        "japanese": "",
+        "korean": ""
+      }
+    },
+    {
+      "getSong": -10157,
+      "getType": -1,
+      "getPower": 100,
+      "getInfo1": "",
+      "getInfo2": "",
+      "getInfo3": "",
+      "key": "paradigm2",
+      "subIndex": 1,
+      "multiLanguageTitle": {
+        "code": "",
+        "chinese": "观察记录：像",
+        "chineseTraditional": "",
+        "english": "",
+        "japanese": "",
+        "korean": ""
+      }
+    },
+    {
+      "getSong": -10158,
+      "getType": -1,
+      "getPower": 100,
+      "getInfo1": "",
+      "getInfo2": "",
+      "getInfo3": "",
+      "key": "paradigm3",
+      "subIndex": 1,
+      "multiLanguageTitle": {
+        "code": "",
+        "chinese": "观察记录：友",
+        "chineseTraditional": "",
+        "english": "",
+        "japanese": "",
+        "korean": ""
+      }
+    },
+    {
+      "getSong": -10159,
+      "getType": -1,
+      "getPower": 100,
+      "getInfo1": "",
+      "getInfo2": "",
+      "getInfo3": "",
+      "key": "paradigm4",
+      "subIndex": 1,
+      "multiLanguageTitle": {
+        "code": "",
+        "chinese": "观察记录：痕",
         "chineseTraditional": "",
         "english": "",
         "japanese": "",
@@ -8265,6 +8337,56 @@
       "getInfo3": "999999",
       "name": "青芽-Special",
       "addressableKey": "avatar.青芽特典"
+    },
+    {
+      "getSong": -10157,
+      "getType": -1,
+      "getPower": 30,
+      "getInfo1": "",
+      "getInfo2": "",
+      "getInfo3": "",
+      "name": "Xenolith",
+      "addressableKey": "avatar.Xenolith头像"
+    },
+    {
+      "getSong": -10158,
+      "getType": -1,
+      "getPower": 30,
+      "getInfo1": "",
+      "getInfo2": "",
+      "getInfo3": "",
+      "name": "Artificial Existence",
+      "addressableKey": "avatar.Artificial Existence头像"
+    },
+    {
+      "getSong": -10159,
+      "getType": -1,
+      "getPower": 10,
+      "getInfo1": "",
+      "getInfo2": "",
+      "getInfo3": "",
+      "name": "Para",
+      "addressableKey": "avatar.Para头像"
+    },
+    {
+      "getSong": -10159,
+      "getType": -1,
+      "getPower": 10,
+      "getInfo1": "",
+      "getInfo2": "",
+      "getInfo3": "",
+      "name": "Indelible Scar",
+      "addressableKey": "avatar.Indelible Scar头像"
+    },
+    {
+      "getSong": -10159,
+      "getType": -1,
+      "getPower": 10,
+      "getInfo1": "",
+      "getInfo2": "",
+      "getInfo3": "",
+      "name": "Alkaid",
+      "addressableKey": "avatar.Alkaid头像"
     }
   ]
 }
