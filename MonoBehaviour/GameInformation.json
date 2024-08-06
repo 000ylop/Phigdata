@@ -1,12 +1,12 @@
 {
   "m_GameObject": {
     "m_FileID": 0,
-    "m_PathID": 11
+    "m_PathID": 9
   },
   "m_Enabled": 1,
   "m_Script": {
     "m_FileID": 1,
-    "m_PathID": 1418
+    "m_PathID": 1410
   },
   "m_Name": "",
   "isGameServiceAvailable": true,
@@ -43,18 +43,18 @@
   },
   "sceneSwitchMask": {
     "m_FileID": 0,
-    "m_PathID": 59
+    "m_PathID": 53
   },
   "noteCodes": [],
   "nowChallengeIndex": 0,
   "challengeSongItems": [],
   "moneyControl": {
     "m_FileID": 0,
-    "m_PathID": 53
+    "m_PathID": 47
   },
   "getCollectionControl": {
     "m_FileID": 0,
-    "m_PathID": 54
+    "m_PathID": 48
   },
   "hitFxIsOn": true,
   "offset": 0.0,
@@ -73,6 +73,51 @@
         "subTitle": "",
         "banner": "Single",
         "songs": [
+          {
+            "songsId": "BoundedQuietude.FiniteLimitvsSiLiS.0",
+            "unlockType": 1,
+            "unlockInfo": [
+              "4",
+              "prev@07/12/2024 17:00:00 +8:00"
+            ],
+            "secretType": 0,
+            "secretInfo": []
+          },
+          {
+            "songsId": "今天不是明天.PIKASONICfeat兰音Reine.0",
+            "unlockType": 1,
+            "unlockInfo": [],
+            "secretType": 0,
+            "secretInfo": []
+          },
+          {
+            "songsId": "Bloom.targ麻团qwq.0",
+            "unlockType": 1,
+            "unlockInfo": [],
+            "secretType": 0,
+            "secretInfo": []
+          },
+          {
+            "songsId": "ShineAfter.ADeanJocularACE.0",
+            "unlockType": 1,
+            "unlockInfo": [],
+            "secretType": 0,
+            "secretInfo": []
+          },
+          {
+            "songsId": "PRAGMATISMRESURRECTION.Laur.0",
+            "unlockType": 1,
+            "unlockInfo": [],
+            "secretType": 0,
+            "secretInfo": []
+          },
+          {
+            "songsId": "Antithese.Blacklolita.0",
+            "unlockType": 1,
+            "unlockInfo": [],
+            "secretType": 0,
+            "secretInfo": []
+          },
           {
             "songsId": "BRAINHACKER.SOMON.0",
             "unlockType": 1,
@@ -1360,6 +1405,84 @@
       }
     },
     {
+      "chapterCode": "TAKUMI3",
+      "songInfo": {
+        "title": "\\ChapterTAKUMI3Title",
+        "subTitle": "\\ChapterExtraSubTitle",
+        "banner": "TAKUMI³",
+        "songs": [
+          {
+            "songsId": "Cuvism.Fl00tvsHalv.0",
+            "unlockType": 0,
+            "unlockInfo": [],
+            "secretType": 0,
+            "secretInfo": []
+          },
+          {
+            "songsId": "iLArtifact.Link0.0",
+            "unlockType": 0,
+            "unlockInfo": [],
+            "secretType": 0,
+            "secretInfo": []
+          },
+          {
+            "songsId": "atruthseekerCommunicationwithUtopiawillbelost.kuro.0",
+            "unlockType": 0,
+            "unlockInfo": [],
+            "secretType": 0,
+            "secretInfo": []
+          }
+        ]
+      },
+      "unlockInfo": {
+        "unlockMode": 0,
+        "unlockFlag": "",
+        "unlockTip": "prev@07/26/2024 17:00:00 +8:00",
+        "fakeCoverFlag": "",
+        "fakeCoverCode": "",
+        "fakeCoverBlurCode": ""
+      }
+    },
+    {
+      "chapterCode": "SHINOBISLASH",
+      "songInfo": {
+        "title": "\\ChapterSHINOBISLASHTitle",
+        "subTitle": "\\ChapterExtraSubTitle",
+        "banner": "SHINOBI SLASH",
+        "songs": [
+          {
+            "songsId": "幽世桔梗.Capchiifeatまるもこ.0",
+            "unlockType": 0,
+            "unlockInfo": [],
+            "secretType": 0,
+            "secretInfo": []
+          },
+          {
+            "songsId": "千紫万紅.r0yvsWABI.0",
+            "unlockType": 0,
+            "unlockInfo": [],
+            "secretType": 0,
+            "secretInfo": []
+          },
+          {
+            "songsId": "明鏡烈火.MUEvsRekuMochizuki.0",
+            "unlockType": 0,
+            "unlockInfo": [],
+            "secretType": 0,
+            "secretInfo": []
+          }
+        ]
+      },
+      "unlockInfo": {
+        "unlockMode": 0,
+        "unlockFlag": "",
+        "unlockTip": "",
+        "fakeCoverFlag": "",
+        "fakeCoverCode": "",
+        "fakeCoverBlurCode": ""
+      }
+    },
+    {
       "chapterCode": "ParadigmReboot",
       "songInfo": {
         "title": "\\ChapterParadigmRebootTitle",
@@ -1369,36 +1492,28 @@
           {
             "songsId": "零號車輛.seatrus.0",
             "unlockType": 0,
-            "unlockInfo": [
-              "prev@04/05/2024 17:00:00 +8:00"
-            ],
+            "unlockInfo": [],
             "secretType": 0,
             "secretInfo": []
           },
           {
             "songsId": "Xenolith.Tatsh.0",
             "unlockType": 0,
-            "unlockInfo": [
-              "prev@04/05/2024 17:00:00 +8:00"
-            ],
+            "unlockInfo": [],
             "secretType": 0,
             "secretInfo": []
           },
           {
             "songsId": "ArtificialExistence.JunKuroda.0",
             "unlockType": 0,
-            "unlockInfo": [
-              "prev@04/05/2024 17:00:00 +8:00"
-            ],
+            "unlockInfo": [],
             "secretType": 0,
             "secretInfo": []
           },
           {
             "songsId": "IndelibleScar.Noah.0",
             "unlockType": 0,
-            "unlockInfo": [
-              "prev@04/05/2024 17:00:00 +8:00"
-            ],
+            "unlockInfo": [],
             "secretType": 0,
             "secretInfo": []
           }
@@ -1407,7 +1522,7 @@
       "unlockInfo": {
         "unlockMode": 0,
         "unlockFlag": "",
-        "unlockTip": "prev@04/05/2024 17:00:00 +8:00",
+        "unlockTip": "",
         "fakeCoverFlag": "",
         "fakeCoverCode": "",
         "fakeCoverBlurCode": ""
@@ -1420,13 +1535,6 @@
         "subTitle": "\\ChapterExtraSubTitle",
         "banner": "CHUNITHM",
         "songs": [
-          {
-            "songsId": "テリトリーバトル.ツユ.0",
-            "unlockType": 0,
-            "unlockInfo": [],
-            "secretType": 0,
-            "secretInfo": []
-          },
           {
             "songsId": "TECHNOPOLIS2085.PRASTIKDANCEFLOOR.0",
             "unlockType": 0,
@@ -1524,45 +1632,35 @@
           {
             "songsId": "SATELLITE.かめりあ.0",
             "unlockType": 0,
-            "unlockInfo": [
-              "prev@8/31/2023 17:00:00 +8:00"
-            ],
+            "unlockInfo": [],
             "secretType": 0,
             "secretInfo": []
           },
           {
             "songsId": "DancewithSilence.かめりあ.0",
             "unlockType": 0,
-            "unlockInfo": [
-              "prev@8/31/2023 17:00:00 +8:00"
-            ],
+            "unlockInfo": [],
             "secretType": 0,
             "secretInfo": []
           },
           {
             "songsId": "LabyrinthinKowloonWalledWorld.かめりあ.0",
             "unlockType": 0,
-            "unlockInfo": [
-              "prev@8/31/2023 17:00:00 +8:00"
-            ],
+            "unlockInfo": [],
             "secretType": 0,
             "secretInfo": []
           },
           {
             "songsId": "ComputeItWithSomeDevilishAlcoholicSteampunkEngines.かめりあ.0",
             "unlockType": 0,
-            "unlockInfo": [
-              "prev@8/31/2023 17:00:00 +8:00"
-            ],
+            "unlockInfo": [],
             "secretType": 0,
             "secretInfo": []
           },
           {
             "songsId": "ERABYECONNEC10N.かめりあ.0",
             "unlockType": 0,
-            "unlockInfo": [
-              "prev@8/31/2023 17:00:00 +8:00"
-            ],
+            "unlockInfo": [],
             "secretType": 0,
             "secretInfo": []
           }
@@ -2110,6 +2208,7 @@
             "unlockInfo": []
           }
         ],
+        "isCnLimited": false,
         "levelMods": [
           {
             "levelMods": []
@@ -2173,6 +2272,7 @@
             "unlockInfo": []
           }
         ],
+        "isCnLimited": false,
         "levelMods": [
           {
             "levelMods": []
@@ -2236,6 +2336,7 @@
             "unlockInfo": []
           }
         ],
+        "isCnLimited": false,
         "levelMods": [
           {
             "levelMods": []
@@ -2299,6 +2400,7 @@
             "unlockInfo": []
           }
         ],
+        "isCnLimited": false,
         "levelMods": [
           {
             "levelMods": []
@@ -2362,6 +2464,7 @@
             "unlockInfo": []
           }
         ],
+        "isCnLimited": false,
         "levelMods": [
           {
             "levelMods": []
@@ -2425,6 +2528,7 @@
             "unlockInfo": []
           }
         ],
+        "isCnLimited": false,
         "levelMods": [
           {
             "levelMods": []
@@ -2488,6 +2592,7 @@
             "unlockInfo": []
           }
         ],
+        "isCnLimited": false,
         "levelMods": [
           {
             "levelMods": []
@@ -2551,6 +2656,7 @@
             "unlockInfo": []
           }
         ],
+        "isCnLimited": false,
         "levelMods": [
           {
             "levelMods": []
@@ -2614,6 +2720,7 @@
             "unlockInfo": []
           }
         ],
+        "isCnLimited": false,
         "levelMods": [
           {
             "levelMods": []
@@ -2677,6 +2784,7 @@
             "unlockInfo": []
           }
         ],
+        "isCnLimited": false,
         "levelMods": [
           {
             "levelMods": []
@@ -2740,6 +2848,7 @@
             "unlockInfo": []
           }
         ],
+        "isCnLimited": false,
         "levelMods": [
           {
             "levelMods": []
@@ -2803,6 +2912,7 @@
             "unlockInfo": []
           }
         ],
+        "isCnLimited": false,
         "levelMods": [
           {
             "levelMods": []
@@ -2866,6 +2976,7 @@
             "unlockInfo": []
           }
         ],
+        "isCnLimited": false,
         "levelMods": [
           {
             "levelMods": []
@@ -2929,6 +3040,7 @@
             "unlockInfo": []
           }
         ],
+        "isCnLimited": false,
         "levelMods": [
           {
             "levelMods": []
@@ -2992,6 +3104,7 @@
             "unlockInfo": []
           }
         ],
+        "isCnLimited": false,
         "levelMods": [
           {
             "levelMods": []
@@ -3055,6 +3168,7 @@
             "unlockInfo": []
           }
         ],
+        "isCnLimited": false,
         "levelMods": [
           {
             "levelMods": []
@@ -3118,6 +3232,7 @@
             "unlockInfo": []
           }
         ],
+        "isCnLimited": false,
         "levelMods": [
           {
             "levelMods": []
@@ -3181,6 +3296,7 @@
             "unlockInfo": []
           }
         ],
+        "isCnLimited": false,
         "levelMods": [
           {
             "levelMods": []
@@ -3244,6 +3360,7 @@
             "unlockInfo": []
           }
         ],
+        "isCnLimited": false,
         "levelMods": [
           {
             "levelMods": []
@@ -3310,6 +3427,7 @@
             "unlockInfo": []
           }
         ],
+        "isCnLimited": false,
         "levelMods": [
           {
             "levelMods": []
@@ -3373,6 +3491,7 @@
             "unlockInfo": []
           }
         ],
+        "isCnLimited": false,
         "levelMods": [
           {
             "levelMods": []
@@ -3436,6 +3555,7 @@
             "unlockInfo": []
           }
         ],
+        "isCnLimited": false,
         "levelMods": [
           {
             "levelMods": []
@@ -3499,6 +3619,7 @@
             "unlockInfo": []
           }
         ],
+        "isCnLimited": false,
         "levelMods": [
           {
             "levelMods": []
@@ -3562,6 +3683,7 @@
             "unlockInfo": []
           }
         ],
+        "isCnLimited": false,
         "levelMods": [
           {
             "levelMods": []
@@ -3625,6 +3747,7 @@
             "unlockInfo": []
           }
         ],
+        "isCnLimited": false,
         "levelMods": [
           {
             "levelMods": []
@@ -3694,6 +3817,7 @@
             "unlockInfo": []
           }
         ],
+        "isCnLimited": false,
         "levelMods": [
           {
             "levelMods": []
@@ -3757,6 +3881,7 @@
             "unlockInfo": []
           }
         ],
+        "isCnLimited": false,
         "levelMods": [
           {
             "levelMods": []
@@ -3820,6 +3945,7 @@
             "unlockInfo": []
           }
         ],
+        "isCnLimited": false,
         "levelMods": [
           {
             "levelMods": []
@@ -3883,6 +4009,7 @@
             "unlockInfo": []
           }
         ],
+        "isCnLimited": false,
         "levelMods": [
           {
             "levelMods": []
@@ -3946,6 +4073,7 @@
             "unlockInfo": []
           }
         ],
+        "isCnLimited": false,
         "levelMods": [
           {
             "levelMods": []
@@ -4009,6 +4137,7 @@
             "unlockInfo": []
           }
         ],
+        "isCnLimited": false,
         "levelMods": [
           {
             "levelMods": []
@@ -4072,6 +4201,7 @@
             "unlockInfo": []
           }
         ],
+        "isCnLimited": false,
         "levelMods": [
           {
             "levelMods": []
@@ -4141,6 +4271,7 @@
             "unlockInfo": []
           }
         ],
+        "isCnLimited": false,
         "levelMods": [
           {
             "levelMods": []
@@ -4204,6 +4335,7 @@
             "unlockInfo": []
           }
         ],
+        "isCnLimited": false,
         "levelMods": [
           {
             "levelMods": []
@@ -4267,6 +4399,7 @@
             "unlockInfo": []
           }
         ],
+        "isCnLimited": false,
         "levelMods": [
           {
             "levelMods": []
@@ -4330,6 +4463,7 @@
             "unlockInfo": []
           }
         ],
+        "isCnLimited": false,
         "levelMods": [
           {
             "levelMods": []
@@ -4393,6 +4527,7 @@
             "unlockInfo": []
           }
         ],
+        "isCnLimited": false,
         "levelMods": [
           {
             "levelMods": []
@@ -4456,6 +4591,7 @@
             "unlockInfo": []
           }
         ],
+        "isCnLimited": false,
         "levelMods": [
           {
             "levelMods": []
@@ -4525,6 +4661,7 @@
             "unlockInfo": []
           }
         ],
+        "isCnLimited": false,
         "levelMods": [
           {
             "levelMods": []
@@ -4588,6 +4725,7 @@
             "unlockInfo": []
           }
         ],
+        "isCnLimited": false,
         "levelMods": [
           {
             "levelMods": []
@@ -4651,6 +4789,7 @@
             "unlockInfo": []
           }
         ],
+        "isCnLimited": false,
         "levelMods": [
           {
             "levelMods": []
@@ -4714,6 +4853,7 @@
             "unlockInfo": []
           }
         ],
+        "isCnLimited": false,
         "levelMods": [
           {
             "levelMods": []
@@ -4777,6 +4917,7 @@
             "unlockInfo": []
           }
         ],
+        "isCnLimited": false,
         "levelMods": [
           {
             "levelMods": []
@@ -4843,6 +4984,7 @@
             ]
           }
         ],
+        "isCnLimited": false,
         "levelMods": [
           {
             "levelMods": []
@@ -4909,6 +5051,7 @@
             ]
           }
         ],
+        "isCnLimited": false,
         "levelMods": [
           {
             "levelMods": []
@@ -4974,6 +5117,7 @@
             "unlockInfo": []
           }
         ],
+        "isCnLimited": false,
         "levelMods": [
           {
             "levelMods": []
@@ -5037,6 +5181,7 @@
             "unlockInfo": []
           }
         ],
+        "isCnLimited": false,
         "levelMods": [
           {
             "levelMods": []
@@ -5100,6 +5245,7 @@
             "unlockInfo": []
           }
         ],
+        "isCnLimited": false,
         "levelMods": [
           {
             "levelMods": []
@@ -5163,6 +5309,7 @@
             "unlockInfo": []
           }
         ],
+        "isCnLimited": false,
         "levelMods": [
           {
             "levelMods": []
@@ -5226,6 +5373,7 @@
             "unlockInfo": []
           }
         ],
+        "isCnLimited": false,
         "levelMods": [
           {
             "levelMods": []
@@ -5289,6 +5437,7 @@
             "unlockInfo": []
           }
         ],
+        "isCnLimited": false,
         "levelMods": [
           {
             "levelMods": []
@@ -5352,6 +5501,7 @@
             "unlockInfo": []
           }
         ],
+        "isCnLimited": false,
         "levelMods": [
           {
             "levelMods": []
@@ -5415,6 +5565,7 @@
             "unlockInfo": []
           }
         ],
+        "isCnLimited": false,
         "levelMods": [
           {
             "levelMods": []
@@ -5478,6 +5629,7 @@
             "unlockInfo": []
           }
         ],
+        "isCnLimited": false,
         "levelMods": [
           {
             "levelMods": []
@@ -5541,6 +5693,7 @@
             "unlockInfo": []
           }
         ],
+        "isCnLimited": false,
         "levelMods": [
           {
             "levelMods": []
@@ -5604,6 +5757,7 @@
             "unlockInfo": []
           }
         ],
+        "isCnLimited": false,
         "levelMods": [
           {
             "levelMods": []
@@ -5667,6 +5821,7 @@
             "unlockInfo": []
           }
         ],
+        "isCnLimited": false,
         "levelMods": [
           {
             "levelMods": []
@@ -5730,6 +5885,7 @@
             "unlockInfo": []
           }
         ],
+        "isCnLimited": false,
         "levelMods": [
           {
             "levelMods": []
@@ -5793,6 +5949,7 @@
             "unlockInfo": []
           }
         ],
+        "isCnLimited": false,
         "levelMods": [
           {
             "levelMods": []
@@ -5856,6 +6013,7 @@
             "unlockInfo": []
           }
         ],
+        "isCnLimited": false,
         "levelMods": [
           {
             "levelMods": []
@@ -5919,6 +6077,7 @@
             "unlockInfo": []
           }
         ],
+        "isCnLimited": false,
         "levelMods": [
           {
             "levelMods": []
@@ -5982,6 +6141,7 @@
             "unlockInfo": []
           }
         ],
+        "isCnLimited": false,
         "levelMods": [
           {
             "levelMods": []
@@ -6045,6 +6205,7 @@
             "unlockInfo": []
           }
         ],
+        "isCnLimited": false,
         "levelMods": [
           {
             "levelMods": []
@@ -6108,6 +6269,7 @@
             "unlockInfo": []
           }
         ],
+        "isCnLimited": false,
         "levelMods": [
           {
             "levelMods": []
@@ -6171,6 +6333,7 @@
             "unlockInfo": []
           }
         ],
+        "isCnLimited": false,
         "levelMods": [
           {
             "levelMods": []
@@ -6234,6 +6397,7 @@
             "unlockInfo": []
           }
         ],
+        "isCnLimited": false,
         "levelMods": [
           {
             "levelMods": []
@@ -6304,6 +6468,7 @@
             "unlockInfo": []
           }
         ],
+        "isCnLimited": false,
         "levelMods": [
           {
             "levelMods": []
@@ -6367,6 +6532,7 @@
             "unlockInfo": []
           }
         ],
+        "isCnLimited": false,
         "levelMods": [
           {
             "levelMods": []
@@ -6430,6 +6596,7 @@
             "unlockInfo": []
           }
         ],
+        "isCnLimited": false,
         "levelMods": [
           {
             "levelMods": []
@@ -6493,6 +6660,7 @@
             "unlockInfo": []
           }
         ],
+        "isCnLimited": false,
         "levelMods": [
           {
             "levelMods": []
@@ -6556,6 +6724,7 @@
             "unlockInfo": []
           }
         ],
+        "isCnLimited": false,
         "levelMods": [
           {
             "levelMods": []
@@ -6619,6 +6788,7 @@
             "unlockInfo": []
           }
         ],
+        "isCnLimited": false,
         "levelMods": [
           {
             "levelMods": []
@@ -6689,6 +6859,7 @@
             "unlockInfo": []
           }
         ],
+        "isCnLimited": false,
         "levelMods": [
           {
             "levelMods": []
@@ -6752,6 +6923,7 @@
             "unlockInfo": []
           }
         ],
+        "isCnLimited": false,
         "levelMods": [
           {
             "levelMods": []
@@ -6815,6 +6987,7 @@
             "unlockInfo": []
           }
         ],
+        "isCnLimited": false,
         "levelMods": [
           {
             "levelMods": []
@@ -6878,6 +7051,7 @@
             "unlockInfo": []
           }
         ],
+        "isCnLimited": false,
         "levelMods": [
           {
             "levelMods": []
@@ -6941,6 +7115,7 @@
             "unlockInfo": []
           }
         ],
+        "isCnLimited": false,
         "levelMods": [
           {
             "levelMods": []
@@ -7004,6 +7179,7 @@
             "unlockInfo": []
           }
         ],
+        "isCnLimited": false,
         "levelMods": [
           {
             "levelMods": []
@@ -7067,6 +7243,7 @@
             "unlockInfo": []
           }
         ],
+        "isCnLimited": false,
         "levelMods": [
           {
             "levelMods": []
@@ -7130,6 +7307,7 @@
             "unlockInfo": []
           }
         ],
+        "isCnLimited": false,
         "levelMods": [
           {
             "levelMods": []
@@ -7193,6 +7371,7 @@
             "unlockInfo": []
           }
         ],
+        "isCnLimited": false,
         "levelMods": [
           {
             "levelMods": []
@@ -7256,6 +7435,7 @@
             "unlockInfo": []
           }
         ],
+        "isCnLimited": false,
         "levelMods": [
           {
             "levelMods": []
@@ -7319,6 +7499,7 @@
             "unlockInfo": []
           }
         ],
+        "isCnLimited": false,
         "levelMods": [
           {
             "levelMods": []
@@ -7382,6 +7563,7 @@
             "unlockInfo": []
           }
         ],
+        "isCnLimited": false,
         "levelMods": [
           {
             "levelMods": []
@@ -7445,6 +7627,7 @@
             "unlockInfo": []
           }
         ],
+        "isCnLimited": false,
         "levelMods": [
           {
             "levelMods": []
@@ -7508,6 +7691,7 @@
             "unlockInfo": []
           }
         ],
+        "isCnLimited": false,
         "levelMods": [
           {
             "levelMods": []
@@ -7571,6 +7755,7 @@
             "unlockInfo": []
           }
         ],
+        "isCnLimited": false,
         "levelMods": [
           {
             "levelMods": []
@@ -7634,6 +7819,7 @@
             "unlockInfo": []
           }
         ],
+        "isCnLimited": false,
         "levelMods": [
           {
             "levelMods": []
@@ -7697,6 +7883,7 @@
             "unlockInfo": []
           }
         ],
+        "isCnLimited": false,
         "levelMods": [
           {
             "levelMods": []
@@ -7760,6 +7947,7 @@
             "unlockInfo": []
           }
         ],
+        "isCnLimited": false,
         "levelMods": [
           {
             "levelMods": []
@@ -7823,6 +8011,7 @@
             "unlockInfo": []
           }
         ],
+        "isCnLimited": false,
         "levelMods": [
           {
             "levelMods": []
@@ -7886,6 +8075,7 @@
             "unlockInfo": []
           }
         ],
+        "isCnLimited": false,
         "levelMods": [
           {
             "levelMods": []
@@ -7949,6 +8139,7 @@
             "unlockInfo": []
           }
         ],
+        "isCnLimited": false,
         "levelMods": [
           {
             "levelMods": []
@@ -8012,6 +8203,7 @@
             "unlockInfo": []
           }
         ],
+        "isCnLimited": false,
         "levelMods": [
           {
             "levelMods": []
@@ -8075,6 +8267,7 @@
             "unlockInfo": []
           }
         ],
+        "isCnLimited": false,
         "levelMods": [
           {
             "levelMods": []
@@ -8138,6 +8331,7 @@
             "unlockInfo": []
           }
         ],
+        "isCnLimited": false,
         "levelMods": [
           {
             "levelMods": []
@@ -8201,6 +8395,7 @@
             "unlockInfo": []
           }
         ],
+        "isCnLimited": false,
         "levelMods": [
           {
             "levelMods": []
@@ -8264,6 +8459,7 @@
             "unlockInfo": []
           }
         ],
+        "isCnLimited": false,
         "levelMods": [
           {
             "levelMods": []
@@ -8327,6 +8523,7 @@
             "unlockInfo": []
           }
         ],
+        "isCnLimited": false,
         "levelMods": [
           {
             "levelMods": []
@@ -8390,6 +8587,7 @@
             "unlockInfo": []
           }
         ],
+        "isCnLimited": false,
         "levelMods": [
           {
             "levelMods": []
@@ -8453,6 +8651,7 @@
             "unlockInfo": []
           }
         ],
+        "isCnLimited": false,
         "levelMods": [
           {
             "levelMods": []
@@ -8516,6 +8715,7 @@
             "unlockInfo": []
           }
         ],
+        "isCnLimited": false,
         "levelMods": [
           {
             "levelMods": []
@@ -8579,6 +8779,7 @@
             "unlockInfo": []
           }
         ],
+        "isCnLimited": false,
         "levelMods": [
           {
             "levelMods": []
@@ -8642,6 +8843,7 @@
             "unlockInfo": []
           }
         ],
+        "isCnLimited": false,
         "levelMods": [
           {
             "levelMods": []
@@ -8705,6 +8907,7 @@
             "unlockInfo": []
           }
         ],
+        "isCnLimited": false,
         "levelMods": [
           {
             "levelMods": []
@@ -8768,6 +8971,7 @@
             "unlockInfo": []
           }
         ],
+        "isCnLimited": false,
         "levelMods": [
           {
             "levelMods": []
@@ -8831,6 +9035,7 @@
             "unlockInfo": []
           }
         ],
+        "isCnLimited": false,
         "levelMods": [
           {
             "levelMods": []
@@ -8894,6 +9099,7 @@
             "unlockInfo": []
           }
         ],
+        "isCnLimited": false,
         "levelMods": [
           {
             "levelMods": []
@@ -8957,6 +9163,7 @@
             "unlockInfo": []
           }
         ],
+        "isCnLimited": false,
         "levelMods": [
           {
             "levelMods": []
@@ -9020,6 +9227,7 @@
             "unlockInfo": []
           }
         ],
+        "isCnLimited": false,
         "levelMods": [
           {
             "levelMods": []
@@ -9083,6 +9291,7 @@
             "unlockInfo": []
           }
         ],
+        "isCnLimited": false,
         "levelMods": [
           {
             "levelMods": []
@@ -9146,6 +9355,7 @@
             "unlockInfo": []
           }
         ],
+        "isCnLimited": false,
         "levelMods": [
           {
             "levelMods": []
@@ -9209,6 +9419,7 @@
             "unlockInfo": []
           }
         ],
+        "isCnLimited": false,
         "levelMods": [
           {
             "levelMods": []
@@ -9272,6 +9483,7 @@
             "unlockInfo": []
           }
         ],
+        "isCnLimited": false,
         "levelMods": [
           {
             "levelMods": []
@@ -9335,6 +9547,7 @@
             "unlockInfo": []
           }
         ],
+        "isCnLimited": false,
         "levelMods": [
           {
             "levelMods": []
@@ -9398,6 +9611,7 @@
             "unlockInfo": []
           }
         ],
+        "isCnLimited": false,
         "levelMods": [
           {
             "levelMods": []
@@ -9461,6 +9675,7 @@
             "unlockInfo": []
           }
         ],
+        "isCnLimited": false,
         "levelMods": [
           {
             "levelMods": []
@@ -9524,6 +9739,7 @@
             "unlockInfo": []
           }
         ],
+        "isCnLimited": false,
         "levelMods": [
           {
             "levelMods": []
@@ -9587,6 +9803,7 @@
             "unlockInfo": []
           }
         ],
+        "isCnLimited": false,
         "levelMods": [
           {
             "levelMods": []
@@ -9650,6 +9867,7 @@
             "unlockInfo": []
           }
         ],
+        "isCnLimited": false,
         "levelMods": [
           {
             "levelMods": []
@@ -9713,6 +9931,7 @@
             "unlockInfo": []
           }
         ],
+        "isCnLimited": false,
         "levelMods": [
           {
             "levelMods": []
@@ -9776,6 +9995,7 @@
             "unlockInfo": []
           }
         ],
+        "isCnLimited": false,
         "levelMods": [
           {
             "levelMods": []
@@ -9839,6 +10059,7 @@
             "unlockInfo": []
           }
         ],
+        "isCnLimited": false,
         "levelMods": [
           {
             "levelMods": []
@@ -9902,6 +10123,7 @@
             "unlockInfo": []
           }
         ],
+        "isCnLimited": false,
         "levelMods": [
           {
             "levelMods": []
@@ -9965,6 +10187,7 @@
             "unlockInfo": []
           }
         ],
+        "isCnLimited": false,
         "levelMods": [
           {
             "levelMods": []
@@ -10028,6 +10251,7 @@
             "unlockInfo": []
           }
         ],
+        "isCnLimited": false,
         "levelMods": [
           {
             "levelMods": []
@@ -10091,6 +10315,7 @@
             "unlockInfo": []
           }
         ],
+        "isCnLimited": false,
         "levelMods": [
           {
             "levelMods": []
@@ -10154,6 +10379,7 @@
             "unlockInfo": []
           }
         ],
+        "isCnLimited": false,
         "levelMods": [
           {
             "levelMods": []
@@ -10217,6 +10443,7 @@
             "unlockInfo": []
           }
         ],
+        "isCnLimited": false,
         "levelMods": [
           {
             "levelMods": []
@@ -10280,6 +10507,7 @@
             "unlockInfo": []
           }
         ],
+        "isCnLimited": false,
         "levelMods": [
           {
             "levelMods": []
@@ -10343,6 +10571,7 @@
             "unlockInfo": []
           }
         ],
+        "isCnLimited": false,
         "levelMods": [
           {
             "levelMods": []
@@ -10406,6 +10635,7 @@
             "unlockInfo": []
           }
         ],
+        "isCnLimited": false,
         "levelMods": [
           {
             "levelMods": []
@@ -10469,6 +10699,7 @@
             "unlockInfo": []
           }
         ],
+        "isCnLimited": false,
         "levelMods": [
           {
             "levelMods": []
@@ -10532,6 +10763,7 @@
             "unlockInfo": []
           }
         ],
+        "isCnLimited": false,
         "levelMods": [
           {
             "levelMods": []
@@ -10595,6 +10827,7 @@
             "unlockInfo": []
           }
         ],
+        "isCnLimited": false,
         "levelMods": [
           {
             "levelMods": []
@@ -10658,6 +10891,7 @@
             "unlockInfo": []
           }
         ],
+        "isCnLimited": false,
         "levelMods": [
           {
             "levelMods": []
@@ -10721,6 +10955,7 @@
             "unlockInfo": []
           }
         ],
+        "isCnLimited": false,
         "levelMods": [
           {
             "levelMods": []
@@ -10784,6 +11019,7 @@
             "unlockInfo": []
           }
         ],
+        "isCnLimited": false,
         "levelMods": [
           {
             "levelMods": []
@@ -10852,6 +11088,7 @@
             ]
           }
         ],
+        "isCnLimited": false,
         "levelMods": [
           {
             "levelMods": []
@@ -10918,6 +11155,7 @@
             ]
           }
         ],
+        "isCnLimited": false,
         "levelMods": [
           {
             "levelMods": []
@@ -10981,6 +11219,7 @@
             "unlockInfo": []
           }
         ],
+        "isCnLimited": false,
         "levelMods": [
           {
             "levelMods": []
@@ -11044,6 +11283,7 @@
             "unlockInfo": []
           }
         ],
+        "isCnLimited": false,
         "levelMods": [
           {
             "levelMods": []
@@ -11107,6 +11347,7 @@
             "unlockInfo": []
           }
         ],
+        "isCnLimited": false,
         "levelMods": [
           {
             "levelMods": []
@@ -11170,6 +11411,7 @@
             "unlockInfo": []
           }
         ],
+        "isCnLimited": false,
         "levelMods": [
           {
             "levelMods": []
@@ -11237,6 +11479,7 @@
             ]
           }
         ],
+        "isCnLimited": false,
         "levelMods": [
           {
             "levelMods": []
@@ -11300,6 +11543,7 @@
             "unlockInfo": []
           }
         ],
+        "isCnLimited": false,
         "levelMods": [
           {
             "levelMods": []
@@ -11363,6 +11607,7 @@
             "unlockInfo": []
           }
         ],
+        "isCnLimited": false,
         "levelMods": [
           {
             "levelMods": []
@@ -11426,6 +11671,7 @@
             "unlockInfo": []
           }
         ],
+        "isCnLimited": false,
         "levelMods": [
           {
             "levelMods": []
@@ -11489,6 +11735,7 @@
             "unlockInfo": []
           }
         ],
+        "isCnLimited": false,
         "levelMods": [
           {
             "levelMods": []
@@ -11552,6 +11799,7 @@
             "unlockInfo": []
           }
         ],
+        "isCnLimited": false,
         "levelMods": [
           {
             "levelMods": []
@@ -11615,6 +11863,7 @@
             "unlockInfo": []
           }
         ],
+        "isCnLimited": false,
         "levelMods": [
           {
             "levelMods": []
@@ -11678,6 +11927,7 @@
             "unlockInfo": []
           }
         ],
+        "isCnLimited": false,
         "levelMods": [
           {
             "levelMods": []
@@ -11741,6 +11991,7 @@
             "unlockInfo": []
           }
         ],
+        "isCnLimited": false,
         "levelMods": [
           {
             "levelMods": []
@@ -11804,6 +12055,7 @@
             "unlockInfo": []
           }
         ],
+        "isCnLimited": false,
         "levelMods": [
           {
             "levelMods": []
@@ -11867,6 +12119,7 @@
             "unlockInfo": []
           }
         ],
+        "isCnLimited": false,
         "levelMods": [
           {
             "levelMods": []
@@ -11930,6 +12183,7 @@
             "unlockInfo": []
           }
         ],
+        "isCnLimited": false,
         "levelMods": [
           {
             "levelMods": []
@@ -11993,6 +12247,7 @@
             "unlockInfo": []
           }
         ],
+        "isCnLimited": false,
         "levelMods": [
           {
             "levelMods": []
@@ -12056,6 +12311,7 @@
             "unlockInfo": []
           }
         ],
+        "isCnLimited": false,
         "levelMods": [
           {
             "levelMods": []
@@ -12119,6 +12375,7 @@
             "unlockInfo": []
           }
         ],
+        "isCnLimited": false,
         "levelMods": [
           {
             "levelMods": []
@@ -12182,6 +12439,7 @@
             "unlockInfo": []
           }
         ],
+        "isCnLimited": false,
         "levelMods": [
           {
             "levelMods": []
@@ -12245,6 +12503,7 @@
             "unlockInfo": []
           }
         ],
+        "isCnLimited": false,
         "levelMods": [
           {
             "levelMods": []
@@ -12308,6 +12567,7 @@
             "unlockInfo": []
           }
         ],
+        "isCnLimited": false,
         "levelMods": [
           {
             "levelMods": []
@@ -12371,6 +12631,7 @@
             "unlockInfo": []
           }
         ],
+        "isCnLimited": false,
         "levelMods": [
           {
             "levelMods": []
@@ -12434,6 +12695,7 @@
             "unlockInfo": []
           }
         ],
+        "isCnLimited": false,
         "levelMods": [
           {
             "levelMods": []
@@ -12497,6 +12759,7 @@
             "unlockInfo": []
           }
         ],
+        "isCnLimited": false,
         "levelMods": [
           {
             "levelMods": []
@@ -12560,6 +12823,7 @@
             "unlockInfo": []
           }
         ],
+        "isCnLimited": false,
         "levelMods": [
           {
             "levelMods": []
@@ -12623,6 +12887,7 @@
             "unlockInfo": []
           }
         ],
+        "isCnLimited": false,
         "levelMods": [
           {
             "levelMods": []
@@ -12686,6 +12951,7 @@
             "unlockInfo": []
           }
         ],
+        "isCnLimited": false,
         "levelMods": [
           {
             "levelMods": []
@@ -12749,6 +13015,7 @@
             "unlockInfo": []
           }
         ],
+        "isCnLimited": false,
         "levelMods": [
           {
             "levelMods": []
@@ -12812,6 +13079,7 @@
             "unlockInfo": []
           }
         ],
+        "isCnLimited": false,
         "levelMods": [
           {
             "levelMods": []
@@ -12875,6 +13143,7 @@
             "unlockInfo": []
           }
         ],
+        "isCnLimited": false,
         "levelMods": [
           {
             "levelMods": []
@@ -12938,6 +13207,7 @@
             "unlockInfo": []
           }
         ],
+        "isCnLimited": false,
         "levelMods": [
           {
             "levelMods": []
@@ -13001,6 +13271,7 @@
             "unlockInfo": []
           }
         ],
+        "isCnLimited": false,
         "levelMods": [
           {
             "levelMods": []
@@ -13064,6 +13335,7 @@
             "unlockInfo": []
           }
         ],
+        "isCnLimited": false,
         "levelMods": [
           {
             "levelMods": []
@@ -13127,6 +13399,7 @@
             "unlockInfo": []
           }
         ],
+        "isCnLimited": false,
         "levelMods": [
           {
             "levelMods": []
@@ -13190,6 +13463,7 @@
             "unlockInfo": []
           }
         ],
+        "isCnLimited": false,
         "levelMods": [
           {
             "levelMods": []
@@ -13253,6 +13527,7 @@
             "unlockInfo": []
           }
         ],
+        "isCnLimited": false,
         "levelMods": [
           {
             "levelMods": []
@@ -13297,7 +13572,7 @@
           "AT"
         ],
         "previewTime": 81.2,
-        "previewEndTime": 107.2,
+        "previewEndTime": 101.2,
         "unlockInfo": [
           {
             "unlockType": 0,
@@ -13318,6 +13593,7 @@
             ]
           }
         ],
+        "isCnLimited": false,
         "levelMods": [
           {
             "levelMods": []
@@ -13361,8 +13637,8 @@
           "IN",
           "AT"
         ],
-        "previewTime": 114.375,
-        "previewEndTime": 129.375,
+        "previewTime": 114.4,
+        "previewEndTime": 129.4,
         "unlockInfo": [
           {
             "unlockType": 0,
@@ -13381,6 +13657,7 @@
             "unlockInfo": []
           }
         ],
+        "isCnLimited": false,
         "levelMods": [
           {
             "levelMods": []
@@ -13424,8 +13701,8 @@
           "IN",
           "AT"
         ],
-        "previewTime": 40.421,
-        "previewEndTime": 63.158,
+        "previewTime": 41.0,
+        "previewEndTime": 61.0,
         "unlockInfo": [
           {
             "unlockType": 0,
@@ -13444,6 +13721,7 @@
             "unlockInfo": []
           }
         ],
+        "isCnLimited": false,
         "levelMods": [
           {
             "levelMods": []
@@ -13507,6 +13785,7 @@
             "unlockInfo": []
           }
         ],
+        "isCnLimited": false,
         "levelMods": [
           {
             "levelMods": []
@@ -13570,6 +13849,7 @@
             "unlockInfo": []
           }
         ],
+        "isCnLimited": false,
         "levelMods": [
           {
             "levelMods": []
@@ -13633,6 +13913,7 @@
             "unlockInfo": []
           }
         ],
+        "isCnLimited": false,
         "levelMods": [
           {
             "levelMods": []
@@ -13696,6 +13977,7 @@
             "unlockInfo": []
           }
         ],
+        "isCnLimited": false,
         "levelMods": [
           {
             "levelMods": []
@@ -13759,6 +14041,7 @@
             "unlockInfo": []
           }
         ],
+        "isCnLimited": false,
         "levelMods": [
           {
             "levelMods": []
@@ -13822,6 +14105,7 @@
             "unlockInfo": []
           }
         ],
+        "isCnLimited": false,
         "levelMods": [
           {
             "levelMods": []
@@ -13885,6 +14169,7 @@
             "unlockInfo": []
           }
         ],
+        "isCnLimited": false,
         "levelMods": [
           {
             "levelMods": []
@@ -13948,6 +14233,7 @@
             "unlockInfo": []
           }
         ],
+        "isCnLimited": false,
         "levelMods": [
           {
             "levelMods": []
@@ -14011,6 +14297,7 @@
             "unlockInfo": []
           }
         ],
+        "isCnLimited": false,
         "levelMods": [
           {
             "levelMods": []
@@ -14054,8 +14341,8 @@
           "IN",
           "AT"
         ],
-        "previewTime": 63.429,
-        "previewEndTime": 77.143,
+        "previewTime": 63.0,
+        "previewEndTime": 78.864,
         "unlockInfo": [
           {
             "unlockType": 0,
@@ -14074,6 +14361,7 @@
             "unlockInfo": []
           }
         ],
+        "isCnLimited": false,
         "levelMods": [
           {
             "levelMods": []
@@ -14118,7 +14406,7 @@
           "AT"
         ],
         "previewTime": 103.88,
-        "previewEndTime": 118.209,
+        "previewEndTime": 121.791,
         "unlockInfo": [
           {
             "unlockType": 0,
@@ -14137,6 +14425,7 @@
             "unlockInfo": []
           }
         ],
+        "isCnLimited": false,
         "levelMods": [
           {
             "levelMods": []
@@ -14180,7 +14469,7 @@
           "IN",
           "AT"
         ],
-        "previewTime": 111.507,
+        "previewTime": 110.958,
         "previewEndTime": 128.219,
         "unlockInfo": [
           {
@@ -14200,6 +14489,7 @@
             "unlockInfo": []
           }
         ],
+        "isCnLimited": false,
         "levelMods": [
           {
             "levelMods": []
@@ -14263,6 +14553,7 @@
             "unlockInfo": []
           }
         ],
+        "isCnLimited": false,
         "levelMods": [
           {
             "levelMods": []
@@ -14326,6 +14617,7 @@
             "unlockInfo": []
           }
         ],
+        "isCnLimited": false,
         "levelMods": [
           {
             "levelMods": []
@@ -14389,6 +14681,7 @@
             "unlockInfo": []
           }
         ],
+        "isCnLimited": false,
         "levelMods": [
           {
             "levelMods": []
@@ -14452,6 +14745,7 @@
             "unlockInfo": []
           }
         ],
+        "isCnLimited": false,
         "levelMods": [
           {
             "levelMods": []
@@ -14515,6 +14809,7 @@
             "unlockInfo": []
           }
         ],
+        "isCnLimited": false,
         "levelMods": [
           {
             "levelMods": []
@@ -14578,6 +14873,7 @@
             "unlockInfo": []
           }
         ],
+        "isCnLimited": false,
         "levelMods": [
           {
             "levelMods": []
@@ -14641,6 +14937,7 @@
             "unlockInfo": []
           }
         ],
+        "isCnLimited": false,
         "levelMods": [
           {
             "levelMods": []
@@ -14704,6 +15001,7 @@
             "unlockInfo": []
           }
         ],
+        "isCnLimited": false,
         "levelMods": [
           {
             "levelMods": []
@@ -14767,6 +15065,7 @@
             "unlockInfo": []
           }
         ],
+        "isCnLimited": false,
         "levelMods": [
           {
             "levelMods": []
@@ -14830,6 +15129,7 @@
             "unlockInfo": []
           }
         ],
+        "isCnLimited": false,
         "levelMods": [
           {
             "levelMods": []
@@ -14893,6 +15193,7 @@
             "unlockInfo": []
           }
         ],
+        "isCnLimited": false,
         "levelMods": [
           {
             "levelMods": []
@@ -14956,6 +15257,779 @@
             "unlockInfo": []
           }
         ],
+        "isCnLimited": false,
+        "levelMods": [
+          {
+            "levelMods": []
+          },
+          {
+            "levelMods": []
+          },
+          {
+            "levelMods": []
+          },
+          {
+            "levelMods": []
+          },
+          {
+            "levelMods": []
+          }
+        ]
+      },
+      {
+        "songsId": "Antithese.Blacklolita.0",
+        "songsKey": "Antithese",
+        "songsName": "Antithese",
+        "songsTitle": "",
+        "difficulty": [
+          5.5,
+          11.8,
+          15.2,
+          15.9
+        ],
+        "illustrator": "釜飯轟々丸 + jht (Design: 祈莲)",
+        "charter": [
+          "SeveredEntity (BlindForest vs rN) feat. Δ",
+          "Δ (M3d1uM vs Salt)",
+          "StupiGGy -The Origin-",
+          "弧光"
+        ],
+        "composer": "Blacklolita",
+        "levels": [
+          "EZ",
+          "HD",
+          "IN",
+          "AT"
+        ],
+        "previewTime": 35.93,
+        "previewEndTime": 53.325,
+        "unlockInfo": [
+          {
+            "unlockType": 0,
+            "unlockInfo": []
+          },
+          {
+            "unlockType": 0,
+            "unlockInfo": []
+          },
+          {
+            "unlockType": 0,
+            "unlockInfo": []
+          },
+          {
+            "unlockType": 0,
+            "unlockInfo": []
+          }
+        ],
+        "isCnLimited": false,
+        "levelMods": [
+          {
+            "levelMods": []
+          },
+          {
+            "levelMods": []
+          },
+          {
+            "levelMods": []
+          },
+          {
+            "levelMods": []
+          },
+          {
+            "levelMods": []
+          }
+        ]
+      },
+      {
+        "songsId": "PRAGMATISMRESURRECTION.Laur.0",
+        "songsKey": "PRAGMATISM -RESURRECTION-",
+        "songsName": "PRAGMATISM -RESURRECTION-",
+        "songsTitle": "",
+        "difficulty": [
+          7.5,
+          12.9,
+          15.6,
+          16.3
+        ],
+        "illustrator": "シエラ (Design: 祈莲)",
+        "charter": [
+          "完璧 [WARNING: DRAG OVERLOAD]",
+          "完璧 × 北星",
+          "-NerSAN & Su1fuR-",
+          "THE LAST 198"
+        ],
+        "composer": "Laur",
+        "levels": [
+          "EZ",
+          "HD",
+          "IN",
+          "AT"
+        ],
+        "previewTime": 117.62,
+        "previewEndTime": 137.62,
+        "unlockInfo": [
+          {
+            "unlockType": 0,
+            "unlockInfo": []
+          },
+          {
+            "unlockType": 0,
+            "unlockInfo": []
+          },
+          {
+            "unlockType": 0,
+            "unlockInfo": []
+          },
+          {
+            "unlockType": 0,
+            "unlockInfo": []
+          }
+        ],
+        "isCnLimited": false,
+        "levelMods": [
+          {
+            "levelMods": []
+          },
+          {
+            "levelMods": []
+          },
+          {
+            "levelMods": []
+          },
+          {
+            "levelMods": []
+          },
+          {
+            "levelMods": []
+          }
+        ]
+      },
+      {
+        "songsId": "ShineAfter.ADeanJocularACE.0",
+        "songsKey": "Shine After",
+        "songsName": "Shine After",
+        "songsTitle": "",
+        "difficulty": [
+          4.0,
+          9.9,
+          14.6,
+          0.0
+        ],
+        "illustrator": "海里狄七 feat. 存艺",
+        "charter": [
+          "Su1fuR",
+          "Su1fuR",
+          "Salt & Uvernight",
+          ""
+        ],
+        "composer": "ADean & JocularACE",
+        "levels": [
+          "EZ",
+          "HD",
+          "IN",
+          "AT"
+        ],
+        "previewTime": 120.34,
+        "previewEndTime": 135.34,
+        "unlockInfo": [
+          {
+            "unlockType": 0,
+            "unlockInfo": []
+          },
+          {
+            "unlockType": 0,
+            "unlockInfo": []
+          },
+          {
+            "unlockType": 0,
+            "unlockInfo": []
+          },
+          {
+            "unlockType": 0,
+            "unlockInfo": []
+          }
+        ],
+        "isCnLimited": false,
+        "levelMods": [
+          {
+            "levelMods": []
+          },
+          {
+            "levelMods": []
+          },
+          {
+            "levelMods": []
+          },
+          {
+            "levelMods": []
+          },
+          {
+            "levelMods": []
+          }
+        ]
+      },
+      {
+        "songsId": "Bloom.targ麻团qwq.0",
+        "songsKey": "Bloom",
+        "songsName": "Bloom",
+        "songsTitle": "",
+        "difficulty": [
+          3.5,
+          11.2,
+          14.9,
+          0.0
+        ],
+        "illustrator": "注射",
+        "charter": [
+          "Salt & Barbarianerman",
+          "Salt & Barbarianerman",
+          "SPΔDE & 倪尔qwq",
+          ""
+        ],
+        "composer": "targ & 麻团qwq",
+        "levels": [
+          "EZ",
+          "HD",
+          "IN",
+          "AT"
+        ],
+        "previewTime": 66.4,
+        "previewEndTime": 81.6,
+        "unlockInfo": [
+          {
+            "unlockType": 0,
+            "unlockInfo": []
+          },
+          {
+            "unlockType": 0,
+            "unlockInfo": []
+          },
+          {
+            "unlockType": 0,
+            "unlockInfo": []
+          },
+          {
+            "unlockType": 0,
+            "unlockInfo": []
+          }
+        ],
+        "isCnLimited": false,
+        "levelMods": [
+          {
+            "levelMods": []
+          },
+          {
+            "levelMods": []
+          },
+          {
+            "levelMods": []
+          },
+          {
+            "levelMods": []
+          },
+          {
+            "levelMods": []
+          }
+        ]
+      },
+      {
+        "songsId": "幽世桔梗.Capchiifeatまるもこ.0",
+        "songsKey": "幽世桔梗",
+        "songsName": "幽世桔梗",
+        "songsTitle": "",
+        "difficulty": [
+          3.0,
+          10.1,
+          14.8,
+          0.0
+        ],
+        "illustrator": "瀬名",
+        "charter": [
+          "RipHall vs. Likey",
+          "RipHall vs. Likey",
+          "Su1fuR、快斬！",
+          ""
+        ],
+        "composer": "Capchii feat. まるもこ",
+        "levels": [
+          "EZ",
+          "HD",
+          "IN",
+          "AT"
+        ],
+        "previewTime": 13.19,
+        "previewEndTime": 34.931,
+        "unlockInfo": [
+          {
+            "unlockType": 0,
+            "unlockInfo": []
+          },
+          {
+            "unlockType": 0,
+            "unlockInfo": []
+          },
+          {
+            "unlockType": 0,
+            "unlockInfo": []
+          },
+          {
+            "unlockType": 0,
+            "unlockInfo": []
+          }
+        ],
+        "isCnLimited": false,
+        "levelMods": [
+          {
+            "levelMods": []
+          },
+          {
+            "levelMods": []
+          },
+          {
+            "levelMods": []
+          },
+          {
+            "levelMods": []
+          },
+          {
+            "levelMods": []
+          }
+        ]
+      },
+      {
+        "songsId": "千紫万紅.r0yvsWABI.0",
+        "songsKey": "千紫万紅",
+        "songsName": "千紫万紅",
+        "songsTitle": "",
+        "difficulty": [
+          4.5,
+          12.1,
+          15.6,
+          0.0
+        ],
+        "illustrator": "中本ひょうり",
+        "charter": [
+          "Rikko",
+          "実戦 with Rikko",
+          "Salt & Barbarianerman",
+          ""
+        ],
+        "composer": "r0y vs. WABI",
+        "levels": [
+          "EZ",
+          "HD",
+          "IN",
+          "AT"
+        ],
+        "previewTime": 105.47,
+        "previewEndTime": 124.47,
+        "unlockInfo": [
+          {
+            "unlockType": 0,
+            "unlockInfo": []
+          },
+          {
+            "unlockType": 0,
+            "unlockInfo": []
+          },
+          {
+            "unlockType": 0,
+            "unlockInfo": []
+          },
+          {
+            "unlockType": 0,
+            "unlockInfo": []
+          }
+        ],
+        "isCnLimited": false,
+        "levelMods": [
+          {
+            "levelMods": []
+          },
+          {
+            "levelMods": []
+          },
+          {
+            "levelMods": []
+          },
+          {
+            "levelMods": []
+          },
+          {
+            "levelMods": []
+          }
+        ]
+      },
+      {
+        "songsId": "明鏡烈火.MUEvsRekuMochizuki.0",
+        "songsKey": "明鏡烈火",
+        "songsName": "明鏡烈火",
+        "songsTitle": "",
+        "difficulty": [
+          6.5,
+          11.3,
+          15.8,
+          0.0
+        ],
+        "illustrator": "中本ひょうり",
+        "charter": [
+          "COC  feat. Su1fuR",
+          "COC  feat. Su1fuR",
+          "Arenn Salty feat. LDA",
+          ""
+        ],
+        "composer": "M-UE vs. Reku Mochizuki",
+        "levels": [
+          "EZ",
+          "HD",
+          "IN",
+          "AT"
+        ],
+        "previewTime": 99.744,
+        "previewEndTime": 118.744,
+        "unlockInfo": [
+          {
+            "unlockType": 0,
+            "unlockInfo": []
+          },
+          {
+            "unlockType": 0,
+            "unlockInfo": []
+          },
+          {
+            "unlockType": 0,
+            "unlockInfo": []
+          },
+          {
+            "unlockType": 0,
+            "unlockInfo": []
+          }
+        ],
+        "isCnLimited": false,
+        "levelMods": [
+          {
+            "levelMods": []
+          },
+          {
+            "levelMods": []
+          },
+          {
+            "levelMods": []
+          },
+          {
+            "levelMods": []
+          },
+          {
+            "levelMods": []
+          }
+        ]
+      },
+      {
+        "songsId": "今天不是明天.PIKASONICfeat兰音Reine.0",
+        "songsKey": "今天不是明天",
+        "songsName": "今天不是明天",
+        "songsTitle": "",
+        "difficulty": [
+          3.0,
+          8.5,
+          13.5,
+          0.0
+        ],
+        "illustrator": "KiTA & 一击即溃",
+        "charter": [
+          "扫佛不是嫂夫",
+          "扫佛不是嫂夫",
+          "杂波不是杂啵，野从不是野丛",
+          ""
+        ],
+        "composer": "PIKASONIC feat. 兰音Reine",
+        "levels": [
+          "EZ",
+          "HD",
+          "IN",
+          "AT"
+        ],
+        "previewTime": 45.12,
+        "previewEndTime": 62.4,
+        "unlockInfo": [
+          {
+            "unlockType": 0,
+            "unlockInfo": []
+          },
+          {
+            "unlockType": 0,
+            "unlockInfo": []
+          },
+          {
+            "unlockType": 0,
+            "unlockInfo": []
+          },
+          {
+            "unlockType": 0,
+            "unlockInfo": []
+          }
+        ],
+        "isCnLimited": false,
+        "levelMods": [
+          {
+            "levelMods": []
+          },
+          {
+            "levelMods": []
+          },
+          {
+            "levelMods": []
+          },
+          {
+            "levelMods": []
+          },
+          {
+            "levelMods": []
+          }
+        ]
+      },
+      {
+        "songsId": "Cuvism.Fl00tvsHalv.0",
+        "songsKey": "Cuvism³",
+        "songsName": "Cuvism³",
+        "songsTitle": "",
+        "difficulty": [
+          3.5,
+          12.1,
+          13.9,
+          16.4
+        ],
+        "illustrator": "sikkari",
+        "charter": [
+          "Rikko",
+          "Rikko³ [Normal]",
+          "Rikko",
+          "JKy vs StrayCat"
+        ],
+        "composer": "Fl00t vs Halv",
+        "levels": [
+          "EZ",
+          "HD",
+          "IN",
+          "AT"
+        ],
+        "previewTime": 108.865,
+        "previewEndTime": 122.474,
+        "unlockInfo": [
+          {
+            "unlockType": 0,
+            "unlockInfo": []
+          },
+          {
+            "unlockType": 0,
+            "unlockInfo": []
+          },
+          {
+            "unlockType": 0,
+            "unlockInfo": []
+          },
+          {
+            "unlockType": 2,
+            "unlockInfo": [
+              "CuvismINSGrade",
+              "iLArtifactINSGrade",
+              "atruthseekerCommunicationwithUtopiawillbelostINSGrade"
+            ]
+          }
+        ],
+        "isCnLimited": false,
+        "levelMods": [
+          {
+            "levelMods": []
+          },
+          {
+            "levelMods": []
+          },
+          {
+            "levelMods": []
+          },
+          {
+            "levelMods": []
+          },
+          {
+            "levelMods": []
+          }
+        ]
+      },
+      {
+        "songsId": "iLArtifact.Link0.0",
+        "songsKey": "iL-Artifact",
+        "songsName": "iL-Artifact",
+        "songsTitle": "",
+        "difficulty": [
+          5.5,
+          10.5,
+          15.5,
+          0.0
+        ],
+        "illustrator": "Fl00t",
+        "charter": [
+          "IUIsauce",
+          "IUIsauce",
+          "XMT小咩兔 vs 上班睡大觉_Sleepyhead",
+          ""
+        ],
+        "composer": "Link''0",
+        "levels": [
+          "EZ",
+          "HD",
+          "IN",
+          "AT"
+        ],
+        "previewTime": 73.695,
+        "previewEndTime": 95.217,
+        "unlockInfo": [
+          {
+            "unlockType": 0,
+            "unlockInfo": []
+          },
+          {
+            "unlockType": 0,
+            "unlockInfo": []
+          },
+          {
+            "unlockType": 0,
+            "unlockInfo": []
+          },
+          {
+            "unlockType": 0,
+            "unlockInfo": []
+          }
+        ],
+        "isCnLimited": false,
+        "levelMods": [
+          {
+            "levelMods": []
+          },
+          {
+            "levelMods": []
+          },
+          {
+            "levelMods": []
+          },
+          {
+            "levelMods": []
+          },
+          {
+            "levelMods": []
+          }
+        ]
+      },
+      {
+        "songsId": "atruthseekerCommunicationwithUtopiawillbelost.kuro.0",
+        "songsKey": "a truth seeker -Communication with Utopia will be lost-",
+        "songsName": "a truth seeker -Communication with Utopia will be lost-",
+        "songsTitle": "",
+        "difficulty": [
+          7.5,
+          12.8,
+          15.8,
+          0.0
+        ],
+        "illustrator": "rokopon",
+        "charter": [
+          "上班睡大觉_Sleepyhead",
+          "上班睡大觉_Sleepyhead",
+          "-Seek A Lnside Truth-",
+          ""
+        ],
+        "composer": "kuro",
+        "levels": [
+          "EZ",
+          "HD",
+          "IN",
+          "AT"
+        ],
+        "previewTime": 87.726,
+        "previewEndTime": 107.726,
+        "unlockInfo": [
+          {
+            "unlockType": 0,
+            "unlockInfo": []
+          },
+          {
+            "unlockType": 0,
+            "unlockInfo": []
+          },
+          {
+            "unlockType": 0,
+            "unlockInfo": []
+          },
+          {
+            "unlockType": 0,
+            "unlockInfo": []
+          }
+        ],
+        "isCnLimited": false,
+        "levelMods": [
+          {
+            "levelMods": []
+          },
+          {
+            "levelMods": []
+          },
+          {
+            "levelMods": []
+          },
+          {
+            "levelMods": []
+          },
+          {
+            "levelMods": []
+          }
+        ]
+      },
+      {
+        "songsId": "BoundedQuietude.FiniteLimitvsSiLiS.0",
+        "songsKey": "Bounded Quietude",
+        "songsName": "Bounded Quietude",
+        "songsTitle": "",
+        "difficulty": [
+          7.0,
+          7.5,
+          15.9,
+          0.0
+        ],
+        "illustrator": "Hiro vs Zeth",
+        "charter": [
+          "LonelyKnight",
+          "LonelyKnight",
+          "孤独な騎士 Against 魔王、大咩兔",
+          ""
+        ],
+        "composer": "Finite Limit vs SiLiS",
+        "levels": [
+          "EZ",
+          "HD",
+          "IN",
+          "AT"
+        ],
+        "previewTime": 56.0,
+        "previewEndTime": 84.0,
+        "unlockInfo": [
+          {
+            "unlockType": 0,
+            "unlockInfo": []
+          },
+          {
+            "unlockType": 0,
+            "unlockInfo": []
+          },
+          {
+            "unlockType": 0,
+            "unlockInfo": []
+          },
+          {
+            "unlockType": 0,
+            "unlockInfo": []
+          }
+        ],
+        "isCnLimited": false,
         "levelMods": [
           {
             "levelMods": []
@@ -15021,6 +16095,7 @@
             "unlockInfo": []
           }
         ],
+        "isCnLimited": false,
         "levelMods": [
           {
             "levelMods": []
@@ -15084,6 +16159,7 @@
             "unlockInfo": []
           }
         ],
+        "isCnLimited": false,
         "levelMods": [
           {
             "levelMods": []
@@ -15151,6 +16227,7 @@
             "unlockInfo": []
           }
         ],
+        "isCnLimited": false,
         "levelMods": [
           {
             "levelMods": []
@@ -15214,6 +16291,7 @@
             "unlockInfo": []
           }
         ],
+        "isCnLimited": false,
         "levelMods": [
           {
             "levelMods": []
@@ -15280,6 +16358,7 @@
             "unlockInfo": []
           }
         ],
+        "isCnLimited": false,
         "levelMods": [
           {
             "levelMods": []
@@ -15343,6 +16422,7 @@
             "unlockInfo": []
           }
         ],
+        "isCnLimited": false,
         "levelMods": [
           {
             "levelMods": []
@@ -15406,6 +16486,7 @@
             "unlockInfo": []
           }
         ],
+        "isCnLimited": false,
         "levelMods": [
           {
             "levelMods": []
@@ -15469,6 +16550,7 @@
             "unlockInfo": []
           }
         ],
+        "isCnLimited": false,
         "levelMods": [
           {
             "levelMods": []
@@ -15532,6 +16614,7 @@
             "unlockInfo": []
           }
         ],
+        "isCnLimited": false,
         "levelMods": [
           {
             "levelMods": []
@@ -15595,6 +16678,7 @@
             "unlockInfo": []
           }
         ],
+        "isCnLimited": false,
         "levelMods": [
           {
             "levelMods": []
@@ -15658,6 +16742,7 @@
             "unlockInfo": []
           }
         ],
+        "isCnLimited": false,
         "levelMods": [
           {
             "levelMods": []
@@ -15721,6 +16806,7 @@
             "unlockInfo": []
           }
         ],
+        "isCnLimited": false,
         "levelMods": [
           {
             "levelMods": []
@@ -15784,6 +16870,7 @@
             "unlockInfo": []
           }
         ],
+        "isCnLimited": false,
         "levelMods": [
           {
             "levelMods": []
@@ -15847,6 +16934,7 @@
             "unlockInfo": []
           }
         ],
+        "isCnLimited": false,
         "levelMods": [
           {
             "levelMods": []
@@ -15910,6 +16998,7 @@
             "unlockInfo": []
           }
         ],
+        "isCnLimited": false,
         "levelMods": [
           {
             "levelMods": []
@@ -15973,6 +17062,7 @@
             "unlockInfo": []
           }
         ],
+        "isCnLimited": false,
         "levelMods": [
           {
             "levelMods": []
@@ -16038,6 +17128,7 @@
             "unlockInfo": []
           }
         ],
+        "isCnLimited": false,
         "levelMods": [
           {
             "levelMods": [
@@ -16061,6 +17152,42 @@
     ]
   },
   "keyStore": [
+    {
+      "keyName": "Bounded Quietude",
+      "unlockedTimes": 0,
+      "kindOfKey": 0,
+      "unlockTimes": 1
+    },
+    {
+      "keyName": "今天不是明天",
+      "unlockedTimes": 0,
+      "kindOfKey": 0,
+      "unlockTimes": 1
+    },
+    {
+      "keyName": "Bloom",
+      "unlockedTimes": 0,
+      "kindOfKey": 0,
+      "unlockTimes": 1
+    },
+    {
+      "keyName": "Shine After",
+      "unlockedTimes": 0,
+      "kindOfKey": 0,
+      "unlockTimes": 1
+    },
+    {
+      "keyName": "PRAGMATISM -RESURRECTION-",
+      "unlockedTimes": 0,
+      "kindOfKey": 0,
+      "unlockTimes": 1
+    },
+    {
+      "keyName": "Antithese",
+      "unlockedTimes": 0,
+      "kindOfKey": 0,
+      "unlockTimes": 1
+    },
     {
       "keyName": "BRAIN HACKER",
       "unlockedTimes": 0,
@@ -19572,6 +20699,78 @@
       "unlockTimes": 1
     },
     {
+      "keyName": "Antithese",
+      "unlockedTimes": 0,
+      "kindOfKey": 2,
+      "unlockTimes": 1
+    },
+    {
+      "keyName": "PRAGMATISM -RESURRECTION-",
+      "unlockedTimes": 0,
+      "kindOfKey": 2,
+      "unlockTimes": 1
+    },
+    {
+      "keyName": "Shine After",
+      "unlockedTimes": 0,
+      "kindOfKey": 2,
+      "unlockTimes": 1
+    },
+    {
+      "keyName": "Bloom",
+      "unlockedTimes": 0,
+      "kindOfKey": 2,
+      "unlockTimes": 1
+    },
+    {
+      "keyName": "幽世桔梗",
+      "unlockedTimes": 0,
+      "kindOfKey": 2,
+      "unlockTimes": 1
+    },
+    {
+      "keyName": "千紫万紅",
+      "unlockedTimes": 0,
+      "kindOfKey": 2,
+      "unlockTimes": 1
+    },
+    {
+      "keyName": "明鏡烈火",
+      "unlockedTimes": 0,
+      "kindOfKey": 2,
+      "unlockTimes": 1
+    },
+    {
+      "keyName": "今天不是明天",
+      "unlockedTimes": 0,
+      "kindOfKey": 2,
+      "unlockTimes": 1
+    },
+    {
+      "keyName": "Cuvism³",
+      "unlockedTimes": 0,
+      "kindOfKey": 2,
+      "unlockTimes": 1
+    },
+    {
+      "keyName": "iL-Artifact",
+      "unlockedTimes": 0,
+      "kindOfKey": 2,
+      "unlockTimes": 1
+    },
+    {
+      "keyName": "a truth seeker -Communication with Utopia will be lost-",
+      "unlockedTimes": 0,
+      "kindOfKey": 2,
+      "unlockTimes": 1
+    },
+    {
+      "keyName": "Bounded Quietude",
+      "unlockedTimes": 0,
+      "kindOfKey": 2,
+      "unlockTimes": 1
+    },
+    {
       "keyName": "Introduction",
       "unlockedTimes": 0,
       "kindOfKey": 2,
@@ -20149,6 +21348,54 @@
     },
     {
       "keyName": "Alkaid",
+      "unlockedTimes": 0,
+      "kindOfKey": 3,
+      "unlockTimes": 1
+    },
+    {
+      "keyName": "ShineAfter-鸠-普通",
+      "unlockedTimes": 0,
+      "kindOfKey": 3,
+      "unlockTimes": 1
+    },
+    {
+      "keyName": "ShineAfter-鸠-曲绘Ver",
+      "unlockedTimes": 0,
+      "kindOfKey": 3,
+      "unlockTimes": 1
+    },
+    {
+      "keyName": "ShineAfter-鸠-Special",
+      "unlockedTimes": 0,
+      "kindOfKey": 3,
+      "unlockTimes": 1
+    },
+    {
+      "keyName": "ShineAfter-水青-普通",
+      "unlockedTimes": 0,
+      "kindOfKey": 3,
+      "unlockTimes": 1
+    },
+    {
+      "keyName": "ShineAfter-水青-曲绘Ver",
+      "unlockedTimes": 0,
+      "kindOfKey": 3,
+      "unlockTimes": 1
+    },
+    {
+      "keyName": "ShineAfter-水青-Special",
+      "unlockedTimes": 0,
+      "kindOfKey": 3,
+      "unlockTimes": 1
+    },
+    {
+      "keyName": "ShineAfter-水青-Special2",
+      "unlockedTimes": 0,
+      "kindOfKey": 3,
+      "unlockTimes": 1
+    },
+    {
+      "keyName": "ShineAfter-鸠和水青-Special",
       "unlockedTimes": 0,
       "kindOfKey": 3,
       "unlockTimes": 1
