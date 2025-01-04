@@ -6,7 +6,7 @@
   "m_Enabled": 1,
   "m_Script": {
     "m_FileID": 1,
-    "m_PathID": 860
+    "m_PathID": 855
   },
   "m_Name": "",
   "collectionItems": [
@@ -151,7 +151,7 @@
         "chineseTraditional": "詩籤#7",
         "english": "Stave No.7",
         "japanese": "詩集#7",
-        "korean": ""
+        "korean": "시집#7"
       }
     },
     {
@@ -169,7 +169,7 @@
         "chineseTraditional": "詩籤#8",
         "english": "Stave No.8",
         "japanese": "詩集#8",
-        "korean": ""
+        "korean": "시집#8"
       }
     },
     {
@@ -187,7 +187,7 @@
         "chineseTraditional": "詩籤#9",
         "english": "Stave No.9",
         "japanese": "詩集#9",
-        "korean": ""
+        "korean": "시집#9"
       }
     },
     {
@@ -205,7 +205,7 @@
         "chineseTraditional": "錄音筆Alpa",
         "english": "[Item] The Alpa Pen",
         "japanese": "ペン型ボイスレコーダーAlpa",
-        "korean": ""
+        "korean": "[아이템] 알파펜"
       }
     },
     {
@@ -223,7 +223,7 @@
         "chineseTraditional": "錄音筆Alpa·資訊一",
         "english": "The Alpa Pen - Clue I",
         "japanese": "ペン型ボイスレコーダーAlpa・手がかり1",
-        "korean": ""
+        "korean": "알파펜 - 단서 1"
       }
     },
     {
@@ -241,7 +241,7 @@
         "chineseTraditional": "錄音筆Alpa·資訊二",
         "english": "The Alpa Pen - Clue II",
         "japanese": "ペン型ボイスレコーダーAlpa・手がかり2",
-        "korean": ""
+        "korean": "알파펜 - 단서 2"
       }
     },
     {
@@ -259,7 +259,7 @@
         "chineseTraditional": "錄音筆Alpa·資訊三",
         "english": "The Alpa Pen - Clue III",
         "japanese": "ペン型ボイスレコーダーAlpa・手がかり3",
-        "korean": ""
+        "korean": "알파펜 - 단서 3"
       }
     },
     {
@@ -277,7 +277,7 @@
         "chineseTraditional": "【錄音】山風",
         "english": "[Rec] Mountain Breeze",
         "japanese": "【録音】山風",
-        "korean": ""
+        "korean": "[녹음] 산바람"
       }
     },
     {
@@ -295,7 +295,7 @@
         "chineseTraditional": "周邊·判定線抱枕",
         "english": "[Merch] Judgement Line Pillow",
         "japanese": "グッズ·判定ライン抱き枕",
-        "korean": ""
+        "korean": "[상품] 판정선 베개"
       }
     },
     {
@@ -313,7 +313,7 @@
         "chineseTraditional": "第七小隊勳章",
         "english": "[Item] Team VII Badge",
         "japanese": "第七小隊の紋章",
-        "korean": ""
+        "korean": "[아이템] 7팀 배지"
       }
     },
     {
@@ -331,7 +331,7 @@
         "chineseTraditional": "【錄音】火鍋",
         "english": "[Rec] Hot Pot",
         "japanese": "【録音】火鍋",
-        "korean": ""
+        "korean": "[녹음] 뜨거운 냄비"
       }
     },
     {
@@ -349,7 +349,7 @@
         "chineseTraditional": "【錄音】睡眠",
         "english": "[Rec] Sleep",
         "japanese": "【録音】睡眠",
-        "korean": ""
+        "korean": "[녹음] 잠"
       }
     },
     {
@@ -367,7 +367,7 @@
         "chineseTraditional": "【錄音】睡眠·資訊一",
         "english": "[Rec] Sleep - Clue I",
         "japanese": "【録音】睡眠・手がかり1",
-        "korean": ""
+        "korean": "[녹음] 잠 - 단서 1"
       }
     },
     {
@@ -385,7 +385,7 @@
         "chineseTraditional": "【錄音】踩雪",
         "english": "[Rec] Snow",
         "japanese": "【録音】雪踏み",
-        "korean": ""
+        "korean": "[녹음] 눈"
       }
     },
     {
@@ -403,7 +403,7 @@
         "chineseTraditional": "兩用摩托車Trophon",
         "english": "[Item] Trophon",
         "japanese": "両用バイクTrophon",
-        "korean": ""
+        "korean": "[아이템] 트로폰"
       }
     },
     {
@@ -421,7 +421,7 @@
         "chineseTraditional": "兩用摩托車Trophon·資訊一",
         "english": "Trophon - Clue I",
         "japanese": "両用バイクTrophon・手がかり1",
-        "korean": ""
+        "korean": "트로폰 - 단서 1"
       }
     },
     {
@@ -439,7 +439,7 @@
         "chineseTraditional": "兩用摩托車Trophon·資訊二",
         "english": "Trophon - Clue II",
         "japanese": "両用バイクTrophon・手がかり2",
-        "korean": ""
+        "korean": "트로폰 - 단서 2"
       }
     },
     {
@@ -457,7 +457,7 @@
         "chineseTraditional": "兩用摩托車Trophon·資訊三",
         "english": "Trophon - Clue III",
         "japanese": "両用バイクTrophon・手がかり3",
-        "korean": ""
+        "korean": "트로폰 - 단서 3"
       }
     },
     {
@@ -475,7 +475,7 @@
         "chineseTraditional": "空投小餅乾",
         "english": "[Item] Airdrop Biscuits",
         "japanese": "補給物資のビスケット",
-        "korean": ""
+        "korean": "[아이템] 비스킷 보급품"
       }
     },
     {
@@ -493,7 +493,7 @@
         "chineseTraditional": "梆笛",
         "english": "[Item] Ancient Flute",
         "japanese": "梆笛",
-        "korean": ""
+        "korean": "[아이템] 고대피리"
       }
     },
     {
@@ -511,7 +511,7 @@
         "chineseTraditional": "梆笛·資訊一",
         "english": "Ancient Flute - Clue I",
         "japanese": "梆笛・手がかり1",
-        "korean": ""
+        "korean": "고대피리 - 단서 1"
       }
     },
     {
@@ -529,7 +529,7 @@
         "chineseTraditional": "【錄音】黃鶯展翅",
         "english": "[Rec] Orioles",
         "japanese": "【録音】鶯の翅",
-        "korean": ""
+        "korean": "[녹음] 꾀꼬리"
       }
     },
     {
@@ -547,7 +547,7 @@
         "chineseTraditional": "宿舍鑰匙",
         "english": "[Item] Dorm Key",
         "japanese": "宿舎の鍵",
-        "korean": ""
+        "korean": "[아이템] 기숙사 열쇠"
       }
     },
     {
@@ -565,7 +565,7 @@
         "chineseTraditional": "魘魎角",
         "english": "[Item] Demice Horn",
         "japanese": "エンリョウの角",
-        "korean": ""
+        "korean": "[아이템] 데미스의 뿔"
       }
     },
     {
@@ -583,7 +583,7 @@
         "chineseTraditional": "電磁散彈槍",
         "english": "[Item] Electro magnetic Shotgun",
         "japanese": "レールショットガン",
-        "korean": ""
+        "korean": "[아이템] 전자기 산탄총"
       }
     },
     {
@@ -593,7 +593,7 @@
       "getInfo1": "",
       "getInfo2": "",
       "getInfo3": "",
-      "key": "yulou",
+      "key": "yulo",
       "subIndex": 1,
       "multiLanguageTitle": {
         "code": "",
@@ -601,7 +601,7 @@
         "chineseTraditional": "魚簍",
         "english": "[Item] Fish Basket",
         "japanese": "【録音】魚籠",
-        "korean": ""
+        "korean": "[아이템] 물고기 바구니"
       }
     },
     {
@@ -619,7 +619,7 @@
         "chineseTraditional": "【錄音】魚群的下場",
         "english": "[Rec] Fish Show",
         "japanese": "【録音】魚芝居",
-        "korean": ""
+        "korean": "[녹음] 물고기 쇼"
       }
     },
     {
@@ -637,7 +637,7 @@
         "chineseTraditional": "Theo的遺物·髮",
         "english": "[Item] Strand of Hair",
         "japanese": "髪",
-        "korean": ""
+        "korean": "[아이템] 머리카락 한 가닥"
       }
     },
     {
@@ -655,7 +655,7 @@
         "chineseTraditional": "【錄音】黑洞",
         "english": "[Rec] The Black Vortex",
         "japanese": "【録音】ブラックホール",
-        "korean": ""
+        "korean": "[녹음] 검은 소용돌이"
       }
     },
     {
@@ -673,7 +673,7 @@
         "chineseTraditional": "【影像】脂球",
         "english": "[Image] Dark Bile",
         "japanese": "【映像】脂肪球",
-        "korean": ""
+        "korean": "[이미지] 흑담즙"
       }
     },
     {
@@ -691,7 +691,7 @@
         "chineseTraditional": "錦囊",
         "english": "[Item] Silk Pouch",
         "japanese": "錦嚢(きんのう)",
-        "korean": ""
+        "korean": "[아이템] 실크 파우치"
       }
     },
     {
@@ -709,7 +709,7 @@
         "chineseTraditional": "住院服",
         "english": "[Item] Patient Uniform",
         "japanese": "病衣",
-        "korean": ""
+        "korean": "[아이템] 환자복"
       }
     },
     {
@@ -727,7 +727,7 @@
         "chineseTraditional": "花柄小刀",
         "english": "[Item] Flowery Knife",
         "japanese": "花柄のナイフ",
-        "korean": ""
+        "korean": "[아이템] 장미칼"
       }
     },
     {
@@ -745,7 +745,7 @@
         "chineseTraditional": "【影像】深井",
         "english": "[Image] Deep Well",
         "japanese": "【映像】深井戸",
-        "korean": ""
+        "korean": "[이미지] 깊은 우물"
       }
     },
     {
@@ -763,7 +763,7 @@
         "chineseTraditional": "【錄音】光",
         "english": "[Rec] Hikari",
         "japanese": "【録音】光",
-        "korean": ""
+        "korean": "[녹음] 빛"
       }
     },
     {
@@ -781,7 +781,7 @@
         "chineseTraditional": "登入權限：土星",
         "english": "[Login Permissions] Saturn",
         "japanese": "ログイン権限：サターン",
-        "korean": ""
+        "korean": "[로그인 권한] 토성"
       }
     },
     {
@@ -799,7 +799,7 @@
         "chineseTraditional": "登入權限：土星·資訊一",
         "english": "Saturn Login - Clue I",
         "japanese": "ログイン権限：サターン・手がかり1",
-        "korean": ""
+        "korean": "토성 로그인 - 단서 1"
       }
     },
     {
@@ -817,7 +817,7 @@
         "chineseTraditional": "0327圍剿令",
         "english": "Suppression Order 0327",
         "japanese": "0327討伐令",
-        "korean": ""
+        "korean": "진압 명령 0327"
       }
     },
     {
@@ -835,7 +835,7 @@
         "chineseTraditional": "魔皮紙377",
         "english": "Demice Skin Paper 377",
         "japanese": "魔革377",
-        "korean": ""
+        "korean": "데미스 스킨페이퍼 377"
       }
     },
     {
@@ -853,7 +853,7 @@
         "chineseTraditional": "魔皮紙377·資訊一",
         "english": "Demice Skin Paper 377 - Clue I",
         "japanese": "魔革377・手がかり1",
-        "korean": ""
+        "korean": "데미스 스킨페이퍼 - 단서 1"
       }
     },
     {
@@ -871,7 +871,7 @@
         "chineseTraditional": "冰川美食集",
         "english": "Glaci'o'Food",
         "japanese": "氷河美食会",
-        "korean": ""
+        "korean": "Glaci'o'Food"
       }
     },
     {
@@ -889,7 +889,7 @@
         "chineseTraditional": "冰川美食集·資訊一",
         "english": "Glaci'o'Food - Clue I",
         "japanese": "氷河美食会·手がかり1",
-        "korean": ""
+        "korean": "Glaci'o'Food - 단서 1"
       }
     },
     {
@@ -907,7 +907,7 @@
         "chineseTraditional": "冰川美食集·資訊二",
         "english": "Glaci'o'Food - Clue II",
         "japanese": "氷河美食会·手がかり2",
-        "korean": ""
+        "korean": "Glaci'o'Food - 단서 2"
       }
     },
     {
@@ -925,7 +925,7 @@
         "chineseTraditional": "冰川美食集·資訊三",
         "english": "Glaci'o'Food - Clue III",
         "japanese": "氷河美食会·手がかり3",
-        "korean": ""
+        "korean": "Glaci'o'Food - 단서 3"
       }
     },
     {
@@ -943,7 +943,7 @@
         "chineseTraditional": "收容報告·日報",
         "english": "[Item Report] Tabloid",
         "japanese": "収容レポート・報道",
-        "korean": ""
+        "korean": "[아이템 리포트] 태블로이드"
       }
     },
     {
@@ -961,7 +961,7 @@
         "chineseTraditional": "收容報告·紅色蝴蝶結",
         "english": "[Item Report] Red Bow",
         "japanese": "収容レポート・赤いリボン",
-        "korean": ""
+        "korean": "[아이템 리포트] 붉은 활"
       }
     },
     {
@@ -979,7 +979,7 @@
         "chineseTraditional": "收容報告·紅色蝴蝶結·資訊二",
         "english": "Red Bow - Clue I",
         "japanese": "収容レポート・赤いリボン・手がかり1",
-        "korean": ""
+        "korean": "붉은 활 - 단서 1"
       }
     },
     {
@@ -997,7 +997,7 @@
         "chineseTraditional": "收容報告·陶土花盆",
         "english": "[Item Report] Clay Flowerpot",
         "japanese": "収容レポート・陶土植木鉢",
-        "korean": ""
+        "korean": "[아이템 리포트] 점토 화분"
       }
     },
     {
@@ -1015,7 +1015,7 @@
         "chineseTraditional": "收容報告·陶土花盆·資訊一",
         "english": "Clay Flowerpot - Clue I",
         "japanese": "収容レポート・植木鉢・手がかり1",
-        "korean": ""
+        "korean": "점토 화분 - 단서 1"
       }
     },
     {
@@ -1033,7 +1033,7 @@
         "chineseTraditional": "收容報告·陶土花盆·資訊二",
         "english": "Clay Flowerpot - Clue II",
         "japanese": "収容レポート・植木鉢・手がかり2",
-        "korean": ""
+        "korean": "점토 화분 - 단서 2"
       }
     },
     {
@@ -1051,7 +1051,7 @@
         "chineseTraditional": "收容報告·裙底之物",
         "english": "[Rec] Under the Dress",
         "japanese": "収容レポート・アンダースカートキス",
-        "korean": ""
+        "korean": "[녹음] 드레스 아래"
       }
     },
     {
@@ -1069,7 +1069,7 @@
         "chineseTraditional": "收容報告·裙底之物·資訊一",
         "english": "Under the Dress - Clue I",
         "japanese": "収容レポート・アンダースカートキス・手がかり一",
-        "korean": ""
+        "korean": "드레스 아래 - 단서 1"
       }
     },
     {
@@ -1087,7 +1087,7 @@
         "chineseTraditional": "公告·十七的寶藏",
         "english": "[Announcement] The Treasure of 17",
         "japanese": "報告・十七の宝",
-        "korean": ""
+        "korean": "[공지] 17의 보물"
       }
     },
     {
@@ -1105,7 +1105,7 @@
         "chineseTraditional": "鴿子集結號",
         "english": "[Rec] Pigeon Assembly",
         "japanese": "ぽっぽ集合ラッパ",
-        "korean": ""
+        "korean": "[녹음] 비둘기 집회"
       }
     },
     {
@@ -1123,7 +1123,7 @@
         "chineseTraditional": "三尾吉祥魚",
         "english": "[Rec] Three Lucky Fish",
         "japanese": "三尾幸運魚",
-        "korean": ""
+        "korean": "[녹음] 행운의 세 물고기"
       }
     },
     {
@@ -1141,7 +1141,7 @@
         "chineseTraditional": "給十七的挑戰書",
         "english": "Challenge Letter to 17",
         "japanese": "十七への挑戦状",
-        "korean": ""
+        "korean": "17의 첼린지"
       }
     },
     {
@@ -1159,7 +1159,7 @@
         "chineseTraditional": "給十七的挑戰書·資訊一",
         "english": "Challenge Letter to 17 - Clue I",
         "japanese": "十七への挑戦状・手がかり1",
-        "korean": ""
+        "korean": "17의 첼린지 - 단서 1"
       }
     },
     {
@@ -1177,7 +1177,7 @@
         "chineseTraditional": "烤 全 鴨",
         "english": "[File] Burn'd Duck",
         "japanese": "丸焼きアヒル",
-        "korean": ""
+        "korean": "[파일] 구운 오리"
       }
     },
     {
@@ -1195,7 +1195,7 @@
         "chineseTraditional": "警長證",
         "english": "[Item] Sheriff's Badge",
         "japanese": "警察官の証",
-        "korean": ""
+        "korean": "[아이템] 보안관 배지"
       }
     },
     {
@@ -1213,7 +1213,7 @@
         "chineseTraditional": "【影像】塔",
         "english": "[Image] Tower",
         "japanese": "【映像】塔",
-        "korean": ""
+        "korean": "[이미지] 타워"
       }
     },
     {
@@ -1231,7 +1231,7 @@
         "chineseTraditional": "【影像】現場勘驗報告·夏草",
         "english": "[Image] Site Inspection Record",
         "japanese": "【映像】現場調査レポート・夏草",
-        "korean": ""
+        "korean": "[이미지] 현장 점검 기록"
       }
     },
     {
@@ -1249,7 +1249,7 @@
         "chineseTraditional": "星星的碎片·冬",
         "english": "[Item] Winter Star Fragment",
         "japanese": "星の欠片・冬",
-        "korean": ""
+        "korean": "[아이템] 얼음 별 조각"
       }
     },
     {
@@ -1267,7 +1267,7 @@
         "chineseTraditional": "收音機",
         "english": "[item] Radio",
         "japanese": "ラジオ",
-        "korean": ""
+        "korean": "[아이템] 라디오"
       }
     },
     {
@@ -1285,7 +1285,7 @@
         "chineseTraditional": "收音機·資訊一",
         "english": "Radio - Clue I",
         "japanese": "ラジオ・手がかり1",
-        "korean": ""
+        "korean": "라디오 - 단서 1"
       }
     },
     {
@@ -1303,7 +1303,7 @@
         "chineseTraditional": "收音機·資訊二",
         "english": "Radio - Clue II",
         "japanese": "ラジオ・手がかり2",
-        "korean": ""
+        "korean": "라디오 - 단서 2"
       }
     },
     {
@@ -1321,7 +1321,7 @@
         "chineseTraditional": "【錄音】太平鼓",
         "english": "[Rec] Drums of Peace",
         "japanese": "【録音】太平鼓",
-        "korean": ""
+        "korean": "[녹음] 평화의 드럼"
       }
     },
     {
@@ -1339,7 +1339,7 @@
         "chineseTraditional": "魔術棒",
         "english": "[Item] Magic Wand",
         "japanese": "マジック杖",
-        "korean": ""
+        "korean": "[아이템] 마법봉"
       }
     },
     {
@@ -1357,7 +1357,7 @@
         "chineseTraditional": "拾荒者身分識別證",
         "english": "[Item] Scavenger Token",
         "japanese": "ホームレスの証",
-        "korean": ""
+        "korean": "[아이템] 스캐빈저 토큰"
       }
     },
     {
@@ -1375,7 +1375,7 @@
         "chineseTraditional": "石林地圖",
         "english": "[Item] Hoodoo Map",
         "japanese": "石森の地図",
-        "korean": ""
+        "korean": "[아이템] 후두 지도"
       }
     },
     {
@@ -1393,7 +1393,7 @@
         "chineseTraditional": "【錄音】叫花雞",
         "english": "[Rec] Beggar's Chicken",
         "japanese": "【録音】叫化鶏",
-        "korean": ""
+        "korean": "[녹음] 거지의 치킨"
       }
     },
     {
@@ -1411,7 +1411,7 @@
         "chineseTraditional": "綠色異變種",
         "english": "[Rec] Mutant Poultry",
         "japanese": "緑の変異体",
-        "korean": ""
+        "korean": "[녹음] 돌연변이 가금류"
       }
     },
     {
@@ -1429,7 +1429,7 @@
         "chineseTraditional": "【影像】水塔",
         "english": "[Image] Water Tower",
         "japanese": "【映像】水の塔",
-        "korean": ""
+        "korean": "[이미지] 급수"
       }
     },
     {
@@ -1447,7 +1447,7 @@
         "chineseTraditional": "兩用摩托車Trophon·資訊四",
         "english": "Trophon - Clue IV",
         "japanese": "両用バイクTrophon・手がかり4",
-        "korean": ""
+        "korean": "트로폰 - 단서 4"
       }
     },
     {
@@ -1465,7 +1465,7 @@
         "chineseTraditional": "錄音筆Alpa·資訊四",
         "english": "The Alpa Pen - Clue IV",
         "japanese": "ペン型ボイスレコーダーAlpa・手がかり4",
-        "korean": ""
+        "korean": "알파펜 - 단서 4"
       }
     },
     {
@@ -1483,7 +1483,7 @@
         "chineseTraditional": "錄音筆Alpa·資訊五",
         "english": "The Alpa Pen - Clue V",
         "japanese": "ペン型ボイスレコーダーAlpa・手がかり５",
-        "korean": ""
+        "korean": "알파펜 - 단서 5"
       }
     },
     {
@@ -1501,7 +1501,7 @@
         "chineseTraditional": "【錄音】晨",
         "english": "[Rec] Morning",
         "japanese": "【録音】朝",
-        "korean": ""
+        "korean": "[녹음] 아침"
       }
     },
     {
@@ -1519,7 +1519,7 @@
         "chineseTraditional": "【錄音】晨·資訊一",
         "english": "[Rec] Morning - Clue I",
         "japanese": "【録音】朝・手がかり1",
-        "korean": ""
+        "korean": "[녹음] 아침 - 단서 1"
       }
     },
     {
@@ -1537,7 +1537,7 @@
         "chineseTraditional": "五彩石",
         "english": "[Item] Five-Color Rock",
         "japanese": "五彩石",
-        "korean": ""
+        "korean": "[아이템] 오색돌"
       }
     },
     {
@@ -1555,7 +1555,7 @@
         "chineseTraditional": "彩虹繪本",
         "english": "[File] Colorful Picture Book",
         "japanese": "虹色の絵本",
-        "korean": ""
+        "korean": "[파일] 알록달록 그림책"
       }
     },
     {
@@ -1573,7 +1573,7 @@
         "chineseTraditional": "金屬臂",
         "english": "[Item] Metal Arm",
         "japanese": "メタルアーム",
-        "korean": ""
+        "korean": "[아이템] 금속 팔"
       }
     },
     {
@@ -1591,7 +1591,7 @@
         "chineseTraditional": "苦杏仁",
         "english": "[Item] Bitter Nuts",
         "japanese": "苦い杏仁",
-        "korean": ""
+        "korean": "[아이템] 쓴 견과류"
       }
     },
     {
@@ -1609,7 +1609,7 @@
         "chineseTraditional": "收音機·資訊三",
         "english": "Radio - Clue III",
         "japanese": "ラジオ・手がかり3",
-        "korean": ""
+        "korean": "라디오 - 단서 3"
       }
     },
     {
@@ -1627,7 +1627,7 @@
         "chineseTraditional": "【影像】Fuli Auto Shooter！",
         "english": "[Image] Fuli Auto Shooter!",
         "japanese": "【映像 】Fuli Auto Shooter",
-        "korean": ""
+        "korean": "[이미지] Fuli Auto Shooter!"
       }
     },
     {
@@ -1645,7 +1645,7 @@
         "chineseTraditional": "巴雷特外殼",
         "english": "[Item] Bullet Casings",
         "japanese": "バレットの殻",
-        "korean": ""
+        "korean": "[아이템] 총알 탄피"
       }
     },
     {
@@ -1663,7 +1663,7 @@
         "chineseTraditional": "Fuli雕像",
         "english": "[Image] Statue of Fuli",
         "japanese": "Fuliの像",
-        "korean": ""
+        "korean": "[이미지] Fuli 동상"
       }
     },
     {
@@ -1681,7 +1681,7 @@
         "chineseTraditional": "【影像】巢棲道站",
         "english": "[Image] Perchnest Station",
         "japanese": "【映像】巣栖駅",
-        "korean": ""
+        "korean": "[이미지] 퍼치네스트 역"
       }
     },
     {
@@ -1699,7 +1699,7 @@
         "chineseTraditional": "【影像】塗鴉",
         "english": "[Image] Graffiti",
         "japanese": "【映像】落書き",
-        "korean": ""
+        "korean": "[이미지] 낙서"
       }
     },
     {
@@ -1717,7 +1717,7 @@
         "chineseTraditional": "HQ004班次車票",
         "english": "[Item] HQ004 Ticket",
         "japanese": "HQ004チケット",
-        "korean": ""
+        "korean": "[아이템] HQ004 티켓"
       }
     },
     {
@@ -1735,7 +1735,7 @@
         "chineseTraditional": "液壓劑",
         "english": "[Item] Hydraulic Agent",
         "japanese": "水圧フィラー",
-        "korean": ""
+        "korean": "[아이템] 유압제"
       }
     },
     {
@@ -1753,7 +1753,7 @@
         "chineseTraditional": "錨",
         "english": "[Item] Anchor",
         "japanese": "アンカー",
-        "korean": ""
+        "korean": "[아이템] 닻"
       }
     },
     {
@@ -1771,7 +1771,7 @@
         "chineseTraditional": "詩籤#10",
         "english": "Stave No.10",
         "japanese": "詩集＃10",
-        "korean": ""
+        "korean": "시집#10"
       }
     },
     {
@@ -1789,7 +1789,7 @@
         "chineseTraditional": "詩籤#11",
         "english": "Stave No.11",
         "japanese": "詩集＃11",
-        "korean": ""
+        "korean": "시집#11"
       }
     },
     {
@@ -1807,7 +1807,7 @@
         "chineseTraditional": "【影像】堡壘",
         "english": "[Image] Fortress",
         "japanese": "【映像】お城",
-        "korean": ""
+        "korean": "[이미지] 요새"
       }
     },
     {
@@ -1825,7 +1825,7 @@
         "chineseTraditional": "【影像】巢棲道站·資訊一",
         "english": "Perchnest Station - Clue I ",
         "japanese": "【映像】巣栖道駅・手がかり1",
-        "korean": ""
+        "korean": "퍼치네스트 역 - 단서 1"
       }
     },
     {
@@ -1843,7 +1843,7 @@
         "chineseTraditional": "重生",
         "english": "[Rec] Rebirth",
         "japanese": "輪廻",
-        "korean": ""
+        "korean": "[녹음] 갱생"
       }
     },
     {
@@ -1861,7 +1861,7 @@
         "chineseTraditional": "破譯·望影の方舟Six",
         "english": "[Decipher] 望影の方舟Six",
         "japanese": "解読・望影の方舟Six",
-        "korean": ""
+        "korean": "[해독] 望影の方舟Six"
       }
     },
     {
@@ -1879,7 +1879,7 @@
         "chineseTraditional": "",
         "english": "",
         "japanese": "",
-        "korean": ""
+        "korean": "[해독] 望影の方舟Six - 단서 1"
       }
     },
     {
@@ -1897,7 +1897,7 @@
         "chineseTraditional": "破譯·Igallta",
         "english": "Decipher - Igallta",
         "japanese": "解読・Igallta",
-        "korean": ""
+        "korean": "해독 - Igallta"
       }
     },
     {
@@ -1915,7 +1915,7 @@
         "chineseTraditional": "旁白：忘憂宮",
         "english": "Narration: Lotos",
         "japanese": "ナレーション「ロートス」",
-        "korean": ""
+        "korean": "나레이션: 로터스"
       }
     },
     {
@@ -1933,7 +1933,7 @@
         "chineseTraditional": "旁白：奧德修斯港",
         "english": "Narration: Odysseus",
         "japanese": "ナレーション「オデシュース港」",
-        "korean": ""
+        "korean": "나레이션: 오디세우스"
       }
     },
     {
@@ -1949,9 +1949,9 @@
         "code": "",
         "chinese": "旁白：克洛诺斯",
         "chineseTraditional": "旁白：克羅諾斯",
-        "english": "Narration: Chronos",
+        "english": "Narration: Cronos",
         "japanese": "ナレーション「クロノス」",
-        "korean": ""
+        "korean": "나레이션: 크로노스"
       }
     },
     {
@@ -1969,7 +1969,7 @@
         "chineseTraditional": "旁白：奇蹟之森",
         "english": "Narration: Miracle Forest",
         "japanese": "ナレーション「奇跡の森」",
-        "korean": ""
+        "korean": "나레이션: 기적의 숲"
       }
     },
     {
@@ -1987,7 +1987,7 @@
         "chineseTraditional": "旁白：迷宮盡頭",
         "english": "Narration: End of Labyrinth",
         "japanese": "ナレーション「迷宮の果て」",
-        "korean": ""
+        "korean": "나레이션: 미궁의 끝"
       }
     },
     {
@@ -2005,7 +2005,7 @@
         "chineseTraditional": "《拉瓦缽的覆滅》",
         "english": "<The Fall of Lavabo>",
         "japanese": "《ラベーボの壊滅》",
-        "korean": ""
+        "korean": "<라바보의 몰락>"
       }
     },
     {
@@ -2023,7 +2023,7 @@
         "chineseTraditional": "《拉瓦缽的覆滅》",
         "english": "<The Fall of Lavabo>",
         "japanese": "《ラベーボの壊滅》・手がかり1",
-        "korean": ""
+        "korean": "<라바보의 몰락> - 단서 1"
       }
     },
     {
@@ -2041,7 +2041,7 @@
         "chineseTraditional": "《拉瓦缽的覆滅》",
         "english": "<The Fall of Lavabo>",
         "japanese": "《ラベーボの壊滅》・手がかり2",
-        "korean": ""
+        "korean": "<라바보의 몰락> - 단서 2"
       }
     },
     {
@@ -2059,7 +2059,7 @@
         "chineseTraditional": "《拉瓦缽的覆滅》",
         "english": "<The Fall of Lavabo>",
         "japanese": "《ラベーボの壊滅》・手がかり3",
-        "korean": ""
+        "korean": "<라바보의 몰락> - 단서 3"
       }
     },
     {
@@ -2077,7 +2077,7 @@
         "chineseTraditional": "《拉瓦缽的覆滅》",
         "english": "<The Fall of Lavabo>",
         "japanese": "《ラベーボの壊滅》・手がかり4",
-        "korean": ""
+        "korean": "<라바보의 몰락> - 단서 4"
       }
     },
     {
@@ -2095,7 +2095,7 @@
         "chineseTraditional": "虛妄之匣",
         "english": "Box of Delusion",
         "japanese": "虚妄の箱",
-        "korean": ""
+        "korean": "망상의 상자"
       }
     },
     {
@@ -2113,7 +2113,7 @@
         "chineseTraditional": "虛妄之匣",
         "english": "Box of Delusion",
         "japanese": "虚妄の箱",
-        "korean": ""
+        "korean": "망상의 상자"
       }
     },
     {
@@ -2131,7 +2131,7 @@
         "chineseTraditional": "虛妄之匣",
         "english": "Box of Delusion",
         "japanese": "虚妄の箱",
-        "korean": ""
+        "korean": "망상의 상자"
       }
     },
     {
@@ -2149,7 +2149,7 @@
         "chineseTraditional": "Ida的超振動小刀",
         "english": "Ida's Super Vibration Knife",
         "japanese": "エイダの超振動ナイフ",
-        "korean": ""
+        "korean": "아이다의 슈퍼 진동 칼"
       }
     },
     {
@@ -2167,7 +2167,7 @@
         "chineseTraditional": "Ida的超振動小刀",
         "english": "Ida's Super Vibration Knife",
         "japanese": "エイダの超振動ナイフ・手がかり1",
-        "korean": ""
+        "korean": "아이다의 슈퍼 진동 칼 - 단서 1"
       }
     },
     {
@@ -2185,7 +2185,7 @@
         "chineseTraditional": "Bernice的研究筆記",
         "english": "Bernice's Research Notes",
         "japanese": "べルネスの研究ノート",
-        "korean": ""
+        "korean": "버니스의 연구 노트"
       }
     },
     {
@@ -2203,7 +2203,7 @@
         "chineseTraditional": "Bernice的研究筆記",
         "english": "Bernice's Research Notes",
         "japanese": "べルネスの研究ノート・手がかり1",
-        "korean": ""
+        "korean": "버니스의 연구 노트 - 단서 1"
       }
     },
     {
@@ -2221,7 +2221,7 @@
         "chineseTraditional": "Bernice的研究筆記",
         "english": "Bernice's Research Notes",
         "japanese": "べルネスの研究ノート・手がかり2",
-        "korean": ""
+        "korean": "버니스의 연구 노트 - 단서 2"
       }
     },
     {
@@ -2239,7 +2239,7 @@
         "chineseTraditional": "Bernice的研究筆記",
         "english": "Bernice's Research Notes",
         "japanese": "べルネスの研究ノート・手がかり3",
-        "korean": ""
+        "korean": "버니스의 연구 노트 - 단서 3"
       }
     },
     {
@@ -2257,7 +2257,7 @@
         "chineseTraditional": "Bernice的神奇挎包",
         "english": "Bernice's Magical Satchel",
         "japanese": "べルネスの奇妙ポシェット",
-        "korean": ""
+        "korean": "버니스의 마법 가방"
       }
     },
     {
@@ -2275,7 +2275,7 @@
         "chineseTraditional": "Bernice的神奇挎包",
         "english": "Bernice's Magical Satchel",
         "japanese": "べルネスの奇妙ポシェット・手がかり1",
-        "korean": ""
+        "korean": "버니스의 마법 가방 - 단서 1"
       }
     },
     {
@@ -2293,7 +2293,7 @@
         "chineseTraditional": "Bernice的神奇挎包",
         "english": "Bernice's Magical Satchel",
         "japanese": "べルネスの奇妙ポシェット・手がかり2",
-        "korean": ""
+        "korean": "버니스의 마법 가방 - 단서 2"
       }
     },
     {
@@ -2311,7 +2311,7 @@
         "chineseTraditional": "Bernice的神奇挎包",
         "english": "Bernice's Magical Satchel",
         "japanese": "べルネスの奇妙ポシェット・手がかり3",
-        "korean": ""
+        "korean": "버니스의 마법 가방 - 단서 3"
       }
     },
     {
@@ -2329,7 +2329,7 @@
         "chineseTraditional": "Sappho的運動相機",
         "english": "Sappho's Action Camera",
         "japanese": "サフォのアクションカメラ",
-        "korean": ""
+        "korean": "사포의 액션 캠"
       }
     },
     {
@@ -2347,7 +2347,7 @@
         "chineseTraditional": "Sappho的運動相機",
         "english": "Sappho's Action Camera",
         "japanese": "サフォのアクションカメラ・手がかり1",
-        "korean": ""
+        "korean": "사포의 액션 캠 - 단서 1"
       }
     },
     {
@@ -2365,7 +2365,7 @@
         "chineseTraditional": "Sappho的運動相機",
         "english": "Sappho's Action Camera",
         "japanese": "サフォのアクションカメラ・手がかり2",
-        "korean": ""
+        "korean": "사포의 액션 캠 - 단서 2"
       }
     },
     {
@@ -2383,7 +2383,7 @@
         "chineseTraditional": "Sappho的運動相機",
         "english": "Sappho's Action Camera",
         "japanese": "サフォのアクションカメラ・手がかり3",
-        "korean": ""
+        "korean": "사포의 액션 캠 - 단서 3"
       }
     },
     {
@@ -2401,7 +2401,7 @@
         "chineseTraditional": "定向繩索",
         "english": "Directional Rope",
         "japanese": "指向性ロープ",
-        "korean": ""
+        "korean": "방향성 로프"
       }
     },
     {
@@ -2419,7 +2419,7 @@
         "chineseTraditional": "定向繩索",
         "english": "Directional Rope",
         "japanese": "指向性ロープ・手がかり1",
-        "korean": ""
+        "korean": "방향성 로프 - 단서 1"
       }
     },
     {
@@ -2437,7 +2437,7 @@
         "chineseTraditional": "定向繩索",
         "english": "Directional Rope",
         "japanese": "指向性ロープ・手がかり2",
-        "korean": ""
+        "korean": "방향성 로프 - 단서 2"
       }
     },
     {
@@ -2455,7 +2455,7 @@
         "chineseTraditional": "身分證",
         "english": "Identification",
         "japanese": "身分証明",
-        "korean": ""
+        "korean": "신분증"
       }
     },
     {
@@ -2473,7 +2473,7 @@
         "chineseTraditional": "身分證",
         "english": "Identification",
         "japanese": "身分証明・手がかり1",
-        "korean": ""
+        "korean": "신분증 - 단서 1"
       }
     },
     {
@@ -2491,7 +2491,7 @@
         "chineseTraditional": "身分證",
         "english": "Identification",
         "japanese": "身分証明・手がかり2",
-        "korean": ""
+        "korean": "신분증 - 단서 2"
       }
     },
     {
@@ -2509,7 +2509,7 @@
         "chineseTraditional": "身分證",
         "english": "Identification",
         "japanese": "身分証明・手がかり3",
-        "korean": ""
+        "korean": "신분증 - 단서 3"
       }
     },
     {
@@ -2527,7 +2527,7 @@
         "chineseTraditional": "真理之珠",
         "english": "Pearl of Truth",
         "japanese": "真理の珠",
-        "korean": ""
+        "korean": "진실의 진주"
       }
     },
     {
@@ -2545,7 +2545,7 @@
         "chineseTraditional": "真理之珠",
         "english": "Pearl of Truth",
         "japanese": "真理の珠・手がかり1",
-        "korean": ""
+        "korean": "진실의 진주 - 단서 1"
       }
     },
     {
@@ -2563,7 +2563,7 @@
         "chineseTraditional": "真理之珠",
         "english": "Pearl of Truth",
         "japanese": "真理の珠・手がかり2",
-        "korean": ""
+        "korean": "진실의 진주 - 단서 2"
       }
     },
     {
@@ -2581,7 +2581,7 @@
         "chineseTraditional": "竊聽器",
         "english": "Wiretap",
         "japanese": "盗聴器",
-        "korean": ""
+        "korean": "도청 장치"
       }
     },
     {
@@ -2599,7 +2599,7 @@
         "chineseTraditional": "竊聽器",
         "english": "Wiretap",
         "japanese": "盗聴器・手がかり1",
-        "korean": ""
+        "korean": "도청 장치 - 단서 1"
       }
     },
     {
@@ -2617,7 +2617,7 @@
         "chineseTraditional": "監聽器",
         "english": "Wiretap",
         "japanese": "盗聴器・手がかり2",
-        "korean": ""
+        "korean": "도청 장치 - 단서 2"
       }
     },
     {
@@ -2635,7 +2635,7 @@
         "chineseTraditional": "奧德修斯港出海紀錄",
         "english": "Port Odysseus Sailing Record",
         "japanese": "オデシュース港出航記録",
-        "korean": ""
+        "korean": "오디세우스 항구 항해 기록"
       }
     },
     {
@@ -2653,7 +2653,7 @@
         "chineseTraditional": "奧德修斯港出海紀錄",
         "english": "Port Odysseus Sailing Record",
         "japanese": "オデシュース港出航記録・手がかり1",
-        "korean": ""
+        "korean": "오디세우스 항구 항해 기록 - 단서 1"
       }
     },
     {
@@ -2671,7 +2671,7 @@
         "chineseTraditional": "奧德修斯港出海紀錄",
         "english": "Port Odysseus Sailing Record",
         "japanese": "オデシュース港出航記録・手がかり2",
-        "korean": ""
+        "korean": "오디세우스 항구 항해 기록 - 단서 2"
       }
     },
     {
@@ -2689,7 +2689,7 @@
         "chineseTraditional": "紙片",
         "english": "Piece of Paper",
         "japanese": "紙片",
-        "korean": ""
+        "korean": "종이 조각"
       }
     },
     {
@@ -2707,7 +2707,7 @@
         "chineseTraditional": "【影像】時鐘悖論",
         "english": "[Image] Clock Paradox",
         "japanese": "【映像】クロックパラドックス",
-        "korean": ""
+        "korean": "[이미지] Clock Paradox"
       }
     },
     {
@@ -2725,7 +2725,7 @@
         "chineseTraditional": "時鐘城第93屆ALIGN梅花型拉力賽",
         "english": "Clock Town 93rd ALIGN Club Type Rally",
         "japanese": "時計城第93回ALIGNクラブ型リレー大会",
-        "korean": ""
+        "korean": "시계 마을 93번째 ALIGN 클럽형 랠리"
       }
     },
     {
@@ -2743,7 +2743,7 @@
         "chineseTraditional": "今年過節上春晚",
         "english": "This year on the New Year's Gala",
         "japanese": "今年の正月は春晩で",
-        "korean": ""
+        "korean": "올해 새해맞이 갈라에서"
       }
     },
     {
@@ -2761,7 +2761,7 @@
         "chineseTraditional": "穿越小隊少一人",
         "english": "One less person in the Travelling Squad",
         "japanese": "トラベル小隊一人消失",
-        "korean": ""
+        "korean": "여행 부대 일원 부족"
       }
     },
     {
@@ -2779,7 +2779,7 @@
         "chineseTraditional": "世界上的另個我",
         "english": "Another me in the world",
         "japanese": "この世界のもう一人の私",
-        "korean": ""
+        "korean": "세상의 또 다른 나"
       }
     },
     {
@@ -2797,7 +2797,7 @@
         "chineseTraditional": "親朋好友其歡聚",
         "english": "Family and friends gather together",
         "japanese": "家族親友大集合",
-        "korean": ""
+        "korean": "가족과 친구들의 모임"
       }
     },
     {
@@ -2815,7 +2815,7 @@
         "chineseTraditional": "未來降臨我身邊",
         "english": "Future falls down to me",
         "japanese": "未来が私に舞い降りた",
-        "korean": ""
+        "korean": "미래는 나에게 달려있다"
       }
     },
     {
@@ -2833,7 +2833,7 @@
         "chineseTraditional": "破譯·最後的音礦",
         "english": "Decryption – The Last Notalium",
         "japanese": "解読・最後のノタリウム",
-        "korean": ""
+        "korean": "복호화 - 마지막 노탈리움"
       }
     },
     {
@@ -2851,7 +2851,7 @@
         "chineseTraditional": "破譯·半封信",
         "english": "Decryption – Half A Letter",
         "japanese": "解読・半分の手紙",
-        "korean": ""
+        "korean": "복호화 - 의뢰서 반쪽"
       }
     },
     {
@@ -2869,7 +2869,7 @@
         "chineseTraditional": "破譯·人偶",
         "english": "Decryption - Golem",
         "japanese": "解読・人形",
-        "korean": ""
+        "korean": "복호화 - 골렘"
       }
     },
     {
@@ -2887,7 +2887,7 @@
         "chineseTraditional": "破譯·委託人",
         "english": "Decryption - The Client",
         "japanese": "解読・依頼人",
-        "korean": ""
+        "korean": "복호화 - 의뢰인"
       }
     },
     {
@@ -2905,7 +2905,7 @@
         "chineseTraditional": "生命之音",
         "english": "Sound of Life",
         "japanese": "命の音",
-        "korean": ""
+        "korean": "생명의 소리"
       }
     },
     {
@@ -2923,7 +2923,7 @@
         "chineseTraditional": "摘錄·守護日誌·機關槍",
         "english": "",
         "japanese": "抜粋・番人日記・機関銃",
-        "korean": ""
+        "korean": "발췌·수호 일기·기관총"
       }
     },
     {
@@ -2941,7 +2941,7 @@
         "chineseTraditional": "摘錄·守護日誌·機關槍·資訊一",
         "english": "",
         "japanese": "抜粋・番人日記・機関銃・手がかり1",
-        "korean": ""
+        "korean": "발췌·수호 일기·기관총 - 단서 1"
       }
     },
     {
@@ -2959,7 +2959,7 @@
         "chineseTraditional": "摘錄·守護日誌·機關槍·資訊二",
         "english": "",
         "japanese": "抜粋・番人日記・機関銃・手がかり2",
-        "korean": ""
+        "korean": "발췌·수호 일기·기관총 - 단서 2"
       }
     },
     {
@@ -2977,7 +2977,7 @@
         "chineseTraditional": "摘錄·守護日誌·機關槍·資訊三",
         "english": "",
         "japanese": "抜粋・番人日記・機関銃・手がかり3",
-        "korean": ""
+        "korean": "발췌·수호 일기·기관총 - 단서 3"
       }
     },
     {
@@ -2995,7 +2995,7 @@
         "chineseTraditional": "詩籤#12·戰士",
         "english": "Stave No.12 – Warrior",
         "japanese": "詩集#12・戦士",
-        "korean": ""
+        "korean": "시집#12 - 전사"
       }
     },
     {
@@ -3013,7 +3013,7 @@
         "chineseTraditional": "詩籤#13·夜之歌",
         "english": "Stave No.13 – Poem of Night",
         "japanese": "詩集#13・夜闇の唄",
-        "korean": ""
+        "korean": "시집#13 - 밤의 시"
       }
     },
     {
@@ -3031,7 +3031,7 @@
         "chineseTraditional": "詩籤#14·橄欖樹上",
         "english": "Stave No.14 – On the Olive Tree",
         "japanese": "詩集#14・オリーブの木の上にて",
-        "korean": ""
+        "korean": "시집#14 - 올리브 나무 위"
       }
     },
     {
@@ -3049,7 +3049,7 @@
         "chineseTraditional": "詩籤#15·魔術師",
         "english": "Stave No.15 – Magician",
         "japanese": "詩集#15・魔術師",
-        "korean": ""
+        "korean": "시집#15 - 마술사"
       }
     },
     {
@@ -3067,7 +3067,7 @@
         "chineseTraditional": "詩籤#16·流浪人",
         "english": "Stave No.16 – The wanderer",
         "japanese": "詩集#16・流浪人",
-        "korean": ""
+        "korean": "시집#16 - 방랑자"
       }
     },
     {
@@ -3085,7 +3085,7 @@
         "chineseTraditional": "戰士·一·馬",
         "english": "Warrior – One – Horse",
         "japanese": "戦士・その一・馬",
-        "korean": ""
+        "korean": "전사 - 1 - 말"
       }
     },
     {
@@ -3103,7 +3103,7 @@
         "chineseTraditional": "戰士·二·疾馳",
         "english": "Warrior – Two – Dashing",
         "japanese": "戦士・その二・疾走",
-        "korean": ""
+        "korean": "전사 - 2 - 돌진"
       }
     },
     {
@@ -3121,7 +3121,7 @@
         "chineseTraditional": "戰士·三·喜劇",
         "english": "Warrior – Three – Comedy",
         "japanese": "戦士・その三・喜劇",
-        "korean": ""
+        "korean": "전사 - 3 - 코미디"
       }
     },
     {
@@ -3139,7 +3139,7 @@
         "chineseTraditional": "戰士·四·冰封",
         "english": "Warrior – Four – Glaciaxia",
         "japanese": "戦士・その四・氷封",
-        "korean": ""
+        "korean": "전사 - 4 - 빙하"
       }
     },
     {
@@ -3157,7 +3157,7 @@
         "chineseTraditional": "戰士·五·起飛",
         "english": "Warrior – Five - Launching",
         "japanese": "戦士・その五・離昇",
-        "korean": ""
+        "korean": "전사 - 5 - 진수"
       }
     },
     {
@@ -3175,7 +3175,7 @@
         "chineseTraditional": "戰士·六·人類",
         "english": "Warrior – Six – Human",
         "japanese": "戦士・その六・人間",
-        "korean": ""
+        "korean": "전사 - 6 - 인간"
       }
     },
     {
@@ -3193,7 +3193,7 @@
         "chineseTraditional": "詩籤#17 Zer0",
         "english": "Stave No.17 Zer0",
         "japanese": "詩集#17 Zer0",
-        "korean": ""
+        "korean": "시집#17 - Zer0"
       }
     },
     {
@@ -3211,7 +3211,7 @@
         "chineseTraditional": "Poem M2",
         "english": "Poem M2",
         "japanese": "Poem M2",
-        "korean": ""
+        "korean": "시집 - M2"
       }
     },
     {
@@ -3229,7 +3229,7 @@
         "chineseTraditional": "Poem 3ere",
         "english": "Poem 3ere",
         "japanese": "Poem 3ere",
-        "korean": ""
+        "korean": "시집 - 3ere"
       }
     },
     {
@@ -3247,7 +3247,7 @@
         "chineseTraditional": "Poem 4Y0",
         "english": "Poem 4Y0",
         "japanese": "Poem 4Y0",
-        "korean": ""
+        "korean": "시집 - 4Y0"
       }
     },
     {
@@ -3265,7 +3265,7 @@
         "chineseTraditional": "Poem The 5no",
         "english": "Poem The 5no ",
         "japanese": "Poem The 5no",
-        "korean": ""
+        "korean": "시집 - The 5no"
       }
     },
     {
@@ -3281,9 +3281,9 @@
         "code": "",
         "chinese": "里表舞厅",
         "chineseTraditional": "表裡舞廳",
-        "english": "",
+        "english": "Two-Faced Dance Floor",
         "japanese": "裏表ダンスホール",
-        "korean": ""
+        "korean": "두 얼굴의 댄스 플로어"
       }
     },
     {
@@ -3299,9 +3299,9 @@
         "code": "",
         "chinese": "里表舞厅·线索一",
         "chineseTraditional": "表裡舞廳·資訊一",
-        "english": "",
+        "english": "Two-Faced Dance Floor - Clue I",
         "japanese": "裏表ダンスホール・手がかり1",
-        "korean": ""
+        "korean": "두 얼굴의 댄스 플로어 - 단서 1"
       }
     },
     {
@@ -3317,9 +3317,9 @@
         "code": "",
         "chinese": "里表舞厅·线索二",
         "chineseTraditional": "表裡舞廳·資訊二",
-        "english": "",
+        "english": "Two-Faced Dance Floor - Clue II",
         "japanese": "裏表ダンスホール・手がかり2",
-        "korean": ""
+        "korean": "두 얼굴의 댄스 플로어 - 단서 2"
       }
     },
     {
@@ -3335,9 +3335,9 @@
         "code": "",
         "chinese": "里表舞厅·线索三",
         "chineseTraditional": "表裡舞廳·資訊三",
-        "english": "",
+        "english": "Two-Faced Dance Floor - Clue III",
         "japanese": "裏表ダンスホール・手がかり3",
-        "korean": ""
+        "korean": "두 얼굴의 댄스 플로어 - 단서 3"
       }
     },
     {
@@ -3355,7 +3355,7 @@
         "chineseTraditional": "摘錄·碎數研檔案·幽藍國",
         "english": "",
         "japanese": "抜粋・端数研ファイル・紺青国度",
-        "korean": ""
+        "korean": "발췌·단수연 파일·청청국도"
       }
     },
     {
@@ -3373,7 +3373,7 @@
         "chineseTraditional": "碎數研-report-BUBD-22-1",
         "english": "Broken Data Research-report-BUBD-22-1",
         "japanese": "端数研-report-BUBD-22-1",
-        "korean": ""
+        "korean": "손상 데이터 연구-리포트-BUBD-22-1"
       }
     },
     {
@@ -3391,7 +3391,7 @@
         "chineseTraditional": "碎數研-report-BUBD-22-2",
         "english": "Broken Data Research-report-BUBD-22-2",
         "japanese": "端数研-report-BUBD-22-2",
-        "korean": ""
+        "korean": "손상 데이터 연구-리포트-BUBD-22-2"
       }
     },
     {
@@ -3409,7 +3409,7 @@
         "chineseTraditional": "碎數研-report-BUBD-23-1",
         "english": "Broken Data Research-report-BUBD-23-1",
         "japanese": "端数研-report-BUBD-23-1",
-        "korean": ""
+        "korean": "손상 데이터 연구-리포트-BUBD-23-1"
       }
     },
     {
@@ -3427,7 +3427,7 @@
         "chineseTraditional": "碎數研-log-BUBD-951",
         "english": "Broken Data Research-log-BUBD-951",
         "japanese": "端数研-log-BUBD-951",
-        "korean": ""
+        "korean": "손상 데이터 연구-로그-BUBD-951"
       }
     },
     {
@@ -3445,7 +3445,7 @@
         "chineseTraditional": "碎數研-log-BUBD-952",
         "english": "Broken Data Research-log-BUBD-952",
         "japanese": "端数研-log-BUBD-952",
-        "korean": ""
+        "korean": "손상 데이터 연구-로그-BUBD-952"
       }
     },
     {
@@ -3463,7 +3463,7 @@
         "chineseTraditional": "空投小餅乾·資訊一",
         "english": "Airdrop Biscuits - Clue I",
         "japanese": "補給物資のビスケット・手がかり1",
-        "korean": ""
+        "korean": "비스킷 보급품 - 단서 1"
       }
     },
     {
@@ -3481,7 +3481,7 @@
         "chineseTraditional": "迷貓",
         "english": "Lost Cat",
         "japanese": "謎猫",
-        "korean": ""
+        "korean": "길 잃은 고양이"
       }
     },
     {
@@ -3499,7 +3499,7 @@
         "chineseTraditional": "迷貓·線索一",
         "english": "Lost Cat - Clue I",
         "japanese": "謎猫・手がかり1",
-        "korean": ""
+        "korean": "길 잃은 고양이 - 단서 1"
       }
     },
     {
@@ -3517,7 +3517,7 @@
         "chineseTraditional": "管道迷宮",
         "english": "Tube Maze",
         "japanese": "パイプ迷路",
-        "korean": ""
+        "korean": "튜브 미로"
       }
     },
     {
@@ -3535,7 +3535,7 @@
         "chineseTraditional": "管道迷宮·線索一",
         "english": "Tube Maze - Clue I",
         "japanese": "パイプ迷路・手がかり1",
-        "korean": ""
+        "korean": "튜브 미로 - 단서 1"
       }
     },
     {
@@ -3553,7 +3553,7 @@
         "chineseTraditional": "管道迷宮·線索二",
         "english": "Tube Maze - Clue II",
         "japanese": "パイプ迷路・手がかり2",
-        "korean": ""
+        "korean": "튜브 미로 - 단서 2"
       }
     },
     {
@@ -3571,7 +3571,7 @@
         "chineseTraditional": "管道迷宮·線索三",
         "english": "Tube Maze - Clue III",
         "japanese": "パイプ迷路・手がかり3",
-        "korean": ""
+        "korean": "튜브 미로 - 단서 3"
       }
     },
     {
@@ -3589,7 +3589,7 @@
         "chineseTraditional": "管道迷宮·線索四",
         "english": "Tube Maze - Clue IV",
         "japanese": "パイプ迷路・手がかり4",
-        "korean": ""
+        "korean": "튜브 미로 - 단서 4"
       }
     },
     {
@@ -3607,7 +3607,7 @@
         "chineseTraditional": "蝶羽筆",
         "english": "Pen of Butterfly Wings",
         "japanese": "蝶羽の筆",
-        "korean": ""
+        "korean": "나비 날개 펜"
       }
     },
     {
@@ -3625,7 +3625,7 @@
         "chineseTraditional": "蝶羽筆·資訊一",
         "english": "Pen of Butterfly Wings - Clue I",
         "japanese": "蝶羽の筆·手がかり1",
-        "korean": ""
+        "korean": "나비 날개 펜 - 단서 1"
       }
     },
     {
@@ -3643,7 +3643,7 @@
         "chineseTraditional": "街機遊戲《催眠》",
         "english": "Arcade《Hypnotize》",
         "japanese": "アーケードゲーム《催眠》",
-        "korean": ""
+        "korean": "아케이드《최면 걸기》"
       }
     },
     {
@@ -3661,7 +3661,7 @@
         "chineseTraditional": "街機遊戲《瓶瓶罐罐》",
         "english": "Arcade《Bottles and Cans》",
         "japanese": "アーケードゲーム《ビン&カン》",
-        "korean": ""
+        "korean": "아케이드《병과 캔》"
       }
     },
     {
@@ -3679,7 +3679,7 @@
         "chineseTraditional": "街機遊戲《Phigros》",
         "english": "Arcade《Phigros》",
         "japanese": "アーケードゲーム《Phigros》",
-        "korean": ""
+        "korean": "아케이드《Phigros》"
       }
     },
     {
@@ -3697,7 +3697,7 @@
         "chineseTraditional": "街機遊戲《彩虹之戰》",
         "english": "Arcade《Battle of Rainbow》",
         "japanese": "アーケードゲーム《ネオンバトル》",
-        "korean": ""
+        "korean": "아케이드《무지개 싸움》"
       }
     },
     {
@@ -3715,7 +3715,7 @@
         "chineseTraditional": "街機遊戲《彩虹之戰》·資訊一",
         "english": "Arcade《Battle of Rainbow》- Clue I",
         "japanese": "アーケードゲーム《ネオンバトル》・手がかり1",
-        "korean": ""
+        "korean": "아케이드《무지개 싸움》 - 단서 1"
       }
     },
     {
@@ -3733,7 +3733,7 @@
         "chineseTraditional": "街機遊戲《彩虹之戰》·資訊二",
         "english": "Arcade《Battle of Rainbow》- Clue II",
         "japanese": "アーケードゲーム《ネオンバトル》・手がかり2",
-        "korean": ""
+        "korean": "아케이드《무지개 싸움》 - 단서 2"
       }
     },
     {
@@ -3751,7 +3751,7 @@
         "chineseTraditional": "錄音筆Alpa·資訊六",
         "english": "The Alpa Pen - Clue VI",
         "japanese": "ペン型ボイスレコーダーAlpa・手がかり6",
-        "korean": ""
+        "korean": "알파펜 - 단서 4"
       }
     },
     {
@@ -3769,7 +3769,7 @@
         "chineseTraditional": "倒像之鏡",
         "english": "Mirrors in Mirror",
         "japanese": "ミラー鏡",
-        "korean": ""
+        "korean": "거울 속 거울"
       }
     },
     {
@@ -3787,7 +3787,7 @@
         "chineseTraditional": "倒到像之鏡·資訊一",
         "english": "Mirrors in Mirror - Clue I",
         "japanese": "ミラー鏡・手がかり1",
-        "korean": ""
+        "korean": "거울 속 거울 - 단서 1"
       }
     },
     {
@@ -3805,7 +3805,7 @@
         "chineseTraditional": "謎題保管所:00096",
         "english": "Riddle Depository:00096",
         "japanese": "クイズ保管所:00096",
-        "korean": ""
+        "korean": "수수께끼의 보관소:00096"
       }
     },
     {
@@ -3823,7 +3823,7 @@
         "chineseTraditional": "謎題保管所:00096·資訊一",
         "english": "Riddle Depository:00096 - Clue I",
         "japanese": "クイズ保管所:00096・手がかり1",
-        "korean": ""
+        "korean": "수수께끼의 보관소:00096 - 단서 1"
       }
     },
     {
@@ -3841,7 +3841,7 @@
         "chineseTraditional": "謎題保管所:00096·資訊二",
         "english": "Riddle Depository - Clue II",
         "japanese": "クイズ保管所:00096・手がかり2",
-        "korean": ""
+        "korean": "수수께끼의 보관소:00096 - 단서 2"
       }
     },
     {
@@ -3859,7 +3859,7 @@
         "chineseTraditional": "遊戲幣",
         "english": "Game Token",
         "japanese": "ゲームコイン",
-        "korean": ""
+        "korean": "게임 토큰"
       }
     },
     {
@@ -3877,7 +3877,7 @@
         "chineseTraditional": "遊戲幣·資訊一",
         "english": "Game Token - Clue I",
         "japanese": "ゲームコイン・手がかり1",
-        "korean": ""
+        "korean": "게임 토큰 - 단서 1"
       }
     },
     {
@@ -3895,7 +3895,7 @@
         "chineseTraditional": "詩箋#18 人·影·世",
         "english": "Stave No.18 Human-Shadow-World",
         "japanese": "詩集#18 人・影・世",
-        "korean": ""
+        "korean": "시집#18 - 인간-그림자-세계"
       }
     },
     {
@@ -3913,7 +3913,7 @@
         "chineseTraditional": "詩箋#19 天藍",
         "english": "Stave No.19 Sky Blue",
         "japanese": "詩集#19 空の青",
-        "korean": ""
+        "korean": "시집#19 - 하늘색"
       }
     },
     {
@@ -3931,7 +3931,7 @@
         "chineseTraditional": "詩箋#20 戲中",
         "english": "Stave No.20 In the Drama",
         "japanese": "詩集#20 演劇",
-        "korean": ""
+        "korean": "시집#20 - 드라마 안"
       }
     },
     {
@@ -3949,7 +3949,7 @@
         "chineseTraditional": "Poem Reimei",
         "english": "Poem Reimei",
         "japanese": "Poem Reimei",
-        "korean": ""
+        "korean": "시집 Reimei"
       }
     },
     {
@@ -3967,7 +3967,7 @@
         "chineseTraditional": "破譯·Spasmodic",
         "english": "[Decipher] Spasmodic",
         "japanese": "解読・Spasmodic",
-        "korean": ""
+        "korean": "[해독] Spasmodic"
       }
     },
     {
@@ -3985,7 +3985,7 @@
         "chineseTraditional": "詩箋#21 悲惶",
         "english": "",
         "japanese": "詩集#21 悲痛",
-        "korean": ""
+        "korean": "시집#21 - 슬픔"
       }
     },
     {
@@ -4003,7 +4003,7 @@
         "chineseTraditional": "詩箋#22 自由",
         "english": "Stave No.22 Liberty",
         "japanese": "詩集#22 自由",
-        "korean": ""
+        "korean": "시집#22 - 자유"
       }
     },
     {
@@ -4021,7 +4021,7 @@
         "chineseTraditional": "遊戲幣·線索二",
         "english": "Game Token - Clue II",
         "japanese": "ゲームコイン・手がかり2",
-        "korean": ""
+        "korean": "게임 토큰 - 단서 2"
       }
     },
     {
@@ -4039,7 +4039,7 @@
         "chineseTraditional": "兩用摩托車Trophon·資訊五",
         "english": "Trophon - Clue V",
         "japanese": "両用バイクTrophon・手がかり5",
-        "korean": ""
+        "korean": "트로폰 - 단서 5"
       }
     },
     {
@@ -4057,7 +4057,7 @@
         "chineseTraditional": "旅館房卡",
         "english": "Hotel Room Card",
         "japanese": "",
-        "korean": ""
+        "korean": "호텔 룸 카드"
       }
     },
     {
@@ -4075,7 +4075,7 @@
         "chineseTraditional": "便條板",
         "english": "Note Board",
         "japanese": "",
-        "korean": ""
+        "korean": "메모 보드"
       }
     },
     {
@@ -4093,7 +4093,7 @@
         "chineseTraditional": "便條板·資訊一",
         "english": "Note Board - Clue I",
         "japanese": "",
-        "korean": ""
+        "korean": "메모 보드 - 단서 1"
       }
     },
     {
@@ -4111,7 +4111,7 @@
         "chineseTraditional": "便條板·資訊二",
         "english": "Note Board - Clue II",
         "japanese": "",
-        "korean": ""
+        "korean": "메모 보드 - 단서 2"
       }
     },
     {
@@ -4129,7 +4129,7 @@
         "chineseTraditional": "便條板·資訊三",
         "english": "Note Board - Clue III",
         "japanese": "",
-        "korean": ""
+        "korean": "메모 보드 - 단서 3"
       }
     },
     {
@@ -4147,7 +4147,7 @@
         "chineseTraditional": "便條板·資訊四",
         "english": "Note Board - Clue IV",
         "japanese": "",
-        "korean": ""
+        "korean": "메모 보드 - 단서 4"
       }
     },
     {
@@ -4165,7 +4165,7 @@
         "chineseTraditional": "六色之虹",
         "english": "Six Colors of Rainbow",
         "japanese": "",
-        "korean": ""
+        "korean": "6색 무지개"
       }
     },
     {
@@ -4183,7 +4183,7 @@
         "chineseTraditional": "晚歸來",
         "english": "Late Return",
         "japanese": "",
-        "korean": ""
+        "korean": "늦은 복귀"
       }
     },
     {
@@ -4201,7 +4201,7 @@
         "chineseTraditional": "藥箱",
         "english": "First Aid Kit",
         "japanese": "",
-        "korean": ""
+        "korean": "구급상자"
       }
     },
     {
@@ -4219,7 +4219,7 @@
         "chineseTraditional": "藥箱·資訊一",
         "english": "First Aid Kit - Clue I",
         "japanese": "",
-        "korean": ""
+        "korean": "구급상자 - 단서 1"
       }
     },
     {
@@ -4237,7 +4237,7 @@
         "chineseTraditional": "藥箱·資訊二",
         "english": "First Aid Kit - Clue II",
         "japanese": "",
-        "korean": ""
+        "korean": "구급상자 - 단서 2"
       }
     },
     {
@@ -4255,7 +4255,7 @@
         "chineseTraditional": "藥箱·資訊三",
         "english": "First Aid Kit - Clue III",
         "japanese": "",
-        "korean": ""
+        "korean": "구급상자 - 단서 3"
       }
     },
     {
@@ -4273,7 +4273,7 @@
         "chineseTraditional": "彩虹繪本·資訊一",
         "english": "Colorful Picture Book - Clue I",
         "japanese": "",
-        "korean": ""
+        "korean": "알록달록 그림책 - 단서 1"
       }
     },
     {
@@ -4291,7 +4291,7 @@
         "chineseTraditional": "山荷葉標本",
         "english": "Sample of Diphylleia Grayi",
         "japanese": "",
-        "korean": ""
+        "korean": "Diphylleia Grayi 샘플"
       }
     },
     {
@@ -4309,7 +4309,7 @@
         "chineseTraditional": "【影像】背叛",
         "english": "[Image] Betrayal",
         "japanese": "",
-        "korean": ""
+        "korean": "[이미지] 배신"
       }
     },
     {
@@ -4325,9 +4325,9 @@
         "code": "",
         "chinese": "布兰达的自述",
         "chineseTraditional": "Blanda的自述",
-        "english": "Branda's Self description",
+        "english": "Blanda's Self description",
         "japanese": "",
-        "korean": ""
+        "korean": "블랜다의 자소서"
       }
     },
     {
@@ -4343,9 +4343,9 @@
         "code": "",
         "chinese": "布兰达的自述·线索一",
         "chineseTraditional": "Blanda的自述·資訊一",
-        "english": "Branda's Self description - Clue I",
+        "english": "Blanda's Self description - Clue I",
         "japanese": "",
-        "korean": ""
+        "korean": "블랜다의 자소서 - 단서 1"
       }
     },
     {
@@ -4417,7 +4417,7 @@
         "chineseTraditional": "尊師古盧",
         "english": "Guru",
         "japanese": "",
-        "korean": ""
+        "korean": "구루"
       }
     },
     {
@@ -4435,7 +4435,7 @@
         "chineseTraditional": "霓虹",
         "english": "Neon",
         "japanese": "",
-        "korean": ""
+        "korean": "네온"
       }
     },
     {
@@ -4453,7 +4453,7 @@
         "chineseTraditional": "霓虹·資訊一",
         "english": "Neon - Clue I",
         "japanese": "",
-        "korean": ""
+        "korean": "네온 - 단서 1"
       }
     },
     {
@@ -4471,7 +4471,7 @@
         "chineseTraditional": "霓虹·資訊二",
         "english": "Neon - Clue II",
         "japanese": "",
-        "korean": ""
+        "korean": "네온 - 단서 3"
       }
     },
     {
@@ -4489,7 +4489,7 @@
         "chineseTraditional": "霓虹·資訊三",
         "english": "Neon - Clue III",
         "japanese": "",
-        "korean": ""
+        "korean": "네온 - 단서 3"
       }
     },
     {
@@ -4507,7 +4507,7 @@
         "chineseTraditional": "學生證",
         "english": "School Card",
         "japanese": "",
-        "korean": ""
+        "korean": "학생증"
       }
     },
     {
@@ -4525,7 +4525,7 @@
         "chineseTraditional": "《霓虹之聲》宣傳單",
         "english": "《Voice of Neon》Flyer",
         "japanese": "",
-        "korean": ""
+        "korean": "《네온의 목소리》플라이어"
       }
     },
     {
@@ -4561,7 +4561,7 @@
         "chineseTraditional": "課程表",
         "english": "Class Schedule",
         "japanese": "",
-        "korean": ""
+        "korean": "수업 시간표"
       }
     },
     {
@@ -4651,7 +4651,7 @@
         "chineseTraditional": "【影像】土丘",
         "english": "[Image] Hill",
         "japanese": "",
-        "korean": ""
+        "korean": "[이미지] 언덕"
       }
     },
     {
@@ -4669,7 +4669,7 @@
         "chineseTraditional": "錦囊·資訊一",
         "english": "Silk Pouch - Clue I",
         "japanese": "",
-        "korean": ""
+        "korean": "실크 파우치 - 단서 1"
       }
     },
     {
@@ -4687,7 +4687,7 @@
         "chineseTraditional": "PhigrOS紀錄·Geopelia",
         "english": "PhigrOS Record - Geopelia",
         "japanese": "",
-        "korean": ""
+        "korean": "PhigrOS 녹음 - 지오펠리아"
       }
     },
     {
@@ -4705,7 +4705,7 @@
         "chineseTraditional": "PhigrOS紀錄·Geopelia·資訊一",
         "english": "PhigrOS Record - Geopelia - Clue I",
         "japanese": "",
-        "korean": ""
+        "korean": "PhigrOS 녹음 - 지오펠리아 - 단서 1"
       }
     },
     {
@@ -4723,7 +4723,7 @@
         "chineseTraditional": "PhigrOS紀錄·Gino",
         "english": "PhigrOS Record - Gino",
         "japanese": "",
-        "korean": ""
+        "korean": "PhigrOS 녹음 - 지노"
       }
     },
     {
@@ -4741,7 +4741,7 @@
         "chineseTraditional": "可能性",
         "english": "Possibility",
         "japanese": "",
-        "korean": ""
+        "korean": "가능성"
       }
     },
     {
@@ -4759,7 +4759,7 @@
         "chineseTraditional": "蝶羽筆·資訊二",
         "english": "Pen of Butterfly Wings - Clue II",
         "japanese": "",
-        "korean": ""
+        "korean": "나비 날개 펜 - 단서 2"
       }
     },
     {
@@ -4777,7 +4777,7 @@
         "chineseTraditional": "兩用摩托車Trophon·資訊六",
         "english": "Trophon - Clue VI",
         "japanese": "両用バイクTrophon・手がかり6",
-        "korean": ""
+        "korean": "트로폰 - 단서 6"
       }
     },
     {
@@ -4831,7 +4831,7 @@
         "chineseTraditional": "詩籤 白馬",
         "english": "Stave White Horse",
         "japanese": "詩集 白馬",
-        "korean": ""
+        "korean": "시집 - 백마"
       }
     },
     {
@@ -4849,7 +4849,7 @@
         "chineseTraditional": "詩籤 抉擇",
         "english": "Stave Decision",
         "japanese": "詩集 決断",
-        "korean": ""
+        "korean": "시집 - 결심"
       }
     },
     {
@@ -4867,7 +4867,7 @@
         "chineseTraditional": "破譯·凌日潮汐",
         "english": "[Decipher] Transit Tide",
         "japanese": "解読・朔月の汐",
-        "korean": ""
+        "korean": "[해독] 교통 조수"
       }
     },
     {
@@ -4885,7 +4885,7 @@
         "chineseTraditional": "破譯·凌日潮汐·資訊一",
         "english": "[Decipher] Transit Tide - Clue I",
         "japanese": "解読・朔月の汐・手がかり1",
-        "korean": ""
+        "korean": "[해독] 교통 조수 - 단서 1"
       }
     },
     {
@@ -4903,7 +4903,7 @@
         "chineseTraditional": "破譯·凌日潮汐·資訊二",
         "english": "[Decipher] Transit Tide - Clue II",
         "japanese": "解読・朔月の汐・手がかり2",
-        "korean": ""
+        "korean": "[해독] 교통 조수 - 단서 2"
       }
     },
     {
@@ -4921,7 +4921,7 @@
         "chineseTraditional": "破譯·凌日潮汐·資訊三",
         "english": "[Decipher] Transit Tide - Clue III",
         "japanese": "解読・朔月の汐・手がかり3",
-        "korean": ""
+        "korean": "[해독] 교통 조수 - 단서 3"
       }
     },
     {
@@ -4939,7 +4939,7 @@
         "chineseTraditional": "破譯·凌日潮汐·資訊四",
         "english": "[Decipher] Transit Tide - Clue IV",
         "japanese": "解読・朔月の汐・手がかり4",
-        "korean": ""
+        "korean": "[해독] 교통 조수 - 단서 4"
       }
     },
     {
@@ -4957,7 +4957,7 @@
         "chineseTraditional": "破譯·凌日潮汐·資訊五",
         "english": "[Decipher] Transit Tide - Clue V",
         "japanese": "解読・朔月の汐・手がかり5",
-        "korean": ""
+        "korean": "[해독] 교통 조수 - 단서 5"
       }
     },
     {
@@ -4975,7 +4975,7 @@
         "chineseTraditional": "廟會",
         "english": "Temple Fair",
         "japanese": "お祭り",
-        "korean": ""
+        "korean": "축제"
       }
     },
     {
@@ -4993,7 +4993,7 @@
         "chineseTraditional": "廟會·資訊一",
         "english": "Temple Fair - Clue I",
         "japanese": "お祭り・手がかり1",
-        "korean": ""
+        "korean": "축제 - 단서 1"
       }
     },
     {
@@ -5011,7 +5011,7 @@
         "chineseTraditional": "【影像】月面之海",
         "english": "",
         "japanese": "【映像】月の海",
-        "korean": ""
+        "korean": "[이미지] 달의 바다"
       }
     },
     {
@@ -5029,7 +5029,7 @@
         "chineseTraditional": "【錄音】穹頂",
         "english": "[Rec] Vault",
         "japanese": "【録音】ドーム",
-        "korean": ""
+        "korean": "[녹음] 지하실"
       }
     },
     {
@@ -5119,7 +5119,7 @@
         "chineseTraditional": "求職書",
         "english": "Cover Letter",
         "japanese": "",
-        "korean": ""
+        "korean": "자기 소개서"
       }
     },
     {
@@ -5137,7 +5137,7 @@
         "chineseTraditional": "豌豆種植紀錄",
         "english": "",
         "japanese": "",
-        "korean": ""
+        "korean": "완두콩 재배 기록"
       }
     },
     {
@@ -5155,7 +5155,7 @@
         "chineseTraditional": "豌豆種植紀錄·資訊一",
         "english": "",
         "japanese": "",
-        "korean": ""
+        "korean": "완두콩 재배 기록 - 단서 1"
       }
     },
     {
@@ -5173,7 +5173,7 @@
         "chineseTraditional": "豌豆種植紀錄·資訊二",
         "english": "",
         "japanese": "",
-        "korean": ""
+        "korean": "완두콩 재배 기록 - 단서 2"
       }
     },
     {
@@ -5191,7 +5191,7 @@
         "chineseTraditional": "求救信",
         "english": "Distress Letter",
         "japanese": "",
-        "korean": ""
+        "korean": "조난 편지"
       }
     },
     {
@@ -5209,7 +5209,7 @@
         "chineseTraditional": "求救信·資訊一",
         "english": "Distress Letter - Clue I",
         "japanese": "",
-        "korean": ""
+        "korean": "조난 편지 - 단서 1"
       }
     },
     {
@@ -5227,7 +5227,7 @@
         "chineseTraditional": "求救信·資訊二",
         "english": "Distress Letter - Clue II",
         "japanese": "",
-        "korean": ""
+        "korean": "조난 편지 - 단서 2"
       }
     },
     {
@@ -5242,10 +5242,10 @@
       "multiLanguageTitle": {
         "code": "",
         "chinese": "克洛诺斯的鸽子",
-        "chineseTraditional": "Chronos的鴿子",
-        "english": "Chronos's Pigeon",
+        "chineseTraditional": "Cronos的鴿子",
+        "english": "Cronos's Pigeon",
         "japanese": "",
-        "korean": ""
+        "korean": "크로노스의 비둘기"
       }
     },
     {
@@ -5260,10 +5260,10 @@
       "multiLanguageTitle": {
         "code": "",
         "chinese": "克洛诺斯的鸽子·线索一",
-        "chineseTraditional": "Chronos的鴿子·資訊一",
-        "english": "Chronos's Pigeon - Clue I",
+        "chineseTraditional": "Cronos的鴿子·資訊一",
+        "english": "Cronos's Pigeon - Clue I",
         "japanese": "",
-        "korean": ""
+        "korean": "크로노스의 비둘기 - 단서 1"
       }
     },
     {
@@ -5278,10 +5278,10 @@
       "multiLanguageTitle": {
         "code": "",
         "chinese": "克洛诺斯的鸽子·线索二",
-        "chineseTraditional": "Chronos的鴿子·資訊二",
-        "english": "Chronos's Pigeon - Clue II",
+        "chineseTraditional": "Cronos的鴿子·資訊二",
+        "english": "Cronos's Pigeon - Clue II",
         "japanese": "",
-        "korean": ""
+        "korean": "크로노스의 비둘기 - 단서 2"
       }
     },
     {
@@ -5317,7 +5317,7 @@
         "chineseTraditional": "辭職書",
         "english": "Resignation Letter",
         "japanese": "",
-        "korean": ""
+        "korean": "사직서"
       }
     },
     {
@@ -5335,7 +5335,7 @@
         "chineseTraditional": "罐裝雪莉膏",
         "english": "Cans of Snow Pear Cream",
         "japanese": "",
-        "korean": ""
+        "korean": "눈 배 크림 통조림"
       }
     },
     {
@@ -5353,7 +5353,7 @@
         "chineseTraditional": "罐裝雪莉膏·資訊一",
         "english": "Cans of Snow Pear Cream - Clue I",
         "japanese": "",
-        "korean": ""
+        "korean": "눈 배 크림 통조림 - 단서 1"
       }
     },
     {
@@ -5371,7 +5371,7 @@
         "chineseTraditional": "替換數據",
         "english": "Replace Data",
         "japanese": "",
-        "korean": ""
+        "korean": "데이터 교체"
       }
     },
     {
@@ -5389,7 +5389,7 @@
         "chineseTraditional": "替換數據·資訊一",
         "english": "Replace Data - Clue I",
         "japanese": "",
-        "korean": ""
+        "korean": "데이터 교체 - 단서1"
       }
     },
     {
@@ -5407,7 +5407,7 @@
         "chineseTraditional": "替換數據·資訊二",
         "english": "Replace Data - Clue II",
         "japanese": "",
-        "korean": ""
+        "korean": "데이터 교체 - 단서2"
       }
     },
     {
@@ -5425,7 +5425,7 @@
         "chineseTraditional": "替換數據·資訊三",
         "english": "Replace Data - Clue III",
         "japanese": "",
-        "korean": ""
+        "korean": "데이터 교체 - 단서3"
       }
     },
     {
@@ -5443,7 +5443,7 @@
         "chineseTraditional": "破譯·《極星衛》彩蛋",
         "english": "[Decipher]《Bassareus》Easter Egg",
         "japanese": "解読・《バサレウス》イースター・エッグ",
-        "korean": ""
+        "korean": "[해독]《Bassareus》이스터에그"
       }
     },
     {
@@ -5461,7 +5461,7 @@
         "chineseTraditional": "莫比烏斯的回信",
         "english": "Reply from Mobius",
         "japanese": "メビウスからの返事",
-        "korean": ""
+        "korean": "뫼비우스의 답장"
       }
     },
     {
@@ -5479,7 +5479,7 @@
         "chineseTraditional": "《極星衛》劇本·序",
         "english": "《Bassareus》Script - Prologue",
         "japanese": "《バサレウス》脚本・序",
-        "korean": ""
+        "korean": "《Bassareus》대본 - 프롤로그"
       }
     },
     {
@@ -5497,7 +5497,7 @@
         "chineseTraditional": "《極星衛》劇本·一",
         "english": "《Bassareus》Script - I",
         "japanese": "《バサレウス》脚本・一",
-        "korean": ""
+        "korean": "《Bassareus》대본 - 1"
       }
     },
     {
@@ -5515,7 +5515,7 @@
         "chineseTraditional": "《極星衛》劇本·二",
         "english": "《Bassareus》Script - II",
         "japanese": "《バサレウス》脚本・二",
-        "korean": ""
+        "korean": "《Bassareus》대본 - 2"
       }
     },
     {
@@ -5533,7 +5533,7 @@
         "chineseTraditional": "《極星衛》劇本·三",
         "english": "《Bassareus》Script - III",
         "japanese": "《バサレウス》脚本・三",
-        "korean": ""
+        "korean": "《Bassareus》대본 - 3"
       }
     },
     {
@@ -5551,7 +5551,7 @@
         "chineseTraditional": "《極星衛》劇本·四",
         "english": "《Bassareus》Script - IV",
         "japanese": "《バサレウス》脚本・四",
-        "korean": ""
+        "korean": "《Bassareus》대본 - 4"
       }
     },
     {
@@ -5569,7 +5569,7 @@
         "chineseTraditional": "《極星衛》劇本·五",
         "english": "《Bassareus》Script - V",
         "japanese": "《バサレウス》脚本・五",
-        "korean": ""
+        "korean": "《Bassareus》대본 - 5"
       }
     },
     {
@@ -5587,7 +5587,7 @@
         "chineseTraditional": "《極星衛》劇本·六",
         "english": "《Bassareus》Script - VI",
         "japanese": "《バサレウス》脚本・六",
-        "korean": ""
+        "korean": "《Bassareus》대본 - 6"
       }
     },
     {
@@ -5605,7 +5605,7 @@
         "chineseTraditional": "《極星衛》劇本·七",
         "english": "《Bassareus》Script - VII",
         "japanese": "《バサレウス》脚本・七",
-        "korean": ""
+        "korean": "《Bassareus》대본 - 7"
       }
     },
     {
@@ -5623,7 +5623,7 @@
         "chineseTraditional": "《極星衛》劇本·八",
         "english": "《Bassareus》Script - VIII",
         "japanese": "《バサレウス》脚本・八",
-        "korean": ""
+        "korean": "《Bassareus》대본 - 8"
       }
     },
     {
@@ -5641,7 +5641,7 @@
         "chineseTraditional": "《極星衛》劇本·九",
         "english": "《Bassareus》Script - IX",
         "japanese": "《バサレウス》脚本・九",
-        "korean": ""
+        "korean": "《Bassareus》대본 - 9"
       }
     },
     {
@@ -5659,7 +5659,7 @@
         "chineseTraditional": "《極星衛》劇本·十",
         "english": "《Bassareus》Script - X",
         "japanese": "《バサレウス》脚本・十",
-        "korean": ""
+        "korean": "《Bassareus》대본 - 10"
       }
     },
     {
@@ -5677,7 +5677,7 @@
         "chineseTraditional": "《極星衛》劇本·十一",
         "english": "《Bassareus》Script - XI",
         "japanese": "《バサレウス》脚本・十一",
-        "korean": ""
+        "korean": "《Bassareus》대본 - 11"
       }
     },
     {
@@ -5695,7 +5695,7 @@
         "chineseTraditional": "《極星衛》劇本·十二",
         "english": "《Bassareus》Script - XII",
         "japanese": "《バサレウス》脚本・十二",
-        "korean": ""
+        "korean": "《Bassareus》대본 - 12"
       }
     },
     {
@@ -5713,7 +5713,7 @@
         "chineseTraditional": "《極星衛》劇本·十三",
         "english": "《Bassareus》Script - XIII",
         "japanese": "《バサレウス》脚本・十三",
-        "korean": ""
+        "korean": "《Bassareus》대본 - 13"
       }
     },
     {
@@ -5731,7 +5731,7 @@
         "chineseTraditional": "《極星衛》劇本·十四",
         "english": "《Bassareus》Script - XIV",
         "japanese": "《バサレウス》脚本・十四",
-        "korean": ""
+        "korean": "《Bassareus》대본 - 14"
       }
     },
     {
@@ -5749,7 +5749,7 @@
         "chineseTraditional": "《極星衛》劇本·十五",
         "english": "《Bassareus》Script - XV",
         "japanese": "《バサレウス》脚本・十五",
-        "korean": ""
+        "korean": "《Bassareus》대본 - 15"
       }
     },
     {
@@ -5767,7 +5767,7 @@
         "chineseTraditional": "《極星衛》劇本·十六",
         "english": "《Bassareus》Script - XVI",
         "japanese": "《バサレウス》脚本・十六",
-        "korean": ""
+        "korean": "《Bassareus》대본 - 16"
       }
     },
     {
@@ -5785,7 +5785,7 @@
         "chineseTraditional": "《極星衛》劇本·十七",
         "english": "《Bassareus》Script - XVII",
         "japanese": "《バサレウス》脚本・十七",
-        "korean": ""
+        "korean": "《Bassareus》대본 - 17"
       }
     },
     {
@@ -5803,7 +5803,7 @@
         "chineseTraditional": "《極星衛》劇本·十八",
         "english": "《Bassareus》Script - XVIII",
         "japanese": "《バサレウス》脚本・十八",
-        "korean": ""
+        "korean": "《Bassareus》대본 - 18"
       }
     },
     {
@@ -5821,7 +5821,7 @@
         "chineseTraditional": "《極星衛》劇本·十九",
         "english": "《Bassareus》Script - XIX",
         "japanese": "《バサレウス》脚本・十九",
-        "korean": ""
+        "korean": "《Bassareus》대본 - 19"
       }
     },
     {
@@ -5839,7 +5839,7 @@
         "chineseTraditional": "《極星衛》劇本·二十",
         "english": "《Bassareus》Script - XX",
         "japanese": "《バサレウス》脚本・二十",
-        "korean": ""
+        "korean": "《Bassareus》대본 - 20"
       }
     },
     {
@@ -5857,7 +5857,7 @@
         "chineseTraditional": "《極星衛》劇本·二十一",
         "english": "《Bassareus》Script - XXI",
         "japanese": "《バサレウス》脚本・二十一",
-        "korean": ""
+        "korean": "《Bassareus》대본 - 21"
       }
     },
     {
@@ -5875,7 +5875,7 @@
         "chineseTraditional": "《極星衛》劇本·二十二",
         "english": "《Bassareus》Script - XXII",
         "japanese": "《バサレウス》脚本・二十二",
-        "korean": ""
+        "korean": "《Bassareus》대본 - 22"
       }
     },
     {
@@ -5893,7 +5893,7 @@
         "chineseTraditional": "《極星衛》劇本·二十三",
         "english": "《Bassareus》Script - XXIII",
         "japanese": "《バサレウス》脚本・二十三",
-        "korean": ""
+        "korean": "《Bassareus》대본 - 23"
       }
     },
     {
@@ -5911,7 +5911,7 @@
         "chineseTraditional": "《極星衛》劇本·二十四",
         "english": "《Bassareus》Script - XXIV",
         "japanese": "《バサレウス》脚本・二十四",
-        "korean": ""
+        "korean": "《Bassareus》대본 - 24"
       }
     },
     {
@@ -5929,7 +5929,7 @@
         "chineseTraditional": "《極星衛》劇本·二十五",
         "english": "《Bassareus》Script - XXV",
         "japanese": "《バサレウス》脚本・二十五",
-        "korean": ""
+        "korean": "《Bassareus》대본 - 25"
       }
     },
     {
@@ -5947,7 +5947,7 @@
         "chineseTraditional": "《極星衛》劇本·二十六",
         "english": "《Bassareus》Script - XXVI",
         "japanese": "《バサレウス》脚本・二十六",
-        "korean": ""
+        "korean": "《Bassareus》대본 - 26"
       }
     },
     {
@@ -5965,7 +5965,7 @@
         "chineseTraditional": "《極星衛》劇本·二十七",
         "english": "《Bassareus》Script - XXVII",
         "japanese": "《バサレウス》脚本・二十七",
-        "korean": ""
+        "korean": "《Bassareus》대본 - 27"
       }
     },
     {
@@ -5983,7 +5983,7 @@
         "chineseTraditional": "《極星衛》劇本·二十八",
         "english": "《Bassareus》Script - XXVIII",
         "japanese": "《バサレウス》脚本・二十八",
-        "korean": ""
+        "korean": "《Bassareus》대본 - 28"
       }
     },
     {
@@ -6001,7 +6001,7 @@
         "chineseTraditional": "《極星衛》劇本·二十九",
         "english": "《Bassareus》Script - XXIX",
         "japanese": "《バサレウス》脚本・二十九",
-        "korean": ""
+        "korean": "《Bassareus》대본 - 29"
       }
     },
     {
@@ -6019,7 +6019,7 @@
         "chineseTraditional": "《極星衛》劇本·三十",
         "english": "《Bassareus》Script - XXX",
         "japanese": "《バサレウス》脚本・三十",
-        "korean": ""
+        "korean": "《Bassareus》대본 - 30"
       }
     },
     {
@@ -6037,7 +6037,7 @@
         "chineseTraditional": "《極星衛》劇本·三十一",
         "english": "《Bassareus》Script - XXXI",
         "japanese": "《バサレウス》脚本・三十一",
-        "korean": ""
+        "korean": "《Bassareus》대본 - 31"
       }
     },
     {
@@ -6055,7 +6055,7 @@
         "chineseTraditional": "《極星衛》劇本·三十二",
         "english": "《Bassareus》Script - XXXII",
         "japanese": "《バサレウス》脚本・三十二",
-        "korean": ""
+        "korean": "《Bassareus》대본 - 32"
       }
     },
     {
@@ -6073,7 +6073,7 @@
         "chineseTraditional": "《極星衛》劇本·三十三",
         "english": "《Bassareus》Script - XXXIII",
         "japanese": "《バサレウス》脚本・三十三",
-        "korean": ""
+        "korean": "《Bassareus》대본 - 33"
       }
     },
     {
@@ -6091,7 +6091,7 @@
         "chineseTraditional": "《極星衛》劇本·三十四",
         "english": "《Bassareus》Script - XXXIV",
         "japanese": "《バサレウス》脚本・三十四",
-        "korean": ""
+        "korean": "《Bassareus》대본 - 34"
       }
     },
     {
@@ -6109,7 +6109,7 @@
         "chineseTraditional": "摘錄·莫比烏斯工作室日志·一",
         "english": "",
         "japanese": "抜粋・メビウス工房日記・一",
-        "korean": ""
+        "korean": "발췌 - 뫼비우스 스튜디오 일기 - 1"
       }
     },
     {
@@ -6127,7 +6127,7 @@
         "chineseTraditional": "摘錄·莫比烏斯工作室日志·二",
         "english": "",
         "japanese": "抜粋・メビウス工房日記・二",
-        "korean": ""
+        "korean": "발췌 - 뫼비우스 스튜디오 일기 - 2"
       }
     },
     {
@@ -6145,7 +6145,7 @@
         "chineseTraditional": "摘錄·莫比烏斯工作室日志·三",
         "english": "",
         "japanese": "抜粋・メビウス工房日記・三",
-        "korean": ""
+        "korean": "발췌 - 뫼비우스 스튜디오 일기 - 3"
       }
     },
     {
@@ -6163,7 +6163,7 @@
         "chineseTraditional": "隼的行船記錄儀·一",
         "english": "",
         "japanese": "隼の飛行レコード・一",
-        "korean": ""
+        "korean": "매의 선박 기록 장치 - 1"
       }
     },
     {
@@ -6181,7 +6181,7 @@
         "chineseTraditional": "隼的行船記錄儀·二",
         "english": "",
         "japanese": "隼の飛行レコード・二",
-        "korean": ""
+        "korean": "매의 선박 기록 장치 - 2"
       }
     },
     {
@@ -6199,7 +6199,7 @@
         "chineseTraditional": "隼的行船記錄儀·三",
         "english": "",
         "japanese": "隼の飛行レコード・三",
-        "korean": ""
+        "korean": "매의 선박 기록 장치 - 3"
       }
     },
     {
@@ -6217,7 +6217,7 @@
         "chineseTraditional": "",
         "english": "",
         "japanese": "",
-        "korean": ""
+        "korean": "나레이션: 창조자"
       }
     },
     {
@@ -6235,7 +6235,7 @@
         "chineseTraditional": "",
         "english": "",
         "japanese": "",
-        "korean": ""
+        "korean": "나레이션: 내면의 악마"
       }
     },
     {
@@ -6253,7 +6253,7 @@
         "chineseTraditional": "",
         "english": "",
         "japanese": "",
-        "korean": ""
+        "korean": "나레이션: 미래"
       }
     },
     {
@@ -6271,7 +6271,7 @@
         "chineseTraditional": "",
         "english": "",
         "japanese": "",
-        "korean": ""
+        "korean": "나레이션: 새벽"
       }
     },
     {
@@ -6289,7 +6289,7 @@
         "chineseTraditional": "",
         "english": "",
         "japanese": "",
-        "korean": ""
+        "korean": "《명작의 탄생》리뷰"
       }
     },
     {
@@ -6307,7 +6307,7 @@
         "chineseTraditional": "",
         "english": "",
         "japanese": "",
-        "korean": ""
+        "korean": "[이미지] 시간의 폐허"
       }
     },
     {
@@ -6325,7 +6325,7 @@
         "chineseTraditional": "",
         "english": "",
         "japanese": "",
-        "korean": ""
+        "korean": "[이미지] 하나"
       }
     },
     {
@@ -6343,7 +6343,7 @@
         "chineseTraditional": "",
         "english": "",
         "japanese": "",
-        "korean": ""
+        "korean": "보낸 메일: Saturn 시스템 등록 불가 및 오작동"
       }
     },
     {
@@ -6361,7 +6361,7 @@
         "chineseTraditional": "",
         "english": "",
         "japanese": "",
-        "korean": ""
+        "korean": "[녹음] 오"
       }
     },
     {
@@ -6379,7 +6379,7 @@
         "chineseTraditional": "",
         "english": "",
         "japanese": "",
-        "korean": ""
+        "korean": "[녹음] 오 - 단서 1"
       }
     },
     {
@@ -6397,7 +6397,7 @@
         "chineseTraditional": "",
         "english": "",
         "japanese": "",
-        "korean": ""
+        "korean": "[녹음] 오 - 단서 2"
       }
     },
     {
@@ -6415,7 +6415,7 @@
         "chineseTraditional": "",
         "english": "",
         "japanese": "",
-        "korean": ""
+        "korean": "PhigrOS 기록: RoadStar67 승리 (￣︶￣) ↗"
       }
     },
     {
@@ -6433,7 +6433,7 @@
         "chineseTraditional": "",
         "english": "",
         "japanese": "",
-        "korean": ""
+        "korean": "PhigrOS 기록: RoadStar67 승리 (￣︶￣) ↗ - 단서 1"
       }
     },
     {
@@ -6451,7 +6451,7 @@
         "chineseTraditional": "",
         "english": "",
         "japanese": "",
-        "korean": ""
+        "korean": "PhigrOS 기록: RoadStar67 승리 (￣︶￣) ↗ - 단서 2"
       }
     },
     {
@@ -6469,7 +6469,7 @@
         "chineseTraditional": "",
         "english": "",
         "japanese": "",
-        "korean": ""
+        "korean": "PhigrOS 기록: RoadStar67 승리 (￣︶￣) ↗ - 단서 3"
       }
     },
     {
@@ -6487,7 +6487,7 @@
         "chineseTraditional": "",
         "english": "",
         "japanese": "",
-        "korean": ""
+        "korean": "PhigrOS 기록: RoadStar67 승리 (￣︶￣) ↗ - 단서 4"
       }
     },
     {
@@ -6502,6 +6502,24 @@
       "multiLanguageTitle": {
         "code": "",
         "chinese": "霓虹灯牌",
+        "chineseTraditional": "",
+        "english": "",
+        "japanese": "",
+        "korean": "네온 간판"
+      }
+    },
+    {
+      "getSong": 30,
+      "getType": -1,
+      "getPower": 30,
+      "getInfo1": "",
+      "getInfo2": "",
+      "getInfo3": "",
+      "key": "NeonLED",
+      "subIndex": 2,
+      "multiLanguageTitle": {
+        "code": "",
+        "chinese": "霓虹灯牌·线索一",
         "chineseTraditional": "",
         "english": "",
         "japanese": "",
@@ -6523,7 +6541,7 @@
         "chineseTraditional": "",
         "english": "",
         "japanese": "",
-        "korean": ""
+        "korean": "녹슨 발톱 망치"
       }
     },
     {
@@ -6541,7 +6559,7 @@
         "chineseTraditional": "",
         "english": "",
         "japanese": "",
-        "korean": ""
+        "korean": "녹슨 발톱 망치 - 단서 1"
       }
     },
     {
@@ -6559,7 +6577,7 @@
         "chineseTraditional": "",
         "english": "",
         "japanese": "",
-        "korean": ""
+        "korean": "녹슨 발톱 망치 - 단서 2"
       }
     },
     {
@@ -6577,7 +6595,7 @@
         "chineseTraditional": "",
         "english": "",
         "japanese": "",
-        "korean": ""
+        "korean": "녹슨 발톱 망치 - 단서 3"
       }
     },
     {
@@ -6595,7 +6613,7 @@
         "chineseTraditional": "",
         "english": "",
         "japanese": "",
-        "korean": ""
+        "korean": "《달 훔치기》조사 보고서"
       }
     },
     {
@@ -6613,7 +6631,7 @@
         "chineseTraditional": "",
         "english": "",
         "japanese": "",
-        "korean": ""
+        "korean": "나레이션: 소문"
       }
     },
     {
@@ -6631,6 +6649,96 @@
         "chineseTraditional": "",
         "english": "",
         "japanese": "",
+        "korean": "나레이션: 유령도둑"
+      }
+    },
+    {
+      "getSong": 20013,
+      "getType": -1,
+      "getPower": 100,
+      "getInfo1": "",
+      "getInfo2": "",
+      "getInfo3": "",
+      "key": "zhixian32",
+      "subIndex": 1,
+      "multiLanguageTitle": {
+        "code": "",
+        "chinese": "旁白：恍惚",
+        "chineseTraditional": "",
+        "english": "",
+        "japanese": "",
+        "korean": ""
+      }
+    },
+    {
+      "getSong": 20012,
+      "getType": -1,
+      "getPower": 100,
+      "getInfo1": "",
+      "getInfo2": "",
+      "getInfo3": "",
+      "key": "zhixian30",
+      "subIndex": 1,
+      "multiLanguageTitle": {
+        "code": "",
+        "chinese": "旁白：黑月",
+        "chineseTraditional": "",
+        "english": "",
+        "japanese": "",
+        "korean": ""
+      }
+    },
+    {
+      "getSong": 20015,
+      "getType": -1,
+      "getPower": 100,
+      "getInfo1": "",
+      "getInfo2": "",
+      "getInfo3": "",
+      "key": "zhixian34",
+      "subIndex": 1,
+      "multiLanguageTitle": {
+        "code": "",
+        "chinese": "旁白: From 1 to 500000",
+        "chineseTraditional": "",
+        "english": "",
+        "japanese": "",
+        "korean": ""
+      }
+    },
+    {
+      "getSong": 20016,
+      "getType": -1,
+      "getPower": 100,
+      "getInfo1": "",
+      "getInfo2": "",
+      "getInfo3": "",
+      "key": "huanmeng1",
+      "subIndex": 1,
+      "multiLanguageTitle": {
+        "code": "",
+        "chinese": "幻梦 之一",
+        "chineseTraditional": "",
+        "english": "",
+        "japanese": "",
+        "korean": ""
+      }
+    },
+    {
+      "getSong": 20016,
+      "getType": -1,
+      "getPower": 100,
+      "getInfo1": "",
+      "getInfo2": "",
+      "getInfo3": "",
+      "key": "huanmeng2",
+      "subIndex": 1,
+      "multiLanguageTitle": {
+        "code": "",
+        "chinese": "幻梦 之二",
+        "chineseTraditional": "",
+        "english": "",
+        "japanese": "",
         "korean": ""
       }
     },
@@ -6645,7 +6753,7 @@
       "subIndex": 1,
       "multiLanguageTitle": {
         "code": "",
-        "chinese": "673:律动星盗乐行事件 亚空间副本",
+        "chinese": "673：律动星盗乐行事件 亚空间副本",
         "chineseTraditional": "",
         "english": "",
         "japanese": "",
@@ -6663,7 +6771,7 @@
       "subIndex": 2,
       "multiLanguageTitle": {
         "code": "",
-        "chinese": "673:律动星盗乐行事件 亚空间副本·线索一",
+        "chinese": "673：律动星盗乐行事件 亚空间副本·线索一",
         "chineseTraditional": "",
         "english": "",
         "japanese": "",
@@ -6681,7 +6789,7 @@
       "subIndex": 3,
       "multiLanguageTitle": {
         "code": "",
-        "chinese": "673:律动星盗乐行事件 亚空间副本·线索二",
+        "chinese": "673：律动星盗乐行事件 亚空间副本·线索二",
         "chineseTraditional": "",
         "english": "",
         "japanese": "",
@@ -7031,6 +7139,42 @@
       }
     },
     {
+      "getSong": 20015,
+      "getType": -1,
+      "getPower": 5,
+      "getInfo1": "",
+      "getInfo2": "",
+      "getInfo3": "",
+      "key": "liangzitbzz",
+      "subIndex": 4,
+      "multiLanguageTitle": {
+        "code": "",
+        "chinese": "量子同步终端·线索三",
+        "chineseTraditional": "",
+        "english": "",
+        "japanese": "",
+        "korean": ""
+      }
+    },
+    {
+      "getSong": 20014,
+      "getType": -1,
+      "getPower": 5,
+      "getInfo1": "",
+      "getInfo2": "",
+      "getInfo3": "",
+      "key": "liangzitbzz",
+      "subIndex": 5,
+      "multiLanguageTitle": {
+        "code": "",
+        "chinese": "量子同步终端·线索四",
+        "chineseTraditional": "",
+        "english": "",
+        "japanese": "",
+        "korean": ""
+      }
+    },
+    {
       "getSong": 20016,
       "getType": -1,
       "getPower": 30,
@@ -7150,6 +7294,42 @@
       "multiLanguageTitle": {
         "code": "",
         "chinese": "小熊娃娃·线索二",
+        "chineseTraditional": "",
+        "english": "",
+        "japanese": "",
+        "korean": ""
+      }
+    },
+    {
+      "getSong": 20016,
+      "getType": -1,
+      "getPower": 10,
+      "getInfo1": "",
+      "getInfo2": "",
+      "getInfo3": "",
+      "key": "beardoll",
+      "subIndex": 4,
+      "multiLanguageTitle": {
+        "code": "",
+        "chinese": "小熊娃娃·线索三",
+        "chineseTraditional": "",
+        "english": "",
+        "japanese": "",
+        "korean": ""
+      }
+    },
+    {
+      "getSong": 20016,
+      "getType": -1,
+      "getPower": 5,
+      "getInfo1": "",
+      "getInfo2": "",
+      "getInfo3": "",
+      "key": "beardoll",
+      "subIndex": 5,
+      "multiLanguageTitle": {
+        "code": "",
+        "chinese": "小熊娃娃·线索四",
         "chineseTraditional": "",
         "english": "",
         "japanese": "",
@@ -7420,6 +7600,564 @@
       "multiLanguageTitle": {
         "code": "",
         "chinese": "观察记录：痕",
+        "chineseTraditional": "",
+        "english": "",
+        "japanese": "",
+        "korean": ""
+      }
+    },
+    {
+      "getSong": -20017,
+      "getType": -1,
+      "getPower": 1,
+      "getInfo1": "",
+      "getInfo2": "",
+      "getInfo3": "",
+      "key": "investigatewuxiang",
+      "subIndex": 1,
+      "multiLanguageTitle": {
+        "code": "",
+        "chinese": "档案·无相乡调查报告",
+        "chineseTraditional": "",
+        "english": "",
+        "japanese": "ファイル・無相郷の調査報告",
+        "korean": "[파일] 수도사 조사보고서"
+      }
+    },
+    {
+      "getSong": 22,
+      "getType": -1,
+      "getPower": 30,
+      "getInfo1": "",
+      "getInfo2": "",
+      "getInfo3": "",
+      "key": "jiejiwarofrainbow",
+      "subIndex": 4,
+      "multiLanguageTitle": {
+        "code": "",
+        "chinese": "街机游戏《彩虹之战》·线索三",
+        "chineseTraditional": "",
+        "english": "",
+        "japanese": "",
+        "korean": ""
+      }
+    },
+    {
+      "getSong": 23,
+      "getType": -1,
+      "getPower": 10,
+      "getInfo1": "",
+      "getInfo2": "",
+      "getInfo3": "",
+      "key": "jiejiwarofrainbow",
+      "subIndex": 5,
+      "multiLanguageTitle": {
+        "code": "",
+        "chinese": "街机游戏《彩虹之战》·线索四",
+        "chineseTraditional": "",
+        "english": "",
+        "japanese": "",
+        "korean": ""
+      }
+    },
+    {
+      "getSong": 24,
+      "getType": -1,
+      "getPower": 30,
+      "getInfo1": "",
+      "getInfo2": "",
+      "getInfo3": "",
+      "key": "jiejiwarofrainbow",
+      "subIndex": 6,
+      "multiLanguageTitle": {
+        "code": "",
+        "chinese": "街机游戏《彩虹之战》·线索五",
+        "chineseTraditional": "",
+        "english": "",
+        "japanese": "",
+        "korean": ""
+      }
+    },
+    {
+      "getSong": 27,
+      "getType": -1,
+      "getPower": 1,
+      "getInfo1": "",
+      "getInfo2": "",
+      "getInfo3": "",
+      "key": "rainbowawakening",
+      "subIndex": 1,
+      "multiLanguageTitle": {
+        "code": "",
+        "chinese": "事件·虹再现",
+        "chineseTraditional": "",
+        "english": "",
+        "japanese": "",
+        "korean": ""
+      }
+    },
+    {
+      "getSong": 28,
+      "getType": -1,
+      "getPower": 10,
+      "getInfo1": "",
+      "getInfo2": "",
+      "getInfo3": "",
+      "key": "testimonial",
+      "subIndex": 1,
+      "multiLanguageTitle": {
+        "code": "",
+        "chinese": "布兰达的感谢信",
+        "chineseTraditional": "",
+        "english": "",
+        "japanese": "",
+        "korean": ""
+      }
+    },
+    {
+      "getSong": 29,
+      "getType": -1,
+      "getPower": 30,
+      "getInfo1": "",
+      "getInfo2": "",
+      "getInfo3": "",
+      "key": "testimonial",
+      "subIndex": 2,
+      "multiLanguageTitle": {
+        "code": "",
+        "chinese": "布兰达的感谢信·线索一",
+        "chineseTraditional": "",
+        "english": "",
+        "japanese": "",
+        "korean": ""
+      }
+    },
+    {
+      "getSong": 29,
+      "getType": -1,
+      "getPower": 30,
+      "getInfo1": "",
+      "getInfo2": "",
+      "getInfo3": "",
+      "key": "testimonial",
+      "subIndex": 3,
+      "multiLanguageTitle": {
+        "code": "",
+        "chinese": "布兰达的感谢信·线索二",
+        "chineseTraditional": "",
+        "english": "",
+        "japanese": "",
+        "korean": ""
+      }
+    },
+    {
+      "getSong": 29,
+      "getType": -1,
+      "getPower": 30,
+      "getInfo1": "",
+      "getInfo2": "",
+      "getInfo3": "",
+      "key": "testimonial",
+      "subIndex": 4,
+      "multiLanguageTitle": {
+        "code": "",
+        "chinese": "布兰达的感谢信·线索三",
+        "chineseTraditional": "",
+        "english": "",
+        "japanese": "",
+        "korean": ""
+      }
+    },
+    {
+      "getSong": 28,
+      "getType": -1,
+      "getPower": 10,
+      "getInfo1": "",
+      "getInfo2": "",
+      "getInfo3": "",
+      "key": "canvas",
+      "subIndex": 1,
+      "multiLanguageTitle": {
+        "code": "",
+        "chinese": "油画",
+        "chineseTraditional": "",
+        "english": "",
+        "japanese": "",
+        "korean": ""
+      }
+    },
+    {
+      "getSong": 28,
+      "getType": -1,
+      "getPower": 10,
+      "getInfo1": "",
+      "getInfo2": "",
+      "getInfo3": "",
+      "key": "doorplate",
+      "subIndex": 1,
+      "multiLanguageTitle": {
+        "code": "",
+        "chinese": "失效门牌",
+        "chineseTraditional": "",
+        "english": "",
+        "japanese": "",
+        "korean": ""
+      }
+    },
+    {
+      "getSong": 29,
+      "getType": -1,
+      "getPower": 30,
+      "getInfo1": "",
+      "getInfo2": "",
+      "getInfo3": "",
+      "key": "doorplate",
+      "subIndex": 2,
+      "multiLanguageTitle": {
+        "code": "",
+        "chinese": "失效门牌·线索一",
+        "chineseTraditional": "",
+        "english": "",
+        "japanese": "",
+        "korean": ""
+      }
+    },
+    {
+      "getSong": 29,
+      "getType": -1,
+      "getPower": 30,
+      "getInfo1": "",
+      "getInfo2": "",
+      "getInfo3": "",
+      "key": "doorplate",
+      "subIndex": 3,
+      "multiLanguageTitle": {
+        "code": "",
+        "chinese": "失效门牌·线索二",
+        "chineseTraditional": "",
+        "english": "",
+        "japanese": "",
+        "korean": ""
+      }
+    },
+    {
+      "getSong": 20012,
+      "getType": -1,
+      "getPower": 10,
+      "getInfo1": "",
+      "getInfo2": "",
+      "getInfo3": "",
+      "key": "earphone",
+      "subIndex": 1,
+      "multiLanguageTitle": {
+        "code": "",
+        "chinese": "隔音耳机",
+        "chineseTraditional": "",
+        "english": "",
+        "japanese": "",
+        "korean": ""
+      }
+    },
+    {
+      "getSong": 20012,
+      "getType": -1,
+      "getPower": 30,
+      "getInfo1": "",
+      "getInfo2": "",
+      "getInfo3": "",
+      "key": "earphone",
+      "subIndex": 2,
+      "multiLanguageTitle": {
+        "code": "",
+        "chinese": "隔音耳机·线索一",
+        "chineseTraditional": "",
+        "english": "",
+        "japanese": "",
+        "korean": ""
+      }
+    },
+    {
+      "getSong": 20012,
+      "getType": -1,
+      "getPower": 30,
+      "getInfo1": "",
+      "getInfo2": "",
+      "getInfo3": "",
+      "key": "earphone",
+      "subIndex": 3,
+      "multiLanguageTitle": {
+        "code": "",
+        "chinese": "隔音耳机·线索二",
+        "chineseTraditional": "",
+        "english": "",
+        "japanese": "",
+        "korean": ""
+      }
+    },
+    {
+      "getSong": 20012,
+      "getType": -1,
+      "getPower": 30,
+      "getInfo1": "",
+      "getInfo2": "",
+      "getInfo3": "",
+      "key": "earphone",
+      "subIndex": 4,
+      "multiLanguageTitle": {
+        "code": "",
+        "chinese": "隔音耳机·线索三",
+        "chineseTraditional": "",
+        "english": "",
+        "japanese": "",
+        "korean": ""
+      }
+    },
+    {
+      "getSong": 20016,
+      "getType": -1,
+      "getPower": 5,
+      "getInfo1": "",
+      "getInfo2": "",
+      "getInfo3": "",
+      "key": "earphone",
+      "subIndex": 5,
+      "multiLanguageTitle": {
+        "code": "",
+        "chinese": "隔音耳机·线索四",
+        "chineseTraditional": "",
+        "english": "",
+        "japanese": "",
+        "korean": ""
+      }
+    },
+    {
+      "getSong": 20013,
+      "getType": -1,
+      "getPower": 1,
+      "getInfo1": "",
+      "getInfo2": "",
+      "getInfo3": "",
+      "key": "heiyuelog",
+      "subIndex": 1,
+      "multiLanguageTitle": {
+        "code": "",
+        "chinese": "黑月疗养院日志",
+        "chineseTraditional": "",
+        "english": "",
+        "japanese": "",
+        "korean": ""
+      }
+    },
+    {
+      "getSong": 20015,
+      "getType": -1,
+      "getPower": 10,
+      "getInfo1": "",
+      "getInfo2": "",
+      "getInfo3": "",
+      "key": "heiyuelog",
+      "subIndex": 2,
+      "multiLanguageTitle": {
+        "code": "",
+        "chinese": "黑月疗养院日志·线索一",
+        "chineseTraditional": "",
+        "english": "",
+        "japanese": "",
+        "korean": ""
+      }
+    },
+    {
+      "getSong": 20015,
+      "getType": -1,
+      "getPower": 10,
+      "getInfo1": "",
+      "getInfo2": "",
+      "getInfo3": "",
+      "key": "heiyuelog",
+      "subIndex": 3,
+      "multiLanguageTitle": {
+        "code": "",
+        "chinese": "黑月疗养院日志·线索二",
+        "chineseTraditional": "",
+        "english": "",
+        "japanese": "",
+        "korean": ""
+      }
+    },
+    {
+      "getSong": 20015,
+      "getType": -1,
+      "getPower": 10,
+      "getInfo1": "",
+      "getInfo2": "",
+      "getInfo3": "",
+      "key": "heiyuelog",
+      "subIndex": 4,
+      "multiLanguageTitle": {
+        "code": "",
+        "chinese": "黑月疗养院日志·线索三",
+        "chineseTraditional": "",
+        "english": "",
+        "japanese": "",
+        "korean": ""
+      }
+    },
+    {
+      "getSong": 20015,
+      "getType": -1,
+      "getPower": 10,
+      "getInfo1": "",
+      "getInfo2": "",
+      "getInfo3": "",
+      "key": "heiyuelog",
+      "subIndex": 5,
+      "multiLanguageTitle": {
+        "code": "",
+        "chinese": "黑月疗养院日志·线索四",
+        "chineseTraditional": "",
+        "english": "",
+        "japanese": "",
+        "korean": ""
+      }
+    },
+    {
+      "getSong": 20014,
+      "getType": -1,
+      "getPower": 10,
+      "getInfo1": "",
+      "getInfo2": "",
+      "getInfo3": "",
+      "key": "jixiegloves",
+      "subIndex": 1,
+      "multiLanguageTitle": {
+        "code": "",
+        "chinese": "机械手套",
+        "chineseTraditional": "",
+        "english": "",
+        "japanese": "",
+        "korean": ""
+      }
+    },
+    {
+      "getSong": 20014,
+      "getType": -1,
+      "getPower": 30,
+      "getInfo1": "",
+      "getInfo2": "",
+      "getInfo3": "",
+      "key": "jixiegloves",
+      "subIndex": 2,
+      "multiLanguageTitle": {
+        "code": "",
+        "chinese": "机械手套·线索一",
+        "chineseTraditional": "",
+        "english": "",
+        "japanese": "",
+        "korean": ""
+      }
+    },
+    {
+      "getSong": 20014,
+      "getType": -1,
+      "getPower": 30,
+      "getInfo1": "",
+      "getInfo2": "",
+      "getInfo3": "",
+      "key": "jixiegloves",
+      "subIndex": 3,
+      "multiLanguageTitle": {
+        "code": "",
+        "chinese": "机械手套·线索二",
+        "chineseTraditional": "",
+        "english": "",
+        "japanese": "",
+        "korean": ""
+      }
+    },
+    {
+      "getSong": 20014,
+      "getType": -1,
+      "getPower": 30,
+      "getInfo1": "",
+      "getInfo2": "",
+      "getInfo3": "",
+      "key": "jixiegloves",
+      "subIndex": 4,
+      "multiLanguageTitle": {
+        "code": "",
+        "chinese": "机械手套·线索三",
+        "chineseTraditional": "",
+        "english": "",
+        "japanese": "",
+        "korean": ""
+      }
+    },
+    {
+      "getSong": 20014,
+      "getType": -1,
+      "getPower": 30,
+      "getInfo1": "",
+      "getInfo2": "",
+      "getInfo3": "",
+      "key": "jixiegloves",
+      "subIndex": 5,
+      "multiLanguageTitle": {
+        "code": "",
+        "chinese": "机械手套·线索四",
+        "chineseTraditional": "",
+        "english": "",
+        "japanese": "",
+        "korean": ""
+      }
+    },
+    {
+      "getSong": 20016,
+      "getType": -1,
+      "getPower": 5,
+      "getInfo1": "",
+      "getInfo2": "",
+      "getInfo3": "",
+      "key": "jiankongwang",
+      "subIndex": 1,
+      "multiLanguageTitle": {
+        "code": "",
+        "chinese": "报道：《律动星城市监控网现已恢复，失灵原因疑似与月食有关》",
+        "chineseTraditional": "",
+        "english": "",
+        "japanese": "",
+        "korean": ""
+      }
+    },
+    {
+      "getSong": 20012,
+      "getType": -1,
+      "getPower": 30,
+      "getInfo1": "",
+      "getInfo2": "",
+      "getInfo3": "",
+      "key": "fanpanzhuzai",
+      "subIndex": 1,
+      "multiLanguageTitle": {
+        "code": "",
+        "chinese": "报道：《对大众心理学研究的反叛：当他人主宰你的存在》",
+        "chineseTraditional": "",
+        "english": "",
+        "japanese": "",
+        "korean": ""
+      }
+    },
+    {
+      "getSong": 20012,
+      "getType": -1,
+      "getPower": 30,
+      "getInfo1": "",
+      "getInfo2": "",
+      "getInfo3": "",
+      "key": "heidianshaonv",
+      "subIndex": 1,
+      "multiLanguageTitle": {
+        "code": "",
+        "chinese": "报道：《神秘黑点与浪漫少女的背后：波提切利相机的秘密》",
         "chineseTraditional": "",
         "english": "",
         "japanese": "",
