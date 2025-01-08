@@ -1,0 +1,76 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 57
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 202
+  },
+  "m_Name": "",
+  "song": {
+    "m_FileID": 4,
+    "m_PathID": 27
+  },
+  "songDrawing": {
+    "m_FileID": 4,
+    "m_PathID": 39
+  },
+  "songDrawingInGame": {
+    "m_FileID": 4,
+    "m_PathID": 35
+  },
+  "chart": [
+    {
+      "m_FileID": 4,
+      "m_PathID": 11
+    },
+    {
+      "m_FileID": 4,
+      "m_PathID": 19
+    },
+    {
+      "m_FileID": 4,
+      "m_PathID": 18
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 0
+    }
+  ],
+  "songsDifficulty": [
+    "6",
+    "11",
+    "13",
+    ""
+  ],
+  "songsLevel": [
+    "EZ",
+    "HD",
+    "IN",
+    "AT"
+  ],
+  "songsname": "Winter ↑cube↓",
+  "music": "Ctymax feat. NceS",
+  "illustration": "翠冷兮",
+  "noteDesign": "小鹏",
+  "bestScore": [
+    0,
+    0,
+    0,
+    0
+  ],
+  "previewTime": 9.5,
+  "lockIcon": {
+    "m_FileID": 0,
+    "m_PathID": 15
+  },
+  "locked": true,
+  "chartUnlocked": [
+    false,
+    false,
+    false,
+    false
+  ]
+}

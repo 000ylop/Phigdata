@@ -1,0 +1,76 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 47
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 202
+  },
+  "m_Name": "",
+  "song": {
+    "m_FileID": 5,
+    "m_PathID": 15
+  },
+  "songDrawing": {
+    "m_FileID": 5,
+    "m_PathID": 18
+  },
+  "songDrawingInGame": {
+    "m_FileID": 5,
+    "m_PathID": 20
+  },
+  "chart": [
+    {
+      "m_FileID": 5,
+      "m_PathID": 14
+    },
+    {
+      "m_FileID": 5,
+      "m_PathID": 7
+    },
+    {
+      "m_FileID": 5,
+      "m_PathID": 6
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 0
+    }
+  ],
+  "songsDifficulty": [
+    "5",
+    "10",
+    "13",
+    ""
+  ],
+  "songsLevel": [
+    "EZ",
+    "HD",
+    "IN",
+    "AT"
+  ],
+  "songsname": "风屿",
+  "music": "闫东炜",
+  "illustration": "cycats",
+  "noteDesign": "Arenn Saki vs Catcats",
+  "bestScore": [
+    0,
+    0,
+    0,
+    0
+  ],
+  "previewTime": 120.0,
+  "lockIcon": {
+    "m_FileID": 0,
+    "m_PathID": 10
+  },
+  "locked": true,
+  "chartUnlocked": [
+    false,
+    false,
+    false,
+    false
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 48
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 202
+  },
+  "m_Name": "",
+  "song": {
+    "m_FileID": 2,
+    "m_PathID": 643
+  },
+  "songDrawing": {
+    "m_FileID": 2,
+    "m_PathID": 1129
+  },
+  "songDrawingInGame": {
+    "m_FileID": 2,
+    "m_PathID": 875
+  },
+  "chart": [
+    {
+      "m_FileID": 2,
+      "m_PathID": 632
+    },
+    {
+      "m_FileID": 2,
+      "m_PathID": 633
+    },
+    {
+      "m_FileID": 2,
+      "m_PathID": 630
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 0
+    }
+  ],
+  "songsDifficulty": [
+    "3",
+    "8",
+    "11",
+    ""
+  ],
+  "songsLevel": [
+    "EZ",
+    "HD",
+    "IN",
+    "AT"
+  ],
+  "songsname": "もぺもぺ",
+  "music": "LeaF",
+  "illustration": "cycat",
+  "noteDesign": "阿爽",
+  "bestScore": [
+    0,
+    0,
+    0,
+    0
+  ],
+  "previewTime": 7.2,
+  "lockIcon": {
+    "m_FileID": 0,
+    "m_PathID": 10
+  },
+  "locked": true,
+  "chartUnlocked": [
+    false,
+    false,
+    false,
+    false
+  ]
+}

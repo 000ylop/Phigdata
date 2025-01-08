@@ -1,0 +1,76 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 55
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 202
+  },
+  "m_Name": "",
+  "song": {
+    "m_FileID": 4,
+    "m_PathID": 31
+  },
+  "songDrawing": {
+    "m_FileID": 4,
+    "m_PathID": 36
+  },
+  "songDrawingInGame": {
+    "m_FileID": 4,
+    "m_PathID": 34
+  },
+  "chart": [
+    {
+      "m_FileID": 4,
+      "m_PathID": 15
+    },
+    {
+      "m_FileID": 4,
+      "m_PathID": 14
+    },
+    {
+      "m_FileID": 4,
+      "m_PathID": 12
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 0
+    }
+  ],
+  "songsDifficulty": [
+    "5",
+    "11",
+    "14",
+    ""
+  ],
+  "songsLevel": [
+    "EZ",
+    "HD",
+    "IN",
+    "AT"
+  ],
+  "songsname": "混乱-Confusion",
+  "music": "OnlyMyBlackScore",
+  "illustration": "L-sp4",
+  "noteDesign": "Phigros Programming Team",
+  "bestScore": [
+    0,
+    0,
+    0,
+    0
+  ],
+  "previewTime": 77.33,
+  "lockIcon": {
+    "m_FileID": 0,
+    "m_PathID": 13
+  },
+  "locked": true,
+  "chartUnlocked": [
+    false,
+    false,
+    false,
+    false
+  ]
+}

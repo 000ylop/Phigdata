@@ -1,0 +1,76 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 52
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 202
+  },
+  "m_Name": "",
+  "song": {
+    "m_FileID": 4,
+    "m_PathID": 29
+  },
+  "songDrawing": {
+    "m_FileID": 4,
+    "m_PathID": 40
+  },
+  "songDrawingInGame": {
+    "m_FileID": 4,
+    "m_PathID": 32
+  },
+  "chart": [
+    {
+      "m_FileID": 4,
+      "m_PathID": 17
+    },
+    {
+      "m_FileID": 4,
+      "m_PathID": 25
+    },
+    {
+      "m_FileID": 4,
+      "m_PathID": 14
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 0
+    }
+  ],
+  "songsDifficulty": [
+    "5",
+    "11",
+    "15",
+    ""
+  ],
+  "songsLevel": [
+    "EZ",
+    "HD",
+    "IN",
+    "AT"
+  ],
+  "songsname": "Non-Melodic Ragez (MUG Edit)",
+  "music": "Normal1zer",
+  "illustration": "cycats",
+  "noteDesign": "分化者『RageS』",
+  "bestScore": [
+    0,
+    0,
+    0,
+    0
+  ],
+  "previewTime": 63.085,
+  "lockIcon": {
+    "m_FileID": 0,
+    "m_PathID": 10
+  },
+  "locked": true,
+  "chartUnlocked": [
+    false,
+    false,
+    false,
+    false
+  ]
+}

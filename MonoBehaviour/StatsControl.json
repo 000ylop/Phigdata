@@ -1,0 +1,268 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 8
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 101
+  },
+  "m_Name": "",
+  "songs": [
+    {
+      "songsName": "Glaciaxion",
+      "difficulty": [
+        2.0,
+        5.0,
+        11.0,
+        0.0
+      ]
+    },
+    {
+      "songsName": "Eradication Catastrophe",
+      "difficulty": [
+        3.0,
+        7.0,
+        12.0,
+        0.0
+      ]
+    },
+    {
+      "songsName": "Credits",
+      "difficulty": [
+        4.0,
+        10.0,
+        13.0,
+        0.0
+      ]
+    },
+    {
+      "songsName": "Dlyrotz",
+      "difficulty": [
+        6.0,
+        11.0,
+        14.0,
+        0.0
+      ]
+    },
+    {
+      "songsName": "Engine x Start!! (melody mix)",
+      "difficulty": [
+        4.0,
+        10.0,
+        15.0,
+        0.0
+      ]
+    },
+    {
+      "songsName": "光",
+      "difficulty": [
+        4.0,
+        8.0,
+        13.0,
+        0.0
+      ]
+    },
+    {
+      "songsName": "Winter ↑cube↓",
+      "difficulty": [
+        6.0,
+        11.0,
+        13.0,
+        0.0
+      ]
+    },
+    {
+      "songsName": "Cipher : /2&//<|0",
+      "difficulty": [
+        5.0,
+        10.0,
+        14.0,
+        0.0
+      ]
+    },
+    {
+      "songsName": "混乱-Confusion",
+      "difficulty": [
+        5.0,
+        0.0,
+        14.0,
+        0.0
+      ]
+    },
+    {
+      "songsName": "FULi AUTO SHOOTER",
+      "difficulty": [
+        4.0,
+        11.0,
+        15.0,
+        0.0
+      ]
+    },
+    {
+      "songsName": "HumaN",
+      "difficulty": [
+        5.0,
+        8.0,
+        12.0,
+        0.0
+      ]
+    },
+    {
+      "songsName": "[PRAW]",
+      "difficulty": [
+        4.0,
+        11.0,
+        13.0,
+        0.0
+      ]
+    },
+    {
+      "songsName": "Pixel Rebelz",
+      "difficulty": [
+        4.0,
+        11.0,
+        14.0,
+        0.0
+      ]
+    },
+    {
+      "songsName": "Cereris",
+      "difficulty": [
+        6.0,
+        10.0,
+        14.0,
+        0.0
+      ]
+    },
+    {
+      "songsName": "Non-Melodic Ragez (MUG Edit)",
+      "difficulty": [
+        5.0,
+        11.0,
+        15.0,
+        0.0
+      ]
+    },
+    {
+      "songsName": "Doppelganger",
+      "difficulty": [
+        4.0,
+        9.0,
+        13.0,
+        0.0
+      ]
+    },
+    {
+      "songsName": "もぺもぺ",
+      "difficulty": [
+        3.0,
+        8.0,
+        11.0,
+        0.0
+      ]
+    },
+    {
+      "songsName": "MARENOL",
+      "difficulty": [
+        1.0,
+        10.0,
+        14.0,
+        0.0
+      ]
+    },
+    {
+      "songsName": "萤火虫の怨",
+      "difficulty": [
+        4.0,
+        10.0,
+        13.0,
+        0.0
+      ]
+    },
+    {
+      "songsName": "万吨匿名信",
+      "difficulty": [
+        5.0,
+        9.0,
+        13.0,
+        0.0
+      ]
+    },
+    {
+      "songsName": "风屿",
+      "difficulty": [
+        5.0,
+        10.0,
+        13.0,
+        0.0
+      ]
+    },
+    {
+      "songsName": "dB doll",
+      "difficulty": [
+        1.0,
+        3.0,
+        6.0,
+        0.0
+      ]
+    },
+    {
+      "songsName": "Dash",
+      "difficulty": [
+        2.0,
+        5.0,
+        11.0,
+        0.0
+      ]
+    },
+    {
+      "songsName": "云女孩",
+      "difficulty": [
+        2.0,
+        9.0,
+        12.0,
+        0.0
+      ]
+    },
+    {
+      "songsName": "Drop It",
+      "difficulty": [
+        3.0,
+        9.0,
+        14.0,
+        0.0
+      ]
+    },
+    {
+      "songsName": "RIPPER",
+      "difficulty": [
+        7.0,
+        11.0,
+        15.0,
+        0.0
+      ]
+    }
+  ],
+  "rank": {
+    "m_FileID": 0,
+    "m_PathID": 64
+  },
+  "cleared": {
+    "m_FileID": 0,
+    "m_PathID": 62
+  },
+  "fullCombo": {
+    "m_FileID": 0,
+    "m_PathID": 61
+  },
+  "phi": {
+    "m_FileID": 0,
+    "m_PathID": 63
+  },
+  "cutOut": {
+    "m_FileID": 2,
+    "m_PathID": 146
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 48
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 202
+  },
+  "m_Name": "",
+  "song": {
+    "m_FileID": 5,
+    "m_PathID": 16
+  },
+  "songDrawing": {
+    "m_FileID": 5,
+    "m_PathID": 19
+  },
+  "songDrawingInGame": {
+    "m_FileID": 5,
+    "m_PathID": 21
+  },
+  "chart": [
+    {
+      "m_FileID": 5,
+      "m_PathID": 10
+    },
+    {
+      "m_FileID": 5,
+      "m_PathID": 11
+    },
+    {
+      "m_FileID": 5,
+      "m_PathID": 8
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 0
+    }
+  ],
+  "songsDifficulty": [
+    "5",
+    "9",
+    "13",
+    ""
+  ],
+  "songsLevel": [
+    "EZ",
+    "HD",
+    "IN",
+    "AT"
+  ],
+  "songsname": "万吨匿名信",
+  "music": "闫东炜",
+  "illustration": "IvyTowers",
+  "noteDesign": "猫の信",
+  "bestScore": [
+    0,
+    0,
+    0,
+    0
+  ],
+  "previewTime": 120.0,
+  "lockIcon": {
+    "m_FileID": 0,
+    "m_PathID": 8
+  },
+  "locked": true,
+  "chartUnlocked": [
+    false,
+    false,
+    false,
+    false
+  ]
+}
