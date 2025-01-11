@@ -1,0 +1,1959 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 24
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 2698
+  },
+  "m_Name": "",
+  "collectionSongs": [
+    {
+      "index": [
+        10000,
+        19999
+      ],
+      "newIcon": {
+        "m_FileID": 0,
+        "m_PathID": 52
+      },
+      "chapterTitle": "Chapter EX",
+      "allNum": 0,
+      "collectedNum": 0,
+      "collectionTexts": []
+    },
+    {
+      "index": [
+        0,
+        5
+      ],
+      "newIcon": {
+        "m_FileID": 0,
+        "m_PathID": 49
+      },
+      "chapterTitle": "Chapter 1",
+      "allNum": 0,
+      "collectedNum": 0,
+      "collectionTexts": []
+    },
+    {
+      "index": [
+        6,
+        10
+      ],
+      "newIcon": {
+        "m_FileID": 0,
+        "m_PathID": 43
+      },
+      "chapterTitle": "Chapter 2",
+      "allNum": 0,
+      "collectedNum": 0,
+      "collectionTexts": []
+    },
+    {
+      "index": [
+        11,
+        15
+      ],
+      "newIcon": {
+        "m_FileID": 0,
+        "m_PathID": 35
+      },
+      "chapterTitle": "Chapter 3",
+      "allNum": 0,
+      "collectedNum": 0,
+      "collectionTexts": []
+    },
+    {
+      "index": [
+        16,
+        20
+      ],
+      "newIcon": {
+        "m_FileID": 0,
+        "m_PathID": 3
+      },
+      "chapterTitle": "Chapter 4",
+      "allNum": 0,
+      "collectedNum": 0,
+      "collectionTexts": []
+    },
+    {
+      "index": [
+        21,
+        27
+      ],
+      "newIcon": {
+        "m_FileID": 0,
+        "m_PathID": 11
+      },
+      "chapterTitle": "Chapter 5",
+      "allNum": 0,
+      "collectedNum": 0,
+      "collectionTexts": []
+    },
+    {
+      "index": [
+        28,
+        32
+      ],
+      "newIcon": {
+        "m_FileID": 0,
+        "m_PathID": 15
+      },
+      "chapterTitle": "Chapter 6",
+      "allNum": 0,
+      "collectedNum": 0,
+      "collectionTexts": []
+    }
+  ],
+  "collectionTexts": [
+    {
+      "keyName": "shijian0",
+      "multiLanguageTitle": {
+        "chinese": "诗笺#0",
+        "chineseTraditional": "詩籤#0",
+        "english": "Stave No.0",
+        "japanese": "詩集#0",
+        "korean": ""
+      },
+      "getSong": 0,
+      "texts": [
+        {
+          "chinese": "收集时间1/05/21\\r\\n\r保管单位：镜\\r\\n\r等级：main\\r\\n\r摘自Phigros计划\\r\\n\r\\r\\n\\r\\n曾有流浪人\\r\\n\r未受洗礼\\r\\n\r未信神\\r\\n\r\\r\\n\r攀似绿箩藤\\r\\n\r圣石登宵\\r\\n\r持剑诰\\r\\n\r\\r\\n\r我要这\\r\\n\r穹顶降镐\\r\\n\r地霜共冰消\\r\\n\r渊无饥骨\\r\\n\r路非遥\\r\\n\r\\r\\n\r垂髫闻\\r\\n\r沉思莞尔\\r\\n\r教后生：何不\\r\\n\r振臂筑塔\\r\\n\r通云霄\\r\\n\r\\r\\n\r     ——2089.10.27\r\\r\\n",
+          "chineseTraditional": "收集時間：1/05/21\\r\\n\r保管單位：鏡\\r\\n\r等級：main\\r\\n\r（摘錄自Phigros計畫）\\r\\n\r\\r\\n\r\\r\\n\r曾有流浪人，\\r\\n\r未受洗禮，\\r\\n\r未信神。\\r\\n\r\\r\\n\r攀似綠夢藤，\\r\\n\r聖石登宵，\\r\\n\r持劍浩。\\r\\n\r\\r\\n\r我要這\\r\\n\r芎頂降鎬，\\r\\n\r地雙共冰消，\\r\\n\r淵無飢骨，\\r\\n\r路非遙。\\r\\n\r\\r\\n\r垂髫聞，\\r\\n\r沉思莞爾。\\r\\n\r教後生：何不？\\r\\n\r振臂築塔\\r\\n\r通雲霄。\\r\\n\r\\r\\n\r——2089.10.27\\r\\n",
+          "english": "Date: 1/05/21\\r\\n\rKeeper: Mirror\\r\\n\rCategory: Main\\r\\n\r\\r\\n\r(Excerpted from Project Phigros)\\r\\n\r\\r\\n\rFor once you were a wandering organism,\\r\\n\rWith no religion and yet received baptism.\\r\\n\r\\r\\n\rLike the green vines the holy stone atop the firmament,\\r\\n\rWith the order the sword was drawn out of sheath.\\r\\n\r\\r\\n\rHow I want, the ice got scattered by the axe from the heavens,\\r\\n\rAnd hunger no longer haunts the abyss.\\r\\n\r\\r\\n\rThe elder listened, thought and sighed,\\r\\n\r\"\"Build a tower to challenge the sky.\"\"\\r\\n\r\\r\\n\r----2089.10.27",
+          "japanese": "収納日付1/05/21\\r\\n\r保管単位：鏡\\r\\n\rレベル：main\\r\\n\rPhigros計画より\\r\\n\r\\r\\n\\r\\n昔流浪人といふ者あり\\r\\n\r洗礼を受けず\\r\\n\r神を信じたらざりき\\r\\n\r\\r\\n\r黄金かづらの茎の如く這い上がり\\r\\n\r聖なる石に天貫き\\r\\n\r剣持ちて宣告す\\r\\n\r\\r\\n\r我は世を変ふ\\r\\n\r天のつるはしに\\r\\n\r地の氷をさながら消して見す\\r\\n\r深淵に餓鬼の骨もあらず\\r\\n\rゆめゆめ長き道のりならず\\r\\n\r\\r\\n\r垂るる髪\\r\\n\r浅き微笑み\\r\\n\r後世に意志を継ぎ\\r\\n\r手動かし塔を建て\\r\\n\r空の果てまで我は行く\\r\\n\r\\r\\n\r     ----2089.10.27\r\\r\\n",
+          "korean": ""
+        }
+      ]
+    },
+    {
+      "keyName": "shijian1",
+      "multiLanguageTitle": {
+        "chinese": "\r诗笺#1",
+        "chineseTraditional": "詩籤#1",
+        "english": "Stave No.1",
+        "japanese": "詩集#1",
+        "korean": ""
+      },
+      "getSong": 4,
+      "texts": [
+        {
+          "chinese": "收集时间1/03/27\\r\\n\r保管单位：deathmark\\r\\n\r等级：main\\r\\n\r逃吧。\\r\\n\r\\r\\n\\r\\n事到如今\\r\\n\r转瞬即逝的虹\\r\\n\r还能逃到哪里去\\r\\n\r哪里容得\\r\\n\r醉人的花香，\\r\\n\r故去的残响，\\r\\n\r清醒的思想，\\r\\n\r虚构的梦乡。\\r\\n\r哪里就是\\r\\n\r我的故乡。\\r\\n\r",
+          "chineseTraditional": "收集時間：1/03/27\\r\\n\r保管單位：deathmark\\r\\n\r等級：main\\r\\n\r逃吧。\\r\\n\r\\r\\n\r\\r\\n\r事到如今，\\r\\n\r轉瞬即逝的虹。\\r\\n\r還能逃到哪裡去？\\r\\n\r哪裡容得\\r\\n\r醉人的花香、\\r\\n\r故去的殘響、\\r\\n\r清醒的思想、\\r\\n\r虛構的夢鄉？\\r\\n\r那裡就是\\r\\n\r我的故鄉。\\r\\n",
+          "english": "Date: 1/03/27\\r\\n\rKeeper: Deathmark\\r\\n\rCategory: Main\\r\\n\r\\r\\n\rEscape.\\r\\n\r\\r\\n\rNow that the rainbow fades,\\r\\n\rWhere,\\r\\n\rWhere else might it stay?\\r\\n\rWhere there be\\r\\n\rFragrance inside the posies,\\r\\n\rEchoes beneath the memories,\\r\\n\rSpirits from the awakened,\\r\\n\rDreams above the illusions,\\r\\n\rThere be my home.",
+          "japanese": "収納日付1/03/27\\r\\n\r保管単位：deathmark\\r\\n\rレベル：main\\r\\n\r逃げよう。\\r\\n\r\\r\\n\\r\\n今となっては\\r\\n\r一瞬にして消える虹も\\r\\n\r何処へと逃げることができるだろうか\\r\\n\rまだ何処にあるのだろうか。\\r\\n\r人を魅了する花の香、\\r\\n\rあの世へと消えていった残響、\\r\\n\r明晰なる思考の海洋、\\r\\n\rうつろだけが集う夢の中。\\r\\n\rそんな場所は\\r\\n\r私の故郷。\\r\\n",
+          "korean": ""
+        }
+      ]
+    },
+    {
+      "keyName": "shijian2",
+      "multiLanguageTitle": {
+        "chinese": "\r诗笺#2",
+        "chineseTraditional": "詩籤#2",
+        "english": "Stave No.2",
+        "japanese": "詩集#2",
+        "korean": ""
+      },
+      "getSong": 0,
+      "texts": [
+        {
+          "chinese": "收集时间1/02/29\\r\\n\r保管单位：deathmark\\r\\n\r等级：main\\r\\n\r冰封世界，融化中。\\r\\n\r\\r\\n\\r\\n五神鸟拙追旭日，光携风行列成诗。\\r\\n\r春照唤鸠归，剑已出鞘，难再回。\\r\\n\r峰上两相遇，针芒相对，淋绦絮。\\r\\n\r三寸巧舌嚼不烂，五丈坚岩立俩人。\\r\\n\r云开雾散仰苍穹，古韵幽弹檄终曲。\\r\\n\r萨里巅，悉听风，风何言，言何语，皆被小儿闲涂。\\r\\n\r常言道，东海吞象无尸骨，覆水浇地亦难收。\\r\\n\r且叫豪侠驾车迎，连营下榻待新机。\r\\r\\n",
+          "chineseTraditional": "收集時間：1/02/29\\r\\n\r保管單位：deathmark\\r\\n\r等級：main\\r\\n\r冰封世界，融化中。\\r\\n\r\\r\\n\r\\r\\n\r五神鳥拙追旭日，光攜風行列成詩。\\r\\n\r春照喚鳩歸，劍已出鞘，難再回。\\r\\n\r峰上兩相遇，針芒相對，淋絛絮。\\r\\n\r三寸巧舌嚼不爛，五丈堅岩立倆人；\\r\\n\r雲開霧散仰蒼穹，古韻幽彈檄終曲。\\r\\n\r薩里巔，悉聽風，風何言，言何語，皆被小兒閑塗。\\r\\n\r常言道，東海吞象無屍骨，覆水澆地亦難收。\\r\\n\r且叫豪俠駕車迎，連營下榻待新機。\\r\\n",
+          "english": "Date: 1/02/29\\r\\n\rKeeper: Deathmark\\r\\n\rCategory: Main\\r\\n\r\\r\\n\rGlaciaxia, melting.\\r\\n\r\\r\\n\rChasing the sun went the birds o' gods,\\r\\n\rBeneath the poem shone the lights and howls.\\r\\n\rA bird summoned by the spring,\\r\\n\rA sword glittered for the win.\\r\\n\rMet at the summit, chased with the winds,\\r\\n\rDown fell the feathers, in rain they rinsed.\\r\\n\rA tongue that twisted, two shadows there stood,\\r\\n\rThe firmament above touched the recital at foot.\\r\\n\rListen, Mount Sierra, coiled by the wind -\\r\\n\rWhat was she saying?\\r\\n\rWhy was she crying?\\r\\n\rThe floods unleashed mercy no being,\\r\\n\rThe milk spilt needed no regretting.\\r\\n\rShould we rest, may we wait,\\r\\n\rNot too far the chance awaits.",
+          "japanese": "収納日付1/02/29\\r\\n\r保管単位：deathmark\\r\\n\rレベル：main\\r\\n\r凍り付く世界が、溶けていく。\\r\\n\r\\r\\n\\r\\n五神鳥が日を追ひ、光は風携はりて詩作る。\\r\\n\r春が鳩の帰りを求め、剣は鞘より出せたりて、収むること難し。\\r\\n\r峰の上に出会ひ、かたみにまもりて、風を浴ふ。\\r\\n\r告ぐべからぬこと心に隠し、高き岩に立つ二人。\\r\\n\r晴れし空を見上げ、琴が終はりを告ぐなまめかしき旋律を奏づ。\\r\\n\r山の上、風聞きて、さても言ひきや、何を語れりや、小さき子の笑ひ声に隠れてきこえざりき。\\r\\n\r故人常に言へり、海に溺ると骨もなくなり、覆水は盆に返らず。\\r\\n\rただ迎へに来る人と帰りて、新しき暮らしを始めむ。\r\\r\\n",
+          "korean": ""
+        }
+      ]
+    },
+    {
+      "keyName": "shijian3",
+      "multiLanguageTitle": {
+        "chinese": "\r诗笺#3",
+        "chineseTraditional": "詩籤#3",
+        "english": "Stave No.3",
+        "japanese": "詩集#3",
+        "korean": ""
+      },
+      "getSong": 1,
+      "texts": [
+        {
+          "chinese": "收集时间1/03/01\\r\\n\r保管单位：deathmark\\r\\n\r等级：main\\r\\n\r咕。咕。咕。咕。\\r\\n\r溲泡泛。\\r\\n\r\\r\\n\\r\\n细鳞片鲴炖白蘋，馍汤灌口魄神还。\\r\\n\r乐府兴来调琴瑟，秦人似获蛊中音。\\r\\n\r驰行冰原二十载，唯闻笛笙青河沿。\\r\\n\r求留小憩痴人苑，细问客从何处来。\\r\\n\r",
+          "chineseTraditional": "收集時間：1/03/01\\r\\n\r保管單位：deathmark\\r\\n\r等級：main\\r\\n\r咕。咕。咕。咕。\\r\\n\r啵。啵。啵。啵。\\r\\n\r\\r\\n\r\\r\\n\r細鱗片鯝燉白蘋，饃湯灌口魄神還。\\r\\n\r樂府興來調琴瑟，秦人似獲蠱中音。\\r\\n\r馳行冰原二十載，唯聞笛笙青河沿。\\r\\n\r求留小憩敝人居，細問客從何處來。\\r\\n",
+          "english": "Date: 1/03/01\\r\\n\rKeeper: Deathmark\\r\\n\rCategory: Main\\r\\n\r\\r\\n\rCoo, coo, coo,\\r\\n\rBubble, bubble, bubble.\\r\\n\r\\r\\n\rFine fish skin with boiled white apple, take a sip and let your spirits free.\\r\\n\rA string twanged as a spur of the moment, wonder why someone would become addict.\\r\\n\rFor decades long there was no music but the sound of flute near the river.\rPlease just stay at my humble house, and detail what wind blew you here.",
+          "japanese": "収納日付1/03/01\\r\\n\r保管単位：deathmark\\r\\n\rレベル：main\\r\\n\rポッポッポッポ。\\r\\n\r泡ぶくぶく。\\r\\n\r\\r\\n\\r\\nうまき魚に昆布を添へ、美味しき汁に魂戻る。\\r\\n\r興じて笛を奏づれど、すがらに聞きてそろそろ飽きき。\\r\\n\r乗り物に氷原の上疾走し、笛音ばかり響き渡る。\\r\\n\r遠方より来て、ただ一晩の休みにこころゆく。\\r\\n",
+          "korean": ""
+        }
+      ]
+    },
+    {
+      "keyName": "shijian4",
+      "multiLanguageTitle": {
+        "chinese": "\r诗笺#4",
+        "chineseTraditional": "詩籤#4",
+        "english": "Stave No.4",
+        "japanese": "詩集#4",
+        "korean": ""
+      },
+      "getSong": 2,
+      "texts": [
+        {
+          "chinese": "收集时间1/03/06\\r\\n\r保管单位：deathmark\\r\\n\r等级：main\\r\\n\r人类的身份这么重要吗······\\r\\n\r\\r\\n\\r\\n活物需要名字，\\r\\n\r死物也需要名字。\\r\\n\r活物为了\\r\\n\r厚土埋身\\r\\n\r亦存生机。\\r\\n\r死物无欲，\\r\\n\r只求活着。\\r\\n\r",
+          "chineseTraditional": "收集時間：1/03/06\\r\\n\r保管單位：deathmark\\r\\n\r等級：main\\r\\n\r人類的身份這麼重要嗎···？\\r\\n\r\\r\\n\r\\r\\n\r活物需要名字，\\r\\n\r死物也需要名字。\\r\\n\r活物為了\\r\\n\r厚土埋身，\\r\\n\r亦存生機；\\r\\n\r死物無欲，\\r\\n\r只求活著。\\r\\n",
+          "english": "Date: 1/03/06\\r\\n\rKeeper: Deathmark\\r\\n\rCategory: Main\\r\\n\r\\r\\n\rAre our names and fame anything more than being lame…\\r\\n\r\\r\\n\rWhoever lives owns a name,\\r\\n\rWhoever dies owns a name.\\r\\n\rFor fame beings live,\\r\\n\rFor what the dead prolong?\\r\\n\rWould they, if ever, revive?",
+          "japanese": "収納日付1/03/06\\r\\n\r保管単位：deathmark\\r\\n\rレベル：main\\r\\n\r人類にとって身分はこんなにも大事なものなのか……\\r\\n\r\\r\\n\\r\\n生き物には名前が必要だ。\\r\\n\r死んだものにも名前は必要だ。\\r\\n\r生きているのは\\r\\n\r死ぬためであり\\r\\n\r特に何の願望があるわけでもない。\\r\\n\r死んだものには欲望がない、\\r\\n\rただ蘇ることを望むのみ。\\r\\n",
+          "korean": ""
+        }
+      ]
+    },
+    {
+      "keyName": "shijian5",
+      "multiLanguageTitle": {
+        "chinese": "\r诗笺#5",
+        "chineseTraditional": "詩籤#5",
+        "english": "Stave No.5",
+        "japanese": "詩集#5",
+        "korean": ""
+      },
+      "getSong": 3,
+      "texts": [
+        {
+          "chinese": "收集时间1/03/03\\r\\n\r保管单位：deathmark\\r\\n\r等级：main\\r\\n\r学不会写诗······\\r\\n\r\\r\\n\\r\\n春天，\\r\\n\r万物复苏的季节。\\r\\n\r",
+          "chineseTraditional": "收集時間：1/03/03\\r\\n\r保管單位：deathmark\\r\\n\r等級：main\\r\\n\r學不會寫詩······\\r\\n\r\\r\\n\r\\r\\n\r春天，\\r\\n\r萬物復甦的季節。\\r\\n",
+          "english": "Date: 1/03/03\\r\\n\rKeeper: Deathmark\\r\\n\rCategory: Main\\r\\n\r\\r\\n\rNever getting the sense of poetry…\\r\\n\r\\r\\n\rSpring, a season when everything wakes up.",
+          "japanese": "収納日付1/03/03\\r\\n\r保管単位：deathmark\\r\\n\rレベル：main\\r\\n\r詩が書けない……\\r\\n\r\\r\\n\\r\\n春は、\\r\\n\r万物が蘇る季節。\\r\\n",
+          "korean": ""
+        }
+      ]
+    },
+    {
+      "keyName": "shijian6",
+      "multiLanguageTitle": {
+        "chinese": "\r诗笺#6",
+        "chineseTraditional": "詩籤#6",
+        "english": "Stave No.6",
+        "japanese": "詩集#6",
+        "korean": ""
+      },
+      "getSong": 5,
+      "texts": [
+        {
+          "chinese": "收集时间1/03/32\\r\\n\r保管单位：deathmark\\r\\n\r等级：main\\r\\n\r光。\\r\\n\r\\r\\n\\r\\n流亡时代，\\r\\n\r鸢尾将开出花来，\\r\\n\r万丈光芒，\\r\\n\r穿透阴霭，\\r\\n\r拨见云开。\\r\\n\r",
+          "chineseTraditional": "收集時間：1/03/32\\r\\n\r保管單位：deathmark\\r\\n\r等級：main\\r\\n\r光。\\r\\n\r\\r\\n\r\\r\\n\r流亡時代，\\r\\n\r鳶尾將開出花來。\\r\\n\r萬丈光芒，\\r\\n\r穿透陰霧，\\r\\n\r撥雲見日。\\r\\n",
+          "english": "Date: 1/03/32\\r\\n\rKeeper: Deathmark\\r\\n\rCategory: Main\\r\\n\r\\r\\n\rHikari.\\r\\n\r\\r\\n\rHere we are in the age of exile,\\r\\n\rShall irises bloom, and may mist die,\\r\\n\rLacerated by shafts o' light,\\r\\n\rSeeking path through the hazy sky.\\r\\n",
+          "japanese": "収納日付1/03/32\\r\\n\r保管単位：deathmark\\r\\n\rレベル：main\\r\\n\r光。\\r\\n\r\\r\\n\\r\\n流浪時代、\\r\\n\r鳶の尾から花が咲き、\\r\\n\r光芒万丈、\\r\\n\r闇を貫き、\\r\\n\r雲を裂く。\\r\\n",
+          "korean": ""
+        }
+      ]
+    },
+    {
+      "keyName": "shijian7",
+      "multiLanguageTitle": {
+        "chinese": "\r诗笺#7",
+        "chineseTraditional": "詩籤#7",
+        "english": "Stave No.7",
+        "japanese": "詩集#7",
+        "korean": ""
+      },
+      "getSong": 6,
+      "texts": [
+        {
+          "chinese": "收集时间1/04/01\\r\\n\r保管单位：deathmark\\r\\n\r等级：main\\r\\n\r开始了吗。\\r\\n\\r\\n\\r\\n\r一朝梦醒时分，三神魂归衙里；\\r\\n\r香焚茶温之室，心焦氛凝之间。\\r\\n\r何故？\\r\\n\r优伶无故殁街头，风言诽词遍因特；\\r\\n\r瞬发微力熄群愤，急控情报防再传；\\r\\n\r仆射迨悲令新官，奔走探实来相报。\\r\\n\r",
+          "chineseTraditional": "收集時間：1/04/01\\r\\n\r保管單位：deathmark\\r\\n\r等級：main\\r\\n\r開始了嗎。\\r\\n\r\\r\\n\r\\r\\n\r一朝夢醒時分，三神魂歸衙裡；\\r\\n\r香焚茶溫之室，心焦氛凝之間。\\r\\n\r何故？\\r\\n\r優伶無故歿街頭，風言誹詞遍因特；\\r\\n\r瞬發微力熄群憤，急控情報防再傳；\\r\\n\r僕射迨悲令新官，奔走探實來相報。\\r\\n",
+          "english": "Date: 1/04/01\\r\\n\rKeeper: deathmark\\r\\n\rCategory: Main\\r\\n\rHas it started?\\r\\n\\r\\n\\r\\n\rAwoken from dream, as returning of three exlirs;\\r\\n\rRoom felt warm, yet mood still anxious.\\r\\n\rWhy?\\r\\n\rFor the diva perished unaccounted, spreading rumours flooded the net;\\r\\n\rThe masses enraged, yet information suppressed;\\r\\n\rIn grief the officer mourn, young sheriff to unravel the fact.\\r\\n",
+          "japanese": "収納日付1/04/01\\r\\n\r保管単位：deathmark\\r\\n\rレベル：main\\r\\n\r始まったのか。\\r\\n\\r\\n\\r\\n\r目覚めば現実、官邸に帰り、\\r\\n\r清々しきお茶、むつかしき心。\\r\\n\r何故？\\r\\n\rゆゑもあらず街に死に，噂は瞬く間網に広がり、\\r\\n\r群衆の怒り鎮め、消息が渡ること許さず。\\r\\n\r上司に命じられては，東へ西へと調べ行く。\\r\\n\r",
+          "korean": ""
+        }
+      ]
+    },
+    {
+      "keyName": "shijian8",
+      "multiLanguageTitle": {
+        "chinese": "\r诗笺#8",
+        "chineseTraditional": "詩籤#8",
+        "english": "Stave No.8",
+        "japanese": "詩集#8",
+        "korean": ""
+      },
+      "getSong": 7,
+      "texts": [
+        {
+          "chinese": "收集时间1/04/01\\r\\n\r保管单位：deathmark\\r\\n\r等级：main\\r\\n\r石林的孩子，你为何不回家\\r\\n\r\\r\\n\\r\\n石林，啊，石林\\r\\n\r我魂牵梦绕的故乡\\r\\n\r它有璀璨的长河\\r\\n\r和斑斓的过往\\r\\n\r鼓点是它的主旋律\\r\\n\r快乐是它的投名状\\r\\n\r\\r\\n\r那里有\\r\\n\r油彩泼洒的石柱\\r\\n\r矗立四海\\r\\n\r披头散发的荒人\\r\\n\r自由歌唱\\r\\n\r\\r\\n\r电磁轨道镶嵌着砖石光芒的太阳\\r\\n\r机械残骸无意识地缓慢飞翔\\r\\n\r那是从天而降的宝藏\\r\\n\r带着最后的希望\\r\\n\r\\r\\n\r如今我的父辈\\r\\n\r脱去了工装\\r\\n\r苦守宝藏\\r\\n\r似盐像\\r\\n\r\\r\\n\r我知道他们正在死去\\r\\n\r人不能在垃圾上久存\\r\\n\r世界也一样\\r\\n\r",
+          "chineseTraditional": "收集時間：1/04/01\\r\\n\r保管單位：deathmark\\r\\n\r等級：main\\r\\n\r石林的孩子，你為何不回家？\\r\\n\r\\r\\n\r\\r\\n\r石林，啊，石林，\\r\\n\r我魂牽夢繞的故鄉。\\r\\n\r它有璀璨的長河\\r\\n\r和斑斕的過往。\\r\\n\r鼓點是它的主旋律，\\r\\n\r快樂是它的投名狀。\\r\\n\r\\r\\n\r那裡有\\r\\n\r油彩潑灑的石柱\\r\\n\r矗立四海；\\r\\n\r披頭散髮的荒人\\r\\n\r自由歌唱。\\r\\n\r\\r\\n\r電磁軌道鑲嵌著磚石光芒的太陽，\\r\\n\r機械殘骸無意識地緩慢飛翔。\\r\\n\r那是從天而降的寶藏，\\r\\n\r帶著最後的希望。\\r\\n\r\\r\\n\r如今我的父輩\\r\\n\r脫去了工裝，\\r\\n\r苦守寶藏\\r\\n\r似鹽像。\\r\\n\r\\r\\n\r我知道他們正在死去。\\r\\n\r人不能在垃圾上久存，\\r\\n\r世界也一樣。\\r\\n",
+          "english": "Date1/04/01\\r\\n\rKeeper: Deathmark\\r\\n\rCategory: Main\\r\\n\rChild of hoodoo, why don't you go home?\\r\\n\r\\r\\n \\r\\nHoodoo, oh , hoodoo,\\r\\n\rMy hometown that haunts my mind.\\r\\n\rHere runs the shining river,\\r\\n\rHere lives the glorious past.\\r\\n\rDrumbeat is its theme,\\r\\n\rJoy is its promise.\\r\\n\r\\r\\n\rThere are\\r\\n\rPeristele splashed by oil paints\\r\\n\rTowering over all the seas\\r\\n\rThere are\\r\\n\rWildman with disheveled hair\\r\\n\rSinging freely\\r\\n\r\\r\\n\rElectromagnetic rail inlaid with bricks flaring like bright sun\\r\\n\rRemainings of machinery fly slowly without insturction\\r\\n\rThat is the fortune as if from heaven\\r\\n\rHolding the last hope\\r\\n\r\\r\\n\rBy now my elder generations\\r\\n\rFrocks taken off\\r\\n\rGuarding the fortune bitterly\\r\\n\rLike salt statues.\\r\\n\r\\r\\n\rI know they are perishing.\\r\\n\rHuman can not reside over trash,\\r\\n\rSo is the world\\r\\n\r",
+          "japanese": "収納日付1/04/01\\r\\n\r保管単位：deathmark\\r\\n\rレベル：main\\r\\n\r石林の子よ、なぜ家に帰らないんだ？\\r\\n\r\\r\\n\\r\\n石林、ああ、石林\\r\\n\r私が夢に見る故郷\\r\\n\r銀河のごとく煌めく川\\r\\n\r行き来する人の群れ\\r\\n\rビートで奏でられるメロディ\\r\\n\r楽しい世界だと約束してくれる\\r\\n\r\\r\\n\rそこにあるのは\\r\\n\r海の真ん中に聳え立つ\\r\\n\r色鮮やかな石柱\\r\\n\r町中で自由に歌う\\r\\n\rみだれ髪の流浪人\\r\\n\r\\r\\n\rキラキラ輝く太陽は電磁軌道に挟み込まれ\\r\\n\r機械の残骸は無意識にゆっくりと飛び回る\\r\\n\rそれは天から降ってくる宝物\\r\\n\r最後の希望を連れてきた\\r\\n\r\\r\\n\r今となってわが父は\\r\\n\r作業服を脱ぎ\\r\\n\r宝物を見張り\\r\\n\r石像の如き\\r\\n\r\\r\\n\r彼らが死んでいっているのはわかる\\r\\n\r人間はごみ溜めの中では長く生存できない\\r\\n\rこの世も同じ\\r\\n",
+          "korean": ""
+        }
+      ]
+    },
+    {
+      "keyName": "shijian9",
+      "multiLanguageTitle": {
+        "chinese": "\r诗笺#9",
+        "chineseTraditional": "詩籤#9",
+        "english": "Stave No.9",
+        "japanese": "詩集#9",
+        "korean": ""
+      },
+      "getSong": 8,
+      "texts": [
+        {
+          "chinese": "收集时间1/04/03\\r\\n\r保管单位：deathmark\\r\\n\r等级：main\\r\\n\r知识改变不了命运\\r\\n\\r\\n\\r\\n\r曾真理虚构左右为邻\\r\\n\r真理敬虚构：右厢有礼\\r\\n\r虚构割席，相左真理\\r\\n\r遂二者同室而不相见\\r\\n\r相知而不相言\\r\\n\r\r",
+          "chineseTraditional": "收集時間：1/04/03\\r\\n\r保管單位：deathmark\\r\\n\r等級：main\\r\\n\r知識改變不了命運。\\r\\n\r\\r\\n\r\\r\\n\r曾真理、虛構左右為鄰。\\r\\n\r真理敬虛構：右廂有禮；\\r\\n\r虛構割席，相左真理。\\r\\n\r遂二者同室而不相見，\\r\\n\r相知而不相言。\\r\\n",
+          "english": "Date 1/04/03\\r\\n\rKeeper: Deathmark\\r\\n\rCategory: main\\r\\n\rAcknowledge cannot change destiny\\r\\n\rOnce truth neighbored with fiction\\r\\n\rTruth honored fiction with the superior manner\\r\\n\rFiction refused and take the inferior contrary\\r\\n\rThence the two never meet yet in the same room\\r\\n\rBoth know the other, yet hold their tongues\\r\\n",
+          "japanese": "収納日付1/04/03\\r\\n\r保管単位：deathmark\\r\\n\rレベル：main\\r\\n\r知識だけでは運命を変えられない。\\r\\n\\r\\n\\r\\n\r昔、真理と仮想は隣りあわせ。\\r\\n\r真理は仮想を尊重し、\\r\\n\r仮想は真理に敬意を。\\r\\n\rだんだんと、ふたりは同じ部屋にいても顔を合わせることがなくなり、\\r\\n\r互いのことを知っていても相手を信用しなくなった。\\r\\n",
+          "korean": ""
+        }
+      ]
+    },
+    {
+      "keyName": "alpa",
+      "multiLanguageTitle": {
+        "chinese": "\r录音笔Alpa",
+        "chineseTraditional": "錄音筆Alpa",
+        "english": "Recording Pen Alpa",
+        "japanese": "ペン型ボイスレコーダーAlpa",
+        "korean": ""
+      },
+      "getSong": 0,
+      "texts": [
+        {
+          "chinese": "收集时间1/02/29\\r\\n\r保管单位：鸠\\r\\n\r等级：bold\\r\\n\r鸠专用录音笔，纯白色外壳，右侧贴有mope贴纸，背面刻着鸠和隼的名字。\\r\\n\r装载辅助型人工智能喵alpa，喵alpa没有个人意识，但不时会发出奇怪的声音。\\r\\n\r",
+          "chineseTraditional": "收集時間：1/02/29\\r\\n\r保管單位：Geopelia\\r\\n\r等級：bold\\r\\n\r\\r\\n\rGeopelia專用的錄音筆，純白色的外殼，右側貼有mope貼紙，背面刻著Geopelia和Falcen的名字。\\r\\n\r裝載輔助型人工智慧：喵Alpa。它沒有個人意識，但不時會發出奇怪的聲音。\\r\\n",
+          "english": "Date: 1/02/29\\r\\n\rKeeper: Geopelia\\r\\n\rCategory: Bold\\r\\n\rA pure white recording pen belonging to Geopelia. There's a mope sticker on the right, and \"\"Geopelia\"\" and \"\"Falcon\"\" were carved on the back.\\r\\n\rMeowalpa, an AI assistant, is installed in the pen. He is unconscious, which means he cannot think on his own, but he makes strange noises from time to time.",
+          "japanese": "収納日付1/02/29\\r\\n\r保管単位：鳩\\r\\n\rレベル：bold\\r\\n\r鳩専用のペン型ボイスレコーダー。白色、右側にmopeのシールが貼ってあり、背面には鳩と隼の名前が刻まれている。\\r\\n\r補助型人工知能alpaにゃんが搭載されている。alpaにゃんに自己意識はないが、時々変な声を出すことがある。\\r\\n",
+          "korean": ""
+        },
+        {
+          "chinese": "收集时间1/03/03\\r\\n\r鸠会拿它来记录灵感和听到的声音，所以alpa里保存着大量难以理解的小样，以及黑历史。\r\\r\\n\\r\\n\rGino：“这里面都记录了什么？”\\r\\n\r鸠：“哥哥说秘密只能和好朋友分享，你是我的好朋友吗？”\\r\\n\rGino：“不好说，你觉得呢？”\\r\\n\r鸠：“哥哥还说好朋友不会窥探朋友的秘密，所以你不是。”\\r\\n\rGino：“咳。您哥哥可真是逻辑大师。”\\r\\n\r鸠：“对吧！”\r\\r\\n",
+          "chineseTraditional": "收集時間：1/03/03\\r\\n\r\\r\\n\rGeopelia會拿它來記錄靈感和聽到的聲音，所以alpa裡儲存著大量難以理解的小訊息和黑歷史。\\r\\n\r\\r\\n\rGino：你錄了什麼東西在裡面啊？\\r\\n\rGeopelia：哥哥說秘密只能和好朋友分享，你是我的好朋友嗎？\\r\\n\rGino：不好說，你覺得呢？\\r\\n\rGeopelia：哥哥還說好朋友不會窺探朋友的秘密，所以你不是。\\r\\n\rGino：唉。您的哥哥可真是邏輯大師。\\r\\n\rGeopelia：對吧！\\r\\n",
+          "english": "Date: 1/03/03\\r\\n\rGeopelia uses it to record her ideas and what she hears. Now, alpa holds a rich collection of demos that are hard to understand, as well as stuff Geopelia would never admit were created by herself.\\r\\n\rGino: What's in the pen?\\r\\n\rGeopelia: My brother used to tell me that secrets should only be shared between friends. Are you my friend?\\r\\n\rGino: Hmm… Hard to say. What do you think?\\r\\n\rGeopelia: He also told me that friends won't pry into others' secrets, so I guess you're not.\\r\\n\rGino: Wow, your brother is truly a logic master.\\r\\n\rGeopelia: Sure he is!\\r\\n",
+          "japanese": "収納日付1/03/03\\r\\n\r鳩はこれを使って思いついたアイデアや聞こえた音を収録する。そのため、alpaは大量な理解しがたい音声サンプルや黒歴史が保存してある。\\r\\n\\r\\n\rGino：「この中に何を記録したんだい？」\\r\\n\r鳩：「兄さんは『秘密は友達とだけ分かち合うものだ』と言っていた。あなたは私の友達なのか？」\\r\\n\rGino：「わからない。君はどう思う？」\\r\\n\r鳩：「兄さんは『良い友は友達の秘密について聞いたりしない』と言っていた。だからあなたは私の友達ではない。」\\r\\n\rGino：「な……君のお兄さんの思考回路は独特だね。」\\r\\n\r鳩：「そうでしょ！」\r\\r\\n",
+          "korean": ""
+        },
+        {
+          "chinese": "收集时间2083/09/03\\r\\n\r鸠十岁的生日礼物，一直珍惜着保留到现在。\r\\r\\n\\r\\n\r：还差一点。\\r\\n  :啊\\r\\n\r【重物掉地的声音。】\\r\\n\r：你不要紧吧？\\r\\n\r：没事，皮破了，我去处理一下。\\r\\n\r【他打开龙头，盥洗池中，倒映出沉睡中的alpa】\\r\\n\r：就差一点了。\\r\\n\r",
+          "chineseTraditional": "收集時間：2083/09/03\\r\\n\r\\r\\n\rGeopelia十歲的生日禮物，她一直珍惜著它。\\r\\n\r\\r\\n\r???：還差一點···\\r\\n\r???：啊！\\r\\n\r【重物掉落的聲音】\\r\\n\r???：你不要緊吧？\\r\\n\r???：沒事，只是擦傷，我去處理一下。\\r\\n\r【他打開水龍頭，盥洗池中，倒映出沉睡中的Alpa】\\r\\n\r???：就差一點了。\\r\\n",
+          "english": "Date: 2083/09/03\\r\\n\rIt is Geopelia's 10th birthday present. She has kept it well ever since, she cherishes it.\\r\\n\rFalcon: A bit further… Ahhh!\\r\\n\r[Something heavy dropped]\\r\\n\rJoiec: You alright?\\r\\n\rFalcon: I'm fine, it's just a scratch, I'll take care of it.\\r\\n\r[Falcon turned on the tap. The basin reflects alpa's image, sound asleep.]\\r\\n\rFalcon: I'm almost… there…",
+          "japanese": "収納日付2083/09/03\\r\\n\r鳩が十歳の時にもらった誕生日プレゼント。ずっと大事にしてきたもの。\r\\r\\n\\r\\n\r：あと少し…\\r\\n：あ。\\r\\n\r【重いものが地面に落ちた音】\\r\\n\r：大丈夫？\\r\\n\r：大丈夫。ちょっとかすれただけ、処理してくる。\\r\\n\r【彼は蛇口を開けた。洗面ボウルに水が溜まり、熟睡中のalpaを水面に映し出した。】\\r\\n\r：あともう少しだ。\\r\\n",
+          "korean": ""
+        },
+        {
+          "chinese": "收集时间1/03/06\\r\\n\r喵alpa是哥哥的大学毕业设计之一，拥有稍高出普通猫咪的智能，平时睡在录音笔中，也会在鸠的个人终端冒泡。\\r\\n\\r\\n\r鸠：今天alpa好安静啊。\\r\\n\rGino：估计是睡着了。嘿嘿嘿，新人赶快点，不要偷懒，写完报告我们得下班了。【假装严肃】\\r\\n\r鸠：哦哦哦，晚上吃什么？\\r\\n\rGino：不是小饼干。\\r\\n\r鸠：收到！\r",
+          "chineseTraditional": "收集時間：1/03/06\\r\\n\r\\r\\n\r喵Alpa是哥哥大學畢業設計的作品之一，擁有稍微高出普通貓咪的智慧。平時睡在錄音筆中，也會在Geopelia的個人終端中刷存在感。\\r\\n\r\\r\\n\rGeopelia：今天Alpa好安靜啊。\\r\\n\rGino：估計是睡著了。嘿！快一點，不要偷懶，寫完報告後我們要下班了。【假裝嚴肅】\\r\\n\rGeopelia：哦哦哦，晚上吃什麼？\\r\\n\rGino：不是小餅乾。\\r\\n\rGeopelia：耶！",
+          "english": "Date: 1/03/06\\r\\n\rMeowalpa was one of her brothers' college graduation project. Meowalpa's intelligence is a bit higher than an ordinary cat, and he usually sleeps in the recording pen. Sometimes pops up on Geopelia's personal desktop.\\r\\n\rGeopelia: Alpa's quiet today.\\r\\n\rGino: Probably sleeping. Hey, be quick, newcomer, finish the report or we'll work late.\\r\\n\r[Pretending to be serious]\\r\\n\rGeopelia: Okay, what for dinner?\\r\\n\rGino: Anything but biscuits.\\r\\n\rGeopelia: Roger that!",
+          "japanese": "収納日付1/03/06\\r\\n\ralpaにゃんは兄さんの大学卒業設計の作品の一つで、普通の猫より少し高い知能を持っている。普段はペン型ボイスレコーダーの中で寝ているが、時々鳩の個人端末に顔を出すこともある。\\r\\n\r\\r\\n\r鳩：今日のalpaは静かですね。\\r\\n\rGino：多分寝ているな。フフフ、新人よ急げ、サボってんじゃねぇぞ。レポートをさっさと書き終えて帰らないと。【威厳があるように装っている】\\r\\n\r鳩：おお、晩御飯何食べる？\\r\\n\rGino：ビスケット以外何でもいい。\\r\\n\r鳩：了解！\r",
+          "korean": ""
+        },
+        {
+          "chinese": "收集时间1/04/02\\r\\n\r最近鸠产生了个奇怪的爱好，做完录音日记后，再修改它的频率保存在作品里，所以如果听到奇怪的杂音，不如破解看看。\r\\r\\n",
+          "chineseTraditional": "收集時間：1/04/02\\r\\n\r\\r\\n\r最近Geopelia產生了個奇怪的愛好：做完錄音日記，修改它的頻率後再儲存。所以如果聽到奇怪的雜音，不如試著破解看看。\\r\\n",
+          "english": "Date: 1/04/02\\r\\n\rGeopelia has developed a strange habit recently, that is, after recording a journal, to modify its frequency and save it in the work. So if you hear weird noise, might as well try to crack it.\\r\\n",
+          "japanese": "収納日付1/04/02\\r\\n\r鳩は最近、ひとつ奇妙な趣味ができた。録音日記が出来上がったら、その音の周波数を変えてから作品として保管する。だから、何か奇妙な音が聞こえたら、それを解析してみましょう。\r\\r\\n",
+          "korean": ""
+        },
+        {
+          "chinese": "",
+          "chineseTraditional": "",
+          "english": "",
+          "japanese": "",
+          "korean": ""
+        },
+        {
+          "chinese": " 收集时间1/04/03\\r\\n\r深夜摸鱼的Alpa，偷偷溜出录音笔，在走廊上，被正在画画的Kuzumi抓个正着，于是两人度过了一个愉快的幻想之夜。\\r\\n\rKuzumi：哪里来的猫猫啊，真可爱～\\r\\n\rAlpa：汪！\\r\\n\rKuzumi：？？？？狗叫？\\r\\n\r【Kuzumi恍然大悟，举起Alpa高呼】\\r\\n\rKuzumi：我懂了，冥冥自有天意，你就是上天赐给我的我的灵感女神！\\r\\n\rAlpa：喵呜～～\\r\\n\r【被压在Kuzumi腿上的Alpa发出悲鸣，这个人类女孩在说什么啊。Kuzumi文思泉涌，小小的便签本逐渐被黑猫Alpa的历险填满，猫猫遇到的同伴仿佛是真实存在的生物，在Kuzumi的脑中一一浮现，Kuzumi有预感，这将是一本伟大的绘本。】\\r\\n\r",
+          "chineseTraditional": "收集時間：1/04/03\\r\\n\r\\r\\n\r深夜摸魚的Alpa，偷偷溜出錄音筆，在走廊上，被正在畫畫的Kuzumi抓個正著，於是兩人度過了一個愉快的幻想之夜。\\r\\n\rKuzumi：哪裡來的貓貓啊，真可愛～\\r\\n\rAlpa：汪！\\r\\n\rKuzumi：？？？狗叫？\\r\\n\r【Kuzumi恍然大悟，舉起Alpa高呼】\\r\\n\rKuzumi：我懂了，冥冥自有天意，你就是上天賜給我的我的靈感女神！\\r\\n\rAlpa：喵嗚～～\\r\\n\r【被壓在Kuzumi腿上的Alpa發出悲鳴：這個人類女孩在說什麼啊？Kuzumi文思泉湧，小小的筆記本逐漸被黑貓Alpa的歷險填滿。貓貓遇到的同伴仿佛是真實存在的生物，在Kuzumi的腦中一一浮現。Kuzumi有預感，這將會是一本偉大的繪本。】\\r\\n",
+          "english": "Date: 1/04/03\\r\\n\rGoofing off at midnight, Alpa sneaked out the recording pen, and was caught red-handed by Kuzumi who was drawing in the corridor. So the two spent a pleasant fantasy night together.\\r\\n\rKuzumi: Where did this kitten come from? So cute~\\r\\n\rAlpa: Woof!\\r\\n\rKuzumi: ???? Dog bark?\\r\\n\r[Kuzumi was all of a sudden enlightened, hold Alpa up and shouted]\\r\\n\rKuzumi: I understood now, it is all by destiny. You are my inspiration goddess the Lord gifted to me!\\r\\n\rAlpa: Meow~~\\r\\n\r[Alpa was pressed against Kuzumi's leg and moaned. What was this human girl saying? Kuzumi was bursting with ideas, her little notepad was gradually filled with the adventure of the black cat Alpa. Those companions whom the kitten met seem to become real creatures that exist, and naturally appeared in Kuzumi's mind. Kuzumi had a feeling, that this would make a great picture book.]\\r\\n",
+          "japanese": "収納日付：1/04/03\\r\\n\r深夜、サボっているAlpaはこっそりペン型ボイスレコーダーから抜け出したが、廊下で絵を描いているKuzumiに掴まえられた。そして二人は愉快かつ幻想的な夜を過ごした。\\r\\n\rKuzumi：どこの猫ちゃんなの？かわいい～\\r\\n\rAlpa：ワン！\\r\\n\rKuzumi：？？？？犬の鳴き声？\\r\\n\r【Kuzumiは悟った。Alpaを抱き上げて大声で言う】\rKuzumi：わかった、これは運命だ、お前こそが神がくれたアイデアの女神だ！\\r\\n\rAlpa：ニャー～～\\r\\n\r【Kuzumiの体に押さえられたAlpaは悲鳴を上げた。この人間の女の子は一体何を言っているんだ。一方、Kazumiの脳内では無数のアイデアが湧いてきた。小さな付箋はやがてクロネコAlpaの冒険話でいっぱいになり、この猫ちゃんが出会った仲間たちはまるで現実に存在するかのように、Kazumiの脳内で次々と浮かび上がった。Kazumiには予感がある。この絵本は偉大な傑作になるに違いない。】\\r\\n",
+          "korean": ""
+        },
+        {
+          "chinese": "收集时间1/06/01\\r\\n\r迷宫的过境贴纸过于美丽，鸠保留了下来。\\r\\n\r\\r\\n\r鸠：alpa花里胡哨计划启动！\\r\\n\r【录音机里的alpa似乎有轻微的不满，可连绵不断的睡意让它重回了梦乡】\\r\\n\r",
+          "chineseTraditional": "收集時間：1/06/01\\r\\n\r\\r\\n\r迷宮的過境貼紙實在太特別了，所以Geopelia保留了下來。\\r\\n\r\\r\\n\rGeopelia：alpa花裡胡哨計畫啟動！\\r\\n\r【錄音筆中的Alpa似乎有輕微的不滿，可連綿不斷的睡意讓它重回了夢鄉】\\r\\n",
+          "english": "Date: 1/06/01\\r\\n\rThe transit sticker of the maze was so pretty, that Geopelia has kept it.\\r\\n\r\\r\\n\rGeopelia: Alpa fancification project initiation!\\r\\n\r[Alpa inside the recorder seemed slightly discontended, but the incessant drowsiness sent it back to the dreams.]\\r\\n\r",
+          "japanese": "収納日付1/06/01\\r\\n\r迷宮の入境スタンプがあまりにも美しすぎて、鳩はそれをしっかりと保存した。\\r\\n\r鳩：alpaおしゃれ計画起動！\\r\\n\r【ボイスレコーダーの中にいるalpaはこれに対して少々不満のようだが、立て続けに襲ってくる眠気のせいで夢の国に帰っていった。】\\r\\n",
+          "korean": ""
+        }
+      ]
+    },
+    {
+      "keyName": "Yshanfeng",
+      "multiLanguageTitle": {
+        "chinese": "\r【录音】山风",
+        "chineseTraditional": "【錄音】山風",
+        "english": "[Recording] Wind",
+        "japanese": "【録音】山風",
+        "korean": ""
+      },
+      "getSong": 1,
+      "texts": [
+        {
+          "chinese": "收集时间1/02/29\\r\\n\r保管单位：鸠\\r\\n\r等级：souvenir\\r\\n\r长度：10min32s\\r\\n\r记录了异常的山谷风声，如猿啼鹤唳，似虎啸龙吟，前段高昂而悠长，中间归于沉静又生于破晓，进而高潮迭起，空谷回响，结尾绵长如水，波澜不惊，似有精灵细语，传递世界末日号鸣，却因外来者闯入，终究戛然而止。\\r\\n\r",
+          "chineseTraditional": "收集時間：1/02/29\\r\\n\r保管單位：Geopelia\\r\\n\r等級：souvenir\\r\\n\r長度：10min32s\\r\\n\r\\r\\n\r記錄了異常的山谷風聲，如猿啼鶴唳，似虎嘯龍吟。前段高昂而悠長，而中間歸於沉靜後又生於破曉，進而高潮迭起，空谷迴響。結尾綿長如水，波瀾不驚，似有精靈細語，傳遞著世界末日的號鳴，卻因外來者闖入，終究戛然而止。\\r\\n",
+          "english": "Date: 1/02/29\\r\\n\rKeeper: Geopelia\\r\\n\rCategory: Souvenir\\r\\n\rLength: 10'32\"\"\\r\\n\rThe audio records abnormal wuthering winds among the mountains. The howls and whistles echo like the growls of tigers and cries of loongs.\\r\\n\rIt's long and high-pitched at the beginning, but the tone twisted down to peace minutes later, followed by a tide of stronger sounds reverberating and bouncing around the valleys. Finally everything was brought back to calm, as if the spirits whispering: \"\"Doomsday, doomsday…\"\" The whispers cascades down, accompanied by the wind's whistles, created a symphonious verse until suddenly –\\r\\n\r- someone broke into the door, and the recording was stopped unexpectedly.",
+          "japanese": "収納日付1/02/29\\r\\n\r保管単位：鳩\\r\\n\rレベル：souvenir\\r\\n\r時間：10min32s\\r\\n\r山谷の異常な風音を記録したもの。猿や鶴の鳴き声のようで、虎や龍の叫びのごとく、始めは高揚として長々と、途中で静まり返って、また高々と声を上げて谷間に響く。終わりは淡々として長引き、精霊たちの囁き声のようで、世界の終わりを告げる鐘の声のような音。だが、無礼者が突然訪れたせいで、この風音は一瞬にして止んでしまった。\\r\\n",
+          "korean": ""
+        }
+      ]
+    },
+    {
+      "keyName": "922alice",
+      "multiLanguageTitle": {
+        "chinese": "\r周边·判定线抱枕",
+        "chineseTraditional": "周邊·判定線抱枕",
+        "english": "Merchandise - Judgement Line Pillow",
+        "japanese": "グッズ·判定ライン抱き枕",
+        "korean": ""
+      },
+      "getSong": -6,
+      "texts": [
+        {
+          "chinese": "收集时间2019/02/08\\r\\n\r保管单位：您\\r\\n\r等级：souvenir\\r\\n\r软软的，捏捏～\\r\\n\rPGS仍在企划中的不明周边系列一。\\r\\n\r",
+          "chineseTraditional": "收集時間：2019/02/08\\r\\n\r保管單位：您\\r\\n\r等級：souvenir\\r\\n\r\\r\\n\r軟軟的，捏～\\r\\n\rPGS仍在企劃中的不明周邊系列之一。\\r\\n",
+          "english": "Date: 2019/02/08\\r\\n\rKeeper: YOU\\r\\n\rCategory: Souvenir\\r\\n\rSoft, and squishy~\\r\\n\rOne of the unknown merchandise that is still PGS's planning.\\r\\n",
+          "japanese": "収納日付2019/02/08\\r\\n\r保管単位：YOU(未定)\\r\\n\rレベル：souvenir\\r\\n\rふわっふわ～\\r\\n\rPGSがいまだに企画検討中のわけのわからないグッズシリーズ1。\\r\\n",
+          "korean": ""
+        }
+      ]
+    },
+    {
+      "keyName": "7huizhang",
+      "multiLanguageTitle": {
+        "chinese": "\r第七小队徽章",
+        "chineseTraditional": "第七小隊勳章",
+        "english": "Badge of Team VII",
+        "japanese": "第七小隊紋章",
+        "korean": ""
+      },
+      "getSong": 1,
+      "texts": [
+        {
+          "chinese": "收集时间1/03/02\\r\\n\r保管单位：鸠\\r\\n\r等级：souvenir\\r\\n\r鸠加入第七小队的证明，图案为雪原上盛开的银莲花。\\r\\n\r",
+          "chineseTraditional": "收集時間：1/03/02\\r\\n\r保管單位：Geopelia\\r\\n\r等級：souvenir\\r\\n\r\\r\\n\rGeopelia加入第七小隊的證明。上面的圖案為雪原上盛開的銀蓮花。\\r\\n",
+          "english": "Date: 1/03/02\\r\\n\rKeeper: Geopelia\\r\\n\rCategory: Souvenir\\r\\n\rA proof of Geopelia joining Team VII, illustrates a silver lotus blooming on a snow plain.",
+          "japanese": "収納日付1/03/02\\r\\n\r保管単位：鳩\\r\\n\rレベル：souvenir\\r\\n\r鳩が第七小隊に入隊した証。絵柄は雪原の上で咲いているアネモイの様子。\\r\\n",
+          "korean": ""
+        }
+      ]
+    },
+    {
+      "keyName": "Yhuoguo",
+      "multiLanguageTitle": {
+        "chinese": "\r【录音】火锅",
+        "chineseTraditional": "【錄音】火鍋",
+        "english": "[Recording] Hotpot",
+        "japanese": "【録音】火鍋",
+        "korean": ""
+      },
+      "getSong": 1,
+      "texts": [
+        {
+          "chinese": "收集时间1/03/01\\r\\n\r保管单位：鸠\\r\\n\r等级：souvenir\\r\\n\r长度：5min21s\\r\\n\r铜锅里咕噜咕噜冒着热气，毫米厚度的鱼片在浇油汤汁中翻滚，皎白光泽的鱼肉让人浮想联翩，灰黑的鱼皮勾勒了鱼片棱角，和葱花，香菜旋转起舞，在水面划出一道道涟漪。筷子轻挑这一块儿，送入嘴中，滋酢作响，入口即化的口感，仿佛让人忘了屋外的天寒地冻；再嘬嘴汤，心也融化在这温暖里。\\r\\n\r",
+          "chineseTraditional": "收集時間：1/03/01\\r\\n\r保管單位：Geopelia\\r\\n\r等級：souvenir\\r\\n\r長度：5min21s\\r\\n\r\\r\\n\r銅鍋裡咕嚕咕嚕的冒著熱氣。纖薄的魚片在澆油湯汁中翻滾，皎白的魚肉讓人浮想聯翩，灰黑的魚皮勾勒出魚片的棱角和蔥花。香菜旋轉起舞，在水面劃出一道道的漣漪。筷子輕挑這一塊兒，送入嘴中，滋酢作響。入口即化的口感，仿佛讓人忘了屋外的天寒地凍。再嚐口湯，心也融化在這片溫暖裡。\\r\\n",
+          "english": "Date: 1/03/01\\r\\n\rKeeper: Geopelia\\r\\n\rCategory: Souvenir\\r\\n\rLength: 5'21\"\"\\r\\n\rInside the copper hotpot, fine slices of fresh salmon rolled up and down in the boiling oil.\\r\\n\rThe transparent fish easily brings one into reverie. Grey yet shining, even the scales and skin look delightful with green onion and coriander chopped alongside.\\r\\n\rLet the tongue touch the crisp and rich taste of the fish slice as it melts inside the mouth, easily warms bodies up and free the souls from the chilly weather outside. Take a spoon of soup, even the heart seems to be melting with the fish.",
+          "japanese": "収納日付1/03/01\\r\\n\r保管単位：鳩\\r\\n\rレベル：souvenir\\r\\n\r時間：5min21s\\r\\n\r鍋からぶくぶくと湯気が出ている。ミリセンチくらいの厚さの魚の薄切りが鍋の中で茹でられている。その白い魚肉がとてもおいしそうで、葱とパセリと一緒に湯の中を泳ぎ、水面に波紋を描いた。箸でこの肉を掴んで口の中に送ると、口の中に溶ける感じは室外の寒さをも忘れさせてくれる。一口スープを飲むと、心もこの温もりの中に溶けていった。\\r\\n",
+          "korean": ""
+        }
+      ]
+    },
+    {
+      "keyName": "Ysleep",
+      "multiLanguageTitle": {
+        "chinese": "\r【录音】睡眠",
+        "chineseTraditional": "【錄音】睡眠",
+        "english": "[Recording] Sleep",
+        "japanese": "【録音】睡眠",
+        "korean": ""
+      },
+      "getSong": 3,
+      "texts": [
+        {
+          "chinese": "收集时间1/03/17\\r\\n\r保管单位：鸠\\r\\n\r等级：main\\r\\n\r长度：21min5s\\r\\n\r\\r\\n\r灯未熄，我打开窗户，月亮在白莲花般的云朵里穿行，从远方高塔流转而来的寒风，带着流星吹落屋檐上的雪，转而袭向小屋，那寒意让我直打哆嗦，只能再关上窗，老实躲进棉被。拿出个人终端，打开了之前的录音，我久久未曾动笔。\\r\\n\r放弃工作的我，索性看向窗外，隐约察觉到了天空中的异样。\\r\\n\r那有一座塔，也不能说是塔，它的直径大到难见边际，顶则高耸入云，云雾作衣，似有飞兽萦绕，若展翅鲲鹏，俯视人间。\\r\\n\r那座塔是什么时候建成的·····\\r\\n\r直到昨天还不在那里。\\r\\n\r",
+          "chineseTraditional": "收集時間：1/03/17\\r\\n\r保管單位：Geopelia\\r\\n\r等級：main\\r\\n\r長度：21min5s\\r\\n\r\\r\\n\r燈還未熄，我打開窗戶，月亮在白蓮花般的雲朵裡穿行。從遠方高塔流轉而來的寒風，帶著流星吹落屋簷上的雪，轉而襲向小屋。那寒意讓我直打哆嗦，只能再關上窗，老實的躲進棉被。拿出個人終端，打開了之前的錄音，我久久未曾動筆。\\r\\n\r放棄工作的我，索性看向窗外，隱約察覺到了天空中的異樣。\\r\\n\r那有一座塔，也不能說是塔。它的直徑大到難見邊際，頂則高聳入雲，雲霧作衣，似有飛獸縈繞，展翅鯤鵬，俯視人間。\\r\\n\r那座塔是什麼時候建成的···？\\r\\n\r直到昨天還不在那裡。\\r\\n",
+          "english": "Date: 1/03/17\\r\\n\rKeeper: Geopelia\\r\\n\rCategory: Main\\r\\n\rLength: 21'5\"\"\\r\\n\rThe light was still lit.\\r\\n\rI opened the window.\\r\\n\rThe moon was swimming through the clouds,\\r\\n\rthe firmament was dyed with slashes of meteors.\\r\\n\rThe wind was coming from the distant tower, twisted and swirled into my cabin.\\r\\n\rThe icy weather made me shiver, so I had no choice but to close the windows and crawl back into my warm quilt.\\r\\n\rI turned my desktop on and began playing my recordings from the past, pen in hand.\\r\\n\rNever was a single word written.\rGiven up on the work, I gazed out of the window again -\\r\\n\rthere seemed to be something different beyond the mist.\\r\\n\rThere was a tower - or maybe not, as it was too big to see its end, too tall to find its top. Wearing the clouds, it seemed to be accompanied with flying creatures - or more like whales - looking at my world from the heights.\\r\\n\r\"\"How could there be such a tower...\\r\\n\rIt didn't exist yesterday.",
+          "japanese": "収納日付1/03/17\\r\\n\r保管単位：鳩\\r\\n\rレベル：main\\r\\n\r時間：21min5s\\r\\n\r灯りをまだ消していない。窓を開けると、月はハクモクレンのような雲の中に隠れ、遠くの塔から流れてくる寒風は流れ星を連れて屋根に積もっている雪を吹き落とし、また小屋の中へ襲い掛かろうとしている。この寒さで私はぶるぶる震えて、やがては窓を閉めて布団の中に籠るしかなかった。個人端末を出して、以前に録音したものを流した。私は随分と長い間、筆を動かしていない。\\r\\n\r仕事している手を止めた私は、窓の外でも見てみようと思って外に目を向けた。すると、薄々と空の異変に気付いた。\\r\\n\rそこには一つの塔が立っている。塔とは言えないかもしれない。その直径は終わりも見えないほど長く、頂は高々と雲の層まで届いている。雲がその衣にでもなっているようで、今でもそこから神獣が翼を広げて飛び出し、地上を見下ろしそうな雰囲気。\\r\\n\rその塔はいつからそこに立っているんだろう……\\r\\n\r昨日までは、なかったのに。\\r\\n",
+          "korean": ""
+        },
+        {
+          "chinese": "听着Gino均匀的呼吸声，不禁的，我打起了节拍，一，二，一，二······好轻柔，好平静，是让人安心的喘息。\\r\\n\r“你还没有睡？”\\r\\n\r旋律戛然而止，他醒了！\\r\\n\r“不是说了······不要熬夜吗······”\\r\\n\rGino摇得床架直晃，我戳戳床板，他又没了动静。\\r\\n\r原来是梦话。\\r\\n\r啊～～唔。困了。\\r\\n\r明天再做吧。\\r\\n\r那么今天的日记到此结束。\r晚安。\r",
+          "chineseTraditional": "聽著Gino均勻的呼吸聲。不禁，我打起了節拍，一，二，一，二······好輕柔，好平靜，是讓人安心的喘息。\\r\\n\r「你還沒睡？」\\r\\n\r旋律戛然而止，他醒了！\\r\\n\r「不是說了······不要熬夜嗎······」\\r\\n\rGino的床架晃了一下，我戳戳床板，又沒了動靜。\\r\\n\r原來是夢話。\\r\\n\r啊～～唔，困了。\\r\\n\r明天再做吧。\\r\\n\r那麼今天的日記到此結束。晚安。",
+          "english": "Hearing the constant breaths from Gino, I can't help but follow his rhythm -\\r\\n\rTick, tock, tick, tock...\\r\\n\rSo peaceful and quiet, with a comforting power within.\\r\\n\r\"\"Still awake?\"\"\\r\\n\rThe rhythm suddenly stopped. Is he awake?\\r\\n\r\"\"I've told you not… not to stay up too late.\"\"\\r\\n\rGino shakes his bed, making it squeak.\\r\\n\rLet me poke his bed.\\r\\n\rYes, peace restored.\\r\\n\rAhh, he talks even when he sleeps -\\r\\n\rwhich makes me sleepy as well. Let's just rest now and put off these things to tomorrow.\\r\\n\rThat's the end of today's diary. Nighty.",
+          "japanese": "Ginoのリズム良き寝息を聞いて、私は思わずそのリズムに合わせて拍子を取った。一、二、一、二……優しくて静かで、人を落ち着かせてくれる寝息だ。\\r\\n\r「まだ寝てないのか？」\\r\\n\r拍子がピッと止まる。目が覚めてしまったのか？！\\r\\n\r「夜更かしするなって……言ったじゃん……」\\r\\n\rGinoがベット全体をぶらぶらと揺るがせ、私が床板を突っつくと、それはまた静まり返った。\\r\\n\rなんだ、寝言だったのか。\\r\\n\rはぁ～～うぅ……眠くなってきた。\\r\\n\rまた明日にしよう。\\r\\n\rでは今日の日記はここまで。\rおやすみなさい。\r",
+          "korean": ""
+        }
+      ]
+    },
+    {
+      "keyName": "Ysnow",
+      "multiLanguageTitle": {
+        "chinese": "\r【录音】踩雪",
+        "chineseTraditional": "【錄音】踩雪",
+        "english": "[Recording] Snow",
+        "japanese": "【録音】雪踏み",
+        "korean": ""
+      },
+      "getSong": 2,
+      "texts": [
+        {
+          "chinese": "收集时间1/03/03\\r\\n\r保管单位：鸠\\r\\n\r等级：souvenir\\r\\n\r抓住一把棉花糖样的絮状物，它们是从山的那边飘来的，踩上去有泡沫纸爆裂的声音，似乎除了剥夺人的体温没有什么大用处。Gino说这是雪，冰原上好久没下雪了，雪是个好兆头，下雪说明有云，有云则有水，水则代表着天气回暖，山中的湖冰融化，过不了多久，深潜湖底的鱼群乘着暖意，迂徊上游繁殖，他们跃出水面，溅滟水花，灵动的躯体，片羽的鳞片在空气中画出生命的彩虹，来年便有新的鱼儿诞生在冰原上了。\\r\\n\r\\r\\n\r“半个月后的渔猎节，你一定会喜欢的。”\\r\\n\r",
+          "chineseTraditional": "收集時間：1/03/03\\r\\n\r保管單位：Geopelia\\r\\n\r等級：souvenir\\r\\n\r\\r\\n\r抓住一把棉花糖樣的絮狀物，它們是從山的那邊飄來的，踩上去有像泡沫紙爆裂的聲音，似乎除了剝奪人的體溫沒有什麼大用處。Gino說這是雪，冰原上好久沒下雪了。雪是個好兆頭，下雪說明有雲，有雲則有水，水則代表著天氣回暖。山中的湖冰融化，過不了多久，深潛湖底的魚群就會乘著暖意，迂徊上游繁殖，他們躍出水面，濺灩水花，靈動的軀體，片羽的鱗片在空氣中畫出生命的彩虹，來年便有新的魚兒誕生在冰原上了。\\r\\n\r\\r\\n\r「半個月後的漁獵節，你一定會喜歡的。」\\r\\n",
+          "english": "Date: 1/03/03\\r\\n\rKeeper: Geopelia\\r\\n\rCategory: Souvenir\\r\\n\rGot ahold of something that feels like cotton candy. They came from the other side of the mountain, and sounds like the bubble wrap being stepped on. It seemed that it was useless except that it can steal the warmth from your body. Gino said this is snow, and it was a long time since the last time it snowed on this ice land. It is a good sign, because with snow there's cloud, with cloud there's water, and water will bring about warmth, which can defrost the lakes in the mountains. Soon, schools of fish would follow the warmth and swim upwards to breed. They leaped out of the surface, leaving splashes of water beneath. With their skin reflecting lights to form a rainbow, new fish would appear the next year.\\r\\n\r\"\"The fish hunting festival will arrive in half a month. You'll like it\"\"",
+          "japanese": "収納日付1/03/03\\r\\n\r保管単位：鳩\\r\\n\rレベル：souvenir\\r\\n\r一握りの、綿のような繊維状のものを掴んだ。山の向こう側から風に乗って漂ってきたらしい。踏んでみると気泡緩衝材のプチプチが破裂する音がして、人の体温を奪う以外何の使い道もないようだ。Ginoはこれを雪だと呼んでいた。氷原に雪が降るのは久しぶりで、いい兆候だ。雪が降るということは雲があること。雲があるということは水があること。水があるということは気温が上昇し始めている、山の中で凍った湖が溶けつつあるということを示している。もう少し時間がたつと、魚たちが暖流に乗って水底から上がってきて、上流でうろうろして繁殖の準備をするはず。彼らが水面から飛び出し、水しぶきを上げ、機敏な体を動かし、空中でその片鱗が命の虹を描き出すと、来年にまた新たな魚がこの氷原に誕生するだろう。\\r\\n\r\\r\\n\r「半ヶ月後の魚狩り祭、君は絶対気に入ってしまうよ。」\\r\\n",
+          "korean": ""
+        }
+      ]
+    },
+    {
+      "keyName": "trophon",
+      "multiLanguageTitle": {
+        "chinese": "\r两用摩托Trophon",
+        "chineseTraditional": "兩用摩托車Trophon",
+        "english": "Amphibious Motorbike Trophon",
+        "japanese": "両用バイクTrophon",
+        "korean": ""
+      },
+      "getSong": 1,
+      "texts": [
+        {
+          "chinese": "收集时间1/02/29\\r\\n\r保管单位：Gino\\r\\n\r等级：bold\\r\\n\rGino心爱的雪陆两用摩托，不同于其他巡逻员的坐骑，是队长Dlyro魔改作品之一，拥有雪地摩托漂亮的履带和滑板，也可以一键形态改变，收起前滑板，变为机动性超强的陆用摩托。\\r\\n\r",
+          "chineseTraditional": "收集時間：1/02/29\\r\\n\r保管單位：Gino\\r\\n\r等級：bold\\r\\n\r\\r\\n\rGino心愛的雪陸兩用摩托車，不同於其他巡邏員的車，是隊長Dlyro改裝的作品之一。擁有雪地摩托車漂亮的履帶和滑板，也可以一鍵形態改變，收起前滑板，變為機動性超強的陸用摩托車。\\r\\n",
+          "english": "Date: 1/02/29\\r\\n\rKeeper: Gino\\r\\n\rCategory: Bold\\r\\n\rGino's treasured amphibious motor. It is unique to others as it's modified by the team leader Dlyro. It has gliding boards for snow terrain, but can also transform with a press of a button, holding back the boards, and turn into a powerful land motor.",
+          "japanese": "収納日付1/02/29\\r\\n\r保管単位：Gino\\r\\n\rレベル：bold\\r\\n\rGInoが愛用する雪陸両用バイク。ほかの偵察隊員のものとは違い、Diyro隊長によって改造された作品の一つで、スノーバイクの華麗な無限軌道とスキー板が付いている。一つのボタンで姿を変えることも可能で、前方のスキー板をたたみ、機動性がとても強い陸用バイクに変身する。\\r\\n",
+          "korean": ""
+        },
+        {
+          "chinese": "收集时间1/03/03\\r\\n\r鸠和队长的关系很好，让其他队员十分羡慕。\\r\\n\r\\r\\n\rCarl：好像队长很喜欢新来的姑娘哎\\r\\n\rTheo：你不说我还不觉得，说起来真是哎，是因为可爱吗？\\r\\n\rCarl：你也想变得可爱？\\r\\n\rTheo：没有的事，别胡说【头冒蒸汽】\\r\\n\rCarl：我说你啊，渔猎节去和队长告白吧，明眼人都看得出来你喜欢她。\\r\\n\rTheo：我······\\r\\n\r【偷瞄远处的队长，dlyro正和队员们有说有笑地讨论工作，Theo思索半天好像做出了决定】\\r\\n\r",
+          "chineseTraditional": "收集時間：1/03/03\\r\\n\r\\r\\n\rGeopelia和隊長的關係很好，讓其他隊員十分羡慕。\\r\\n\r\\r\\n\rCarl：好像隊長很喜歡新來的姑娘欸？\\r\\n\rTheo：你不說我還不覺得，說起來真是欸。是因為可愛嗎？\\r\\n\rCarl：你也想變得可愛？\\r\\n\rTheo：怎麼可能，別胡說！【頭冒蒸汽】\\r\\n\rCarl：我說你啊，漁獵節那天去和隊長告白吧，有眼的人都看得出來你喜歡她。\\r\\n\rTheo：我······\\r\\n\r【偷瞄遠處的隊長，Dlyro正和隊員們有說有笑地討論工作，Theo思索了半天，似乎做出了決定】\\r\\n",
+          "english": "Date: 1/03/03\\r\\n\rGeopelia and Dlyro had a great relationship that many members admire.\\r\\n\rCarl: The Leader seems to like the new girl.\\r\\n\rTheo: Oh, that seems true. I didn't notice that before. Maybe because she's cute?\\r\\n\rCarl: Would you also want to be that cute?\rTheo: N… No, nonsense! [Embarrassed]\\r\\n\rCarl: Do as I say, tell the leader that you love her at the fish hunting festival. Everyone knows you have a thing for her.\\r\\n\rTheo: I······\\r\\n\r(Theo quickly glanced at the leader, Dlyro was chatting and seemed to be in good mood. Theo thought to himself for a long time, and seemed to have made up his mind.)",
+          "japanese": "収納日付1/03/03\\r\\n\rCarl：隊長はあの新入りの女の子を随分気に入ってるみたいだね。\\r\\n\rTheo：言われないと気付かなかった、本当だ。可愛いからか？\\r\\n\rCarl：君も可愛くなりたい？\\r\\n\rTheo：そんなことない、変なこと言うな【顔が真赤になる】\\r\\n\rCarl：君さ、魚狩り祭の時に隊長に告白してきてよ。君が隊長のことが好きだってこと、バレバレだよ。\\r\\n\rTheo：俺は……\\r\\n\r【遠くにいる隊長をちらりと見る。diyroは隊員たちと話したり笑ったりして仕事について議論している模様。Theoはしばらく考えてから、何か決意したようだ。】\\r\\n",
+          "korean": ""
+        },
+        {
+          "chinese": "收集时间1/03/06\\r\\n\r对巡逻队的队员来说，摩托侧面的花纹意义重大，Gino刚加入巡逻队时也想了很久。花纹设计得很成功，目前还没有人一眼破解密码。\\r\\n\r",
+          "chineseTraditional": "收集時間：1/03/06\\r\\n\r\\r\\n\r對巡邏隊的隊員來說，摩托車側面的花紋意義非常重大，Gino剛加入巡邏隊時也想了很久。花紋設計得很成功，目前還沒有人一眼就能破解密碼。\\r\\n",
+          "english": "Date: 1/03/06\\r\\n\rThe pattern on the side of the motor has a significant meaning to the patrols. Gino thought about it for a long time when he first joined the patrol, but it's so well designed that nobody was been able to decrypt it.",
+          "japanese": "収納日付1/03/06\\r\\n\r偵察隊の隊員たちにとって、バイクの側面にある花の模様は重大な意味を持っている。Ginoは入隊したばかりのときもそれについてたくさん考えた。花模様の設計はうまくいった。一目でそれが秘めている秘密を見破った人は、まだ誰もいない。\\r\\n",
+          "korean": ""
+        },
+        {
+          "chinese": "收集时间1/03/32\\r\\n\r在逃亡中，trophon被黑洞吸去了它的两只后视镜。\\r\\n\r",
+          "chineseTraditional": "收集時間：1/03/32\\r\\n\r\\r\\n\r在逃亡時，Trophon的那雙後視鏡都被黑洞吸走了。\\r\\n",
+          "english": "Date: 1/03/32\\r\\n\rDuring the escape, the two rear-view mirrors on Trophon were swallowed by the black hole.",
+          "japanese": "収納日付1/03/32\\r\\n\r逃亡中、trophonはブラックホールに二つのバックミラーを吸い込まれた。\\r\\n",
+          "korean": ""
+        },
+        {
+          "chinese": "收集时间1/04/03\\r\\n\r在拾荒者的帮助下，更换了后视镜和轮胎，并装配了广播系统。\\r\\n\r\\r\\n\rKouma：test，test，trophon号听得见嘛～\\r\\n\r鸠：Trophon收到！请长官下达下一步指令。\\r\\n\rKouma：Start your engine！\\r\\n\r鸠：top gear！\\r\\n\rGino：喂喂，你们太兴奋了点吧。\\r\\n\r鸠：陪我跑一圈吧，Gino！\\r\\n\rGino：好吧，抱住我，别被风吹跑了！\\r\\n\r【Trophon引擎轰鸣，鸠感觉到身下的庞然大物闷声怒吼，进而双蹄离地，强烈的失重感让鸠慌张片刻，她搂紧Gino，偷偷闭上了眼睛。于是，两人消失在了石林中】\\r\\n\r",
+          "chineseTraditional": "收集時間：1/04/03\\r\\n\r\\r\\n\r在拾荒者的幫助下，Trophon更換了後視鏡和輪胎，並裝配了廣播系統。\\r\\n\r\\r\\n\rKouma：test，test，Trophon號聽得見嘛～\\r\\n\rGeopelia：Trophon收到！請長官下達進一步指令。\\r\\n\rKouma：Startyourengine！\\r\\n\rGeopelia：TopGear！\\r\\n\rGino：喂喂，你們太興奮了吧！\\r\\n\rGeopelia：陪我跑一圈吧，吉諾！\\r\\n\rGino：好吧，抱住我，別被風吹跑了！\\r\\n\r【Trophon引擎轟鳴，Geopelia感覺到身下的龐然大物的悶聲怒吼，進而雙蹄離地，強烈的失重感讓Geopelia慌張了片刻。她摟緊Gino，偷偷閉上了眼睛。於是，兩人消失在石林中】\\r\\n",
+          "english": "Date: 1/04/03\\r\\n\rWith the help of scavengers, the rear-view mirrors and wheels were fixed, and a broadcasting system was installed.\\r\\n\rKouma: Test, test, Trophon do you copy?\\r\\n\rGeopelia: Roger that! Awaiting your order sire.\\r\\n\rKouma: Engine – start!\\r\\n\rGeopelia: Top gear!\\r\\n\rGino: Hey hey, you're too up.\\r\\n\rGeopelia: Accompany me for a lap, Gino!\\r\\n\rGino: Okay, hold on tight, don't get blown away!\\r\\n\r[The engine of Trophon roared, Geopelia feels the growls from the giant underneath her, the sudden acceleration made her lose balance, she wrapped her arms around Gino tightly, and secretly closed her eyes. Then, they both vanished into the hoodoo.]",
+          "japanese": "収納日付1/04/03\\r\\n\r荒れ者(ゴミを拾う人)の協力のもと、新しいバックミラーとタイヤに取り換えて、トランシーバーみたいなやつをも搭載した。\\r\\n\rKouma：test、test、trophon号聞こえるか～\\r\\n\r鳩：Trophon聞こえています！次の指示を。\\r\\n\rKouma：Start your engine！\\r\\n\r鳩：top gear！\\r\\n\rGino：おいおい、君たち興奮しすぎだろ。\\r\\n\r鳩：一周走るのに付き合ってよ、Gino！\\r\\n\rGino：わかったよ。掴まえろ、風に飛ばされんなよ！\\r\\n\r【Trophonエンジン全開、鳩は座っているこのデカブツの獰猛な叫びが聞こえてきた。ついに両足を地面から離れ、遠心力による強烈な無重力感に襲われた鳩は、慌ててGinoの腰を掴んで、こっそりと瞼を閉じた。そして、二人は石林(フゥードゥー)の中へ消えていった。】\\r\\n",
+          "korean": ""
+        },
+        {
+          "chinese": "收集时间1/06/04\\r\\n\rtrophon因为寄放在货厢提前到达第三层，沦为仓库管理员，业余发明家布兰达的试验品，侥幸拥有了极其不稳定的飞行能力。\\r\\n\r\\r\\nGino:都说了这是我的摩托，所有证件都在这里，为什么不能提？\\r\\n\r布兰达：仓库规定滞留时间超过两个月的货物，必须得到站长的签发证明，并且缴纳滞留金才能带走，所以在站长回来之前，我没有权利给你。\\r\\n\r【布兰达躲在报纸后面，暗地观察着和Gino一起来的鸠，小姑娘摆弄着头发也不知道想着什么。他怎么也没意料到，那辆摩托真有人来拿，要是被人发现了他做的改装，可不是丢了工作这么简单的】\\r\\n\r",
+          "chineseTraditional": "收集時間：1/06/04\\r\\n\r\\r\\n\rTrophon因為寄放在貨廂，提前到達第三層，淪為倉庫管理員：業餘發明家Branda，的試驗品。擁有了極其不穩定的飛行能力。\\r\\n\r\\r\\n\rGeopelia：都說了這是我的摩托車，所有證件都在這裡，為什麼不能領？\\r\\n\rBranda：倉庫規定滯留時間超過兩個月的貨物，必須得到站長簽發的證明，並且繳納滯留金才能帶走。所以在站長回來之前，我沒有權利給你。\\r\\n\r【Branda假裝看著報紙，暗地觀察著和Gino一起來的Geopelia，小姑娘擺弄著頭髮也不知道想著什麼。他怎麼也沒意料到，那輛摩托車真有人來拿，要是被人發現了他做的改裝，可不是被炒魷魚這麼簡單的】\\r\\n",
+          "english": "Date: 1/06/04\\r\\n\rBecause Trophon was stored at the cargo, it arrived at the third floor ahead of time. Unfortunately, it became a guinea pig of Branda, the warehouse manager who is also keen on inventing new stuff. Trophon was modded and now it has a new ability – fly. However, it's extremely unstable.\\r\\n\rGino: I told you it's my motor, and I am having all the docs here, why can't I take it back?\\r\\n\rBranda: The rules here are that for items stored in the warehouse for over two months, the warehouse master's signature is required, and an overtime charge must be paid. You have to wait for the master, I don't have the right to give it back to you.\\r\\n\r[Branda hides himself behind the newspaper, peeking Geopelia secretly, but have no idea what's the girl thinking about. It never occurred to him that someone would actually come and withdraw it, and if they found out about the mod, he may lose his job, or even worse.]",
+          "japanese": "収納日付1/06/04\\r\\n\rtrophonはコンテナの中に預けてあるため、先に第三層へと到着した。倉庫の管理員であり、アマチュア発明家でもあるブランダの実験品となってしまった。おかげさまで不安定な飛行能力を得た。\\r\\n\r\\r\\nGino：言っただろ、これは俺のバイクだ。必要な証明書とかも全部ここにある。どうして渡してくれないんだ？\\r\\n\rブランダ：倉庫の規定により、ここで二ヶ月以上留まっているものは、駅長が発行する証明書をもらった上で、保管費を納めてから初めてこのバイクを引き渡すことができるようになる。だから、駅長が帰ってくる前に、このバイクを引き渡す権利は私にはない。\\r\\n\r【ブランダは新聞紙で顔を隠し、陰でGinoと一緒に来た鳩を観察している。小娘は髪の毛をいじっていて、何を考えているかは全くわからない。彼はそのバイクを取りに来る人がほんとにいるなんて思わなかった。もし改造されていることを見つけられたら、職務を失う程度では済まないはずだ】\\r\\n",
+          "korean": ""
+        }
+      ]
+    },
+    {
+      "keyName": "cookies",
+      "multiLanguageTitle": {
+        "chinese": "\r空投小饼干",
+        "chineseTraditional": "空投小餅乾",
+        "english": "Airdrop Biscuits",
+        "japanese": "補給物資のビスケット",
+        "korean": ""
+      },
+      "getSong": 2,
+      "texts": [
+        {
+          "chinese": "收集时间1/03/04\\r\\n\r保管单位：第七巡逻队仓库/鸠\\r\\n\r等级：main\\r\\n\r超级不好吃的压缩饼干，每周用不知道的方式，空投到巡逻队营地，似乎是物资补给的一部分，随包还送辣椒酱，美乎其名，补充维生素C。\\r\\n\r",
+          "chineseTraditional": "收集時間：1/03/04\\r\\n\r保管單位：第七巡邏隊倉庫/Geopelia\\r\\n\r等級：main\\r\\n\r\\r\\n\r超級難吃的壓縮餅乾。每週用未知的方式，空投到巡邏隊營地，似乎是物資補給的一部分。這東西還附辣椒醬，如同其名，補充維他命C。\\r\\n",
+          "english": "Date: 1/03/04\\r\\n\rKeeper: Patrol Team VII Storage / Geopelia\\r\\n\rCategory: Main\\r\\n\rCompressed biscuits that taste very nasty. They arrive weekly to the camp via unknown means of transportation, and look like a part of the supplies. They even come with chili sauce, said to replenish vitamin C.",
+          "japanese": "収納日付1/03/04\\r\\n\r保管単位：第七偵察隊倉庫/鳩\\r\\n\rレベル：main\\r\\n\rとてもとても不味いビスケット。毎週、知らない方法で空から偵察隊基地に投下される。補給物資の一部らしい。ついでにチリソースもついている。それは素晴らしいもので、ビタミンCを取ることができる。\\r\\n",
+          "korean": ""
+        },
+        {
+          "chinese": "收集时间1/05/23\\r\\n\r进入管道迷宫的第三天，鸠从口袋里摸出一袋小饼干，陷入了吃还是吃的沉思。最后两人就着辣椒酱吃完了最后的存粮。\\r\\n\r",
+          "chineseTraditional": "收集時間：1/05/23\\r\\n\r\\r\\n\r進入管道迷宮的第三天，Geopelia從口袋裡掏出一袋小餅乾，陷入了吃還是不吃的沉思。最後兩人就決定邊沾著辣椒醬邊吃完了最後的存糧。\\r\\n",
+          "english": "Date: 1/05/23\\r\\n\rOn the third day of entering the sewer maze, Geopelia found a package of biscuits, and absorbed by the thought of whether to eat or to eat it. Eventually the two ate the final supplies with the chili sauce.\\r\\n",
+          "japanese": "収納日付1/05/23\\r\\n\r管状迷宮に入った三日目、鳩はポケットから一袋のビスケットを取り出して、食うかどうかに迷っていた。結局、二人はチリソースにつけてこの最後の食糧を食べ終えた。\\r\\n",
+          "korean": ""
+        }
+      ]
+    },
+    {
+      "keyName": "flute",
+      "multiLanguageTitle": {
+        "chinese": "\r梆笛",
+        "chineseTraditional": "梆笛",
+        "english": "Chinese Piccolo",
+        "japanese": "梆笛(ほうてき)",
+        "korean": ""
+      },
+      "getSong": 3,
+      "texts": [
+        {
+          "chinese": "收集时间1/03/03\\r\\n\r保管单位：gino\\r\\n\r等级：bold\\r\\n\r雪原上唯一的乐器，是Gino家乡的宝物。\\r\\n\r\\r\\n鸠：家乡，Gino的家不在冰原吗？\\r\\n\rGino：说是家乡，其实也就隔壁巡逻队。冰封纪元之后，人们就不再做乐器了，我的笛子是七百年来仅存的历史遗珠，独此一份。\\r\\n\r鸠：既然是宝物，又怎么让Gino带出来勒？\\r\\n\rGino：师傅说，笛子若得不到感动和旋律的浇灌，就会像其他乐器一样，消逝在冰原中了，嘱咐我常吹常练，才是保护笛子唯一的办法。\\r\\n\r鸠：是这样吗？\\r\\n\r",
+          "chineseTraditional": "收集時間：1/03/03\\r\\n\r保管單位：Gino\\r\\n\r等級：bold\\r\\n\r\\r\\n\r雪原上唯一的樂器，是Gino家鄉的寶物。\\r\\n\r\\r\\n\rGeopelia：家鄉，吉諾的家不是在冰原嗎？\\r\\n\rGino：說是家鄉，其實也就只是隔壁的巡邏隊。冰封紀元之後，人們就不再做樂器了。我的笛子是七百年來僅存的歷史遺珠，僅此一份。\\r\\n\rGeopelia：既然是寶物，又怎麼讓吉諾你帶出來？\\r\\n\rGino：師傅說，笛子若得不到旋律的澆灌與感動，就會像其他樂器一樣，消逝在冰原之中了。他囑咐我要常吹常練，就是保護笛子唯一的辦法。\\r\\n\rGeopelia：是這樣嗎？\\r\\n",
+          "english": "Date: 1/03/03\\r\\n\rKeeper: Gino\\r\\n\rCategory: Bold\\r\\n\rThe only musical instrument in Glaciaxia. It is a treasure from Gino's hometown.\\r\\n\rGeopelia: Hometown… Isn't Gino's home on this ice land?\rGino: Instead of hometown, I prefer calling it a patrol team nearby. Mankind has stopped making instruments since Glaciaxion. The Chinese I have here is about 700 years old, one of its kind.\\r\\n\rGeopelia: Treasure as it is, why is it in your hands?\\r\\n\rGino: The master said, if a piccolo isn't watered enough by emotions and melodies, it would fade out on the ice land like many other musical instruments. He demanded me practice it whenever possible, and that's the only way to protect the piccolo.\\r\\n\rGeopelia: Is it so?",
+          "japanese": "収納日付1/03/03\\r\\n\r保管単位：gino\\r\\n\rレベル：bold\\r\\n\r雪原で唯一の楽器、Ginoの故郷の宝物てある。\\r\\n\rGino：故郷と言っても、隣の偵察隊のことさ。氷封紀元(グラシアリズ・エポック)以来、人類は楽器を作らなくなった。俺の笛は七百年間にも渡って長く存在し続けた歴史的宝物であり、唯一無二のものだ。\\r\\n\r鳩：宝物だったら、なんでGinoが持ち歩いてもいいの？\\r\\n\rGino：師匠は言ってた。笛が長い間感動と旋律の恩寵を受けない限り、ほかの楽器と同じ、氷原の中に消えてしまうと。だから常に俺によく吹いて練習しろと言ってたよ。これこそが笛を守るための唯一の方法だから。\\r\\n\r鳩：そうなのか？\\r\\n",
+          "korean": ""
+        },
+        {
+          "chinese": "收集时间01/09/35\\r\\n\r115给Gino的线索，打开看竟是和塔中相似的梆笛。\\r\\n",
+          "chineseTraditional": "收集時間：01/09/35\\r\\n\r\\r\\n\r115給Gino的線索。打開看，竟是和塔中相似的梆笛。\\r\\n",
+          "english": "Date: 01/09/35\\r\\n\rClue given to Gino by 115. It is actually a piccolo similar to those in the Tower.\\r\\n",
+          "japanese": "収納日付01/09/35\\r\\n\r115がGinoにあげた手がかり。開けてみると、塔の中のものと似たような梆笛だった。\\r\\n",
+          "korean": ""
+        }
+      ]
+    },
+    {
+      "keyName": "Yhuangying",
+      "multiLanguageTitle": {
+        "chinese": "\r【录音】黄莺亮翅",
+        "chineseTraditional": "【錄音】黃鶯展翅",
+        "english": "[Recording] Oriole",
+        "japanese": "【録音】鶯の翅",
+        "korean": ""
+      },
+      "getSong": 2,
+      "texts": [
+        {
+          "chinese": "收集时间1/03/03\\r\\n\r保管单位：鸠\\r\\n\r等级：souvenir\\r\\n\r长度：3min42s\\r\\n\r壁炉中虚拟的黄色火焰缓缓跳动，乐人将梆笛从盒内取出，言，今日欢喜，应奏上一曲。\\r\\n\r\r颤来音扬似晨晓，春意浓，万物复苏，黄莺闹。黄莺闹，翼展驾风飞，啼早，啼早，呼朋唤友，迎春茂。黄莺瞧，枝头绽新芽，白梅好容貌，溪冰绕石漂，鱼跃花间俏。黄莺笑，抖尽尘雪，亮翅逍遥。\\r\\n\r",
+          "chineseTraditional": "收集時間：1/03/03\\r\\n\r保管單位：Geopelia\\r\\n\r等級：souvenir\\r\\n\r長度：3min42s\\r\\n\r\\r\\n\r壁爐中虛擬的黃色火焰緩緩跳動，樂人將梆笛從盒內取出，言：今日歡喜，應奏上一曲。\\r\\n\r\\r\\n\r顫來音揚似晨曉，春意濃，萬物復甦，黃鶯鬧。黃鶯鬧，翼展駕風飛，啼早，啼早，呼朋喚友，迎春茂。黃鶯瞧，枝頭綻新芽，白梅好容貌，溪冰繞石漂，魚躍花間俏。黃鶯笑，抖盡塵雪，亮翅逍遙。\\r\\n",
+          "english": "Date: 1/03/03\\r\\n\rKeeper: Geopelia\\r\\n\rCategory: Souvenir\\r\\n\rLength: 3'42\"\"\\r\\n\rWith the virtual flame dancing slowly in the fireplace, the musician took the flute out from the case and said, \"\"on such a smooth day, I'd like to play some soothing melody.\"\"\\r\\n\rAlong with the treble, the spring sun rise,\\r\\n\rInch by inch the world revives.\\r\\n\rOriole tweets, oriole flies,\\r\\n\runrolling her feathers o'er winds she rides.\\r\\n\r\"\"Here it comes, my dear friend,\\r\\n\rspring wakes everything up to life.\"\"\\r\\n\rOriole glanced with rapid eyes,\\r\\n\rtwigs look green and plums don't hide.\\r\\n\rStood in the rivers is melting ice,\\r\\n\rabove the streams the fish jumps high.\\r\\n\rOriole flies, oriole smiles,\\r\\n\rDown scraps the snow and up chases the kite.\\r\\n\r\\r\\n\r(Oriole, a bird symbolizing spring and happiness.)",
+          "japanese": "収納日付1/03/03\\r\\n\r保管単位：鳩\\r\\n\rレベル：souvenir\\r\\n\r時間：3min42s\\r\\n\r壁炉の中で仮想の黄色い炎が踊っている。楽人は梆笛を箱から取り出して、曰く、今日は喜ばしき日、一曲演奏すべき、と。\\r\\n\r\r聞こえ来る声は暁を告げ、春目覚め、万物蘇り、鴬鳴く。鴬鳴いては、翼広げて高々と風に乗り、あしたの到来を告ぐ。あしたを告げ、友垣を呼び、春を迎ふ。鴬見ると、枝に新たなるつぼみ芽生え、白梅美しく咲きたりて、分れて流るる泉川、花の茂みに踊る魚。鴬が笑い、翼に積もれる雪を払ひそれを広げ、やがて飛び立てり。\\r\\n",
+          "korean": ""
+        }
+      ]
+    },
+    {
+      "keyName": "shushekey",
+      "multiLanguageTitle": {
+        "chinese": "\r宿舍钥匙",
+        "chineseTraditional": "宿舍鑰匙",
+        "english": "Dorm Key",
+        "japanese": "宿舎の鍵",
+        "korean": ""
+      },
+      "getSong": 2,
+      "texts": [
+        {
+          "chinese": "收集时间1/03/01\\r\\n\r保管单位：鸠\\r\\n\r等级：souvenir\\r\\n\r鸠和Gino的宿舍钥匙，鸠平时别在帽子里。\\r\\n\r\\r\\n\rGino：鸠，开门。我拿东西洗澡。\\r\\n\r鸠：您呼叫的用户正在更换装备，请稍后再拨。\\r\\n\r【屋内传出一阵巨响，像是有什么重物倒地，接着隔热门发出连续的闷声，Gino能想象房间被鸠搞得一团糟的悲惨场景】\\r\\n\rGino：咕咕，你绝对没在换衣服吧！\\r\\n\r鸠：我不叫咕咕！\\r\\n\r【门开了，只穿了衬衫的鸠，左右观望，确认了没有其他人，扔给Gino一堆衣服，像极了秘密交易的巷道贩子】\\r\\n\r鸠：快去洗澡，十点前别回来。\\r\\n\rGino：你是在翻我的衣柜？【Gino定睛瞧，鸠的衬衫正是他的工作服】\\r\\n鸠：哼，咕咕才不会对你的遮羞布感兴趣呢。\\r\\n\r【鸠一把带上门，门带的风压让Gino眯嘘眼睛，她是不是暴露了什么】\\r\\n\r",
+          "chineseTraditional": "收集時間：1/03/01\\r\\n\r保管單位：Geopelia\\r\\n\r等級：souvenir\\r\\n\r\\r\\n\rGeopelia和Gino的宿舍鑰匙，Geopelia平時把它別在帽子裡。\\r\\n\r\\r\\n\rGino：鳩，開門。我要拿東西洗澡。\\r\\n\rGeopelia：您呼叫的用戶正在更換裝備，請稍後再撥。\\r\\n\r【屋內傳出一陣巨響，像是有什麼重物倒地，接著隔熱門發出連續的悶聲。Gino能想像房間被鳩搞得一團糟的悲慘場景】\\r\\n\rGino：咕咕，你絕對沒在換衣服吧！\\r\\n\rGeopelia：我不叫咕咕！\\r\\n\r【門開了，只穿了襯衫的Geopelia，左右觀望，確認了沒有其他人，扔給Gino一堆衣服，像極了秘密交易的巷道販子】\\r\\n\rGeopelia：快去洗澡，十點前別回來。\\r\\n\rGino：你是在翻我的衣櫃？【Gino定睛瞧，Geopelia的襯衫正是他的工作服】\\r\\n\rGeopelia：哼，咕咕才不會對你的遮羞布感興趣呢。\\r\\n\r【Geopelia一把關上門，門引起的風壓讓Gino瞇起眼睛，她是不是暴露了什麼？】\\r\\n",
+          "english": "Date: 1/03/01\\r\\n\rKeeper: Geopelia\\r\\n\rCategory: Souvenir\\r\\n\rGeopelia and Gino's dorm key, Geopelia usually clip it in her hat.\\r\\n\rGino: Geopelia, open the door. I need to take some stuff to shower.\\r\\n\rGeopelia: The user you are calling is changing equipment. Please redial later.\\r\\n\r[From the room came a loud bang, as if something heavy has been dropped. Following up was groaning sound. Gino can imagine what a mess Geopelia has made of the room.]\\r\\n\rGino: Coo-coo, you're definitely not changing clothes, aren't you?\\r\\n\rGeopelia: I'm not Coo-coo!\\r\\n\r[The door opened. Geopelia, who only had a shirt on, looked around to confirm that there were no one else before throwing Gino a pile of clothes, like a dealer at the back alley.]\\r\\n\rGeopelia: Go take a bath, and don't come back before ten.\\r\\n\rGino: You're checking my closet? [Gino looked closely, Geopelia was wearing his work uniform.]\\r\\n\rGeopelia: Hmph. Coo-coo wouldn't be interested in your pieces of cloth.\\r\\n\r[Geopelia closed the door pretty hard, the wind from the door made Gino squint. Did she expose herself a bit?]",
+          "japanese": "収納日付1/03/01\\r\\n\r保管単位：鳩\\r\\n\rレベル：souvenir\\r\\n\rGino：鳩、ドアを開けてくれ。ちょっと物を取って風呂に入るから。\\r\\n\r鳩：おかけになった電話番号の主はいま装備を換えているところです。またおかけなおしください。\\r\\n\r【部屋からでかい物音がした、何か重いものが倒れたような声だった。それに続いて断熱ドアの向こうから続々と鳩の不快な声が聞こえてきた。部屋の中が鳩にめちゃくちゃにされたことをもうGinoは想像がついた。】\\r\\n\rGino：ポッポ、お前絶対着替えてないだろ！\\r\\n\r鳩：私の名はポッポじゃない！\\r\\n\r【ドアが開いた。シャツだけを着ている鳩が左右を見回してから、Ginoに何件かの服を投げた。秘密裏に取引をしている路地裏の闇商人みたいに。】\\r\\n\r鳩：はやくお風呂に入ってきなさい。十時前には絶対に帰ってこないで。\\r\\n\rGino：俺のクローゼットを探ってたのか？【Ginoは鳩をじっと見つめた。鳩が着ている服は自分の作業服であることに気づいた。】\\r\\n\r鳩：ふん、私はあんたのパンツなんかに興味ないんだからね。\\r\\n\r【鳩はドアをパンと閉めた。その風圧でGinoは目を細めた。あれ？彼女、何か口を滑らしてなかった？】",
+          "korean": ""
+        }
+      ]
+    },
+    {
+      "keyName": "deemoangle",
+      "multiLanguageTitle": {
+        "chinese": "\r魇魉角",
+        "chineseTraditional": "魘魎角",
+        "english": "Ghast Horn",
+        "japanese": "魘魎(えんりょう)の角",
+        "korean": ""
+      },
+      "getSong": 3,
+      "texts": [
+        {
+          "chinese": "收集时间1/03/07\\r\\n\r保管单位：鸠\\r\\n\r等级：souvenir\\r\\n\r从无尽深渊爬上来的魇魉身上，割下来的柔软角质，作为冰原食材中最精华的部分，是鱼馅水晶包的包衣主材料。\\r\\n\r",
+          "chineseTraditional": "收集時間：1/03/07\\r\\n\r保管單位：Geopelia\\r\\n\r等級：souvenir\\r\\n\r\\r\\n\r從無盡深淵爬上來的魘魎身上，割下來的柔軟角質。作為冰原食材中最精華的部分，是魚餡水晶包的主食材。\\r\\n",
+          "english": "Date: 1/03/07\\r\\n\rKeeper: \\r\\n\rCategory: Souvenir\\r\\n\rThe cuticle from the ghasts that come from the bottomless abyss. It's the essence of all ingredients for food on the ice plain, and is the skin of crystal fish dumplings.",
+          "japanese": "収納日付1/03/07\\r\\n\r保管単位：鳩\\r\\n\rレベル：souvenir\\r\\n\r無限深淵(エンドレスアビス)から這い上がってきた魘魎の体から削り取った柔らかい角質。氷原にある食材の中でも上品なもので、魚水晶饅頭の皮の原材料である。\\r\\n",
+          "korean": ""
+        }
+      ]
+    },
+    {
+      "keyName": "electicgun",
+      "multiLanguageTitle": {
+        "chinese": "\r电磁霰弹枪",
+        "chineseTraditional": "電磁散彈槍",
+        "english": "Electromagnetic Shotgun",
+        "japanese": "電磁散弾銃(レールショットガン)",
+        "korean": ""
+      },
+      "getSong": 3,
+      "texts": [
+        {
+          "chinese": "收集时间1/03/07\\r\\n\r保管单位：Gino\\r\\n\r等级：souvenir\\r\\n\r第七小队的标配武器，弧形的枪管设计深受队员喜爱。\\r\\n\r",
+          "chineseTraditional": "收集時間：1/03/07\\r\\n\r保管單位：Gino\\r\\n\r等級：souvenir\\r\\n\r\\r\\n\r第七小隊的隨身武器，弧形槍管的設計備受隊員們喜愛。\\r\\n",
+          "english": "Date: 1/03/07\\r\\n\rKeeper: Gino\\r\\n\rCategory: Souvenir\\r\\n\rTeam VII's symbolic weapon. Its arc shape barrel design is beloved by many team members.",
+          "japanese": "収納日付1/03/07\\r\\n\r保管単位：gino\\r\\n\rレベル：souvenir\\r\\n\r第七小隊が使う武器。隊員たちはこの弧型の銃砲身デザインをとても気に入っている。\\r\\n",
+          "korean": ""
+        }
+      ]
+    },
+    {
+      "keyName": "yulou",
+      "multiLanguageTitle": {
+        "chinese": "\r鱼篓",
+        "chineseTraditional": "魚簍",
+        "english": "Fish Basket",
+        "japanese": "【録音】魚籠",
+        "korean": ""
+      },
+      "getSong": 3,
+      "texts": [
+        {
+          "chinese": "收集时间1/03/17\\r\\n\r保管单位：鸠\\r\\n\r等级：souvenir\\r\\n\r猎渔节鸠获得的装备，由魇魉皮蒙肋骨架制成，防水性能极强，是迎接大丰收的必备物件之一。\\r\\n\r",
+          "chineseTraditional": "收集時間：1/03/17\\r\\n\r保管單位：Geopelia\\r\\n\r等級：souvenir\\r\\n\r\\r\\n\r獵漁節時Geopelia獲得的裝備。由魘魎皮蒙肋骨架製成，防水性能極強，是迎接大豐收的必備物品之一。\\r\\n",
+          "english": "Date: 1/03/17\\r\\n\rKeeper: Geopelia\\r\\n\rCategory: Souvenir\\r\\n\rGeopelia's equipment that she acquired from the fish hunting festival. Made from ghasts' bones, it has very strong water resistance, and is one of the must-haves on the grand harvest day.",
+          "japanese": "収納日付1/03/17\\r\\n\r保管単位：鳩\\r\\n\rレベル：souvenir\\r\\n\r魚狩り祭で鳩が手に入れた装備、魘魎の肋骨と皮でできている。防水性がとても優れていて、大収穫を迎えるために不可欠な装備の一つ。\\r\\n",
+          "korean": ""
+        }
+      ]
+    },
+    {
+      "keyName": "Yyuxi",
+      "multiLanguageTitle": {
+        "chinese": "\r【录音】鱼戏",
+        "chineseTraditional": "【錄音】魚群的下場",
+        "english": "[Recording] Fish Game",
+        "japanese": "【録音】魚芝居",
+        "korean": ""
+      },
+      "getSong": 3,
+      "texts": [
+        {
+          "chinese": "收集时间1/03/17\\r\\n\r保管单位：鸠\\r\\n\r等级：souvenir\\r\\n\r长度：5min21s\\r\\n\r捕鱼人蓄势待发，河中鱼浑然不觉，绞叉亮锋芒，霎时间，水花飞溅，河冰染上了弱肉强食与鲜血的颜色。这不经让人思考，若丰收对人类来说是大自然的馈赠，那对被捕猎的生物而言又意味着什么，是无法抗争的宿命，还是世事难料的灾难。\\r\\n",
+          "chineseTraditional": "收集時間：1/03/17\\r\\n\r保管單位：Geopelia\\r\\n\r等級：souvenir\\r\\n\r長度：5min21s\\r\\n\r\\r\\n\r捕魚人蓄勢待發，河中的魚渾然不覺，絞叉亮鋒芒。霎時間，水花飛濺，河冰染上了弱肉強食與鮮血的顏色。這不經讓人思考，若豐收對人類來說是大自然的饋贈，那對被捕獵的生物而言又意味著什麼，是無法抗爭的宿命？還是世事難料的災難？\\r\\n",
+          "english": "Date: 1/03/17\\r\\n\rKeeper: Geopelia\\r\\n\rCategory: Souvenir\\r\\n\rLength: 5'21\"\"\\r\\n\rBaits are set, hooks are tight, fishermen are standing by.\\r\\n\rIn no time the fork alight, in splashes, a fish closed its eyes.\\r\\n\rThe river was dyed, bloody red, symbolizing the strong survive.\\r\\n\rWhy, why, and why.\\r\\n\rIf harvesting is the nature's gift, what is it for the prey?\\r\\n\rIs it its fate that cannot be twisted, or a disaster that cannot be predicted?",
+          "japanese": "収納日付1/03/17\\r\\n\r保管単位：鳩\\r\\n\rレベル：souvenir\\r\\n\r時間：5min21s\\r\\n\r狩人は準備万端、しかし水の中を泳ぐ魚たちはこれを知らない。矛の鋭い先端を水に向けると、次の瞬間、水しぶき立ち、川に弱肉強食と鮮血の色が染まった。この光景は人々を考えらせる。もし、このような収穫は大自然が人類に与えた恩恵ならば、それは捕食される生き物たちにとって何を意味しているのか。それが表しているものは、抗うことのできない宿命なのか、それともいつ災害が起こるか予測できない世界に生きていることなのか。\\r\\n",
+          "korean": ""
+        }
+      ]
+    },
+    {
+      "keyName": "hairtheo",
+      "multiLanguageTitle": {
+        "chinese": "\r发",
+        "chineseTraditional": "Theo的遺物·髮",
+        "english": "Hair",
+        "japanese": "髪",
+        "korean": ""
+      },
+      "getSong": 4,
+      "texts": [
+        {
+          "chinese": "收集时间1/03/23\\r\\n\r保管单位：Dlyro\\r\\n\r等级：souvenir\\r\\n\r被冰原魇魉叼走的Theo，仅剩证明他存在的物件，Carl死前亲手交给了Dlyro队长。\\r\\n\r\\r\\n\r“快跑······来不及了······有什么······从深井······”\\r\\n\r",
+          "chineseTraditional": "收集時間：1/03/23\\r\\n\r保管單位：Dlyro\\r\\n\r等級：souvenir\\r\\n\r\\r\\n\r被冰原魘魎叼走的Theo，僅剩證明他存在的物品。Carl死前親手交給了Dlyro隊長。\\r\\n\r\\r\\n\r「快跑······來不及了······有什麼······從深井······」\\r\\n",
+          "english": "Date: 1/03/23\\r\\n\rKeeper: Dlyro\\r\\n\rCategory: Souvenir\\r\\n\rThe only proof that Theo had existed before the ghasts took him away. It was handed to Dlyro, the leader, before Carl died.\\r\\n\r\"\"Run… before… it's too late… They… They're coming… from the deep well…\"\"",
+          "japanese": "収納日付1/03/23\\r\\n\r保管単位：Dlyro\\r\\n\rレベル：souvenir\\r\\n\r氷原魘魎に連れ去られたTheoの存在を証明できる唯一のもの、carlが死ぬ前にこれをdlyro隊長に渡した。\\r\\n\r\\r\\n\r「逃げろ……もう時間がない……何者かが……深井戸から……」\\r\\n",
+          "korean": ""
+        }
+      ]
+    },
+    {
+      "keyName": "Yblackhole",
+      "multiLanguageTitle": {
+        "chinese": "\r【录音】黑洞",
+        "chineseTraditional": "【錄音】黑洞",
+        "english": "[Recording] The Black Hole",
+        "japanese": "【録音】ブラックホール",
+        "korean": ""
+      },
+      "getSong": 5,
+      "texts": [
+        {
+          "chinese": "收集时间1/03/32\\r\\n\r保管单位：鸠\\r\\n\r等级：main\\r\\n\r长度：1min1s\\r\\n\r这是一沟绝望的死水，清风不起半点波澜。\\r\\n\r尽兴它洒泼破铜烂菜，纵造不出新世界来。\\r\\n\r\\r\\n\r“记录：3月份的最后一日，冰原遭遇了史无前例的巨大灾难，从塔上飘下的白灰点燃了所有抗争的战士，巨大黑洞从遥远的地平线升起，又带走了苟活的懦夫。我们疾驰在冰原上，就像队长所说，只有通往萨里山的路受到塔的庇护。”\\r\\n\r",
+          "chineseTraditional": "收集時間：1/03/32\\r\\n\r保管單位：Geopelia\\r\\n\r等級：main\\r\\n\r長度：1min1s\\r\\n\r\\r\\n\r這是一溝絕望的死水，清風不起半點波瀾。\\r\\n\r盡情揮灑破銅爛鐵，縱造不出新世界來。\\r\\n\r\\r\\n\r「記錄：3月份的最後一日，冰原遭遇了史無前例的巨大災難，從塔上飄下的白灰點燃了所有抗爭的戰士。巨大黑洞從遙遠的地平線升起，又帶走了苟活的懦夫。我們疾馳在冰原上，就像隊長所說，只有通往薩里山的路受到塔的庇護。」\\r\\n",
+          "english": "Date: 1/03/32\\r\\n\rKeeper: Geopelia\\r\\n\rCategory: Main\\r\\n\rLength: 1'1\"\"\\r\\n\rDesperate water, desperate wind. The ripples won't come before it's too late.\\r\\n\rHard as you search in the pile of waste, the new world is never in your fate.\\r\\n\r\"\"Record: On the last day of March, the ice land met a disaster like never before. Ashes from the tower lit every warrior on fire, a huge black hole rose from the horizon faraway, sucking the cowards away. We rushed towards Mount Sierra, as according to the leader, only the path towards Sierra is protected by the tower.\"\"",
+          "japanese": "収納日付1/03/32\\r\\n\r保管単位：鳩\\r\\n\rレベル：main\\r\\n\r時間：1min1s\\r\\n\rこれは絶望に満ちた水溜まり、風が吹いても波が立つことはない。\\r\\n\r何もかもを使い尽くしても、新世界を作り出すことはできない。\\r\\n\r\\r\\n\r「記録：三月の最後の一日。氷原は前代未聞の大災害に遭った。塔の上から舞い落ちてくる白い灰が戦っている戦士全員を燃やし、遠い地平線から巨大なブラックホールが空に昇り、何の作為もない臆病者たちをも連れ去った。私たちは氷原の上を走っている。隊長の言った通り、萨里(サリ)山に行く道だけが塔の守りを受けている。」\\r\\n」",
+          "korean": ""
+        }
+      ]
+    },
+    {
+      "keyName": "Mzhiqiu",
+      "multiLanguageTitle": {
+        "chinese": "\r【影像】脂球",
+        "chineseTraditional": "【影像】脂球",
+        "english": "[Image] Fat Ball",
+        "japanese": "【映像】脂肪球",
+        "korean": ""
+      },
+      "getSong": -5,
+      "texts": [
+        {
+          "chinese": "收集时间1/03/32\\r\\n\r保管单位：鸠\\r\\n\r等级：souvenir\\r\\n\r逃亡中，鸠拍到的奇妙照片，脂肪制的众多黑球，缓慢离开他们主人的身体，在新雪上留下不规则的墨迹。这一点点的不真实和怪异，让她觉得熟悉却陌生。\\r\\n\r",
+          "chineseTraditional": "收集時間：1/03/32\\r\\n\r保管單位：Geopelia\\r\\n\r等級：souvenir\\r\\n\r\\r\\n\r逃亡中，Geopelia拍到的奇妙照片：脂肪製成的眾多黑球，緩慢離開他們主人的身體，在雪地上留下不規則的墨漬。這一點點的不真實和怪異，讓她覺得熟悉而陌生。\\r\\n",
+          "english": "Date: 1/03/32\\r\\n\rKeeper: Geopelia\\r\\n\rCategory: Souvenir\\r\\n\rDuring the escape, Geopelia took some special photos, what seemed to be black balls of fat coming out of human bodies, leaving weird marks on the snow. It seemed a bit unrealistic and creepy, but Geopelia thought she might have met this before.",
+          "japanese": "収納日付1/03/32\\r\\n\r保管単位：鳩\\r\\n\rレベル：souvenir\\r\\n\r逃亡中、鳩が撮った奇妙な写真。たくさんの脂肪でできた黒い球が、彼らの主の体からゆっくり離れて、新たに降った雪の上に不規則な黒色の痕跡を残した。この怪しく、浮世離れしたものに、鳩は馴染みがあるようで、ないようで……。\\r\\n",
+          "korean": ""
+        }
+      ]
+    },
+    {
+      "keyName": "jinnang",
+      "multiLanguageTitle": {
+        "chinese": "\r锦囊",
+        "chineseTraditional": "錦囊",
+        "english": "Silk Purse",
+        "japanese": "錦嚢(きんのう)",
+        "korean": ""
+      },
+      "getSong": 5,
+      "texts": [
+        {
+          "chinese": "收集时间1/03/26\\r\\n\r保管单位：Gino\\r\\n\r等级：main\\r\\n\rDlyro交给Gino的锦囊，里面写着她最后一条命令。\\r\\n\r\\r\\n\r“去你和鸠相遇的地方”\\r\\n\r",
+          "chineseTraditional": "收集時間：1/03/26\\r\\n\r保管單位：Gino\\r\\n\r等級：main\\r\\n\r\\r\\n\rDlyro交給Gino的錦囊，裡面寫著她最後一條命令。\\r\\n\r\\r\\n\r「去，你和鳩相遇的地方。」\\r\\n",
+          "english": "Date: 1/03/26\\r\\n\rKeeper: Gino\\r\\n\rCategory: Main\\r\\n\rDlyro gave Gino this purse, inside which was Dlyro's last order for him.\\r\\n\r\"\"To where you met Geopelia.\"\"",
+          "japanese": "収納日付1/03/26\\r\\n\r保管単位：Gino\\r\\n\rレベル：main\\r\\n\rDlyroがGinoに渡した錦嚢、中には彼女の最後の命令が書いてある。\\r\\n\r\\r\\n\r「鳩と最初に出会った場所に行け」\\r\\n",
+          "korean": ""
+        }
+      ]
+    },
+    {
+      "keyName": "binghaofu",
+      "multiLanguageTitle": {
+        "chinese": "\r病号服",
+        "chineseTraditional": "住院服",
+        "english": "Patient Uniform",
+        "japanese": "病衣",
+        "korean": ""
+      },
+      "getSong": -1,
+      "texts": [
+        {
+          "chinese": "收集时间1/03/23\\r\\n\r保管单位：芬德斯\\r\\n\r等级：nonsense\\r\\n\r芬德斯最不喜欢的造型之一，当他拿到巡逻员制服时，病号服被轻易丢弃了。\\r\\n",
+          "chineseTraditional": "收集時間：1/03/23\\r\\n\r保管單位：Findstr\\r\\n\r等級：nonsense\\r\\n\r\\r\\n\rFindstr最不喜歡的造型之一。當他拿到巡邏員制服時，這東西就被他輕易的丟棄了。\\r\\n",
+          "english": "Date: 1/03/23\\r\\n\rKeeper: Findstr\\r\\n\rCategory: Nonsense\\r\\n\rOne of the worst designs if you ask Findstr. When he first received his the patrol uniform, this one from the clinic was thrown away.",
+          "japanese": "収納日付1/03/23\\r\\n\r保管単位：フェンデス\\r\\n\rレベル：nonsense\\r\\n\rフェンデスが一番嫌いな服。彼が偵察隊の制服をもらったあと、この病衣は軽々と捨てられた。\\r\\n",
+          "korean": ""
+        }
+      ]
+    },
+    {
+      "keyName": "mopeknife",
+      "multiLanguageTitle": {
+        "chinese": "\r花柄小刀",
+        "chineseTraditional": "花柄小刀",
+        "english": "Decorated Mini-Knife",
+        "japanese": "花柄のナイフ",
+        "korean": ""
+      },
+      "getSong": -1,
+      "texts": [
+        {
+          "chinese": "收集时间1/03/23\\r\\n\r保管单位：阿爽\\r\\n\r等级：bold\\r\\n\r阿爽在雪地上醒来时，手里拿的刀具。据阿爽言，在遇到芬德斯之前他还在家中，和妻子做饭。\\r\\n\r\\r\\n\r芬德斯：你的情况，我大概明白了。\\r\\n\r阿爽：真懂了？\\r\\n\r芬德斯：懂了！反正跟着我走就是了。\\r\\n\r\r",
+          "chineseTraditional": "收集時間：1/03/23\\r\\n\r保管單位：Ash\\r\\n\r等級：bold\\r\\n\r\\r\\n\rAsh在雪地上醒來時，手裡拿的刀具。據他所說，在遇到Findstr之前他還在家中和妻子做飯。\\r\\n\r\\r\\n\rFindstr：你的情況，我大概明白了。\\r\\n\rAsh：真的？\\r\\n\rFindstr：對！反正跟著我走就是了。\\r\\n",
+          "english": "Date: 1/03/23\\r\\n\rKeeper: Ash\\r\\n\rCategory: Bold\\r\\n\rWhen Ash woke up, he found himself lying on the snow, knife in hand. According to Ash's own words, he had been cooking at home with his wife before he met Findstr.\\r\\n\rFindstr: I think I understood your situation.\\r\\n\rAsh: Really?\\r\\n\rFindstr: Yup, Just follow me.",
+          "japanese": "収納日付1/03/23\\r\\n\r保管単位：阿爽\\r\\n\rレベル：bold\\r\\n\r阿爽が雪原の上で目を覚めた時、手に持っていたナイフ。阿爽の話によると、フェンデスと出会う前はまだ家の中にいて、妻と一緒料理を作っていた。\\r\\n\r\\r\\n\rフェンデス：あんたが置かれている状況は大体わかった。\\r\\n\r阿爽：本当にわかったのか？\\r\\n\rフェンデス：わかったって！無駄なこと言わないでついてこい。\\r\\n",
+          "korean": ""
+        }
+      ]
+    },
+    {
+      "keyName": "Mshenjing",
+      "multiLanguageTitle": {
+        "chinese": "\r【影像】深井",
+        "chineseTraditional": "【影像】深井",
+        "english": "[Image] Deep Well",
+        "japanese": "【映像】深井戸",
+        "korean": ""
+      },
+      "getSong": -1,
+      "texts": [
+        {
+          "chinese": "收集时间1/03/27\\r\\n\r保管单位：阿爽\\r\\n\r等级：souvenir\\r\\n\r二人流浪的第五天，遭遇大量冰原魇魉，躲在悬崖岩壁上才摆脱追兵。阿爽坐定，一时间，寂寥无声，万籁俱静。头上是千军铁甲，脚下是万丈深渊，阿爽不得不寻找另外的出路，他环视四周，黑暗一眼望不到边际，注视深渊的湖底，他却看到了自己。阿爽想起来老家的废井，被伙伴推下时看到的也似今日，只不过，过去的井小得装不下一个孩子，而现在的井大得盛不满一颗灵魂。\\r\\n\r\\r\\n\r“我找到出去的办法了。“\\r\\n\r",
+          "chineseTraditional": "收集時間：1/03/27\\r\\n\r保管單位：Ash\\r\\n\r等級：souvenir\\r\\n\r\\r\\n\r二人流浪的第五天，遭遇大量冰原魘魎，他們躲在懸崖岩壁上才擺脫追兵。Ash坐定，一時間，寂寥無聲，萬籟俱靜。頭上是千軍鐵甲，腳下是萬丈深淵，他不得不尋找另外的出路。他環視四周，一眼望不到邊際，注視深淵的湖底，他卻看到了自己。Ash想起來老家的廢井，被夥伴推下時看到的也似今日，只不過，過去的井小得裝不下一個孩子，而現在的井大得盛不滿一顆靈魂。\\r\\n\r\\r\\n\r「我找到出去的辦法了。」\\r\\n",
+          "english": "Date: 1/03/27\\r\\n\rKeeper: Ash\\r\\n\rCategory: Souvenir\\r\\n\rOn the fifth day of their aimless journey, they encountered lots of Glacier Ghasts. If it were not the steep cliffs under which they had hidden themselves, they would have been dead. Everything was completely quiet and still when Ash finally sat down. Above him was an enormous army, beneath him was an endless abyss. Ash looked around to find another way out, but all but darkness was what he could see. The pond at the bottom of the abyss reflected Ash's face. It looked just like the old well at his hometown, he thought. Even the moment when he was pushed down the well, it looked so, so alike to the surroundings. The only difference was the size. The well was too small for a child to crawl in, the abyss is too big for even a soul to endure.\\r\\n\r\"\"I found a way out.\"\"",
+          "japanese": "収納日付1/03/27\\r\\n\r保管単位：阿爽\\r\\n\rレベル：souvenir\\r\\n\r二人が流浪し始めた5日目。大量の氷原魘魎に遭遇し、四周が崖となっている石壁の上まで来てやっとそれらから逃れることができた。阿爽が地面に座ると、ようやく周りは静まり返った。頭上には魔物万千、足元は深淵万丈。他の脱出方法を探さねばならないと思った阿爽は周りを見回すが、暗闇が無限に広がっているのみであった。深淵の湖底を見つめるが、そこには自分の姿が映っているのみであった。阿爽は実家の古い井戸を思い出した。仲間に押されてその中に落ちていったあの日も、こんな景色だった。唯一違うのは、あの井戸には子供一人も入ることができなかったが、今のこの「井戸」は一人の魂でさえ埋め尽くせないほど大きい。\\r\\n\r\\r\\n\r「脱出する方法、みーつけた。」\\r\\n",
+          "korean": ""
+        }
+      ]
+    },
+    {
+      "keyName": "Ylight",
+      "multiLanguageTitle": {
+        "chinese": "\r【录音】光",
+        "chineseTraditional": "【錄音】光",
+        "english": "[Recording] Hikari",
+        "japanese": "【録音】光",
+        "korean": ""
+      },
+      "getSong": 5,
+      "texts": [
+        {
+          "chinese": "收集时间1/03/32\\r\\n\r保管单位：鸠\\r\\n\r等级：souvenir\\r\\n\r长度：1min13s\\r\\n\r传说，星星的碎片在大气中燃烧，会形成好看的弧形，而当无数碎片一同落下，它们将化作通天的光桥，带来远方的讯息。没有人曾走进光桥，这是写在最底层的禁忌，若去尝试，他们必会知道光的对面，有一个新的世界。\\r\\n\r\\r\\n\r“走吧，Gino。”\\r\\n\r“去新世界！”\\r\\n\r",
+          "chineseTraditional": "收集時間：1/03/32\\r\\n\r保管單位：Geopelia\\r\\n\r等級：souvenir\\r\\n\r長度：1min13s\\r\\n\r\\r\\n\r據說，星星的碎片在大氣中燃燒，會形成好看的弧形。而當無數碎片一同落下，它們將化作通天的光橋，帶來遠方的訊息。沒有人曾走進光橋，這是寫在最底層的禁忌，若去嘗試，他們必會知道光的對面，有一個新的世界。\\r\\n\r\\r\\n\r「走吧，吉諾。」\\r\\n\r「去新世界！」\\r\\n",
+          "english": "Date: 1/03/32\\r\\n\rKeeper: Geopelia\\r\\n\rCategory: Souvenir\\r\\n\rLength: 1'13\"\"\\r\\n\rThe legend goes, when fragments of the stars are lit on in the exosphere, they will form a beautiful arc, and when countless fragments pour down altogether, they'll become a door of light, bringing about messages from afar. No one has ever entered the door of light, but if you do, you will find a new world beyond the door.\\r\\n\r\"\"Let's go, Gino,\"\"\\r\\n\r\"\"To the new world!\"\"",
+          "japanese": "収納日付1/03/32\\r\\n\r保管単位：鳩\\r\\n\rレベル：souvenir\\r\\n\r時間：1min13s\\r\\n\r噂によると、星の欠片が大気の中で燃えると美しい弧線を描く。そして、数え切れないほどの多くの欠片が同時に落下すると、それらは光の橋を作り、遠くにいる人たちのメッセージを届けてくれる。光の橋に足を踏み入れた者はいない、これは最低層に書かれている禁忌だから。試そうとすると、その光の彼方に、もう一つ新しい世界があることを知ってしまうだろう。\\r\\n\r\\r\\n\r「行こう、Gino。」\\r\\n\r「新世界へ！」\\r\\n",
+          "korean": ""
+        }
+      ]
+    },
+    {
+      "keyName": "saturn",
+      "multiLanguageTitle": {
+        "chinese": "\r登入权限：土星",
+        "chineseTraditional": "登入權限：土星",
+        "english": "Login Permission: Saturn",
+        "japanese": "ログイン権利：土星(サターン)",
+        "korean": ""
+      },
+      "getSong": 4,
+      "texts": [
+        {
+          "chinese": "收集时间1/03/32\\r\\n\r保管单位：Gino\\r\\n\r等级：key\\r\\n\r属于林泊者的联络权限，是队长Dlyro被吸进黑洞时，留给Gino的礼物。\\r\\n\r",
+          "chineseTraditional": "收集時間：1/03/32\\r\\n\r保管單位：Gino\\r\\n\r等級：key\\r\\n\r\\r\\n\r屬於林泊者的聯絡權限，是隊長Dlyro被吸進黑洞時，留給Gino的遺物。\\r\\n",
+          "english": "Date: 1/03/32\\r\\n\rKeeper: Gino\\r\\n\rCategory: Key\\r\\n\rThe communication permission that belongs to Limbo. It's left by leader Dlyro before he was sucked into the black hole.",
+          "japanese": "収納日付1/03/32\\r\\n\r保管単位：Gino\\r\\n\rレベル：key\\r\\n\rリンボたちが使う連絡端末の権限。隊長Dlyroがブラックホールに吸い込まれた際にGinoにあげたプレゼント。\\r\\n",
+          "korean": ""
+        },
+        {
+          "chinese": "收集时间1/02/28\\r\\n\r【夜里，离岗的巡逻员们在交流室打发着时间，队长和Gino坐在沙发上喝茶，队长突然提出一个问题】\\r\\n\rDlyro：我们世界是真实的吗，Gino？\\r\\n\rGino：队长？\\r\\n\rDlyro：你可能听不懂我在说什么，可是你难道一点都没察觉到吗。\\r\\n\rDlyro：那些不存在于我们生活中，却常常出现在脑海里的词汇，诗歌，传说，还有回忆，你就没有怀疑过它们从何而来吗。\\r\\n\rGino：我无法回答这个问题······\\r\\n\r【那一夜，Gino不曾入眠】\\r\\n\r",
+          "chineseTraditional": "收集時間：1/02/28\\r\\n\r\\r\\n\r【夜裡，離崗的巡邏員們在交流室打發時間，隊長和Gino坐在沙發上喝茶，隊長突然提出一個問題】\\r\\n\rDlyro：我們世界是真實的嗎，吉諾？\\r\\n\rGino：隊長？\\r\\n\rDlyro：你可能聽不懂我在說什麼，可是你難道一點都沒察覺到嗎？\\r\\n\rDlyro：那些不存在於我們生活中，卻常常出現在腦海裡的詞彙，詩歌，傳說，還有回憶，你就沒有懷疑過它們從何而來嗎？\\r\\n\rGino：我無法回答這個問題······\\r\\n\r【那一夜，Gino不曾入眠】\\r\\n",
+          "english": "Date: 1/02/28\\r\\n\r[At night, patrols that weren't on shift are chatting in the lounge, the leader and Gino were sitting on the sofa. The leader suddenly asked:]\\r\\n\rDlyro: Is this the reality, Gino?\\r\\n\rGino: Pardon, sire?\\r\\n\rDlyro: You may not understand what I'm talking about, but did you not even notice?\\r\\n\rDlyro: Those expressions and phrases that shouldn't have existed in our memory, along with the poems, the legends, and the past… Don't you ever doubt where they came from?\\r\\n\rGino: I can't answer that…\\r\\n\r[Gino couldn't sleep that night.]",
+          "japanese": "収納日付1/02/28\\r\\n\r【夜、パトロールは控え室で時間を過ごしています，隊長とGinoがソファーの上でお茶を飲んで、突然、隊長が質問した】\\r\\n\r Dlyro:このせかいで...実在のか、Gino?\\r\\n\r Gino:隊長？\\r\\n \rDlyro:分からないかもしれませんが、じっとも感じないか。\\r\\n \rDlyro：頭の中の、世の中にはいない言葉、うたや伝説、思い出さえ、何処から湧いてきたのか疑わないですか。 Gino：この答えは.......答えません...\\r\\n \r【Ginoのこの夜はきっと、眠れない】\\r\\n",
+          "korean": ""
+        }
+      ]
+    },
+    {
+      "keyName": "327",
+      "multiLanguageTitle": {
+        "chinese": "\r0327围剿令",
+        "chineseTraditional": "0327圍剿令\r",
+        "english": "Suppression Order 0327",
+        "japanese": "0327討伐令",
+        "korean": ""
+      },
+      "getSong": 5,
+      "texts": [
+        {
+          "chinese": "收集时间1/03/26\\r\\n\r保管单位：Dlyro\\r\\n\r等级：souvenir\\r\\n\r为了应对深井涌出的大量冰原魇魉，众巡逻队组织队中的精英人员，参与围剿活动，队长拿到围剿令后，全队出击，却没有让Gino和新来的鸠参加行动。\\r\\n",
+          "chineseTraditional": "收集時間：1/03/26\\r\\n\r保管單位：Dlyro\\r\\n\r等級：souvenir\\r\\n\r\\r\\n\r為了應對深井湧出的大量冰原魘魎，眾巡邏隊組織隊中的精英人員參與圍剿活動。隊長拿到圍剿令後，命令全隊出擊，卻沒有讓Gino和新來的Geopelia參與行動。\\r\\n",
+          "english": "Date: 1/03/26\\r\\n\rKeeper: Dlyro\\r\\n\rCategory: Souvenir\\r\\n\rIn order to deal with the outburst of ghasts from the abyss, the elites from the patrol team joined the raid to fight them off as soon as Dlyro received the mission. However, Gino and Geopelia were not appointed.",
+          "japanese": "収納日付1/03/26\\r\\n \r保管単位：Dlyro\\r\\n \rレベル：souvenir\\r\\n\r深井から出った大量の魔魎に対して、パトロールチームのエリートメンバーを組織し、討伐活動に参加しました。キャプテンが包囲命令を受け取った後、チーム全体が攻撃しました、でもGinoと新人鳩は来させんでした\\r\\n",
+          "korean": ""
+        }
+      ]
+    },
+    {
+      "keyName": "377",
+      "multiLanguageTitle": {
+        "chinese": "\r魇皮纸377",
+        "chineseTraditional": "魔皮紙377\r",
+        "english": "Ghast Skin Paper 377",
+        "japanese": "魔革377",
+        "korean": ""
+      },
+      "getSong": 5,
+      "texts": [
+        {
+          "chinese": "收集时间1/03/28\\r\\n\r保管单位：鸠\\r\\n\r等级：main\\r\\n\r写满文字的冰原魇魉皮，鸠只能依稀认出377这个数字，目前交给Alpa解析中。\\r\\n",
+          "chineseTraditional": "收集時間：1/03/28\\r\\n\r保管單位：Geopelia\\r\\n\r等級：main\\r\\n\r\\r\\n\r寫滿文字的冰原魘魎皮。Geopelia只能依稀認出377這個數字，目前交給Alpa解析中。\\r\\n",
+          "english": "Date: 1/03/28\\r\\n\rKeeper: Geopelia\\r\\n\rCategory: Main\\r\\n\rA skin of Glacier Ghast was fully written with illegible words. Geopelia could only recognize \"\"377\"\", the rest was handed to alpa for analysis.",
+          "japanese": "収納日付1/03/28\\r\\n \r保管単位：鳩\\r\\n \rレベル：main\\r\\n\r書きまくりの氷河魔魎の革、鳩はただ377の数字しかわかりません、今はAlpaから解析中。\\r\\n",
+          "korean": ""
+        },
+        {
+          "chinese": "收集时间1/03/31\\r\\n\r“解析进度：3%”\\r\\n\r“已确定词汇：塔 傀儡 梦醒 ”\\r\\n\r",
+          "chineseTraditional": "收集時間：1/03/31\\r\\n\r\\r\\n\r「解析進度：3%」\\r\\n\r「已確定詞彙：塔、傀儡、夢醒」\\r\\n",
+          "english": "Date: 1/03/31\\r\\n\r[Analysis Progress: 3%]\\r\\n\r[Words identified: Tower / Puppet / Awaken]",
+          "japanese": "収納日付1/03/31　\\r\\n \r“解析状況3％”\\r\\n \r“確定済み言葉：タワー、人形、夢覚め　”\\r\\n",
+          "korean": ""
+        }
+      ]
+    },
+    {
+      "keyName": "mope1",
+      "multiLanguageTitle": {
+        "chinese": "\r收容报告·小报",
+        "chineseTraditional": "收容報告·日報\r",
+        "english": "[Acceptance Report] Tabloid",
+        "japanese": "収容レポート・速報",
+        "korean": ""
+      },
+      "getSong": -10002,
+      "texts": [
+        {
+          "chinese": "收集时间-3/06/01\\r\\n\r保管单位：中之层收容所\\r\\n\r等级：nonsense\\r\\n\r来自《清醒者日报》677年12月7日刊，被人私自带出图书馆，再被发现已经沾满不明液体。\\r\\n\r\\r\\n\r都市传奇专栏：\\r\\n\r      “感谢读者们一直以来的支持，今日叶子将向您讲述白林中心城附近，那片神秘花海的故事······\\r\\n\r     白林本没有花海，人们用血肉铺平了贫瘠的土地，才就此百花齐放。\\r\\n\r        ············\\r\\n\r       故事到此结束，希望大家喜欢，我们下期再见。”\\r\\n\r",
+          "chineseTraditional": "收集時間：-3/06/01\\r\\n\r保管單位：中之層收容所\\r\\n\r等級：nonsense\\r\\n\r\\r\\n\r來自《清醒者日報》677年12月7日刊，被人私自帶出圖書館。被發現後已經沾滿了不明液體。\\r\\n\r\\r\\n\r都市傳奇專欄：\\r\\n\r「感謝讀者們一直以來的支持，今日葉子我將向您講述白林中心城附近，那片神秘花海的故事······\\r\\n\r白林本沒有花海，人們用血肉鋪平了貧瘠的土地，才就此百花齊放。\\r\\n\r············\\r\\n\r故事到此結束，希望大家喜歡，我們下次再見。」\\r\\n",
+          "english": "Date: -3/06/01\\r\\n\rKeeper: Mediocris Containment\\r\\n\rKeeper: Nonsense\\r\\n\rAn excerpt of \"\"Soberer's Daily\"\", 677/12/7. It was stolen from the library, and was soaked with unknown liquid when being found later.\\r\\n\rUrban Legends Column:\\r\\n\r\"\"Thanks all my readers for your support so far. Today, LeaF would tell a story about the mysterious flower oceans by the center of Bailin City –\"\"\\r\\n\r\"\"Once upon a time, when flowers had yet to be introduced to Bailin, people used their bodies and flesh to fill the land, on which flowers have bloomed ever since.\"\"\\r\\n\r\"\"……\"\"\\r\\n\r\"\"And that's the end of the story. I wish you like it. Till the next story, goodbye.\"\"",
+          "japanese": "収納日付-3/06/01\\r\\n\r 保管単位：中層シェルター\\r\\n \rレベル：nonsense\\r\\n （明確者新聞）677年12月7日刊から、自分で図書館から連れ出されたが、未知の液体で覆われていることが判明した\\r\\n　\\r\\n \r都市伝説コラム；\\r\\n \r“読者のみんなさんいつも応援ありがとうございます、きょうは白森中心側の、神秘的な花海の物語を話したいと思います－－”\\r\\n \r白森は元々花はない、人々は肉と血で不毛の地を舗装した、来れて花が咲きました。\\r\\n\r .......\\r\\n \rこれで物語は終わりです。みんなが気に入ってくれることを願っています。次回もお会いしましょう。\\r\\n",
+          "korean": ""
+        }
+      ]
+    },
+    {
+      "keyName": "mope2",
+      "multiLanguageTitle": {
+        "chinese": "\r收容报告·红色蝴蝶结",
+        "chineseTraditional": "收容報告·紅色蝴蝶結\r",
+        "english": "[Acceptance Report] Red Bow",
+        "japanese": "収容レポート・赤いリボン",
+        "korean": ""
+      },
+      "getSong": -10002,
+      "texts": [
+        {
+          "chinese": "收集时间-3/06/01\\r\\n\r保管单位：中之层收容所\\r\\n\r等级：nonsense\\r\\n\r同主人一样天真又可爱的蝴蝶结，没有什么特别之处。\\r\\n\r",
+          "chineseTraditional": "收集時間：-3/06/01\\r\\n\r保管單位：中之層收容所\\r\\n\r等級：nonsense\\r\\n\r\\r\\n\r和主人一樣天真又可愛的蝴蝶結，沒有什麼特別之處。\\r\\n",
+          "english": "Date: -3/06/01\\r\\n\rKeeper: Mediocris Containment\\r\\n\rCategory: Nonsense\\r\\n\rA naïve yet cute red bow that pretty much matched the owner. Nothing special.",
+          "japanese": "収納日付-3/06/01\\r\\n\r保管単位：中層シェルター\\r\\n\rレベル：nonsense\\r\\n\r主のように可愛いリボン、特別の所はない\\r\\n",
+          "korean": ""
+        },
+        {
+          "chinese": "布料上，隐隐能闻到血腥味儿。\\r\\n\r",
+          "chineseTraditional": "布料上，隱約能聞到血腥味。\\r\\n",
+          "english": "But the cloth had a faint smell of blood.",
+          "japanese": "なんだが、血の匂いがする\\r\\n",
+          "korean": ""
+        }
+      ]
+    },
+    {
+      "keyName": "mope3",
+      "multiLanguageTitle": {
+        "chinese": "\r收容报告·陶土花盆",
+        "chineseTraditional": "收容報告·陶土花盆",
+        "english": "[Acceptance Report] Clay Flowerpot",
+        "japanese": "収容レポート・セラム植木鉢",
+        "korean": ""
+      },
+      "getSong": -10002,
+      "texts": [
+        {
+          "chinese": "收集时间-3/06/01\\r\\n\r保管单位：中之层收容所\\r\\n\r等级：nonsense\\r\\n\r种着一株花的、非常普通的花盆。无风时，盆里的花儿也在欢快地摇摆。\\r\\n\r",
+          "chineseTraditional": "收集時間：-3/06/01\\r\\n\r保管單位：中之層收容所\\r\\n\r等級：nonsense\\r\\n\r\\r\\n\r種著一株花，非常普通的花盆。無風時，盆裡的花兒也會歡樂地搖擺。\\r\\n",
+          "english": "Date: -3/06/01\\r\\n\rKeeper: Mediocris Containment\\r\\n\rCategory: Nonsense\\r\\n\rThe flower in the flowerpot. Very common if you don't count the fact that it always seems to be dancing at a constant speed even when there's no wind.",
+          "japanese": "収納日付-3/06/01\\r\\n\r保管単位：中層シェルター\\r\\n\rレベル：nonsense\\r\\n\r花を植えた、普通の植木鉢、風がなくでも、中の花も揺れます\\r\\n",
+          "korean": ""
+        },
+        {
+          "chinese": "产自第五层的花海，花海之中，陶艺人女孩儿和她盆栽小屋是唯一人造的美景。\\r\\n\r",
+          "chineseTraditional": "來自第五層的花海。花海之中，陶藝人女孩和她的盆栽小屋是唯一人造的美景。\\r\\n",
+          "english": "It came from the flower ocean in Floor V. The only artificial scenery there was a ceramic artist girl and her potting cabin.",
+          "japanese": "第五層の花海から、花海の中、陶工の女の子と彼女の鉢植えのコテージは、唯一の人工の美しさです\\r\\n",
+          "korean": ""
+        },
+        {
+          "chinese": "花盆被戴蝴蝶结的女孩儿放在他手里的那刻，有什么东西也被放进了心里。\\r\\n\r顷刻间，女孩儿如薄纸片般被撕裂，花田变得招摇而狂放，肆意舞动。\\r\\n\r",
+          "chineseTraditional": "花盆在被戴著蝴蝶結的女孩放在他手裡的那一刻，有什麼東西也被放進了心裡。\\r\\n\r霎時，女孩如薄紙片般被撕裂，花田變得招搖而狂放，肆意舞動。\\r\\n",
+          "english": "When the flowerpot was handed to him, something seemed to be flowing in her heart.\\r\\n\rAll of a sudden, the girl was torn apart like a thin piece of paper. The flower ocean turned red somehow, and all could be seen were frenzy flowers waving their hands madly.",
+          "japanese": "植木鉢にリボンを付けっている少女が彼の手に置かれた瞬間、何かが彼女の心に置かれました。\\r\\n\r 一瞬、彼女が紙のように地切り、花畑は狂気り咲き、舞い戻る。\\r\\n",
+          "korean": ""
+        }
+      ]
+    },
+    {
+      "keyName": "mope4",
+      "multiLanguageTitle": {
+        "chinese": "\r收容报告·裙底之物",
+        "chineseTraditional": "收容報告·裙底之物",
+        "english": "[Acceptance Report] Under the Dress",
+        "japanese": "収容レポート・アンダースカートキス",
+        "korean": ""
+      },
+      "getSong": -10002,
+      "texts": [
+        {
+          "chinese": "收集时间-3/06/01\\r\\n\r保管单位：中之层收容所\\r\\n\r等级：nonsense\\r\\n\r在即将被完全溶进地狱景象里时，花田又切回了原来的模样。\\r\\n\r结束了吗？得救了吗？\\r\\n\r女孩儿甜甜地笑着，不作回答，拾起了地上无法被消化的眼球。\\r\\n\r自女孩儿掉进花田始，无一人得救；到历史能记述的终末，也不会有人生还。肉体成为养料，灵魂只剩残骸，空洞地见证着每一场杀戮。\\r\\n\r花海操纵着女孩儿的影子，小心收好那灵魂的象征，抱着花盆走向了下一个食物。\\r\\n\r",
+          "chineseTraditional": "收集時間：-3/06/01\\r\\n\r保管單位：中之層收容所\\r\\n\r等級：nonsense\\r\\n\r\\r\\n\r在即將被完全溶進地獄景象裡時，花田又換回了原來的模樣。\\r\\n\r結束了嗎？得救了嗎？\\r\\n\r女孩甜甜地笑著，不作回答，拾起了地上無法被消化的眼珠子。\\r\\n\r自女孩掉進花田開始，無一人得救；到歷史能記述的末端，也不會有人生還。肉體成為飼料，靈魂只剩殘骸，空洞地見證著每一場殺戮。\\r\\n\r花海操縱著女孩兒的影子，小心收好那靈魂的象徵，抱著花盆走向了下一個食物。\\r\\n",
+          "english": "Date: -3/06/01\\r\\n\rKeeper: Mediocris Containment\\r\\n\rCategory: Nonsense\\r\\n\rJust when everything is to be swallowed by hell, the flower ocean went back to usual.\\r\\n\rWas it all over? Was she saved?\\r\\n\rThe girl was still smiling sweetly, leaving no reply but picked up the hard-to-digest eyeballs from the ground.\\r\\n\rSince the girl had fallen into the flower ocean, no one has been, and is, and will be saved. Bodies became the fertilizers for the flowers, while souls witnessed every single death in inane.\\r\\n\rThe flowers captivated the girl's shadow, carefully packed the symbol of soul, and headed to the next prey, flowerpot in hand.",
+          "japanese": "収納日付-3/06/01\\r\\n \r保管単位：中の層\\r\\n \rレベル：main\\r\\n \r完全の地獄まで溶ける前に、花畑はまだ元の様子に戻りました。\\r\\n \r終わった？助かった？\\r\\n \r女の子がニッコリと答えず、無視できない目を上げる。\\r\\n \r花畑まで落ちだ日から、言える歴史まで，だれ一人も救えなかっだ、これからも。肉体は餌となり、魂だけ、毎回の戦場見っているだけ\\r\\n \r花海は、彼女の影を操っている、花を抱かれて、次の食べ物へ進んでいく。\\r\\n",
+          "korean": ""
+        },
+        {
+          "chinese": "风吹花海，推排若浪，两人立于大地之上，相视一笑。\\r\\n\r“我们做到了。”\\r\\n\r“是你做到了。”蒙面人看着女孩裙下的眼球，它们蠢蠢欲动，探头探脑，似乎在思考眼前的男人会是他们下一个同伴吗。\\r\\n\r“你是来带我走的吧。”\\r\\n\r“对。”\\r\\n\r女孩儿在花田里不知度过了多少岁月，又不知吃了多少血肉，她渐渐长大，也终于迎来她的宿命。蒙面人拿出玻璃瓶，她散作无数花瓣，倒吸入瓶，花瓣染红了水，女孩又显现出她的模样，渐渐下沉，像一片失去生机的树叶，析出所有的汁液，只留下透明的茎脉，发现她，透过她，再忘记她。\\r\\n\r“又回收了一个，还剩...”\\r\\n\r蒙面人打开档案快速翻动，档案几乎每页都画上了巨大的红叉，突然他的手指停留，泛黄的照片映入眼帘，那是两个青春洋溢的少女，也是他下次的目标。\\r\\n\r",
+          "chineseTraditional": "風吹花海，推排若浪，兩人立於大地之上，相視一笑。\\r\\n\r「我們做到了。」\\r\\n\r「是你做到了。」蒙面人看著女孩裙下的眼球。它們蠢蠢欲動，探頭探腦，似乎在思考眼前的男人會是他們下一個同伴嗎？\\r\\n\r「你是來帶我走的吧。」\\r\\n\r「對。」\\r\\n\r女孩在花田裡不知度過了多少歲月，又不知吃了多少血肉，她漸漸長大，也終於迎來她的宿命。蒙面人拿出玻璃瓶，她散作無數花瓣，倒吸入瓶，花瓣染紅了水，女孩又顯現出她的模樣，漸漸下沉，像一片失去生機的樹葉，析出所有的汁液，只留下透明的莖脈，發現她，透過她，再忘記她。\\r\\n\r「又回收了一個，還剩···」\\r\\n\r蒙面人打開檔案快速翻動，檔案幾乎每頁都畫上了巨大的紅叉，突然他的手指停留。泛黃的照片映入眼簾，那是兩個青春洋溢的少女，是他下次的目標。\\r\\n",
+          "english": "Waves of flowers form a tide, two shadows stand, on the ground with smiles.\\r\\n\r\"\"We made it.\"\"\\r\\n\r\"\"To be exact, you made it.\"\" The masked glued his eyes to the eyeballs beneath the girl's dress. They're moving curiously as if the man in front could be their next companion.\\r\\n\r\"\"You came to pick me up.\"\"\\r\\n\r\"\"Right.\"\"\\r\\n\rFor countless years the girl spent with the flowers, she was brought up by flesh and blood, and eventually, here comes her destiny. Her body turns into flakes of petals, slowly flying into the bottle. The petals dye the water red, and the reflection of her ego slowly emerges, and drown. It's just like a dead leaf, giving off all its juice and energy, and merely transparent stems are left, to her, through her, and after her.\\r\\n\r\"\"After this girl, there are …\"\"\\r\\n\rThe masked man quickly turns the pages of his documents. On almost every page, a big, red X was drawn. His fingers finally stopped at the page on which pasted an old photo two young girls. They are the next targets.",
+          "japanese": "風は吹き、花は波の如く、二人は大地に立て、見つめ合て、笑いました \r“やっだよ” \\r\\n\r“あなたがな”覆面の人が、女の子のスカートの下の目w見て、ゾクゾクする、目の前の男は次の仲間なのか、考えています。\\r\\n\r “連れて来るんでしょ”\\r\\n \r“そう”\\r\\n\r 女の子は花畑でいくら経ったのか、どれだけの血肉を食べだのか、成長する度々、宿命を向かいました覆面がガラス瓶を出して、彼女は無数の花びらになって、瓶に吸い込む、花びらは赤い水を染めて、彼女の様子が現れ、ゆっくり沈み、枯れ葉のように、汁まで出しで、透明の枝だけ残って、現れ、そして、忘れて。\\r\\n \r”これで、残りは...”\\r\\n 覆面はファイルを確認して、中にほどんど大きな赤いバツが書きます。突然覆面の指が、一つ黄色の元気な女の子二人の写真の上で止まで、これが次のターゲット。\\r\\n",
+          "korean": ""
+        }
+      ]
+    },
+    {
+      "keyName": "younggino",
+      "multiLanguageTitle": {
+        "chinese": "\r警长证",
+        "chineseTraditional": "警長證",
+        "english": "Sheriff badge",
+        "japanese": "警察官の証",
+        "korean": ""
+      },
+      "getSong": 6,
+      "texts": [
+        {
+          "chinese": "收集时间01/09/10\\r\\n\r保管单位：Gino\\r\\n\r等级：bold\\r\\n\rGino警长的工作证件，证件照上的Gino比如今的要稚嫩地多。\\r\\n\r",
+          "chineseTraditional": "收集時間：01/09/10\\r\\n\r保管單位：Gino\\r\\n\r等級：bold\\r\\n\r\\r\\n\rGino警長的工作證件，證件照上的Gino比如今的他還要來的稚嫩。\\r\\n",
+          "english": "Date: 01/09/10\\r\\n\rKeeper: Gino\\r\\n\rCategory: Bold\\r\\n\rWork credential of Sheriff Dino. The Gino on the ID photo is much less mature than him now. \\r\\n",
+          "japanese": "収納日付01/09/10\\r\\n\r保管単位：Gino\\r\\n\rレベル：bold\\r\\n\rGino警察隊長の警察手帳、その証明写真に写っているGinoはとても幼く見える。\\r\\n",
+          "korean": ""
+        }
+      ]
+    },
+    {
+      "keyName": "Mtowersakura",
+      "multiLanguageTitle": {
+        "chinese": "\r【影像】塔",
+        "chineseTraditional": "【影像】塔",
+        "english": "[Image] Tower",
+        "japanese": "【映像】塔",
+        "korean": ""
+      },
+      "getSong": 6,
+      "texts": [
+        {
+          "chinese": "收集时间01/09/32\\r\\n\r保管单位：Gino\\r\\n\r等级：key\\r\\n\r挂在Pigeon Bar墙上的长条插画，是一座倒悬的巨塔。\\r\\n\r据酒吧伍老板所言，是酒保樱小姐的练手作。\\r\\n",
+          "chineseTraditional": "收集時間：01/09/32\\r\\n\r保管單位：Gino\\r\\n\r等級：key\\r\\n\r\\r\\n\r掛在PigeonBar牆上的長條插畫，是一座倒懸的巨塔。\\r\\n\r據酒吧伍老闆所言，是酒保櫻小姐的即興作品。\\r\\n",
+          "english": "Date: 01/09/32\\r\\n\rKeeper: Gino\\r\\n\rCategory: Key\\r\\n\rThe illustration strip hung on the wall of Pigeon Bar, displaying a giant upside-down tower.\\r\\n\rAccording to the bar owner, it was the practice work by the bar tender Ms. Sakura.\\r\\n",
+          "japanese": "収納日付01/09/32\\r\\n\r保管単位：Gino\\r\\n\rレベル：key\\r\\n\rPigeon Barの壁にかかっている横長の絵は、一つの巨大な逆さまの塔であった。\\r\\n\r店長の話によると、これはバーテンダーの桜さんの練習作である。\\r\\n",
+          "korean": ""
+        }
+      ]
+    },
+    {
+      "keyName": "Mxiabug",
+      "multiLanguageTitle": {
+        "chinese": "\r【影像】现场勘验报告·夏草",
+        "chineseTraditional": "【影像】現場勘驗報告·夏草",
+        "english": "[Image] Field investigation report - Summer Grass",
+        "japanese": "【映像】現場調査レポート・夏草",
+        "korean": ""
+      },
+      "getSong": 6,
+      "texts": [
+        {
+          "chinese": "收集时间01/09/27\\r\\n\r保管单位：Gino\\r\\n\r等级：souvenir\\r\\n\r已确认身份，为某左姓知名女歌手\\r\\n\r【不适内容，酌情查看】\\r\\n\r\\r\\n\r受害者的头部已经被老鼠啃咬地面目全非，体内维持机体运转的溶液和酒吧暗巷的阴沟水混为一谭暗红的污流，角质蛋白丝如海草在水中浮动，污水沿上衣角晕染出渐变的流彩，吸引来追逐梦幻的彩羽鸟，啄食这虹的倒影。轻嗅其味，神似盐灼的内脏烧，生腥中还带着清甜。地穴并无四季，本层更是温暖如春，如果置之不理，不出二月，想必那茎与叶便流出了她的灵与肉，吸食流淌的生命之酒，在空中摇曳生姿。\\r\\n\r",
+          "chineseTraditional": "收集時間：01/09/27\\r\\n\r保管單位：Gino\\r\\n\r等級：souvenir\\r\\n\r已確認身份，為某知名的女歌手\\r\\n\r\\r\\n\r【不適內容，請酌約閱讀】\\r\\n\r\\r\\n\r受害者的頭部已經被老鼠啃咬的面目全非，體內維持機體運轉的溶液和酒吧暗巷的陰溝水混為一潭暗紅的汙流。角質蛋白絲如海草在水中浮動，污水沿上衣角暈染出漸變的流彩，吸引來追逐夢幻的彩羽鳥，啄食這虹的倒影。輕嗅其味，神似鹽灼的內臟燒，生腥中還帶著清甜。地穴並無四季，本層更是溫暖如春，如果置之不理，不出二月，想必那莖與葉便流出了她的靈與肉，吸食流淌的生命之酒，將在空中搖曳生姿。\\r\\n",
+          "english": "Date: 01/09/27\\r\\n\rKeeper: Gino\\r\\n\rCategory: Souvenir\\r\\n\rIdentification confirmed, being a famous female singer surnamed Zuo.\\r\\n\r[Contain unpleasent contents, viewers discretion is advised]\\r\\n\r\\r\\n\rThe victim's head had been gnawed beyond recognition by rats; the solution that kept the organism operating and the sewage water in the dark alley of the bar mixed into a dirty dark red stream. The keratin filaments were floating like seaweed in the water; the sewage dyed a gradient of colours along the edge of the clothing, attracting colourful birds pursuing the dreamy fantasy, pecking the reflection of the rainbow. Smelling its scent, it was strikingly similar to salted roast organ, with a bit of sweetness in the raw smell. There is no seasons in the crypt, and this level is warm as spring. If left unattended, by February, stems and leaves would have grown out of her soul and flesh, consuming the wine of life, swaying in the air.\\r\\n",
+          "japanese": "収納日付01/09/27\\r\\n\r保管単位：Gino\\r\\n\rレベル：souvenir\\r\\n\r身分が判明しました。苗字が左である某有名歌手\\r\\n\r【以下の文章はグロテスクな内容が含まれており、閲覧注意となっております】\\r\\n\r\\r\\n\r被害者の頭部はネズミにかじられ、元の顔がわからない程度にぐちゃぐちゃにされた。機体の活動を維持していた体内の液体はバーの裏路地の排水と混ざり合い赤黒い濁流となり、角質タンパクは糸状になって海藻のように水中で揺らいでいる。濁流が服の色を混じって流動する色彩を作り出し、夢を追う七色鳥を引き付けてこの虹の倒影を飲ませる。軽くその匂いを嗅ぐと、塩漬けホルモン焼きのようで、生臭い匂いの中にわずかの甘さが含まれている。地穴に四季はない、この層ではさらに一年中春のような温かさを保っている。もしほおっておくと、二ヶ月もたたないうちにその茎と葉は彼女の肉体と魂から流れ出て、流動する命のワインを吸っては風に乗って踊り出すでしょう。\\r\\n",
+          "korean": ""
+        }
+      ]
+    },
+    {
+      "keyName": "starshitsnow",
+      "multiLanguageTitle": {
+        "chinese": "\r星星的碎片·冬",
+        "chineseTraditional": "星星的碎片·冬",
+        "english": "Star Fragments - Winter",
+        "japanese": "星の欠片・冬",
+        "korean": ""
+      },
+      "getSong": 6,
+      "texts": [
+        {
+          "chinese": "收集时间1/04/01\\r\\n\r保管单位：鸠\\r\\n\r等级：nonsense\\r\\n\r通过光门时，鸠捡到的神奇石头。似乎触摸它的左上角会发出奇怪的声音\\r\\n\r【\"\"冬季方块\"\"sp谱面获得方式】\\r\\n\r",
+          "chineseTraditional": "收集時間：1/04/01\\r\\n\r保管單位：Geopelia\\r\\n\r等級：nonsense\\r\\n\r\\r\\n\r通過光門時，Geopelia撿到的神奇石頭。觸碰它的左上角似乎會發出奇怪的聲音\\r\\n\r【\"\"Winter↑cube↓\"\"sp譜面獲得方式】\\r\\n",
+          "english": "Date: 1/04/01\\r\\n\rKeeper: Geopelia\\r\\n\rCategory: Nonsense\\r\\n\rMysterious stone picked up by Geopelia when passing throught the light gate. It seems to make some strange noises by touching its top left corner.\\r\\n\r[Means of acquiring of ' Winter↑cube↓' SP chart]\\r\\n",
+          "japanese": "収納日付1/04/01\\r\\n\r保管単位：鳩\\r\\n\rレベル：nonsense\\r\\n\r光の門を通過するときに鳩が拾った奇妙な石。なんとこの石の左上あたりを触ると変な音が鳴るらしい。\\r\\n\r【「Winter ↑cube↓」sp譜面の獲得方法】\\r\\n",
+          "korean": ""
+        }
+      ]
+    },
+    {
+      "keyName": "listentomyradio",
+      "multiLanguageTitle": {
+        "chinese": "\r收音机",
+        "chineseTraditional": "收音機",
+        "english": "Radio",
+        "japanese": "ラジオ",
+        "korean": ""
+      },
+      "getSong": 7,
+      "texts": [
+        {
+          "chinese": "收集时间1/04/06\\r\\n\r保管单位：Fuli\\r\\n\r等级：main\\r\\n\rKuzumi拜托Fuli修理的收音机，似乎和鸠小时候拥有的型号相同。\\r\\n\r",
+          "chineseTraditional": "收集時間：1/04/06\\r\\n\r保管單位：Fuli\\r\\n\r等級：main\\r\\n\r\\r\\n\rKuzumi拜託Fuli修理的收音機，似乎和Geopelia小時候擁有的型號相同。\\r\\n",
+          "english": "Date: 1/04/06\\r\\n\rKeeper: Fuli\\r\\n\rCategory: Main\\r\\n\rThe radio which Kuzumi asked Fuli for help to repair. Seems to be the same model as the one Geopelia had when she was a kid.\\r\\n",
+          "japanese": "収納日付1/04/06\\r\\n\r保管単位：Fuli\\r\\n\rレベル：main\\r\\n\rKuzumiがFuliに修理を依頼したラジオ、鳩が小さい頃に保持していたものと同じモデルのようだ。\r\\r\\n",
+          "korean": ""
+        },
+        {
+          "chinese": "收集时间2079/09/06\\r\\n\r少年稚嫩的双手沾满了油污，他从腰包里拿出了一台崭新的收音机，递给年幼的妹妹\\r\\n\r“鸠，生日快乐。”\\r\\n",
+          "chineseTraditional": "收集時間：2079/09/06\\r\\n\r\\r\\n\r少年稚嫩的雙手沾滿了油污。他從腰包裡拿出了一台嶄新的收音機，遞給年幼的妹妹。\\r\\n\r\\r\\n\r「鳩，生日快樂。」\\r\\n",
+          "english": "Date: 2079/09/06\\r\\n\rThe teen's hands were covered with dirty grease. He took out a brand new radio from his waist pack, handed it to his young sister.\\r\\n\r'Geopelia, happy brithday.'\\r\\n",
+          "japanese": "収納日付2079/09/06\\r\\n\r少年の幼い手には油がついていて、とても汚れていた。彼はウエストポーチから一台の斬新なラジオを取り出し、幼い妹に渡した。\\r\\n\r「鳩、誕生日おめでとう。」\\r\\n",
+          "korean": ""
+        },
+        {
+          "chinese": "收集时间1/04/07\\r\\n\rFuli：不行了。\\r\\n\r鸠：很难修？\\r\\n\rFuli：其实我还没找到它坏在哪里······\\r\\n\r鸠：我能看看吗？\\r\\n\rFuli：嗯嗯······【失去梦想】\\r\\n\r【鸠抚摸着收音机的主板，若有所思，她想起哥哥向她的演示，“这个牌子的收音机，设计上有个薄弱点，只要重新焊锡，薄弱点消失，就不会坏了，甚至比其他收音机还要好用。”】\\r\\n\r鸠：你点一下这里试试？\\r\\n\rFuli：这里吗【她将信将疑地做了，反正焊错也能重来】\\r\\n\rFuli：真的好了！你好厉害啊，鸠！\\r\\n\r鸠：哼哼，哪里哪里，客气客气。\\r\\n\r【来到这里，和哥哥的往事便时常浮上心头，但鸠一直没记起，那记忆中的人儿真正的模样，以其她到底从哪里来，又如何到此处的原因。】\\r\\n\r",
+          "chineseTraditional": "收集時間：1/04/07\\r\\n\r\\r\\n\rFuli：不行了。\\r\\n\rGeopelia：很難修？\\r\\n\rFuli：其實我還沒找到它壞在哪裡···\\r\\n\rGeopelia：我能看看嗎？\\r\\n\rFuli：嗯···【失去希望】\\r\\n\r【Geopelia拿著收音機的主機板，若有所思。她想起哥哥的話：「這個牌子的收音機，設計上有個缺點。只要重新焊錫，把不良點修復，就會好了，甚至比其他收音機還要好用。」】\\r\\n\rGeopelia：你點一下這裡試試？\\r\\n\rFuli：這裡嗎？【她將信將疑地做了，反正焊錯也能重來】\\r\\n\rFuli：真的好了！你好厲害啊，鳩！\\r\\n\rGeopelia：哼哼，哪裡哪裡，不用客氣。\\r\\n\r【來到這個地方，她和哥哥的往事便時常浮上心頭。但Geopelia一直沒想起那記憶中的人真正的模樣、她到底從哪裡來、如何到達此處和來這裡的原因。】\\r\\n",
+          "english": "Date: 1/04/07\\r\\n\rFuli: It's gone.\\r\\n\rGeopelia: Is it very hard to fix?\\r\\n\rFuli: Actually I still haven't figured out where is the defect......\\r\\n\rGeopelia: Can I have a look?\\r\\n\rFuli: Emmm......[lost hope]\\r\\n\r[Geopelia strokes the mainboard of the raido, as if absorbed in thought. She remembered that brother used to show her, 'Radios of this brand has a weak spot in design. As long as you re-solder it, the weak spot disappears, it will no longer break, even better than other radios.']\\r\\n\rGeopelia: Try and weld this spot?\\r\\n\rFuli: Here?[She did it doubtfully. It can be redone even if it was a mistake.]\\r\\n\rFuli: It actually worked! You are amazing, Geopelia!\\r\\n\rGeopelia: Huh-huh, my pleasure. You're welcome,\\r\\n\r[After coming here, the memories about the past with brother reemerges from time to time; yet Geopelia still could not recall the actual look of that person in the memory, so was the reason about where she came from, and how she ended up here.]",
+          "japanese": "収納日付1/04/07\\r\\n\rFuli：だめだ。\\r\\n\r鳩：修理するの難しいのか？\\r\\n\rFuli：どこが壊れているかさえまだわかっていないのだ……\\r\\n\r鳩：ちょっと見てもいい？\\r\\n\rFuli：いいよ……【夢を失った】\\r\\n\r【鳩はラジオのマザーボードに触っていると、何か思いついたようだ。昔、兄が説明してくれたことを思い出した。「このメーカーのラジオは設計上弱いところがある、ここだ。ここをもう一度はんだ付けすると、弱い点がなくなり、ラジオは壊れなくなる。それどころか、ほかのラジオよりも使いやすくなるよ。」】\\r\\n\r鳩：ここをはんだ付けしてみて？\\r\\n\rFuli：ここか？【彼女は半信半疑の気持ちではんだ付けした。どうせやり直すこともできるから。】\\r\\n\rFuli：うわ、本当に直った！すごいよ、鳩！\\r\\n\r鳩：へへ、いやいや、そんなにすごいことじゃないよ。\\r\\n\r【ここに来れば、鳩は必ず昔の兄さんとの日々を思い出す。でも鳩はその記憶の中の人たちの顔を思い出したわけではない。自分がどこからきて、なんでここに来たかさえも思い出していないのだ。】\\r\\n\r",
+          "korean": ""
+        },
+        {
+          "chinese": "收集时间1/04/07\\r\\n\rFuli：修好是修好了，可我这几天要工作，没法送给Kuzumi。【悲】\\r\\n\r鸠：交给我好啦！\\r\\n\rFuli：爱你，鸠！\\r\\n\rGino：恩？交给你什么，你想做什么？\\r\\n\r【这时Gino收集情报回来，夜间风大，他乱发狼狈，鸠瞧不过，意图整理反而弄得更乱了】\\r\\n\rGino：别闹了，小孩子要有小孩子的样子，晚上就该睡觉。\\r\\n\r鸠：嘤～\\r\\n\rFuli：Kuzumi也不急，明早你们回第八区路过第六区，顺便送给她好了。那个时间她一般在巢栖道火车站。\\r\\n\r【我在地图上没有看到火车站啊，Gino陷入沉思】\\r\\n\rFuli：车站在第六区的西北隅，通过逐日隧道，再走五百米左右往东转就到了。\\r\\n\r鸠：指引NPC发言！\\r\\n\rFuli：才不是勒，我怕你们找不到才解释地这么详细。\\r\\n\rFuli：对了，要加好友吗？【眼神暗示】\\r\\n\r【Gino扶额，别啊，鸠还不知道林泊者的存在】\\r\\n\r鸠：好友？\\r\\n\rFuli：就是你眼睛向右转三圈，向左转一圈，再从上往下扫，然后会跳出一个界面，界面左侧有个好友键看到没？把我的ID输进去。\\r\\n\r鸠：哦哦哦哦，看到了！\\r\\n【这不是和终端上的一样嘛】\\r\\n\rFuli：我现在把收音机传送给你，它就能保存在系统里了。\\r\\n\r鸠：通体了解，不愧是引导NPC·Fuli！\\r\\n\rFuli：这个梗过不去了？\\r\\n\r鸠：Gino来加好友啊。\\r\\n\rGino：加完就睡觉哦。\\r\\n鸠：了解！\\r\\n\r\r",
+          "chineseTraditional": "收集時間：1/04/07\\r\\n\r\\r\\n\rFuli：修好是修好了，可我這幾天要工作，沒法送給久住。【悲】\\r\\n\rGeopelia：交給我好啦！\\r\\n\rFuli：我愛你，鳩！\\r\\n\rGino：恩？交給你做什麼，你想幹嘛？\\r\\n\r【這時Gino剛收集情報回來。夜間風大，他亂髮狼狽。Geopelia看不順眼，想要整理，反而弄得更亂了】\\r\\n\rGino：別鬧了，小孩子要有小孩子的樣子，晚上就該睡覺。\\r\\n\rGeopelia：欸～\\r\\n\rFuli：久住也不急，明早你們回第八區時會路過第六區，順便送給她好了。那個時間她一般在巢棲道火車站。\\r\\n\r【我在地圖上沒有看到火車站啊，Gino陷入沉思】\\r\\n\rFuli：車站在第六區的西北邊，通過逐日隧道，再走五百公尺左右往東轉就到了。\\r\\n\rGeopelia：指引NPC發言！\\r\\n\rFuli：才不是勒，我怕你們找不到才解釋地這麼詳細。\\r\\n\rFuli：對了，要加好友嗎？【眼神暗示】\\r\\n\r【Gino扶額，別啊，Geopelia還不知道林泊者的存在】\\r\\n\rGeopelia：好友？\\r\\n\rFuli：就是你眼睛向右轉三圈，向左轉一圈，再從上往下掃，就會跳出一個介面，在左側有個「好友」按鈕，看到沒？把我的ID輸進去。\\r\\n\rGeopelia：哦哦哦哦，看到了！\\r\\n\r【這不是和終端上的一樣嘛】\\r\\n\rFuli：我現在把收音機傳送給你，它就能儲存在系統裡了。\\r\\n\rGeopelia：完全瞭解，不愧是引導NPC·Fuli！\\r\\n\rFuli：這個梗玩完了嗎？\\r\\n\rGeopelia：Gino來加好友啊。\\r\\n\rGino：加完就睡覺哦。\\r\\n\rGeopelia：瞭解！\\r\\n",
+          "english": "Date: 1/04/07\\r\\n\rFuli: It has been repaired, but I got work these few days, can't send it to Kuzumi. [Sad]\\r\\n\rGeopelia: I can do it!\\r\\n\rFuli: Love you, Geopelia!\\r\\n\rGino: Emm? Give you what? What do you want to do?\\r\\n\r[Gino just came back from intelligence gathering. It was a windy night, and Gino's hair was in a mess. Geopelia could not stand it, tried to tidy it but messed it up even more.]\\r\\n\rGino: C'mon, kids should behave just like kids. Time to go to bed now.\\r\\n\rGeopelia: Sobs~\\r\\n\rFuli: Kuzumi is not in a hurry. You can just pass it to her when you drop by District Six while going back to District Eight. Normally she would be at the Perchnest County train station around that time.\\r\\n\r[I didn't see any train station on the map, Gino absorbed in thought]\\r\\n\rFuli: The station is at the northwest corner of District Six, throught the Sunchase tunnel, walk five hundred meters then turn east.\\r\\n\rGeopelia: Just like how a guiding NPC would say~\\r\\n\rFuli: Of course not. I only told you in such detail because I worried that you would find your way.\\r\\n\rFuli: By the way, you wanna add me to your friend list?[Hinting through her eyes]\\r\\n\r[Gino facepalmed, wait no, Geopelia still doesn't know the existance of limbo yet]\\r\\n\rGeopelia: Friend list?\\r\\n\rFuli: Just turn your eyes three rounds to the right, one round to the left, and swipe from top to bottom, then it pops out an interface. You see there is an add friend button on the left? Enter my ID there.\\r\\n\rGeopelia: Ohhhh I see it now!\\r\\n[Isn't it the same as on the terminal]\\r\\n\rFuli: Now I send you the radio, then it can be saved in the system.\\r\\n\rGeopelia: Fully understood! You are indeed a worthy guiding NPC Fuli!\\r\\n\rFuli: Why can't you just get over this?\\r\\n\rGeopelia: Gino, come here, I add you as friend.\\r\\n\rGino: Go to sleep after this then.\\r\\n\rGeopelia: Understood!\\r\\n",
+          "japanese": "収納日付1/04/07\\r\\n\rFuli：直ったのはいいんだけど、この数日私仕事あるから、Kuzumiに渡すことができないよ……【悲】\\r\\n\r鳩：私に任せて！\\r\\n\rFuli：愛してる、鳩！\\r\\n\rGino：ん？何を渡して、何をするつもり？\\r\\n\r【この時Ginoは情報収集から帰ってきたばかり。夜間の風は大きい、Ginoの髪形はとても乱れている。鳩がそれを見過ごせなくて、なおしてあげようと手を付けたが、逆にもっと乱れてしまった】\\r\\n\rGino：遊び事は終わり、子供は子供らしく、夜には寝るべきだ。\\r\\n\r鳩：む～\\r\\n\rFuli：Kuzumiも急いでいないようだから、明日の朝君たちが第八区に帰っていく途中に第六区を通過したときに渡せばいいよ。あの時間帯なら彼女は栖巣道駅にいるはずだよ。\\r\\n\r【地図に駅など書いてないぞと，Ginoは悩んでいた】\\r\\n\rFuli：駅は第六区の北西角にあるの、逐日トンネルを通って500メートルくらいまっすぐ行ってから、右に曲がれば着くよ。\\r\\n\r鳩：案内係のNPCの発言！\\r\\n\rFuli：違うよ、君たちが見つからないかもって思ったからこんなに詳しく話したんだよ。\\r\\n\rFuli：そうだ、フレンド登録しない？【目つきで匂わす】\\r\\n\r【Ginoは頭を抱えた、まずい、鳩にはまだリンボの存在が知らされていないのだ】\\r\\n\r鳩：フレンド？\\r\\n\rFuli：ほら、目を時計回りに三周、反時計回りに一周回ってから、上から下へと動くと、メニューが出てくるの、その左側のフレンドというボタン見える？私のIDを入力して。\\r\\n\r鳩：なるほど、見えた！\\r\\n【端末のやつと同じじゃん】\\r\\n\rFuli：今このラジオを送るから、そっちのシステム内に保存できるよ。\\r\\n\r鳩：了解した、さすがは案内係NPC·Fuli！\\r\\n\rFuli：もう、このネタやめて？\\r\\n\r鸠：Ginoもフレンド登録しない？\\r\\n\rGino：登録したら寝るぞ。\\r\\n鳩：了解！\\r\\n\r",
+          "korean": ""
+        }
+      ]
+    },
+    {
+      "keyName": "Ytaipingpingpang",
+      "multiLanguageTitle": {
+        "chinese": "\r【录音】太平鼓",
+        "chineseTraditional": "【錄音】太平鼓",
+        "english": "[Recording] Drum of Peace",
+        "japanese": "【録音】太平鼓",
+        "korean": ""
+      },
+      "getSong": 7,
+      "texts": [
+        {
+          "chinese": "收集时间1/04/01\\r\\n\r保管单位：鸠\\r\\n\r等级：main\\r\\n\r长度：5min23s\\r\\n\r蹈舞摇铃十八调，太平鼓响求太平，泥潭深陷仍作乐，从衢歌声与壤同。\\r\\n\r\r【鸠与Gino循着歌声，来到垃圾山前，无数的电子器械被天空的磁力轨道投放到顶端。站在山脚，鸠看到远处的山腰，蚂蚁大小的拾荒者敲着手里的单面鼓，大声唱颂着无人听懂的词句】\\r\\n\r【猛地，巨大的机械从上层滚落，正巧砸在了拾荒者的身上，音乐没有停止，可能是身边的垃圾起到掩体作用，他们暂时没有生命危险。】\\r\\n\r【Gino见状前去帮忙，他一跃而上，参差零落落脚点在他这里成了节奏的舞点，拾荒者的鼓声越发激烈，Gino跳动的速度便越快，这段路如有神助，很快Gino就到了拾荒者的面前，他拖动身旁的工型钢，利用杠杆原理来搬走压倒拾荒者的机械。鸠则废了点功夫，从另侧的缓坡缓慢挪动前行，等Gino工程过半，鸠和她的蝴蝶装饰才从下方探出头来。】\\r\\n\rGino：咕咕，你为什么只是看着？\\r\\n\r鸠：私认为Gino力大无穷，就算没有咕咕，他也能完成使命的。【只见鸠打开alpa，找了个有皮革制品的角落坐下，看着汗流浃背的Gino偷笑。】\\r\\n\rGino：不干活，你上来作甚！\\r\\n【半恼】\r鸠：完成咕咕组织下发的任务，聆听劳动人民的声音哇。\\r\\n\r【被困的拾荒者纷纷看向新来的鸠，鸠也就顺着他们的询问闲聊起来，聊了一会儿，拾荒者觉得女孩讨喜，其中一位摸了摸口袋，还予她糖吃。Gino瞧见心中五味杂陈，若不是自家的孩子，嫉妒必蒙蔽他的双眼。】\\r\\n\rGino：哎。\\r\\n\r",
+          "chineseTraditional": "收集時間：1/04/01\\r\\n\r保管單位：Geopelia\\r\\n\r等級：main\\r\\n\r長度：5min23s\\r\\n\r\\r\\n\r蹈舞搖鈴十八調，太平鼓響求太平。泥潭深陷仍作樂，從衢歌聲與壤同。\\r\\n\r【Geopelia與Gino循著歌聲，來到垃圾山前，無數的電子產品被天空的磁力軌道吸在頂端。站在山腳，Geopelia看到遠處的山腰，小小的拾荒者，敲著手裡的單面鼓大聲歌頌著無人聽懂的詞句】\\r\\n\r【瞬時，巨大的機械從上層滾落，正巧砸在了拾荒者的身上。但音樂沒有停止，可能是身邊的垃圾幫忙擋住了，他們暫時沒有生命危險。】\\r\\n\r【Gino見狀後前去幫忙，他一躍而上，參差零落落的腳點在她這裡成了節奏的舞點，拾荒者的鼓聲越敲越快，Gino跳動的速度便越快，如有神助。很快Gino就到了拾荒者的面前，他拖動身旁的鋼鐵，利用槓桿原理來搬走壓倒拾荒者的機械。Geopelia則費了點功夫，從另一側的緩坡緩慢挪動前行。等Gino完成了一半的救援進度後，Geopelia和她的蝴蝶飾品才從下方探出頭來。】\\r\\n\rGino：咕咕，你為什麼只是看著？\\r\\n\rGeopelia：吾認為吉諾力大無窮，就算沒有咕咕，他也能完成使命的。【只見Geopelia打開alpa，找了個有皮革製品的角落坐下，看著汗流浹背的Gino偷笑。】\\r\\n\rGino：不做事，你上來幹嘛！\\r\\n\r【半鬧脾氣】Geopelia：完成咕咕組織下發的任務，聆聽勞動人民的聲音阿。\\r\\n\r【被困的拾荒者紛紛看向新來的Geopelia，Geopelia也就順著他們的詢問閒聊起來。聊了一會兒，拾荒者覺得這女孩很討喜，其中一位摸了摸口袋，還給她糖吃。Gino看見後，心中五味雜陳。若不是自家的孩子，嫉妒心必會蒙蔽他的雙眼。】\\r\\n\rGino：唉···\\r\\n",
+          "english": "Date: 1/04/01\\r\\n\rKeeper: Geopelia\\r\\n\rCategory: Main\\r\\n\rLength: 5'23\"\"\\r\\n\rDance and ring with eighteen tunes, Peaceful Drum would sound for peace, Deep in mire, yet still make merry, Song along route, concord with earth.\\r\\n\r\r[Following the singing, Geopelia and Gino came to the mountain of rubbish. Countless electronic devices were dropped to the top by the magnetic track. Standing by the foot of the mountain, Geopelia saw scavengers beating the drum in their hands on the far mountainside like ants, paying their tribute out loud with words that no one could understand.]\\r\\n\r[Suddenly, a giant machinery fell from the top, landing right on top of the scavengers. Yet the musice did not stop. Perhaps due to the rubbish around, their lives were temporarily not under threat.]\\r\\n\r[Gino thereupon went to help. He rushed towards there, to him the scattered footholds became the tempo of rhythm. The more intense the scavengers' drum beats were, the faster Gino jumped and moved around. With that magic touch, Gino arrived in front of the scavengers in no time. He dragged the nearby I-beam over, pivoting to remove the machinery that knocked down the scavengers. Geopelia took some more effort, moving slowly from the slope on the other side. By the time Gino had finished half of the work, Geopelia finally emerged from below with her butterfly ornament.]\\r\\n\rGino: Coo-coo, why did you only watch me do it?\\r\\n\rGeopelia: I believe that Gino pocesses such great strength, that even without Coo-coo, he could still accomplish his mission. [Geopelia opened alpa, sat down in a corner with some leatherware, sniggering at Gino sweating all over.]\\r\\n\rGino: Then why do you come up here if you don't work？\\r\\n[Annoyed half-heartedly]\rGeopelia: To fulfil the task from the Coo-coo organisation to hear the voice of the working class of course.\\r\\n\r[The trapped scavengers turned to look at the newly arrived Geoplelia, then Geopelia started the chat by responding to their questions. After a while, the scavengers really began to like the girl. One of them even gave her some sweets from his pocket. Gino had a very complex emotion watching this. If she was not his family, Gino would be blinded by jeolousy.]\\r\\n\rGino: Sigh.\\r\\n",
+          "japanese": "収納日付1/04/01\\r\\n\r保管単位：鸠\\r\\n\rレベル：main\\r\\n\r時間：5min23s\\r\\n\r踊れ踊れ鈴を鳴らせ、太平鼓をたたいて神に祈れ、悲境に落ちて諦めることなかれ、大声で歌って世界に伝え。\\r\\n\r\r【鳩とGinoは歌声をたどってゴミの山の麓まで来た。無数の電子機械は空の磁力軌道によって頂上に投げ出されている。麓で立ち止まり、鳩は見えた。遠くの山腹にアリみたいに小さく見える荒れ者たちが立っていて、大声でだれもが歌詞をわからない歌を歌っている】\\r\\n\r【突然、巨大な機械が頂上から転がってきて、ちょうどその荒れ者が立っている場所に落ちた。しかし歌声はまだ聞こえる。その傍らんにあるゴミが彼らを守ったのだろう、彼らにはまだ命の危険はない。】\\r\\n\r【Ginoはこの状況を見て助けに行かねばと思い、跳んで山の上に着地した。所々にある足掛かりはリズムを奏でるカギとなり、荒れ者の鼓の音が大きくなるとGinoの動きも速くなり、神がかったかの如く、すぐにGinoは荒れ者たちの目の前までたどり着けた。彼はとなりの鋼梁を引っ張ってきて、てこの原理を使って荒れ者の上にのしかかっている機械をどかした。鳩のほうは少し手間をかかり、逆側の坂道から慎重に上がってきた。Ginoが人を助ける最中に、ようやく鳩と彼女のチョウの飾りが下から出てきた。】\\r\\n\rGino：ポッポ、お前、なんで見てるだけで何も手伝わないんだ？\\r\\n\r鸠：私はGinoは大力士だと思っているから、ポッポがいなくても、使命を果たせるんだ。【鳩はalpaを開くと、革製品のある隅っこに座り込んで、汗だらけになっているGinoを見てこっそり笑った。】\\r\\n\rGino：何もしないならなんで上がってきたんや！\\r\\n【苛立つ】\r鸠：ポッポ組合が下した任務「働く人々の声を聴く」ことを成し遂げるためだよ。\\r\\n\r【まだ閉じ込められている荒れ者たちは皆、鳩のほうを見た。鳩も彼らに合わせて世間話をし出した。しばらくたつと、荒れ者たちは鳩に好感を抱き、その中のひとりはさらに彼女に飴をあげた。Ginoはこの情景を見て、万感胸に迫った。自分が連れてきた子でなければ、必ず嫉妬するであろう。】\\r\\n\rGino：やれやれ。\\r\\n",
+          "korean": ""
+        }
+      ]
+    },
+    {
+      "keyName": "magicballball",
+      "multiLanguageTitle": {
+        "chinese": "\r魔术棒",
+        "chineseTraditional": "魔術棒",
+        "english": "Magic Wand",
+        "japanese": "マジック杖",
+        "korean": ""
+      },
+      "getSong": 7,
+      "texts": [
+        {
+          "chinese": "收集时间1/03/29\\r\\n\r保管单位：Kuzumi\\r\\n\r等级：souvenir\\r\\n\r\rKouma在垃圾堆里捡到的魔术道具，Kuzumi正在努力练习，想通过魔术让大家露出笑容。\\r\\n\r",
+          "chineseTraditional": "收集時間：1/03/29\\r\\n\r保管單位：Kuzumi\\r\\n\r等級：souvenir\\r\\n\r\\r\\n\rKouma在垃圾堆裡撿到的魔術道具。她正在努力練習，想通過魔術讓大家露出笑容。\\r\\n",
+          "english": "Date: 1/03/29\\r\\n\rKeeper: Kuzumi\\r\\n\rCategory: Souvenir\\r\\n\r\rThe magic prop Kouma found in the rubbish dump. Kuzumi is trying hard to practice, hoping to put a smile on everyone's face through magic tricks.\\r\\n\r",
+          "japanese": "収納日付1/03/29\\r\\n\r保管単位：Kuzumi\\r\\n\rレベル：souvenir\\r\\n\r\rKoumaゴミの中から拾ったマジックステッキ。Kuzumiは今、マジックでみんなを笑顔にしたいために一生懸命練習している。\\r\\n\r",
+          "korean": ""
+        }
+      ]
+    },
+    {
+      "keyName": "shihaungzhelingpai",
+      "multiLanguageTitle": {
+        "chinese": "\r拾荒者令牌",
+        "chineseTraditional": "拾荒者身分識別證",
+        "english": "Scavenger Token",
+        "japanese": "ホームレスの証",
+        "korean": ""
+      },
+      "getSong": 8,
+      "texts": [
+        {
+          "chinese": "收集时间1/04/05\\r\\n\r保管单位：Gino\\r\\n\r等级：souvenir\\r\\n\r前往第一区中央回收站登记注册，就能领到拾荒者令牌，似乎每层都有这样的身份证明，像极了主题乐园的集章册。\\r\\n\r如果是主题乐园，应该有快速脱出的办法吧\\r\\n\r",
+          "chineseTraditional": "收集時間：1/04/05\\r\\n\r保管單位：Gino\\r\\n\r等級：souvenir\\r\\n\r\\r\\n\r前往第一區中央回收站登記註冊，就能領到它。似乎每層都有這樣的身份證明，像極了主題樂園的集章冊。\\r\\n\r如果是主題樂園，應該有快速逃出的辦法吧。\\r\\n",
+          "english": "Date: 1/04/05\\r\\n\rKeeper: Gino\\r\\n\rCategory: Souvenir\\r\\n\rScavenger Token can be collected by registering at District One central recycling station. It seems that such identification exists in every level, just as the stamp collection book in theme parks.\\r\\n\rIf it was a theme park, there should be a way to quickly escape then.\\r\\n",
+          "japanese": "収納日付1/04/05\\r\\n\r保管単位：Gino\\r\\n\rレベル：souvenir\\r\\n\r第一区中央リサイクルステーションに行って登録すると、荒れ者トークンがもらえる。各層それぞれこのような身分証明があるらしく、テーマパークのスタンプラリーに似ている。\\r\\n\rテーマパークなら、いち早く脱出する方法もきっとあるだろう\\r\\n",
+          "korean": ""
+        }
+      ]
+    },
+    {
+      "keyName": "hoodoomap",
+      "multiLanguageTitle": {
+        "chinese": "\r石林地图",
+        "chineseTraditional": "石林地圖",
+        "english": "Hoodoo Map",
+        "japanese": "石森の地図",
+        "korean": ""
+      },
+      "getSong": 8,
+      "texts": [
+        {
+          "chinese": "收集时间1/04/05\\r\\n\r保管单位：Gino\\r\\n\r等级：main\\r\\n\rGino利用土星权限制作的动态地图，记录了石林三天内人们的活动情况，如他所料，拾荒者的踪迹循规蹈矩，和他猜想的如出一辙。\\r\\n\r",
+          "chineseTraditional": "收集時間：1/04/05\\r\\n\r保管單位：Gino\\r\\n\r等級：main\\r\\n\r\\r\\n\rGino利用土星許可權製作的動態地圖，記錄了石林三天內人們的活動情況。如他所料，拾荒者的蹤跡循規蹈矩，和他猜想的如出一轍。\\r\\n",
+          "english": "Date: 1/04/05\\r\\n\rKeeper: Gino\\r\\n\rCategory: Main\\r\\n\rThe dynamic map Gino made by utilising the Saturn permission. It recorded people's activities within the Hoodoo for three days. As expected, the trace of scavengers were following the norm, just as what he would have guessed.r\\n",
+          "japanese": "収納日付1/04/05\\r\\n\r保管単位：Gino\\r\\n\rレベル：main\\r\\n\rGinoが土星権限を利用して作ったダイナミックマップは、三日間の石林の人々の動向が記録してある。彼の予測通り，荒れ者たちの動きは一定のルールがある、彼が推測したのにぴったり。\\r\\n",
+          "korean": ""
+        }
+      ]
+    },
+    {
+      "keyName": "Yjiaohuachicken",
+      "multiLanguageTitle": {
+        "chinese": "\r【录音】叫花鸡",
+        "chineseTraditional": "【錄音】叫花雞",
+        "english": "[Recording] Beggar's Chicken",
+        "japanese": "【録音】叫化鶏",
+        "korean": ""
+      },
+      "getSong": 8,
+      "texts": [
+        {
+          "chinese": "收集时间1/04/03\\r\\n\r保管单位：鸠\\r\\n\r等级：souvenir\\r\\n\r长度：3min35s\\r\\n\r叫花鸡系中国传统美食，整鸡腌制过，再涂上泥土或面粉，用荷叶包住，最后放到炉中烤，这便完全锁住鸡肉的肉汁，保证鸡肉的鲜嫩，和鸡皮的酥脆金黄。原食谱对食材要求十分严苛，由于地域限制，Gino使用了野生绿毛鸡，金属含量超标的电池土，还有锡箔纸作为替代。\\r\\n\\r\\n\r寻找美味，似乎是我生来的使命，每到新的地方，当地美食总让我流连忘返。五湖四海，八大菜系，佳肴盛筵，茶点小食，香味飘过的街道，就有我的身影，这就是我，超级美食家鸠鸠，欢迎来到我的美食汇觅食频道！【背景声：yeah！！！！】\\r\\n\r现在让我们采访一下本次的特邀嘉宾，Gino大厨！\\r\\n\r大厨有什么想跟我们的观众说的嘛～\\r\\n\r【咔呲咔呲，Gino抱着块\"\"大石头\"\"，专注地往地上砸，对鸠则不理不睬。】\r嗯······那请问大厨，今天做的是什么菜啊。\\r\\n\r【Gino抬头看看鸠，又想起自己嘴里还叼着凿子，便指挥鸠把旁边的青汁拿来，比划了个喝的手势。】\\r\\n\r让我喝了它？【有点苦】什么东西？\\r\\n\r【松嘴说话】“解毒剂。”\\r\\n\r！！！！！\\r\\n\r鸡倒是挺好吃的。\\r\\n\r",
+          "chineseTraditional": "收集時間：1/04/03\\r\\n\r保管單位：Geopelia\\r\\n\r等級：souvenir\\r\\n\r長度：3min35s\\r\\n\r\\r\\n\r叫花雞是中國的傳統美食。整隻雞醃製過後，再塗上泥土或麵粉，用荷葉包住，最後放到爐中烤。這便完全鎖住雞肉的肉汁，保證雞肉的鮮嫩，和雞皮的酥脆金黃。原食譜對食材要求十分嚴苛，由於地域限制，Gino只能使用野生的綠毛雞，金屬含量超標的電池土，還有錫箔紙作為替代。\\r\\n\r\\r\\n\r尋找美味，似乎是我與生俱來的使命。每到新的地方，當地美食總讓我流連忘返。五湖四海，八大菜系，佳餚盛筵，茶點小食，香味飄過的街道，就有我的身影，這就是我，超級美食家Geopelia，歡迎來到我的覓食頻道！【背景聲：Yeah！！！！】\\r\\n\r現在讓我們採訪一下本次的特邀嘉賓：吉諾大廚！\\r\\n\r大廚有什麼想跟我們的觀眾說的嘛？\\r\\n\r【哢呲哢呲，Gino抱著塊\"\"大石頭\"\"，專注地往地上砸，對Geopelia不理不睬。】嗯······那請問大廚，今天做的是什麼菜啊？\\r\\n\r【Gino抬頭看看Geopelia，又想起自己嘴裡還叼著鑿子，便指揮Geopelia把旁邊的青汁拿來，比劃了個喝的手勢。】\\r\\n\r讓我喝了它？【有點苦】這是什麼？\\r\\n\r【鬆嘴說話】「解毒劑。」\\r\\n\r ！！！！！\\r\\n\r雞倒是挺好吃的。\\r\\n",
+          "english": "Date: 1/04/03\\r\\n\rKeeper: Geopelia\\r\\n\rCategory: Souvenir\\r\\n\rLength: 3'35\"\"\\r\\n\rBeggar's Chicken is a traditional Chinese cuisine. The whole chicken was marinated, then covered with soil or flour, wrapped with lotus leaf, then finally grilled in a stove. This would secure its juiciness entirely, ensuring the chicken to be fresh and tender, as well as a crispy golden skin. The original recipe is very strict about the ingredients. Due to the geographical restrictions, Gino used the wild green-haired chicken, battery soil with excessive metallic contents, and tin foil instead.\\r\\n\\r\\n\rSearching for decilacies seems to be the mission I was born for. Wherever I go, I would always be indulged in the local cuisines. All around the world, every cuisine cultures, from luxurious dishes to refreshing desserts --- where there is the delicious food, there is me. That's me, Geopelia the super gourmet. Welcome to my Tasty Food Review channel! [background: yeah!!!!]\\r\\n\rNow let's interview our special guest today, Cheif Gino!\\r\\n\rYou have anything to say to our audience, Chief?\\r\\n\r[Crunching, Gino held the 'giant rock', focusing on crushing it onto the ground, totally ignoring Geopelia.]\rHmm......Chief, what dish are we making today?\\r\\n\r[Gino looked up at Geopelia, remembering that he still had a chisel in his mouth, then signaled to Geopelia to take the green juice beside, and made a drinking gesture.]\\r\\n\rAsking me to drink it? [It tasted a bit bitter] What is this thing?\\r\\n\r[Relaxed his bite and spoke] 'Antidote.'\\r\\n\r!!!!!\\r\\n\rThe chicken was quite tasty though.\\r\\n",
+          "japanese": "収納日付1/04/03\\r\\n\r保管単位：鳩\\r\\n\rレベル：souvenir\\r\\n\r時間：3min35s\\r\\n\r叫化鶏(きょうかどり)は中国の伝統的な料理、一匹の鶏を丸ごと塩漬けにして、土や小麦粉で全体を包み、さらにそれを蓮の葉で包んでから丸ごと炉で蒸し焼きにする。これで肉汁は完全に肉の中に閉じこまれ、ジュウシーな鶏肉とサクサクする皮が出来上がる。この料理は元となる食材に対する要求が非常に厳しく、地域の制限により，Ginoは野生のミドリケトリと金属含有量が基準を超えたリチウム土、あとはその代わりとしてのアルミ箔を使ってこの料理を作った。\\r\\n\\r\\n\rおいしい料理を探す、これは私の使命であるようだ。毎回初めていくところに行けば必ずおいしい料理が待っている。全国津々浦々、八大菜系、美食珍味、茶とおやつ。おいしい香りが漂う街には必ず私がいる。これが私、究極の美食家——鳩である！ようこそ私のグルメチャンネルへ！【背景音：yeah！！！！】\\r\\n\rでは早速今回の特別ゲストにインタビューを，Ginoシェフ！\\r\\n\r何か視聴者の皆様に言いたいことは～\\r\\n\r【コンコンと、Ginoは大きな「石」を抱えて敲いてるばかりで、まるで鳩を相手にしなかった。】\rえっと……ではシェフ、これは何の料理を作るつもりですか。\\r\\n\r【Ginoは頭を上げて鳩のほうを見たが、自分の口はのみをくわえているのを思い出しては、鳩にそこにある青汁を持ってきて飲むよう指示した。】\\r\\n\rこれを飲めと？【ちょっぴり苦い】なにこれ？\\r\\n\r【口を開けて言う】「解毒剤。」\\r\\n\r！！！！！\\r\\n\r鶏はおいしかった。\\r\\n\r",
+          "korean": ""
+        }
+      ]
+    },
+    {
+      "keyName": "greenchicken",
+      "multiLanguageTitle": {
+        "chinese": "\r绿色变异种",
+        "chineseTraditional": "綠色異變種",
+        "english": "Green Mutant",
+        "japanese": "緑の変異体",
+        "korean": ""
+      },
+      "getSong": 8,
+      "texts": [
+        {
+          "chinese": "收集时间1/04/03\\r\\n\r保管单位：Gino\\r\\n\r等级：souvenir\\r\\n\rGino和鸠在第八区填埋场发现的奇异物种，有着八条腿和六只翅膀，别名绿毛鸡，目前普遍认为绿毛鸡是从某知名快餐的基因改良鸡变异而来的转基因生物。\\r\\n\r【林泊百科】：绿毛鸡的羽毛熬成的汤，有解除重金属中毒状态的作用。\\r\\n\r",
+          "chineseTraditional": "收集時間：1/04/03\\r\\n\r保管單位：Gino\\r\\n\r等級：souvenir\\r\\n\r\\r\\n\rGino和Geopelia在第八區的填埋場發現的奇異物種，有著八條腿和六隻翅膀，別名綠毛雞。目前普遍認為綠毛雞是從某知名速食的基因改良雞異變異而來的基因轉殖生物。\\r\\n\r【林泊百科】：綠毛雞的羽毛熬成的湯，有解除重金屬中毒狀態的作用。\\r\\n",
+          "english": "Date: 1/04/03\\r\\n\rKeeper: Gino\\r\\n\rCategory: Sounvenir\rThe strange species found by Gino and Geopelia in the landfill of District Eight. It has eight legs and six wings, also known as the green-haired chicken. Now it is generally believed that green-haired chicken is a GMO mutated from the genetically enhanced chicken by some famous fast food enterprise.\\r\\n\r[Limbo Wiki] : The soup made with feathers of green-haired chicken has the effect agianst heavy metal poisoning.\\r\\n",
+          "japanese": "収納日付1/04/03\\r\\n\r保管単位：Gino\\r\\n\rレベル：souvenir\\r\\n\rGinoと鳩が第八区の埋立処分場で発見した奇妙な生き物、八つの足と六対の羽が生えており、またの名をミドリケトリという。今のところこの生き物は某有名なファーストフード店が遺伝子改良を施した鶏から変異した種だと思われている。\\r\\n\r【リンボ百科事典】：ミドリケトリの羽で作ったスープは、重金属中毒を解消する作用がある。\\r\\n\r",
+          "korean": ""
+        }
+      ]
+    },
+    {
+      "keyName": "watertower8",
+      "multiLanguageTitle": {
+        "chinese": "\r【影像】水塔",
+        "chineseTraditional": "【影像】水塔",
+        "english": "[Image] Water Tower",
+        "japanese": "【映像】水の塔",
+        "korean": ""
+      },
+      "getSong": 8,
+      "texts": [
+        {
+          "chinese": "收集时间1/04/03\\r\\n\r保管单位：鸠\\r\\n\r等级：souvenir\\r\\n\r石林人赖以生存的装置，每座水塔都被当地居民画上了奇怪的图案和当地编号，第八区水塔的连栏上，就画着八足骏马和一个覆盖在马背上的无限符号。水塔高三十米，宽八米，桶圆状，四塔一组，其中三塔为净水循环系统，后一塔为储水塔。净水装置二进五出，进者，空气，河水；出者，纯水入储水塔，废水流沼池，又分三气顺管而上，进入能源网络，维持循环系统运行。\\r\\n\r",
+          "chineseTraditional": "收集時間：1/04/03\\r\\n\r保管單位：Geopelia\\r\\n\r等級：souvenir\\r\\n\r\\r\\n\r石林中人賴以生存的裝置。每座水塔都被當地居民畫上了奇怪的圖案和當地編號。第八區水塔旁的柵欄上，就畫著八隻駿馬和一個覆蓋在馬背上的無限符號。水塔高三十米，寬八米，桶圓狀，四塔一組，其中三塔為淨水循環系統，最後一塔為儲水塔。淨水裝置二進五出，進者，空氣、河水。出者，純水流進儲水塔、廢水流入沼池，又分三氣順管而上，進入能源網路，維持循環系統的進行。\\r\\n",
+          "english": "Date: 1/04/03\\r\\n\rKeeper: Geopelia\\r\\n\rCategory: Souvenir\\r\\n\rThe life-sustaining device in the Hoodoo. Each water tower is marked with strange patterns and local serial number by the residents. On the joint railing of the District Eight water tower, there is an eight-legged horse and an infinity sign on the horseback. The water tower measures 30 meters in height and 8 meters in width. It has a cylindrical shape arranged in a group of four, three of which are purifying circulatory system, and one is the storage tank. The purifying installation has two inlets and five outlets, the inlets being for air and river water, and the outlets being for purified water into the storage tank, and waste water into the sewage tank. The waste is then again branched into three and pumped up into the engergy network, sustaining the circulatory system.\\r\\n",
+          "japanese": "収納日付1/04/03\\r\\n\r保管単位：鳩\\r\\n\rレベル：souvenir\\r\\n\r石林の人々の生活を保障する装置、各水の塔にはその地の住民たちによって描かれた変な図形と番号があり、第八区の水の塔の柵には八足の駿馬と馬の背を覆っている無限(∞)の記号が描かれてある。水の塔は高さ30メートル、幅8メートルの円柱状で、四つの塔を一組とし、その中の三つの塔は浄水循環システムの一環として働き、残り一つの塔は貯水塔として働く。浄水システムは二種類の物質が入っていき、五種類となって出てくる。入るものは水と空気で、純水として出てきたものは貯水塔に行き、廃水は沼池に流し込む。空気は三つのパイプに分かれて出ていき、エネルギーネットワークに入ってその循環システムの運行を維持する。\\r\\n\r",
+          "korean": ""
+        }
+      ]
+    },
+    {
+      "keyName": "Ymorningmyworld",
+      "multiLanguageTitle": {
+        "chinese": "\r【录音】晨",
+        "chineseTraditional": "【錄音】晨",
+        "english": "[Recording] Morning",
+        "japanese": "【録音】朝",
+        "korean": ""
+      },
+      "getSong": 9,
+      "texts": [
+        {
+          "chinese": "收集时间1/04/04\\r\\n\r保管单位：鸠\\r\\n\r长度：53s\\r\\n\r等级：main\\r\\n\r伴随Gino笛声清醒，鸠打开终端，Alpa仍在解析377文件，列表中一个个黯淡而陌生的名字至今没有消息，她打开便签本写上日期，启动录音笔，默默记录着清晨的声音。\\r\\n\r【4月4日 晴\\r\\n\r登上塔的第四天，我们在拾荒人的帮助下逐渐了解了光门后的新世界石林，并在第八区搭建了临时的家。\\r\\n\r石林安静地像过去的冰封，我担忧这也是暴风雨前的平静，临走前dlyro队长的锦囊提到，塌陷现象是条没了狗链的猎犬，贪婪成性，凡是见到的活物都得咬上一口，冰封遭难后，不久就是石林，再接着，存在于塔序列中的世界都将难逃此劫。\\r\\n\r可是我们的故事真的会如此完结吗。】\\r\\n",
+          "chineseTraditional": "收集時間：1/04/04\\r\\n\r保管單位：Geopelia\\r\\n\r長度：53s\\r\\n\r等級：main\\r\\n\r\\r\\n\r伴隨Gino的笛聲清醒，Geopelia打開終端，alpa仍在解析檔案377，列表中一個個黯淡而陌生的名字至今還是沒有消息。她打開便簽本寫上日期，啟動錄音筆，默默記錄著清晨的聲音。\\r\\n\r【4月4日 晴\\r\\n\r登上塔的第四天，我們在拾荒人的幫助下逐漸瞭解了光門後的新世界石林，並在第八區搭建了臨時的家。\\r\\n\r石林安靜地像過去的冰封，我擔憂這也是暴風雨前的平靜。臨走前德利隊長的錦囊提到，塌陷現象是條沒了狗鏈的獵犬，貪婪成性，凡是見到的活物都得咬上一口。冰封遭難後，不久就是石林，再接著，存在於塔序列中的世界都將難逃此劫。\\r\\n\r可是我們的故事真會如此完結嗎？】\\r\\n",
+          "english": "Date: 1/04/04\\r\\n\rKeeper: Geopelia\\r\\n\rLength: 53\"\"\\r\\n\rCategory: main\\r\\n\rAwaken by the sound of Gino's flute, Geopelia opens the terminal. Alpa is still analysing File 377. Each faint and strange name in the list so far remains unheared from. She opened the notepad, written down the date and started the voice recorder, quietly recording down the sound of the early morning.\\r\\n\r[4th of April, Sunny\\r\\n\rIt is the fourth day since we mounted up the Tower. With the help of the scavengers, we gradually starts to understand Hoodoo, the new world behind the light gate, and set up a temporary home in District Eight.\\r\\n\rHoodoo is so quiet, just like Glaciaxia in the past, and I fear that this would be the calm before the storm. Before we left, the tip from Captain Dlyro mentioned that, the collapse phenomenon is a hound without chain; greed being its nature, it would bite on anything alive in its sight. After the fall of Glaciaxia, it would be the Hoodoo soon; then, all worlds that exist in the Tower order would not be able to escape from the same fate.\\r\\n\rBut would our story really end like this?]\\r\\n",
+          "japanese": "収納日付1/04/04\\r\\n\r保管単位：鳩\\r\\n\r時間：53s\\r\\n\rレベル：main\\r\\n\rGinoの笛の音と共に目を覚まして、鳩は端末を開いた。Alpaはいまだに377個のファイルを分析中で，リストにあるたくさんの見知らぬ名前からは今まで何一つメッセージを受け取ったこともない。彼女は日記を開き、ペン型ボイスレコーダーを起動して、黙々と朝の声を記録した。\\r\\n\r【4月4日 晴れ\\r\\n\r塔に登った四日目、私たちは荒れ者たちの助けによって光の門の向こうの新世界——石林についてたくさんのことを知り、第八区に臨時の住居となる家を建てました。\\r\\n\r石林はまるで昔の氷封のように静かで、私はこれは嵐の前の静けさではないかと心配してます。旅立つ前にdlyro隊長の錦嚢はこう言っていました。「陥落現象はリードが外れた猟犬のように欲張り、生きているものを見かけたら必ず一口噛みつく。氷封が陥落した後に石林も逃れられないでしょう。そのように、塔の序列の中の世界は皆この災難から逃れることは難しい」と。\\r\\n\rでも、私たちの物語は本当にここで終ってしまうのでしょうか。】\\r\\n",
+          "korean": ""
+        },
+        {
+          "chinese": "“早饭烧好了，咕咕来吃饭。”\\r\\n\r“来了来了。”\\r\\n",
+          "chineseTraditional": "「早餐燒好了，咕咕來吃飯。」\\r\\n\r「來了來了。」\\r\\n",
+          "english": "\"\"Breakfast is ready. Coo-coo, come and eat.\"\"\\r\\n\r\"\"Coming coming.\"\"\\r\\n",
+          "japanese": "「ポッポ、朝ごはん出来たぞ！」\\r\\n\r「今行くー」\\r\\n",
+          "korean": ""
+        }
+      ]
+    },
+    {
+      "keyName": "wucaishi",
+      "multiLanguageTitle": {
+        "chinese": "\r五彩石",
+        "chineseTraditional": "五彩石",
+        "english": "5-Coloured Rock",
+        "japanese": "五色石",
+        "korean": ""
+      },
+      "getSong": 8,
+      "texts": [
+        {
+          "chinese": "收集时间1/04/04\\r\\n\r保管单位：Gino\\r\\n\r等级：souvenir\\r\\n\r石油河尽头的产物，触感光滑，晴天会折射出五色异彩，可以顺着五彩石形成的河滩向南走，循迹找到尽头的吐浑瀑布。\\r\\n\r【林泊百科：吐浑瀑布与无尽海至白林的审判航道直接相连，居住着大量从无尽海溯流而上的异想之物，若非必要通行，请各位冒险者远离吐浑瀑布】\\r\\n\r",
+          "chineseTraditional": "收集時間：1/04/04\\r\\n\r保管單位：Gino\\r\\n\r等級：souvenir\\r\\n\r\\r\\n\r石油河盡頭的產物，觸感光滑，晴天會折射出五色異彩，可以順著五彩石形成的河灘向南走，循跡找到盡頭的吐渾瀑布。\\r\\n\r【林泊百科：吐渾瀑布與無盡海至白林的審判航道直接相連，居住著大量從無盡海溯流而上的異想之物。若非必要，請各位冒險者遠離吐渾瀑布】\\r\\n",
+          "english": "Date: 1/04/04\\r\\n\rKeeper: Gino\\r\\n\rCategory: Souvenir\\r\\n\rProduct of the end of the Petroleum river. It has a silky smooth touch, and gives a reflection of a spectrum of exotic colours on a sunny day. Towards south along the coloured rock river bank, Turbid waterfall is found at the end of the trail.\\r\\n\r[Limbo Wiki: Turbid waterfall is directly connected to the Justice Voyage from Endless Sean to Bailin. There lives a large amount of whims that swim upstream from the Endless Sea. Adventurers please avoid the Turbid waterfall unless absolutely necessary.]\\r\\n",
+          "japanese": "収納日付1/04/04\\r\\n\r保管単位：Gino\\r\\n\rレベル：souvenir\\r\\n\r石油川の果ての産物、触り心地はとても滑らかで、晴れの日は光を反射して五色の異彩を放つ。五色石が堆積して作られた川辺に沿って南へ行くと、果てにある渾吐き滝までたどり着ける。\\r\\n\r【リンボ百科事典：渾吐き滝と無限海のジャッジメントレーンは直接繋いでおり、無限海から遡って上がってきた仮想の物が大量に住んでいます。必ずここを通る必要がない限り、渾吐き滝に近づかないよう冒険者の皆様にお願いいたします】\\r\\n\r",
+          "korean": ""
+        }
+      ]
+    },
+    {
+      "keyName": "rainbowbook",
+      "multiLanguageTitle": {
+        "chinese": "\r彩虹绘本",
+        "chineseTraditional": "彩虹繪本",
+        "english": "Rainbow Picture Book",
+        "japanese": "虹色の絵本",
+        "korean": ""
+      },
+      "getSong": 8,
+      "texts": [
+        {
+          "chinese": "收集时间1/04/04\\r\\n\r保管单位：鸠\\r\\n\r等级：key\\r\\n\r从Alpa身上掉出，疑似绘本的文件，生动形象地描绘了一只会狗叫的小猫咪来到彩虹瀑布，与各色神奇生物相遇相知，相伴同行的历险故事。\\r\\n\r",
+          "chineseTraditional": "收集時間：1/04/04\\r\\n\r保管單位：Geopelia\\r\\n\r等級：key\\r\\n\r\\r\\n\r從Alpa身上掉出，疑似繪本的文件。生動形象地描繪了一隻會狗叫的小貓咪來到彩虹瀑布，與各色神奇生物相遇相知，相伴同行的歷險故事。\\r\\n",
+          "english": "Date: 1/04/04\\r\\n\rKeeper: Geopelia\\r\\n\rCategory: Key\\r\\n\rA file seemingly to be a drawing book, dropped form Alpa. It vividly depicted a story about a kitten who could bark came to the rainbow waterfall, encountered various magical creatures and went on an adventure together with them.\\r\\n",
+          "japanese": "収納日付1/04/04\\r\\n\r保管単位：鳩\\r\\n\rレベル：key\\r\\n\rAlpaが落とした絵本のようなファイル、それには一匹の鳴き声が犬にそっくりな猫が虹の滝に行って、各種奇妙な生き物たちと出会い、ともに冒険する話が鮮明に描いてあった。\\r\\n\r",
+          "korean": ""
+        }
+      ]
+    },
+    {
+      "keyName": "metalarm",
+      "multiLanguageTitle": {
+        "chinese": "\r金属臂",
+        "chineseTraditional": "金屬臂",
+        "english": "Metallic Arm",
+        "japanese": "メタルアーム",
+        "korean": ""
+      },
+      "getSong": 8,
+      "texts": [
+        {
+          "chinese": "收集时间1/04/05\\r\\n\r保管单位：Kuzumi\\r\\n\r等级：souvenir\\r\\n\r此物被发现时，横躺在连接石油河两岸的栖区大桥上，若离了水的鱼，任由形态学的上下端不停摆动，直到能源发光体登上天体球的最顶端，五指感召，贴地直立，远方渐行。 \\r\\n\r“好像能吃的样子。”【思考.png】\\r\\n\r",
+          "chineseTraditional": "收集時間：1/04/05\\r\\n\r保管單位：Kuzumi\\r\\n\r等級：souvenir\\r\\n\r\\r\\n\r此物被發現橫躺在連接石油河兩岸的棲區大橋上，似離了水的魚，違背形態學的在上下端不停擺動。直到能源發光體登上天體球的最頂端，五指感召，貼地直立，遠方漸行。\\r\\n\r「好像能吃的樣子。」【思考.png】\\r\\n",
+          "english": "Date: 1/04/05\\r\\n\rKeeper: Kuzumi\\r\\n\rCategory: Souvenir\\r\\n\rWhen it was found, it lay on the bridge connecting both sides of the Petroleum river. Like a fish out of water, it let its morphological top and bottom swing freely back and forth nonstop, until the luminous body of energy reaches the top of th celestial sphere, impelling the fingers, standing upright on the ground, travelling towards farway.\\r\\n\r\"\"It seems edible.\"\" [Deep_in_thought.png]\\r\\n",
+          "japanese": "収納日付1/04/05\\r\\n\r保管単位：Kuzumi\\r\\n\rレベル：souvenir\\r\\n\rこのものが発見されたときは、石油川の両岸を結ぶ栖区大橋の上に横たわっていた。水から離れた魚のようで、上下に動き続けていた。エネルギー発光体が天体球の頂上に登ったのを見て、ようやく五本の指が命令に従い、立ち上がって動き出しては遠くへと消えていった。 \\r\\n\r「なんか、美味しそう。」【考え中.png】\\r\\n",
+          "korean": ""
+        }
+      ]
+    },
+    {
+      "keyName": "kuxingren",
+      "multiLanguageTitle": {
+        "chinese": "\r苦杏仁",
+        "chineseTraditional": "苦杏仁",
+        "english": " Bitter Apricot Kernel",
+        "japanese": "苦い杏仁",
+        "korean": ""
+      },
+      "getSong": 9,
+      "texts": [
+        {
+          "chinese": "收集时间1/04/05\\r\\n\r保管单位：鸠\\r\\n\r等级：souvenir\\r\\n\r苦杏仁，性属苦泄，善降气，投喂精神不振Alpa最佳。【危险操作，请勿模仿】\\r\\n\r来自河对岸第二区的赠礼，因为不好吃，Alpa分析完，鸠把一袋坚果，分开埋在了第八区的水塔旁的湿沙土里。\\r\\n\r",
+          "chineseTraditional": "收集時間：1/04/05\\r\\n\r保管單位：Geopelia\\r\\n\r等級：souvenir\\r\\n\r\\r\\n\r苦杏仁，性屬苦泄，善降氣，投餵於精神不振Alpa為佳。【危險操作，請勿模仿】\\r\\n\r來自河對岸第二區的贈禮。因為不好吃，alpa分析完後，Geopelia就把一袋袋堅果分別埋在了第八區水塔旁的濕沙土裡。\\r\\n",
+          "english": "Date: 1/04/05\\r\\n\rKeeper: Geopelia\\r\\n\rCategory: Souvenir\\r\\n\rBitter apricot kernel can assist excreting activities, and is useful at descending Qi in one's body. Best suited to feed depressed Alpa. [Dangerous action, please do not imitate]\\r\\n\rA gift from District Two across the river. As it didn't taste good, after Alpa finished the analysis, Geopelia divided up a bag of nuts and buried them in the wet sandy soil beside the water tower in District Eight.\\r\\n\r",
+          "japanese": "収納日付1/04/05\\r\\n\r保管単位：鳩\\r\\n\rレベル：souvenir\\r\\n\r苦い杏仁、苦いだけでなく、心を静める効果あり、やる気ないAlpaにあげるのに最適な食べ物。【危険なので絶対にマネしないでください】\\r\\n\r川の向こうの第二区から贈られてきたもの、まずいので、Alpaが分析した後に、鳩は一袋のナッツを分散して第八区の水の塔の周りの潤い土の中に埋めた。\\r\\n\r",
+          "korean": ""
+        }
+      ]
+    },
+    {
+      "keyName": "Mfuliautoshooter",
+      "multiLanguageTitle": {
+        "chinese": "\r【影像】Fuli Auto Shooter！",
+        "chineseTraditional": "【影像】Fuli Auto Shooter！",
+        "english": "[Image] Fuli Auto Shooter!",
+        "japanese": "【映像 】Fuli Auto Shooter",
+        "korean": ""
+      },
+      "getSong": 10,
+      "texts": [
+        {
+          "chinese": "收集时间1/04/09\\r\\n\r保管单位：Fuli\\r\\n\r等级：souvenir\\r\\n\r高山，洼地，草丛，林间，还有它的裙底，所有能藏匿的地方，所有平静午后的怅望，都暴露出他们的真面目，硝烟和子弹是她的前奏，炮弹和电流遥跨天际，失控者一个个倒下，紧接着更多的自律机器加入他们的队伍。Fuli双手前伸，穿界之门于此显现，此地不宜久留，子弹总会打完，而敌人不会减少，唯一存活的方式，只有离开。\\r\\n\r",
+          "chineseTraditional": "收集時間：1/04/09\\r\\n\r保管單位：Fuli\\r\\n\r等級：souvenir\\r\\n\r\\r\\n\r高山，窪地，草叢，林間，還有它的裙底，所有能藏匿的地方，所有平靜午後的張望，都暴露出他們的真面目。硝煙和子彈是她的前奏，炮彈和電流遙跨天際，失控者一個個倒下，緊接著更多的自律機器加入他們的隊伍。Fuli雙手向前伸，穿界之門於此顯現。此地不宜久留，子彈總會打完，而敵人不會減少，唯一存活的方式，只有離開。\\r\\n",
+          "english": "Date: 1/04/09\\r\\n\rKeeper: Fuli\\r\\n\rCategory: Souvenir\\r\\n\rMountains, depressions, tussocks, woodlands, and underneath its dress; every place that can hide, every melancholy of a peaceful afternoon, exposes their true colours. Smoke and bullets are her prelude, with shells and electric current strike through the horizon. One by another the uncontrolled fell, then more autonomous machines joined their troop. Fuli extended her arms, and the World Gate appears in front. This is not a good place to stay. Bullets would eventually be run out, yet enemies would never cease. The only way to survive, is to leave.\\r\\n",
+          "japanese": "収納日付1/04/09\\r\\n\r保管単位：Fuli\\r\\n\rレベル：souvenir\\r\\n\r高い山、低い盆地、草むら、森の中、そしてやつのスカートの中、あらゆる隠れる場所、あらゆる静かな想いは、どれも彼らの本当の顔を暴き出す。硝煙と弾丸は彼女の序奏、砲弾と電流は空を跨り、暴走者は一人ひとり倒れていき、それにつれてたくさんの自律機械が彼らのチームに加わった。Fuliは両手を前へ伸ばせば、世界をつないだ扉は現れた。ここに長くはいられない、弾はいつか切れてしまうが、敵の数が減ることはない。生き延びる方法はただ一つ——撤退すること。\\r\\n\r",
+          "korean": ""
+        }
+      ]
+    },
+    {
+      "keyName": "bulletboom",
+      "multiLanguageTitle": {
+        "chinese": "\r巴雷特外壳",
+        "chineseTraditional": "巴雷特外殼",
+        "english": "Barrett Shell",
+        "japanese": "バレットの殻",
+        "korean": ""
+      },
+      "getSong": 10,
+      "texts": [
+        {
+          "chinese": "收集时间1/04/06\\r\\n\r保管单位：鸠\\r\\n\r等级：souvenir\\r\\n\r在前往拜访第三区管理者Fuli的途中，鸠捡到大量不同型号的子弹壳。\\r\\n\r",
+          "chineseTraditional": "收集時間：1/04/06\\r\\n\r保管單位：Geopelia\\r\\n\r等級：souvenir\\r\\n\r\\r\\n\r在前往拜訪第三區管理者Fuli的途中，Geopelia撿到大量不同型號的子彈殼。\\r\\n",
+          "english": "Date: 1/04/06\\r\\n\rKeeper: Geopelia\\r\\n\rCategory: Souvenir\\r\\n\rA large amount of bullet shells of various types and calibres, picked up by Geopelia on her way to visit the District Three manager Fuli.\\r\\n",
+          "japanese": "収納日付1/04/06\\r\\n\r保管単位：鸠\\r\\n\rレベル：souvenir\\r\\n\r第三区の管理者であるFuliに会いに行く途中、鳩は大量の形式の違う弾丸の殻を拾った。\\r\\n\r",
+          "korean": ""
+        }
+      ]
+    },
+    {
+      "keyName": "fulistructure",
+      "multiLanguageTitle": {
+        "chinese": "\rFuli雕像",
+        "chineseTraditional": "Fuli雕像",
+        "english": "Statue of Fuli",
+        "japanese": "Fuliの像",
+        "korean": ""
+      },
+      "getSong": 10,
+      "texts": [
+        {
+          "chinese": "收集时间1/04/06\\r\\n\r保管单位：鸠\\r\\n\r等级：souvenir\\r\\n\rFuli的家建在她本人巨型雕像的下方，雕像是第五区的赠礼，感谢Fuli过去给他们的帮助。\\r\\n\r“就算是这样，也太夸张了吧！”\\r\\n\r",
+          "chineseTraditional": "收集時間：1/04/06\\r\\n\r保管單位：Geopelia\\r\\n\r等級：souvenir\\r\\n\r\\r\\n\rFuli的家建在她本人巨型雕像的下方，雕像是第五區的贈禮，感謝Fuli過去給他們的幫助。\\r\\n\r「就算是這樣，也太誇張了吧！」\\r\\n",
+          "english": "Date: 1/04/06\\r\\n\rKeeper: Geopelia\\r\\n\rCategory: Souvenir\\r\\n\rFuli's house is built under the giant statue of herself. The statue is a gift by District Five, for the help offered to them by Fuli in the past.\\r\\n\r\"\"Even so, this is still too over the top!\"\"\\r\\n\r",
+          "japanese": "収納日付1/04/06\\r\\n\r保管単位：鳩\\r\\n\rレベル：souvenir\\r\\n\rFuliの家は彼女本人の巨大な像の真下に位置する。この像は第五区から、Fuliが昔彼らを助けたお礼として贈られてきたもの。\\r\\n\r「それにしても、大げさすぎるだろ！」\\r\\n\r",
+          "korean": ""
+        }
+      ]
+    },
+    {
+      "keyName": "Mstationkuzumi",
+      "multiLanguageTitle": {
+        "chinese": "\r【影像】巢栖道站",
+        "chineseTraditional": "【影像】巢棲道站",
+        "english": "[Image] Perchnest Station",
+        "japanese": "【映像】巣栖駅",
+        "korean": ""
+      },
+      "getSong": 9,
+      "texts": [
+        {
+          "chinese": "收集时间1/04/07\\r\\n\r保管单位：鸠\\r\\n\r等级：main\\r\\n\r普通的乡间小站，有着别处看不到的鲜花点缀，在这个世界却异常突兀。\\r\\n\rKuzumi站在月台上，她在等一班火车，这辆车她等了好久，几十年的清晨，几十年的傍晚，所有太阳与地平线相交的时刻，她都在这里默默等待。她的记忆里，有那么一个人，松开她的手，登上列车，自此再未回头。她还在等那班列车，想把自己画的绘本给他看，想，再见他一面。\\r\\n\r",
+          "chineseTraditional": "收集時間：1/04/07\\r\\n\r保管單位：Geopelia\\r\\n\r等級：main\\r\\n\r\\r\\n\r普通的鄉間小站，有著別處看不到的鮮花點綴，在這個世界卻異常突兀。\\r\\n\rKuzumi站在月臺上，她在等一班火車。這輛車她等了好久，幾十年的清晨，幾十年的傍晚，所有太陽與地平線相交的時刻，她都在這裡默默等待。她的記憶裡，有那麼一個人，鬆開她的手，登上列車，自此再未回頭。她還在等那班列車，想把自己畫的繪本給他看，想，再見他一面。\\r\\n",
+          "english": "Date: 1/04/07\\r\\n\rKeeper: Geopelia\\r\\n\rCategory: Main\\r\\n\rAn ordinary station in the countryside, with floral decorations that can be seen in nowhere else, seemingly yet so odd in this world.\\r\\n\rKuzumi stood on the platform, waiting for a train. She had been awaiting it for so long. In the mornings and evenings for decades, whenever the sun intersets the horizon, she had been here waiting, silently. In her memory, there was someone, let go of her hand, boarded a train, and never turned back. She was still waiting for that train, hoping to show him the picture book she drawn, hoping, to see him again once more.\\r\\n",
+          "japanese": "収納日付1/04/07\\r\\n\r保管単位：鳩\\r\\n\rレベル：main\\r\\n\rいたって普通な田舎の駅、ほかのところでは見られない花の茂みがあり、この世界では非常に違和感がある。\\r\\n\rKuzumiはホームに立っている。彼女は列車を待っている。この列車は彼女をずいぶん待たせてしまった、何十年の朝、何十年の夕暮れ、太陽と地平線が交わる時間となれば、彼女は必ずここで待っている。彼女の記憶の中にはそんな一人がいる。彼女の手を放して、列車に乗れば、帰ってくることはなかった。彼女はいまだにあの列車を待っている。彼女は自分が描いた絵本を彼に見せたい、もう一度、彼に会いたい。\\r\\n\r",
+          "korean": ""
+        },
+        {
+          "chinese": "收集时间1/04/03\\r\\n\rKouma站在石梯高处的平台上，眼前无数擎天立柱直插云霄，九轮红日于轨道轮换，曾十日并出，万物皆照，焦禾稼，杀草木，而民无所食；今民非民，日非日，乾坤倒转，万象星移，悲哉，叹哉。\\r\\n\r鸠认床，在拾荒者的聚落如何也睡不好，起的时间正巧，便想着，看会儿日出，等Gino醒了早些出发。\\r\\n\r“Kouma早啊～”\\r\\n\r“小姑娘也来看日出啊。”\\r\\n\r“是哦，今天怎么没看到Kuzumi。”\\r\\n\r“她出门了，倒是你们，真的要住在第八区？”\\r\\n\r“临时的，找到前往第三层的入口，我们就离开。”\\r\\n\r“哎，当初Kuzumi和她哥哥也是，离开后再没回来。别这样看我孩子，倒悬之后，石林就没几个活人了。”\\r\\n\r",
+          "chineseTraditional": "收集時間：1/04/03\\r\\n\r\\r\\n\rKouma站在石梯高處的平臺上，眼前無數擎天立柱直插雲霄，九輪紅日於軌道輪換，曾十日並出，萬物皆照，焦禾稼，殺草木，而民無所食；今民非民，日非日，乾坤倒轉，萬象星移，悲哉，歎哉。\\r\\n\rGeopelia起床，在拾荒者的聚落如何也睡不好，起的時間正巧，便想著，看會兒日出，等Gino醒了早點出發。\\r\\n\r「Kouma早啊～」\\r\\n\r「小姑娘也來看日出啊。」\\r\\n\r「是哦，今天怎麼沒看到Kuzumi。」\\r\\n\r「她出門了，倒是你們，真的要住在第八區？」\\r\\n\r「臨時的，找到前往第三層的入口，我們就離開。」\\r\\n\r「唉，當初Kuzumi和她哥哥也是，離開後再沒回來。別這樣看我孩子，倒懸之後，石林就沒幾個活人了。」\\r\\n",
+          "english": "Date 1/04/03\\r\\n\rKouma is standing on the platform above the stone stair, seeing countless enormous columns straight into the sky and nine red suns are taking turns around the circle. Once there was a time where ten suns hung out together, bathing everything with burning sunlight, resulting the death of crops, grass and trees, and people had nothing to eat. Now people are not what they were, so are the days, keeping reversing and changing. He feels sadness.\\r\\n\rGeopelia didn't sleep well anyway in the scrounger colony for she was unaccustomed to the bed. So she happened to get up early to catch the sunrise, and decided to set out earlier after Gino waking up.\\r\\n\r“Good morning Kouma.”\\r\\n\r“Young lady came for sunrise?”\\r\\n\r“Yeah,  Kuzumi didn't show up today?”\\r\\n\r“She's out. For you, would you take it seriously to settle down in District Eight? ”\\r\\n \r“No, once we find the entrance to the third floor, we'll leave.”\\r\\n\r“Alas, just like Kuzumi and her brother then, they didn't return after leaving. Don't look at me like that, lady ,hoodoo has few livings after reversing. ”\\r\\n    \r",
+          "japanese": "収納日付1/04/03\\r\\n\rKoumaは石の階段の高所のプラットフォームに立ち、目の前には無数なる天を貫く柱、九つの赤い太陽は軌道で変わり番号、昔十つの日ともに出て，万物を照らし、農家を焦がし、草木を殺し、民に食料なし；今民は昔と違い、日は昔と違い、因果逆転、万象星移、わびしくため息つく。\\r\\n\r鳩はいいベッドがないと眠れなくて、荒れ者の部落ではどうしても熟睡できなかった。起きた時間がちょうどいいから、日の出でも見に行こうかと思い、Ginoが起きたら早く出発したいと思った。\\r\\n\r（Koumaおはよう～」\\r\\n\r「お嬢ちゃんも日の出を見に来たのか。」\\r\\n\r「そうよ。にしても今日、Kuzumi見かけないよね。」\\r\\n\r「彼女は出かけたよ。お前らこそ、本当に第八区に住む気？」\\r\\n\r「臨時の寝所だよ。第三層の入り口が見つければそっちに行くから。」\\r\\n\r「そっか。…昔Kuzumiと彼女の兄さんもな、行ってから帰ってこなかったんだ。そういう目で俺を見るなよ小娘、倒悬が起きた後、石林に生きてる人はあまりいないんだ。」\\r\\n\r",
+          "korean": ""
+        }
+      ]
+    },
+    {
+      "keyName": "Mtuya",
+      "multiLanguageTitle": {
+        "chinese": "\r【影像】涂鸦",
+        "chineseTraditional": "【影像】塗鴉",
+        "english": "[Image] Graffiti",
+        "japanese": "【映像】落書き",
+        "korean": ""
+      },
+      "getSong": 6,
+      "texts": [
+        {
+          "chinese": "收集时间1/04/02\\r\\n\r保管单位：鸠\\r\\n\r等级：souvenir\\r\\n\r拾荒者陷入困境的真实原因：为了翻新涂鸦墙，在找寻颜料的途中迷失方向。\\r\\n\r翻新结果：色块堆积的街道，失去轮廓的人形，无意义的文字还有烦躁的情绪充斥着整幅画作\\r\\n\r评价：越发抽象，不如不翻\\r\\n\r\r",
+          "chineseTraditional": "收集時間：1/04/02\\r\\n\r保管單位：Geopelia\\r\\n\r等級：souvenir\\r\\n\r\\r\\n\r拾荒者陷入困境的真實原因：為了翻新塗鴉牆，在找尋顏料的途中迷失方向。\\r\\n\r翻新結果：色塊堆積的街道，失去輪廓的人形，無意義的文字還有煩躁的情緒充斥著整幅畫作。\\r\\n\r評價：越翻越抽象，不如不要翻。\\r\\n",
+          "english": "Date: 1/04/02\\r\\n\rKeeper: Geopelia\\r\\n\rCategory: Souvenir\\r\\n\rThe true reason why scavengers run into trouble: lose their way while searching for paint for refurbish the graffiti wall.\\r\\n\rOutcome of refurbishment: streets stacked up with colour lumps, human figures that has lost the outline, meaningless words and irritating emotions flooded the entire painting\\r\\n\rComment: Even more abstract now, might as well don't refurbish\\r\\n",
+          "japanese": "収納日付1/04/02\\r\\n\r保管単位：鳩\\r\\n\rレベル：souvenir\\r\\n\r荒れ者が苦境に陥った本当の原因：落書き壁をリフォームするための塗装を探す最中に道に迷ってしまった。\\r\\n\rリフォームの結果：色の塊でできた街、輪郭を失った人の姿、何の意味もない文字の羅列とイライラする心情があらわになったものでできた画作となった\\r\\n\r評価：ますます抽象的になり、リフォームする前のほうがまし\\r\\n",
+          "korean": ""
+        }
+      ]
+    },
+    {
+      "keyName": "hq004chepiao",
+      "multiLanguageTitle": {
+        "chinese": "\rHQ004班次车票",
+        "chineseTraditional": "HQ004班次車票",
+        "english": "HQ004 Train Ticket",
+        "japanese": "HQ004チケット",
+        "korean": ""
+      },
+      "getSong": 9,
+      "texts": [
+        {
+          "chinese": "收集时间1/04/07\\r\\n\r保管单位：鸠\\r\\n\r等级：souvenir\\r\\n\r唯一一辆驶经巢栖道的火车，两人见Kuzumi上车后，也购票前往，随后在火车里寻找，却久久没有发现Kuzumi。\\r\\n\r",
+          "chineseTraditional": "收集時間：1/04/07\\r\\n\r保管單位：Geopelia\\r\\n\r等級：souvenir\\r\\n\r\\r\\n\r唯一一輛駛經巢棲道車站的火車。兩人見Kuzumi上車後，也購票前往，隨後在火車裡尋找，卻久久沒有發現他。\\r\\n",
+          "english": "Date: 1/04/07\\r\\n\rKeeper: Geopelia\\r\\n\rCategory: Souvenir\\r\\n\rThe only train passing through Perchnest County. After seeing Kuzumi boarded the train, the two of them also went to purchase the ticket, then searched in the train, yet not finding Kuzumi anywhere.\\r\\n",
+          "japanese": "収納日付1/04/07\\r\\n\r保管単位：鳩\\r\\n\rレベル：souvenir\\r\\n\r唯一巢栖道を経由する列車。二人はKuzumiが列車に乗るのを見てからチケットを買って、同じ列車に乗った。そして車内でKuzumiを探したが、全く見つからなかった。\\r\\n\r",
+          "korean": ""
+        }
+      ]
+    },
+    {
+      "keyName": "aiblood",
+      "multiLanguageTitle": {
+        "chinese": "\r液压剂",
+        "chineseTraditional": "液壓劑",
+        "english": "Hydraulic Agent",
+        "japanese": "水圧フィラー",
+        "korean": ""
+      },
+      "getSong": 8,
+      "texts": [
+        {
+          "chinese": "收集时间1/04/07\\r\\n\r保管单位：Gino\\r\\n\r等级：souvenir\\r\\n\r红色管状剂体，Gino在第三区生化人工厂发现的物资，有着“生化人专用”的标签。\\r\\n\r\r",
+          "chineseTraditional": "收集時間：1/04/07\\r\\n\r保管單位：Gino\\r\\n\r等級：souvenir\\r\\n\r\\r\\n\r紅色的管狀劑體。Gino在第三區生化人工廠發現的物資，有著「生化人專用」的標籤。\\r\\n",
+          "english": "Date: 1/04/07\\r\\n\rKeeper: Gino\\r\\n\rCategory: Souvenir\\r\\n\rReagent in red cylindral container, resource found by Gino at the cyborg factory in District Three, with a \"\"Cyborg Only\"\" label on it.\\r\\n\r",
+          "japanese": "収納日付1/04/07\\r\\n\r保管単位：Gino\\r\\n\rレベル：souvenir\\r\\n\r赤色の管状剤，Ginoが第三区のクローン人間工場で見つけた物資、「クローン人間専用」というラベルが貼られている。\\r\\n\r",
+          "korean": ""
+        }
+      ]
+    },
+    {
+      "keyName": "justicemao",
+      "multiLanguageTitle": {
+        "chinese": "\r锚",
+        "chineseTraditional": "錨",
+        "english": "Anchor",
+        "japanese": "アンカー",
+        "korean": ""
+      },
+      "getSong": 9,
+      "texts": [
+        {
+          "chinese": "收集时间1/04/03\\r\\n\r保管单位：阿爽\\r\\n\r等级：souvenir\\r\\n\r阿爽漂浮在海面上，百层高的船锚挡住了刺眼的阳光，巨大的“JUSTICE”凹雕上沾满了漆黑的油污，他看着橘红的天空，思考着为何会沦落至如此地步，现实不给他思考的时间，芬德斯伸向他的手臂和船锚重合，过度苍白面孔和毛发在阳光下闪着绒光，他提示道：“别松懈，危险潜伏在暗处。”\\r\\n\r“到底要逃到什么时候才算安全？”阿爽倦了，他拍开芬德斯，坐起身来。\\r\\n\r“不知道，但，”芬德斯起身离开，说道：“我建议你，别回头看。”\\r\\n\r只觉一阵胆颤，后浪的推波轻柔地拨动他的手指，又爬上了他的手腕，这刺热的触感让阿爽不敢低头，他朝着芬德斯前进的方向踉跄奔去，离开海水刺热也消失不见，阿爽越想越害怕，跑了很远很远，直到追上芬德斯，他才在芬德斯意味深长的笑眼中，再见船锚。\\r\\n\r油污从顶部缓缓融化，像是件脱离了宿主的人形皮肤，在海上摆弄着它，由无数双泥手织成的蠕动裙摆。\\r\\n\r芬德斯说道，“这个世界哪里都不安全，强大的罪恶即使在太阳之下也依旧肆意起舞。”\\r\\n\r",
+          "chineseTraditional": "收集時間：1/04/03\\r\\n\r保管單位：Ash\\r\\n\r等級：souvenir\\r\\n\r\\r\\n\rAsh漂浮在海面上，百層高的船錨擋住了刺眼的陽光，巨大的「JUSTICE」浮雕上沾滿了漆黑的油污。他看著橘紅的天空，思考著為何會淪落至如此地步，現實不給他思考的時間。Findstr伸向他的手臂和船錨重合，過度蒼白面孔和毛髮在陽光下閃著絨光，他說明：「別鬆懈，危險就潛伏在暗處。」\\r\\n\r「到底要逃到什麼時候才算安全？」Ash倦了，他拍開Findstr，坐起身來。\\r\\n\r「不知道，但，」Findstr起身離開，說道：「我建議你，別回頭看。」\\r\\n\r只覺一陣寒顫，後浪的推波輕柔地撥動他的手指，又爬上了他的手腕。這刺熱的觸感讓Ash不敢低頭，他朝著Findstr前進的方向踉蹌奔去，離開海水後，刺熱也消失不見。Ash越想越害怕，跑了很遠很遠，直到追上Findstr，他才在Findstr意味深長的笑眼中，拋出船錨。\\r\\n\r油污從頂部緩緩融化，像是件脫離了宿主的人形皮膚，在海上擺弄著它，由無數雙泥手織成的蠕動裙擺。\\r\\n\rFindstr：「這個世界哪裡都不安全，強大的罪惡即使在太陽之下也依舊肆意起舞。」\\r\\n",
+          "english": "Date: 1/04/03\\r\\n\rKeeper: Ash\\r\\n\rCategory: Souvenir\\r\\n\rAsh floated on the sea. The hundred-storey-high anchor blocks the blinding sunrays. The giant \"\"JUSTICE\"\" intaglio was covered in dark oily stains. He looked at the tangerine-coloured sky, contemplating how he came down to such a situation. The reality did not give him the time to comtemplate. Findstr reached towards his hand and came to the anchor, his overly pale complexion and hair reflected a blush under the sunlight. He reminded, \"\"Don't relax yet, danger is still lurking in the darkness.\"\"\\r\\n\r\"\"When can we eventually be safe on the run?\"\" Ash was tired, pushed aways Findstr and sat up.\\r\\n\r\"\"No idea. But,\"\" Findstr stood up and left, said, \"\"I suggest you not to turn around.\"\"\\r\\n\rAfter feeling a frightening chill, the push of the wave behind softly riffled his fingers, then climbed up his wrist. Ash dared not to look down with a hot pricking sensation. He staggered and rushed towards Findstr's direction. The notion that those hot pricks disappeared after he left the sea water, frightened Ash even more. He ran so far, until caught up with Findstr, that he saw the anchor again, with Findstr's profound smiling eyes beside.\\r\\n\rThe oily stains slowly melted away from the top, like a human-shaped skin leaving its host, fiddling with it on the sea, with a wriggling cloth made of countless muddy hands.\\r\\n\rFindstr said, \"\"There is nowhere safe in this world. The powerful evils would still dance unbridledly even under the sun.\"\"\\r\\n",
+          "japanese": "収納日付1/04/03\\r\\n\r保管単位：阿爽\\r\\n\rレベル：souvenir\\r\\n\r阿爽は海で漂っている。百层ビルの高さがあるアンカーは眩い日光を遮って、巨大な「JUSTICE」の窪んだ彫像に無数の漆黒の油汚れがある。彼は茜色の空を見て考えた、自分はなぜこんな苦境にまで陥ったのか、しかし現実は彼に考える時間を与えなかった。フェンデスが伸ばしてきた手はアンカーと重なり、白すぎる顔と髪が日光に照らさて輝いている。彼は言った：「気を緩緩めるな。危険はいつもどこかに隠れている。」\\r\\n\r「いつになったら安全だと言えるんだ？」阿爽はうんざりだ。彼はフェンデスを押しのけて上半身を起こした。\\r\\n\r「わからない、でも…」フェンデスは身を起こして行く際に言った：「振り返らないほうがいいぞ。」\\r\\n\rただ恐怖を覚えてから、波は優しく彼の指に当たり、腕まで這い上がった。この暑くて見に刺さるような感覚は阿爽の振り返って見る勇気を飲み込んだ。彼はフェンデスに向かって一所懸命走り、海水から離れるとさっきの奇妙な感覚も消えてなくなった。阿爽は考えるほど怖くなり、ただただ走って走って、フェンデスに追いつくまでずっと走った。フェンデスの意味深な笑顔を見て、彼は初めて振り返ってアンカーを見た。\\r\\n\r油汚れは上からだんだん溶け始め、宿主から離れた人型の皮膚のように、海に漂って、無数の泥で編まれた手によって踊られている。\\r\\n\rフェンデスはまた言った，「この世界のどこも安全ではない、強烈な罪悪は太陽の下でも勝手に踊れるのさ。」\\r\\n\r",
+          "korean": ""
+        }
+      ]
+    },
+    {
+      "keyName": "shijian10",
+      "multiLanguageTitle": {
+        "chinese": "\r诗笺#10",
+        "chineseTraditional": "詩籤#10",
+        "english": "Stave No.10",
+        "japanese": "詩集＃10",
+        "korean": ""
+      },
+      "getSong": 9,
+      "texts": [
+        {
+          "chinese": "收集时间1/04/01\\r\\n\r保管单位：deathmark\\r\\n\r等级：main\\r\\n\r一路顺风\\r\\n\\r\\n\r水燕婴石朔北却，游龙岱滞八荒绝\\r\\n\r此去江湖行道远，横船不忘寄纸鸢\\r\\n\r",
+          "chineseTraditional": "收集時間：1/04/01\\r\\n\r保管單位：deathmark\\r\\n\r等級：main\\r\\n\r一路順風\\r\\n\r\\r\\n\r水燕嬰石朔北卻，游龍岱滯八荒絕；\\r\\n\r此去江湖行道遠，橫船不忘寄紙鳶。\\r\\n",
+          "english": "Date: 1/04/01\\r\\n\rKeeper: deathmark\\r\\n\rCategory: main\\r\\n\rBon Voyage\\r\\n\\r\\n\rFrom Mount Yan, water jade alike Ying stones extinct at the north;\\r\\n\rAt Mount Dai, dragon alike rivers stop, going towards the wild no more.\\r\\n\rTo the world afar there lies a long path,\\r\\n\rIn boat we sail to ship the paper kite, are to forget not.\\r\\n",
+          "japanese": "収納日付1/04/01\\r\\n\r保管単位：deathmark\\r\\n\rレベル：main\\r\\n\r行ってらっしゃい\\r\\n\\r\\n\r水燕北へ行かばや行けず、遊龍山に滞り八方絶\\r\\n\rこの旅江湖へ道遠けれど、船に乗りて折鶴忘れず\\r\\n\r",
+          "korean": ""
+        }
+      ]
+    },
+    {
+      "keyName": "shijian11",
+      "multiLanguageTitle": {
+        "chinese": "\r诗笺#11",
+        "chineseTraditional": "詩籤#11",
+        "english": "Stave No.11",
+        "japanese": "詩集＃11",
+        "korean": ""
+      },
+      "getSong": 10,
+      "texts": [
+        {
+          "chinese": "收集时间1/04/07\\r\\n\r保管单位：deathmark\\r\\n\r等级：main\\r\\n\r为什么我进不去？\\r\\n\r\\r\\n公里半径的螺旋轨道，列车缓慢通行\\r\\n\r游荡虚空的怪物，呼吸的律动与引擎同频\\r\\n\r难逃物理定理，\\r\\n\r无妄之灾袭来如期\\r\\n\r蒸汽鼓动轰鸣，\\r\\n\r齿轮和拉杆也被迫分离\\r\\n\r管道进而破裂，\\r\\n\r煤气自由了，它想去哪里就去哪里\\r\\n\r人们捂住口鼻，\\r\\n\r疾走逃离，贪婪汲取车外空\\r\\n\r回闻鲸鸣绕梁，\\r\\n\r她见怪物的眼睛里，\\r\\n\r有着一个幽蓝色的废墟\\r\\n\r",
+          "chineseTraditional": "收集時間：1/04/07\\r\\n\r保管單位：deathmark\\r\\n\r等級：main\\r\\n\r為什麼我進不去？\\r\\n\r\\r\\n\r數公里長的螺旋軌道，列車緩慢通行；\\r\\n\r遊蕩虛空的怪物，呼吸的律動與引擎同頻。\\r\\n\r難逃物理定理，\\r\\n\r無妄之災襲來如期；\\r\\n\r蒸汽鼓動轟鳴，\\r\\n\r齒輪和拉杆也被迫分離。\\r\\n\r管道進而破裂，\\r\\n\r煤氣自由了，它想去哪裡就去哪裡。\\r\\n\r人們捂住口鼻，\\r\\n\r疾走逃離，貪婪汲取車外空。\\r\\n\r回聞鯨鳴繞梁，\\r\\n\r她見怪物的眼睛裡，\\r\\n\r有著一個幽藍色的廢墟。\\r\\n",
+          "english": "Date: 1/04/07\\r\\n\rKeeper: deathmark\\r\\n\rCategory: Main\\r\\n\rWhy can't I get in?\\r\\n\r\\r\\nOn spiral track radius a kilo long, train slowly passed\\r\\n\rA monster wanders in empty void, with engine its breath rhymed\\r\\n\rLaw of physics cannot be evaded,\\r\\n\rUpon the innocent, disasters cascaded\\r\\n\rSteam has gone roared and swirled,\\r\\n\rGear and lever fell apart forced\\r\\n\rThen pipeline bursted, and gas was freed,\\r\\n\rWent on a journey wherever it pleased\\r\\n\rPeople with mouths and noses covered,\\r\\n\rRushed away, for the outer air they craved\\r\\n\rHearing the cry of the creature echoed,\\r\\n\rIn the eye of the monster, she saw\\r\\n\rA ruin in purplish blue\\r\\n",
+          "japanese": "収納日付1/04/07\\r\\n\r保管単位：deathmark\\r\\n\rレベル：main\\r\\n\rなんで私は入っていけないんだ？\\r\\n\r\\r\\n半径一キロの螺旋軌道、列車はゆっくりと進む\\r\\n\r虚空をぶらぶらする化け物、呼吸の律動はエンジンと同調。\\r\\n\r物理定理からは逃げられない、\\r\\n\r予期せぬ災害は突然として訪れる\\r\\n\r蒸気の鼓動が大きくなり、\\r\\n\r歯車とレバーも離れ離れ。\\r\\n\rパイプは破裂し、\\r\\n\rガスは自由になり、行きたいところへ行けるようになった。\\r\\n\r人々は口と鼻をおさえて、\\r\\n\r疾走して逃げ出し、貪欲として列車の外へと跳び出した。\\r\\n\r気が戻れば、クジラの声が脳内に聞こえ、\\r\\n\r彼女は見えた、\\r\\n\r化け物の目に、青白い廃墟が映っている。\\r\\n",
+          "korean": ""
+        }
+      ]
+    },
+    {
+      "keyName": "B17treature",
+      "multiLanguageTitle": {
+        "chinese": "\r公告·十七的宝藏",
+        "chineseTraditional": "公告·十七的寶藏",
+        "english": "[Announcement] 17's Treasure",
+        "japanese": "報告·十七の宝",
+        "korean": ""
+      },
+      "getSong": -10015,
+      "texts": [
+        {
+          "chinese": "收集时间2091/06/29\\r\\n\r保管单位：Sparkle_17\\r\\n\r等级：main\\r\\n\r少年人！\\r\\n\r先祝贺你们，2091年暑假，开始啦！\\r\\n\r暑假大家想好要做什么了吗？打工，社团，还是集训？都不是？\\r\\n\r那可难倒十七了。\\r\\n\r什么啊，原来没有想好啊。\\r\\n\r那来寻找十七的宝藏吧！\\r\\n\r十七准备好多好多礼物送给大家哦～\\r\\n\r特别提示！所有礼物都指向最终大奖——十七的宝藏！快从礼物里寻找宝藏的线索吧！\\r\\n\r",
+          "chineseTraditional": "收集時間：2091/06/29\\r\\n\r保管單位：Sparkle_17\\r\\n\r等級：main\\r\\n\r\\r\\n\r少年人！\\r\\n\r先祝賀你們，2091年的暑假開始啦！\\r\\n\r暑假大家想好要做什麼了嗎？打工賺錢，參加社團，還是集會訓練？都不是？\\r\\n\r那可難倒十七了。\\r\\n\r什麼啊，原來還沒想好啊。\\r\\n\r那就來尋找十七的寶藏吧！\\r\\n\r十七準備好多好多禮物送給大家哦～\\r\\n\r特別提示！所有禮物都指向最終大獎——十七的寶藏！快從禮物裡尋找寶藏的線索吧！\\r\\n",
+          "english": "Date: 2091/06/29\\r\\n\rKeeper: Sparkle_17\\r\\n\rCategory: Main\\r\\n\rHey guys!\\r\\n\rCongratulations goes first, as your 2091 summer holiday has started!\\r\\n\rHave you decided what to do during the holiday? Part-time? Clubs?\\r\\n\rNeither? That's hard for me to guess…\\r\\n\rWait, do you mean that you haven't made up your mind? Why not join us in the adventure of finding 17's Treasure?\\r\\n\rI've prepared lots and lots of presents for you~\\r\\n\rSpecial hint! All presents serve as hints to the final jackpot – 17's Treasure! Let's collect clues right now!",
+          "japanese": "収納日付2091/06/29\\r\\n \r保管単位：艾葵\\r\\n \rレベル：main\\r\\n \r少年よ！\\r\\n\r2091年の夏休みが始まりました、おめでとうございます！ 夏休みはもう予定が決まりましたか？バイト、サークル、部活？それとも違う？\\r\\n\rそれは困りましたよ。\\r\\n\rなんだ、まだ考えいませんでしたね。\\r\\n\rそれじゃ十七のお宝を探しましょう！\\r\\n \r十七が、みんなのためにいっばいお宝を準備してきましたからね～\\r\\n \r特別ヒント！プレゼントはすべて、最終の大宝――十七の宝への道しるべ！早くプレゼントから手がかりを探そう！！\\r\\n",
+          "korean": ""
+        }
+      ]
+    },
+    {
+      "keyName": "gugugou",
+      "multiLanguageTitle": {
+        "chinese": "\r鸽子集结号",
+        "chineseTraditional": "鴿子集結號",
+        "english": "Pigeon Assembly",
+        "japanese": "ぽっぽ集合ラッパ",
+        "korean": ""
+      },
+      "getSong": -10015,
+      "texts": [
+        {
+          "chinese": "收集时间2091/06/29\\r\\n\r保管单位：艾葵\\r\\n\r等级：main\\r\\n\r咕咕队报名“十七的宝藏”成功后，系统具现化出来的黄铜小号，内侧刻着三名队员，和两名指导的名字。\\r\\n\r“这是一支由艾葵，霍，夜组成的咕咕队，他们的两位指导雅各·兰登曼和伍月樱向职业道德宣誓，帮助咕咕队在这次的活动中，实践得真知。”\\r\\n\r",
+          "chineseTraditional": "收集時間：2091/06/29\\r\\n\r保管單位：艾葵\\r\\n\r等級：main\\r\\n\r\\r\\n\r咕咕隊報名「十七的寶藏」成功後，系統發放出來的黃銅小號。內側刻著三名隊員和兩名指導員的名字。\\r\\n\r「這是一支由艾葵，霍，夜組成的咕咕隊，他們的兩位指導員雅各·蘭登曼和伍月櫻向職業道德宣誓，幫助咕咕隊在這次的活動中，實踐得真知。」\\r\\n",
+          "english": "Date: 2091/06/29\\r\\n\rKeeper: Aquinn\\r\\n\rCategory: Main\\r\\n\rAfter Team Pigeon successfully signed up for \"\"17's Treasure\"\", a copper trumpet solidified from the system, whose inside was inscribed the names of 3 members and 2 instructors of the team.\\r\\n\r\"\"This is Team Pigeon: Aquinn, Huo, Yeeh. Two instructors, Ya'akov Randommann and Yueying Wu, hereby swear the oath of professional ethics, and assist Team Pigeon to learn through practice during the activity.\"\"",
+          "japanese": "収納日付2091/06/29\\r\\n\r保管単位：艾葵\\r\\n \rレベル：main\\r\\n\rポッポ隊が「十七の宝」に登録した後、システムから黄銅のラッパが貰いました、内側にメンバー三人と指導員二名の名前が刻んでいる。/ｒ/ｎ“これは艾葵，霍，夜が作れたポッポ隊”指導員のヤグ・ランドマンと伍月櫻は、職業倫理を誓った。今回の活動で、ポッポ隊野為に真実を貰う\\r\\n",
+          "korean": ""
+        }
+      ]
+    },
+    {
+      "keyName": "jixiangruyi",
+      "multiLanguageTitle": {
+        "chinese": "\r三尾吉祥鱼",
+        "chineseTraditional": "三尾吉祥魚",
+        "english": "Three-tailed Lucky Fish",
+        "japanese": "三尾幸運魚",
+        "korean": ""
+      },
+      "getSong": -10015,
+      "texts": [
+        {
+          "chinese": "收集时间2091/06/29\\r\\n\r保管单位：余小鹏\\r\\n\r等级：main\\r\\n\r季雨队报名“十七的宝藏”成功后，系统具现化出来的鱼纹陶埙，刻着三名队员，和两名指导的名字。\\r\\n\r“这是一支由小鹏，若拉，翠冷组成的季雨队，他们的两位指导高师贲和余村长向职业道德宣誓，帮助季雨队在这次的活动中，实践得真知。”\\r\\n\r",
+          "chineseTraditional": "收集時間：2091/06/29\\r\\n\r保管單位：餘小鵬\\r\\n\r等級：main\\r\\n\r\\r\\n\r季雨隊報名「十七的寶藏」成功後，系統發放出來的魚紋陶笛，刻著三名隊員，和兩名指導員的名字。\\r\\n\r「這是一支由小鵬，若拉，翠冷組成的季雨隊，他們的兩位指導員高師賁和余村長向職業道德宣誓，幫助季雨隊在這次的活動中，實踐得真知。」\\r\\n",
+          "english": "Date: 2091/06/29\\r\\n\rKeeper: Xpeng\\r\\n\rCategory: Main\\r\\n\rAfter Team Monsoon successfully signed up for \"\"17's Treasure\"\", a ceramic xun (a musical instrument that functions and looks like ocarina) solidified from the system, whose inside was inscribed the names of 3 members and 2 instructors of the team.\\r\\n\r\"\"This is: Xpeng, Jora, Verde Frio. Two instructors, Gusbon and Chief Yu, hereby swear the oath of professional ethics, and assist Team Monsoon to learn through practice during the activity.\"\"",
+          "japanese": "収納日付2091/06/29\\r\\n \r保管単位：餘小鵬\\r\\n \rレベル：main\\r\\n\r季雨チームが「十七の宝」に登録した後、システムに発行された魚のオカリナに、メンバー三人と指導員二名の名前が刻んでいる。\\r\\n\rこれは鵬，若拉，翠冷で構成される季雨チームです。指導員の高師賁と余村長は、職業倫理を誓った。今回の活動で、真実を貰う\\r\\n",
+          "korean": ""
+        }
+      ]
+    },
+    {
+      "keyName": "meishihui",
+      "multiLanguageTitle": {
+        "chinese": "\r冰川美食汇",
+        "chineseTraditional": "冰川美食集",
+        "english": "Glaci'o'Food",
+        "japanese": "氷河美食会",
+        "korean": ""
+      },
+      "getSong": 4,
+      "texts": [
+        {
+          "chinese": "收集时间1/03/09\\r\\n\r保管单位：Dlyro\\r\\n\r等级：souvenir\\r\\n\r冰封著名美食杂志，编辑部成员来自全界各地，主编是第一巡回救援队的副队长，一个很有趣的新式料理人（Dlyro言）。由于电子版全年订阅即送五升苟驼油，Dlyro用下属的账号订阅了十份，这可比直接订购苟驼油便宜多了。\\r\\n\r鸠：Gino队员哦，你有没有发现一个问题。\\r\\n\rGino：什么问题啊，鸠队员？\\r\\n\r鸠：这个杂志抽奖，每次都有你唉。\\r\\n\rGino：嗯？中奖了我本人怎么不知道？\\r\\n\r鸠：不信你看啊。\\r\\n\r",
+          "chineseTraditional": "收集時間：1/03/09\\r\\n\r保管單位：Dlyro\\r\\n\r等級：souvenir\\r\\n\r\\r\\n\r冰封著名的美食雜誌，編輯部成員來自全界各地，主編輯是第一巡迴救援隊的副隊長，一個很有趣的新式料理人（Dlyro言）。由於電子版全年訂閱即送五升苟駝油，Dlyro用下屬的帳號訂閱了十份，這可比直接訂購苟駝油便宜多了。\\r\\n\rGeopelia：吉諾隊員啊，你有沒有發現一個問題？\\r\\n\rGino：什麼問題啊，鳩隊員？\\r\\n\rGeopelia：這個雜誌抽獎，每次都有你欸。\\r\\n\rGino：嗯？中獎了我本人怎麼不知道？\\r\\n\rGeopelia：不信你看啊。\\r\\n",
+          "english": "Date: 1/03/09\\r\\n\rKeeper: Dlyro\\r\\n\rCategory: Souvenir\\r\\n\rFamous gourmet magazine in Glaciaxia. Its editor team has members from all over the world. Its chief editor is \"\"an interesting novel chef\"\" (according to Dlyro) from No.1 Circuit Rescue Team. Because subscribing to the e-magazine for a full year rewards the subscriber with 5L of camel oil, Dlyro used his subordinates' accounts and purchased 10 subscriptions of Glaci'o'Food. Much cheaper than ordering camel oil alone.\\r\\n\rGeopelia: Jr. Gino, did you notice -\\r\\n\rGino: Jr. Geopelia, what?\\r\\n\rGeopelia: Every time the magazine organizes a lucky draw game, you're always on the list.\\r\\n\rGino: How could it be? If I did win that game why wouldn't I know?\\r\\n\rGeopelia: Just look.",
+          "japanese": "収納日付1/03/09\\r\\n \r保管単位：Dlyro\\r\\n \rレベル：souvenir\\r\\n\r氷河の有名美食雑誌、編集部のメンバーは世界中から来ています、編集長は、最初の救助チームの副キャプテンです，面白い調理人です，年間購読の電子版では苟驼オイルが5リットル提供されるため、Dlyroは下位アカウントで10コピーを購読します。これは、苟驼オイルを直接注文するよりもはるかに安価です。\\r\\n\r鳩：Ginoさん、違和感を感じませんか。\\r\\n\rGino：何が。鳩さん\\r\\n\r鳩：毎回あなたの名前もいますよ、この雑誌の宝引き\\r\\n\rGino：うん？知らないよそんな事。\\r\\n\r鳩：ほら、見て。\\r\\n",
+          "korean": ""
+        },
+        {
+          "chinese": "88期封面：尖椒苟驼酱\\r\\n\r“本期取材期间，我们在47营地苟驼的栖息地附近发现了大量一级异想污染的低矮灌木丛，据随队的档案管理调查，这类单叶互生的半木质性植物，应该是灭绝已久的朝天椒，如今被异想污染复原了。我想到很久之前一位老师傅跟我说过，远古时代，辣椒和盐是制作酱菜最好的辅料，如今发现辣椒的我，重燃了恢复古菜谱的想法。于是我们借着晚上休息，和当地的苟驼猎人买了一条成年苟驼做实验，结果很成功，切碎成丁的小米椒和苟驼肉恰如其分地融合交汇，椒的辛辣和肉的甘甜相辅相成，最后加入少许苷碎，并胡麻，最后的装饰也完成了。那么容许我再次介绍一下本期的封面美食，尖椒苟驼酱。\\r\\n\r按照惯例，我们将抽取五名幸运读者送上本期的封面美食，获奖结果会在杂志封底显示。封底：恭喜你，幸运读者Gino！奖品会在三天内送到您的营地”\\r\\n\r鸠：瞧瞧，我随手抽一期都能抽到你。\\r\\n\rGino：这个我确实知道，记得也是唯一一次中奖。\\r\\n\r鸠：我手气这么好？不是啦，我们直接看封底呀。\\r\\n\r鸠：全是你的名······这是什么？\\r\\n\r",
+          "chineseTraditional": "88期封面：尖椒苟駝醬\\r\\n\r「本期在取材期間，我們在47號營地：苟駝的棲息地附近發現了大量一級異想污染的矮灌木叢，據隨隊的檔案管理員調查，這種單葉互生的半木質性植物，應該是滅絕已久的朝天椒，如今被異想污染復原了。我想到很久之前一位老師傅跟我說過，遠古時代，辣椒和鹽是製作醬菜最好的佐料，如今發現辣椒的我，重燃了恢復古菜譜的想法。於是我們借由晚上的休息時間，和當地的苟駝獵人買了一條成年苟駝做實驗，結果很成功，切碎成丁的小米椒和苟駝肉恰如其分地融合交會，椒的辛辣和肉的甘甜相輔相成，最後加入少許苷碎和芝麻，最後的裝飾也完成了。那麼容許我再次介紹一下本期的封面美食，尖椒苟駝醬。」\\r\\n\r「按照慣例，我們將抽取五名幸運讀者送上本期的封面美食，抽獎結果會在雜誌封底顯示。」\\r\\n\r封底：「恭喜你，幸運讀者Gino！獎品會在三天內送到您的營地。」\\r\\n\rGeopelia：瞧瞧，我手不管怎麼抽都能抽到你。\\r\\n\rGino：這個我確實知道，記得這也是你唯一一次中獎。\\r\\n\rGeopelia：我手氣這麼好？沒有啦，那我們直接看封底呀。\\r\\n\rGeopelia：全是你的名字······這是怎麼了？\\r\\n",
+          "english": "Glaci'o'Food No.88's Cover: Peppered Camel Mince\\r\\n\r\"\"The dish was inspired from a discovery during an expedition. We found an enormous amount of tier-1 whimified bush near the resting place of camels at camp 47. According to the documents, these types of semi-ligneous plants, with alternate, simple leaves, should be pod peppers, an extinct vegetable. It's now being revived by whimification. I recalled that once my old master told me, during ancient times, pepper and salt are best additives to make dishes. Rediscovering the pepper ignites my spirit to recover the ancient recipe. During the nighttime break, I bought a camel from a local camel hunter and experimented my dish. It was a tastebud-buster. Sliced pepper wove perfectly into the minced camel meat. Next, I added some peppercorn and rosemary and decorated the dish. And that's the cover dish of the month.\"\"\\r\\n\rAs usual, we'll pick 5 lucky readers and present you our cover dish. Their names can be found on the back of the magazine.\\r\\n\rAccording to \"\"the back of the magazine\"\": \"\"Congratulations to Gino! Your dish would be served within 3 days, delivered to your camp.\"\"\\r\\n\rGeopelia: See? I pick at random.\\r\\n\rGino: Yea, I know this. It's the only time that I received the prize.\\r\\n\rGeopelia: So lucky me? Let's just browse through the backs of these magazine.\\r\\n\rGeopelia: Gino, Gino, Gino, Gino… Wait, what's this?",
+          "japanese": "88巻表紙：唐辛子蒟驼(ゴウタ)ソース\\r\\n\r今冊の取材期間、我々は47キャンプ蒟驼の生息地の辺りに大量レベル1の異想污染の灌木林があります，調査によると、こうゆう一葉の植物は長い間絶滅するはず，いまは異想污染によって復元されました、昔、先生がこう言いました、唐辛子と塩は漬物に最適な材料です、今唐辛子を発現したいま、古代のレシピを復元するというアイデアを再燃させました、夜中休憩の間、地元の蒟驼ハンターの手元に一匹を買え、実験しました、大成功でした。さいの目に切った唐辛子と蒟驼の肉が適切に混ざり合て、胡麻と甘草葉も少々、これで出来上がり。唐辛子蒟驼ソース\\r\\n\rそして、いつものように、この唐辛子蒟驼ソースを送るために5人の幸運な読者を引き寄せます。裏面：おめでとうございます！幸運な読者Gino！賞品は三日間の中キャンプまでお届けします！！\\r\\n\r鳩：ほら、適用に引けも当たりますよ\\r\\n\rGino:これはわかる、一回だけな\\r\\n\r鳩；ええ、私こんな？じゃなくて、直接裏面見てよ。\\r\\n\r鳩：あなたのフルネームは......て、なんだこれ？\\r\\n",
+          "korean": ""
+        },
+        {
+          "chinese": "93期封面：蒜蘸丐狖眼\\r\\n\r“按道理，异想之物给我们世界带来灾难，是应该消灭的存在，但是丐狖这种废柴，它确实没有危害性，甚至可以说是一无是处，每天趴在河摊上动也不动，肉也没几两，如果不是在它身上检查到了三级异想污染，恐怕已经不在捕杀名单上了。编辑部收到丐狖料理的投稿时也十分震惊，吃什么不好，吃丐狖，等看到是眼球料理，大家却不约而同地啧啧赞许。本道蒜蘸丐狖眼的灵感来自前些日的联合围剿，冰原魇魉大潮过后，投稿人负责打扫河滩战场，走到支流时却停住了脚步，他看到，数百只失去眼球的丐狖死在冰面上，河滩布满了冰原魇魉的狼脚印。传闻狼走过的河滩会长出大蒜，投稿人挖开泥土果然找到了，他想如果把蒜和丐狖的眼球放在一起吃，会是什么味道呢。于是就有了这道菜的诞生，蒜蘸丐狖眼，投稿人提示，淋上了少许米醋，风味更佳。\\r\\n\r封底：恭喜你，幸运读者Gino！奖品会在五天内送到您的营地”\\r\\n\rGino：？？？\\r\\n\r鸠：哈！\\r\\n\rGino：我没有吃过眼珠！\\r\\n\r鸠：话说异想之物的眼睛都会发光，丐狖也会发光吧。\\r\\n\r【Gino看向Dlyro的展示柜，正中间的发光眼球标本让他想入非非】\\r\\n\rGino：我觉得吧，这里面有问题。\\r\\n\r",
+          "chineseTraditional": "93期封面：蒜蘸丐狖眼\\r\\n\r「按道理，異想之物給我們世界帶來災難，是應該消滅的存在。但是丐狖這種生物，確實沒什麼危害性，甚至可以說是一無是處，每天趴在河攤上動也不動，肉也沒幾兩，如果不是在它身上檢查到了三級異想污染，恐怕已經不在捕殺名單上了。編輯部收到丐狖料理的投稿時也十分震驚，吃什麼不好，吃丐狖！等看到上菜的是這亮麗的眼球，大家卻不約而同地嘖嘖稱奇。本道蒜蘸丐狖眼的靈感來前些日子的聯合圍剿。冰原魘魎大潮過後，投稿人負責打掃河灘戰場，走到支流時卻停住了腳步，他看到，數百隻失去眼球的丐狖死在冰面上，河灘佈滿了冰原魘魎的狼腳印。傳聞狼走過的河灘會長出大蒜，投稿人挖開泥土果然找到了，他想如果把蒜和丐狖的眼球放在一起吃，會是什麼味道呢？於是就有了這道菜的誕生，蒜蘸丐狖眼，投稿人補充，淋上少許米醋，風味會更加。」\\r\\n\r封底：「恭喜，幸運讀者Gino！獎品會在五天內送到您的營地」\\r\\n\rGino：？？？\\r\\n\rGeopelia：哈！\\r\\n\rGino：我沒有吃過眼珠！\\r\\n\rGeopelia：話說異想之物的眼睛都會發光，丐狖也會發光吧。\\r\\n\r【Gino看向Dlyro的展示櫃，正中間的發光眼球標本讓他心生恐懼】\\r\\n\rGino：我覺得啊，這事有蹊蹺。\\r\\n",
+          "english": "Glaci'o'Food No.93's Cover: Garlic Ape Eyes\\r\\n\r\"\"In theory, whims should be brining disasters to the world, and thus should be eliminated. However, ape, a useless species of whim, is not hostile to us. When I say useless, I mean apes aren't doing anything good for us either. They're usually seen lying on the river bank, with little amount of meat that could be eaten. If they were not tier-3 whimified, they should not be on the elimination list. When the editors received a cuisine that uses ape as its main ingredient, they're quite shocked. But when they scrolled down and found that the cuisine is actually made by ape eyes, they turned their shock to praises. The idea of the dish came from the suppression act against the ghast tide days ago, when the chef of the dish was clearing the battlefield near the river. He stopped his steps at a branch of the river, where he found hundreds of apes dead on a layer of ice. The river bank has marks of wolf claws, and rumors are that such a soil may have garlic grown beneath. The chef managed to harvest several garlics, which were then blended with apes' eyes to create this delicious cuisine. Tip, with a slight hint of vinegar, the dish would taste even better.\"\"\\r\\n\rThe back of the magazine reads: Congratulations to our lucky reader Gino! Your dish would be served within 5 days, delivered to your camp.\\r\\n\rGino: ???\\r\\n\rGeoopelia: Ha, eyes.\\r\\n\rGino: I have no appetite for those nasty eyes. I didn't eat that.\\r\\n\rGeopelia: It's said that all whims have glittering eyes. Are the apes' eyes shiny?\\r\\n\r[Gino looked at Dlyro's collection desk, in the middle of which was a glittering specimen of an eyeball.]\\r\\n\rGino: I think there must be something about this issue.",
+          "japanese": "９３巻表紙：大蒜丐狖（カイケツ）眼\r　仮想の物は私たちの世界に災難を与えた物、滅ぼすべき存在、でも丐狖眼と言うだめな存在は、被害性はない、というか、何の役も立たない物、毎日川の周辺にじっとも動けない、肉も少ない、レベル3の異想污染がなかったら、恐らくそれはもうキルリストに載っていないのではないかと思います。編集部が丐狖料理のレポートを貰えだ時もびっくりした，何お食べでもいいが、よりによって丐狖とは。ても、貰った際には皆も絶賛した。この大蒜丐狖眼のひらめきは先日の連合討伐、氷河魔魎の潮が過ぎた後、レポートの提出者が川敷を片付けて支流にたどり着いた時、数百匹目が失った丐狖が見つけた、川敷の辺りに氷河魔魎の狼の足跡がいっぱいあります。噂によると、狼のが通りすがりの川敷に、ニンニクが生えいます、提出者がそれを見つけたのです、ニンニクと丐狖の眼を合わせてどんな味だろうと思いつき、この料理が誕生しました。大蒜丐狖眼、提出者のヒントによると、すごしのお酢をかけて、もっといい風味が出てるらしいです。\\r\\n\rおめでとうございます！幸運のあなたGino!賞品は五つ日間でキャンプるまでお届けにしまいます。\\r\\n\rGino:???\\r\\n\r鳩：は！\\r\\n\rGino:眼球食べたことないよ。\\r\\n\r鳩：ていうが、異想の物の目も光ってるよね、丐狖もそうでしょう？\\r\\n\r【GinoがDlyroのショーケースを見て、真ん中の光てる目か、何が思い出したみだい】\\r\\n\rGino:この中に、何が違和感が感じる。\\r\\n",
+          "korean": ""
+        },
+        {
+          "chinese": "45期封面：骡舌火烧\\r\\n\r“梦魇马使用技巧逐渐失传的今天，我们有幸采访到了神技·融通的末代传人，第七小队的Dlyro队长。\\r\\n\r【视频资料】*Dlyro队长正在展示梦魇马术\\r\\n\r【文件缺失······修复中······修复失败。滋，滋······】\\r\\n\rreseting process completed\\r\\n\rDlyro队长说到马有关的美食，提及远古时代有道名菜，叫做驴肉火烧，第八十一小队驻地附近新出现的骡，应该是驴和马的杂交品种，可以代替料理中的驴肉。它们在草甸区大量繁殖，让我们伤尽了脑筋，Dlyro队长建议物尽其用，骡皮骡肉骡架子，能吃的吃，能用的用，骡肉沾上辣酱烘烤半刻，放进小饼干内食用最佳。Dlyro队长特别提到，骡的精华在舌头一处，此处肉质最为鲜美，可谓上品中的上品。\\r\\n\r我报过半的人员出身于八十一小队，说到底冰川美食汇就是从这个巡逻小队中诞生的。为了感谢Dlyro队长的菜单与亲手指导，我们决定日后每次抽奖，都保留一份送给第七小队，以报答Dlyro队长的无偿协助。”\\r\\n\r\\r\\n\r鸠：原来是送给队长的啊。\\r\\n\rGino：既然谜题解开了，去吃饭吧，现在？\\r\\n\r【鸠突然发现了什么】\\r\\n\r鸠：哎，今天是美食汇投寄的日子唉～\\r\\n\rGino：总有一种，不祥的预感。\\r\\n\r",
+          "chineseTraditional": "45期封面：騾舌火燒\\r\\n\r「夢魘馬使用技巧逐漸失傳的今天，我們有幸採訪到了神技·融通的末代傳人，第七小隊的德利隊長。\\r\\n\r【影片資料】*Dlyro隊長正在展示夢魘馬術\\r\\n\r【檔案遺失······修復中······修復失敗。滋，滋······】\\r\\n\rReseting process completed.\\r\\n\r德利隊長說到馬有關的美食，提及遠古時代有道名菜，叫做驢肉火燒，第八十一小隊駐地附近新出現的騾，應該是驢和馬的雜交品種，可以代替料理中的驢肉。它們在草甸區大量繁殖，讓我們傷盡了腦筋，德利隊長建議物盡其用，騾皮騾肉騾架子，能吃的吃，能用的用，騾肉沾上辣醬烘烤半刻，放進小餅乾內食用最佳。德利隊長特別提到，騾的精華在舌頭一處，此處肉質最為鮮美，可謂上品中的上品。\\r\\n\r我報過半編輯出身八十一小隊，為了感謝德利隊長的菜單與親手指導，決定日後每次抽獎保留一份送給第七小隊，報答德利隊長的無償協助。」\\r\\n\rGeopelia：原來是送給隊長的啊。\\r\\n\rGino：既然謎題解開了，現在要去吃飯嗎？\\r\\n\r【Geopelia突然發現了什麼】\\r\\n\rGeopelia：哎，今天是美食匯投寄的日子欸～\\r\\n\rGino：總有一種不祥的預感…\\r\\n",
+          "english": "Glaci'o'Food No.45's cover: Grilled Mule Tongue\\r\\n\r\"\"Today, when the techniques to tame and control a ghast horse is at the edge of being lost, it's our pleasure and luck to interview the last hero with the ability of \"\"Inter-action\"\", Dlyro. She's also the leader of Team VII.\"\"\\r\\n\r[Video Clip] * Dlyro is displaying the skill of commanding a ghast horse.\\r\\n\r[Alert: File incomplete. Attempting to fix…]\\r\\n\r[Alert: File corrupted.]\\r\\n\r[File rollback and resetting completed.]\\r\\n\rDlyro mentioned grilled donkey, a famous cuisine that only existed in ancient recipes. The mules found this time near the camp of Team LXXXI should be a crossbreed of donkey and horse, which could replace the donkey meat in that recipe. Their outrageous speed of reproduction lit the urge of Dlyro to make full use of their meat. Dlyro also mentioned that the essence of mule meat is its tongue, and that's how the dish was invented.\\r\\n\rMore then half of our staff came from Team LXXXI. In fact we all believe Glaci'o'Food literally originate from the patrol team. In order to express our gratitude to Dlyro's cuisines and hands-on help, we decided to reserve a seat for lucky reader every month for Team VII, and present him/her a monthly-featured cover cuisine.\\r\\n\rGeopelia: Well, the mystery seems to be solved.\\r\\n\rGino: Yea, and shall we head for lunch right now?\\r\\n\r[Something flashed into Geopelia's mind]\\r\\n\rGeopelia: Hey, the magazine updates today!\\r\\n\rGino: I've a bad feeling about it.",
+          "japanese": "45巻表紙：騾馬タン焼き\\r\\n\r“ナイトメア馬を使った技術が無くした今幸運的に神技・融通の末代、七チームのDlyro隊長\r【ビデオデータ】Dlyro隊長が馬術を展示しています\r【データロスト――修復中――失敗。ズーズー】\\r\\n\rreseting process completed\\r\\n\rDlyro隊長が言ってた馬と関わるフード、昔の有名料理、ロバ肉焼きという。第八十一小隊の周辺に現れた新なロバ、あれは多分馬と騾馬の掛け合わせ、ロバ肉の代わりになります。騾馬は草原地域に大量増殖していますから、大変困りました。ものは使い切りましょうとDlyro隊長がこう提案します、革と肉は焼き網、食べられる物は食べて、使うもを使って。肉は辛いソースを付けて50％を焼く、クッキーと合わせて食べだほうがいい。特に舌の部分の肉は一番鮮美、最高と言えます。\\r\\n\r我が出版社中の半分の編集は第八十一小隊出身、Dlyro隊長日頃の料理と指導を感謝するため，今後毎回の宝引きも七チームに一回保存します\\r\\n\r鳩：隊長に贈り物だっだんだ。\\r\\n\rGino:謎も解けだし、ご飯にもするが、今で。\\r\\n\r【鳩が急に何が発見しました】\\r\\n\r鳩：ええ，今は美食会のくじ引きの日だ\\r\\n\rGino:なんが...嫌な予感がするな。\\r\\n",
+          "korean": ""
+        }
+      ]
+    },
+    {
+      "keyName": "Mbaolei",
+      "multiLanguageTitle": {
+        "chinese": "\r【影像】堡垒",
+        "chineseTraditional": "【影像】堡壘",
+        "english": "[Image] Fortress",
+        "japanese": "【映像】お城",
+        "korean": ""
+      },
+      "getSong": 7,
+      "texts": [
+        {
+          "chinese": "收集时间1/04/03\\r\\n\r保管单位：Gino\\r\\n\r等级：key\\r\\n\r我们行驶在第十区的中央领域，一座城池大小的堡垒出现在我们眼前，它和各地的混凝土蜂窝立柱群不同，巨大拱形主体横梗在谷底，数百指示塔悬挂于山壁。我收到的求救信号显示，求救者正从堡垒门内向外缓慢移动，直觉告诉我不能贸然行事，一是我们不清楚堡垒内部环境，二来求救者所发信号紧急程度较低，应该没有生命危险。\\r\\n\r等待中，鸠朝着堡垒一顿乱拍，她站在摩托上，笑着讲找到了好角度。鸠拍照的习惯是到达石林后才有的，风景，人像，静物，除了自己，都在她的狩猎范围内，说是给新专辑取材，我却不是很认同。\\r\\n\r透过相机看到的地方更远，我拜托她顺道瞧瞧有无人出来，鸠敷衍答应，她抬头看着铁锈色的天空，又是快门一闪。\\r\\n\r“Gino，有东西出来了。”\\r\\n\r“哪里？”\\r\\n\r“天上。”\\r\\n\r她手指着远方，一个黑点不断拉扁又还原地向我们飞来，伴随着黑点出现，之前的求救信号突然消失，取而代之，地图上浮出了无数的求救信号，正如山壁中涌出的黑翅鸟类，飞出牢笼。\\r\\n\r“快跑！”\\r\\n\r我把鸠拉上trophon，飞速离开现场，车在疾驰，身后却感觉不到鸠的温度，后视镜里，女孩儿正后仰着头，倒摄着鸟群飞来的场面。\\r\\n\r“还拍，要掉下去了！”\\r\\n\r“不拍了不拍了，越拍越远了。”\\r\\n\r鸟群似乎不能离开堡垒所在的山谷，我们一直到离开第十区才敢熄掉油门，我问鸠在想什么。\\r\\n\r她翻看照片，过了会儿突然停下，看了我一眼，说道：“还是真人好。”\\r\\n",
+          "chineseTraditional": "收集時間：1/04/03\\r\\n\r保管單位：Gino\\r\\n\r等級：key\\r\\n\r\\r\\n\r我們行駛在第十區的中央領域，一座城池大小的堡壘出現在我們眼前，它和各地的混凝土蜂窩柱群不同，巨大拱形主體平躺在谷底，數百個指示塔懸掛於山壁。以我收到的求救信號顯示，受難者正從堡壘門內向外緩慢移動，直覺告訴我不能貿然行事，原因有二：一是我們不清楚堡壘內部的環境，二來受難者所發的信號緊急程度較低，應該沒有生命危險。\\r\\n\r等待中，Geopelia朝著堡壘一陣亂拍，她站在摩托車上，笑著說著找到了好角度。Geopelia拍照的習慣是到達石林後才有的，風景，人像，靜物，除了自己，都在她的狩獵範圍內，說是給新專輯取材，我卻不是很認同。\\r\\n\r透過相機看到的地方更遠，我拜託她順道瞧瞧有無人出來，Geopelia敷衍答應，她抬頭看著鐵銹色的天空，又是快門一閃。\\r\\n\r「吉諾，有東西出來了。」\\r\\n\r「哪裡？」\\r\\n\r「天上。」\\r\\n\r她手指著遠方，一個黑點不斷壓縮後又彈回來地向我們飛來，隨著黑點出現，之前的求救信號突然消失，取代之的是，地圖上浮出了許多無數的求救信號，正如山壁中湧出的黑翅鳥類，飛出牢籠。\\r\\n\r「快跑！」\\r\\n\r我把Geopelia拉上Trophon，飛速的離開現場，車在疾馳，身後卻感覺不到Geopelia的溫度。後視鏡裡，女孩兒正後仰著頭，正拿著相機倒拍著鳥群飛來的場面。\\r\\n\r「還拍，要掉下去了！」\\r\\n\r「不拍了不拍了，越拍越遠了。」\\r\\n\r鳥群似乎不能離開堡壘所在的山谷。我們一直到離開第十區才敢熄火，我問Geopelia在想什麼？\\r\\n\r她翻看照片，過了會兒突然停下，看了我一眼，說道：「還是真人好。」\\r\\n",
+          "english": "Date: 1/04/03\\r\\n\rKeeper: Gino\\r\\n\rCategory: Key\\r\\n\rAs we were driving in the central territory of District Ten, a fortress in the size of a city appeared in front of us. Different from the concrete honeycomb-shaped pillar complexes in many regions, its giant main arch stuck horizontally on the valley floor, with hundreds of signaling towers hanging on the cliff. The distress signal we received shows that, people who sent the signals were slowing moving outwards from the fortress gate. My instinct was telling me not to act recklessly. Firstly we were not clear about the fortress's internal environment; secondly the level of emergency of the signals sent was rather low, so they should not be in danger of life.\\r\\n\rWhile waiting, Geopelia took a ton of random photos of the fortress. She stood on the motorcycle, saying with a smile that she got a nice angle. Geopelia only developed the habit of photography after arrived in Hoodoo. Sceneries, people, still objects, anything except herself is within her range of capturing. It was meant to be the materials for the new album, though I do not fully agree with.\\r\\n\rSince camera can see further, I asked her to check whether anybody had come out as well. Geopelia paltered with the promise, looked up into the rust-coloured sky, and the shutter flashed.\\r\\n\r\"\"Gino, something came out.\"\"\\r\\n\r\"\"Where?\"\"\\r\\n\r\"\"From the sky.\"\"\\r\\n\rShe pointed faraway. A black dot flying towards us, stretching and restoring its shape nonstop. As the black dot appeared, the previous distress signal dissapeared; instead, countless distress signals appeared on the map, like black birds pouring out of the mountain cliff, escaping the cage.\\r\\n\r\"\"Run!\"\"\\r\\n\rI grabbed Geopelia onto the trophon, and left the scene at full speed. The vehicle was speeding, yet I could not feel the temperature of Geopelia. In the rearview mirror, the girl was looking up at behind, capturing the scene of the flock of birds.\\r\\n\r\"\"Stop taking pictures! You are gonna fall off!\"\"\\r\\n\r\"\"Alright alright, we are getting further anyway.\"\"\\r\\n\rThe bird flock counld not seem to leave the valley where the fortress is, and we did not dare to deccelerate until we left District Ten. I asked Geopelia what was on her mind.\\r\\n\rShe looked throught the pictured, suddenly stopped after a while, and turned to look at me, said, \"\"Real people are still better.\"\"\\r\\n",
+          "japanese": "収納日付1/04/03\\r\\n\r保管単位：Gino\\r\\n\rレベル：key\\r\\n\r俺たちは第十区の中央地域を駆け抜けている。一つのお城が目に映り込んだ。あれは各地のコンクリートハチの巣立柱群とは違って、巨大なアーチ型の主体は谷の底に横たわり、数百個の指示塔は崖に掛かっている。俺が受け取った遭難信号は、発信者は今お城の門内から外へ移動している最中だと表示してくれた。勝手な判断で行動してはいけないという感がある。何せ、一つに俺たちは城の内部の環境がわからない、二つにこの信号は対した緊急信号ではないので、発信者にはまだ命の危険がないでしょう。\\r\\n\r待ってる中、鳩は城の写真を何枚も撮った。彼女はバイクの上に立ち、「いい角度を見つけた」と笑って言っていた。鳩の写真を撮るという習慣は石林に来てからあったものだ、風景、人の姿、動かないもの、自分以外のものはすべて彼女の狩りの目標だ。次のアルバムのために取材しているというが、俺はあんまり信じていない。\\r\\n\rカメラ越しでは遠くのものまで見える、俺は鳩についでに人が出てきているかどうか見てくれと頼んだが、鳩はやる気ない返事をしてくれた。彼女は頭をあげて鉄さび色の空を見ては、カメラでカシャっともう一枚だ。\\r\\n\r「Gino，何か出てきたよ。」\\r\\n\r「どこ？」\\r\\n\r「そら。」\\r\\n\r彼女は指で遠くを指すと、一個の黒い点が加速しつつ俺たちに向かって飛んできている。黒い点が現れたのと同時に、受けた遭難信号も消えた。その代わりに、マップ上には無数の遭難信号が現れ、山の壁から湧き出てくる黒い翼の鳥類みたいに、檻から飛び出してきた。\\r\\n\r「逃げろ！」\\r\\n\r俺は鳩をtrophonに乗せては高速でここから逃げるが、バイクは疾走してるのに鳩の温もりを感じられない。バックミラーを見ると、女の子はあおむけになって鳥の群れの写真を撮っていた。\\r\\n\r「まだ撮ってんの？！落っこちるぞ！」\\r\\n\r「やめたやめた。だんだん遠くなっちゃった」\\r\\n\r鶏の群れはあの城のある山谷から離れないようだ。俺たちは第十区を出てからバイクを止めた。俺は鳩に何を考えているんだと叱ったが。\\r\\n\r彼女は写真をめぐっていると、突然手を止めた。そして俺を見て曰く：「やっぱ人の写真のほうがいいよ」\\r\\n",
+          "korean": ""
+        }
+      ]
+    },
+    {
+      "keyName": "nazotiaozhan",
+      "multiLanguageTitle": {
+        "chinese": "\r给十七的挑战书",
+        "chineseTraditional": "給十七的挑戰書",
+        "english": "Challenge Letter to 17",
+        "japanese": "十七への挑戦状",
+        "korean": ""
+      },
+      "getSong": -10029,
+      "texts": [
+        {
+          "chinese": "收集时间2/03/20\\r\\n\r保管单位：鸠\\r\\n\r等级：Nazo\\r\\n\r\\r\\n\r你好。\\r\\n\r我们是一群来自NazoGame的解谜爱好者。在完成“十七的宝藏”的四次解谜后，我们决定用我们的方式来答谢Pigeon Games带来的四场解谜之旅。\\r\\n\r你，愿意接受挑战吗？\\r\\n\r\\r\\n\rNazo: Phi Project\\r\\n",
+          "chineseTraditional": "收集時間：2/03/20\\r\\n\r保管單位：Geopelia\\r\\n\r等級：Nazo\\r\\n\r\\r\\n\r你好。\\r\\n\r我們是一群來自NazoGame的解謎愛好者。在完成「十七的寶藏」的四次解謎後，我們決定用我們的方式來答謝Pigeon Games帶來的四場解謎之旅。\\r\\n\r你，願意接受挑戰嗎？\\r\\n\r\\r\\n\rNazo：Phi Project\\r\\n",
+          "english": "Date: 2/03/20\\r\\n\rKeeper: Geopelia\\r\\n\rCategory: Nazo\\r\\n\r\\r\\n\rHello.\\r\\n\rWe are a group of puzzle enthusiasts from NazoGame. Upon completing the four puzzles of the \"\"17's Treasure\"\", we have decided to show our appreciation to Pigeon Games for the four puzzle journeys in our way.\\r\\n\rAre YOU willing to accept the challenge?\\r\\n\r\\r\\n\rNazo: Phi Project\\r\\n",
+          "japanese": "収納日付2/03/20\\r\\n\r保管単位：鳩\\r\\n\rレベル：Nazo\\r\\n\r\\r\\n\rこんにちは。\\r\\n\r私たちはNazoGameに所属する謎解き好きな人たちです。「十七の宝」の四回の謎を解き終わった後に、私たちは自分たちのやり方でPigeon Gamesが四回の謎を作ってくれたお礼を返したいと思っています。\\r\\n\rあなたは、この挑戦にのりますか？\\r\\n\r\\r\\n\rNazo: Phi Project\\r\\n",
+          "korean": ""
+        },
+        {
+          "chinese": ">>> G:\\Nazo\\Phi Project001\\ Search_Log 1/03/20\\r\\n\r已找到记录 1 条\\r\\n\r>>> G:\\Nazo\\Phi Project001\\ Show_Log 1/03/20\\r\\n\r系统收到信号。尝试解码中。\\r\\n\r解码失败。已存储为文件。\\r\\n\r鸠：让我看看，咦，这是什么。奇怪，我应该把 Xandboxie 开起来。\\r\\n\r沙箱内出现了 7370320 的时间标志。\\r\\n\r继而，标志消失不见，出现另一行字符：“What is freedom?”\\r\\n\rthenazo.com/freedom\\r\\n\r鸠：freedom吗，标准开头呢。\\r\\n\r文字消失，屏幕转红，继而转黑，最后显示出一个问号。\\r\\n\r鸠：有趣的设计，之前在资料库中好像看过啊。来检索一下，嘿，有了。\\r\\n\r鸠：What is freedom，应该把 freedom 换掉吗？\\r\\n\rGino：咕咕，你在干什么呢？\\r\\n\r鸠：人家不叫咕咕！咕！\\r\\n\r两人嬉闹之时，屏幕缓缓现出了一段诗歌：\\r\\n\r文明湮没于浩瀚星海\\r\\n\r勇者寻迹于网络迷宫\\r\\n\r谜底仅需二字\\r\\n\r指引现于心中\\r\\n\r真相即为\\r\\n\r>>> G:\\Nazo\\Phi Project001\\\\r\\n",
+          "chineseTraditional": ">>>G：\\Nazo\\PhiProject001\\Search_Log1/03/20\\r\\n\r已找到1條記錄。\\r\\n\r>>>G：\\Nazo\\PhiProject001\\Show_Log1/03/20\\r\\n\r系統收到訊號，嘗試解碼中。\\r\\n\r解碼失敗。已另存新檔。\\r\\n\rGeopelia：讓我看看。咦，這是什麼？奇怪，我應該把Xandboxie開起來。\\r\\n\r沙盒內出現了7370320的時間標誌。\\r\\n\r之後，標誌消失不見，出現另一行字：「What is freedom?」\\r\\n\rthenazo.com/freedom\\r\\n\rGeopelia：freedom嗎，標準開頭呢。\\r\\n\r文字消失，螢幕轉紅，繼而轉黑，最後顯示出一個問號。\\r\\n\rGeopelia：有趣的設計，之前在資料庫中好像看過啊。來檢索一下，嘿，有了。\\r\\n\rGeopelia：What is freedom，應該把freedom換掉嗎？\\r\\n\rGino：咕咕，你在幹什麼呢？\\r\\n\rGeopelia：人家不叫咕咕！咕！\\r\\n\r兩人嬉鬧之時，螢幕緩緩現出了一段詩歌：\\r\\n\r文明湮沒於浩瀚星海\\r\\n\r勇者尋跡於網路迷宮\\r\\n\r謎底僅需二字\\r\\n\r指引現於心中\\r\\n\r真相即為\\r\\n\r>>>G：\\Nazo\\PhiProject001\\\\r\\n",
+          "english": ">>> G:\\Nazo\\Phi Project001\\ Search_Log 1/03/20\\r\\n\rFound 1 record\\r\\n\r>>> G:\\Nazo\\Phi Project001\\ Show_Log 1/03/20\\r\\n\rSignal received by system. Attempting to decode.\\r\\n\rDecoding failed. Saved as file.\\r\\n\rGeopelia: Let me see, hmm, what is this. Weird, I should run Xandboxie.\\r\\n\rTimestamp 7370320 appeared in the sandbox.\\r\\n\rThen, the stamp disappeared, and another string appears: \"\"What is freedom?\"\"\\r\\n\rthenazo.com/freedom\\r\\n\rGeopelia: Freedom? Where is the standard start?\\r\\n\rText disappeared, screen turned red, then black, finally showed a question mark.\\r\\n\rGeopelia: Interesting design. I might have seen it before in the data base. Let's search, hey, there it is.\\r\\n\rGeopelia: \"\"What is freedom\"\", should I replace \"\"freedom\"\"?\\r\\n\rGino: Coo-coo, what are you doing?\\r\\n\rGeopelia: My name is not Coo-coo! Coo!\\r\\n\rWhile the two playing around, a poem slowly showed up on the screen:\\r\\n\rCivilisation annihilates in vast universe\\r\\n\rThe hero seeks way through network maze\\r\\n\rAnswer to riddle needs only two words\\r\\n\rAnd guidance shall appear in thy heart\\r\\n\rThe truth to be\\r\\n\r>>> G:\\Nazo\\Phi Project001\\\\r\\n",
+          "japanese": ">>> G:\\Nazo\\Phi Project001\\ Search_Log 1/03/20\\r\\n\r1点のメッセージが見つけました\\r\\n\r>>> G:\\Nazo\\Phi Project001\\ Show_Log 1/03/20\\r\\n\rシグナルを受け取りました。解析を試みます。\\r\\n\r解析失敗。ファイルとして保存しました。\\r\\n\r鳩：どれどれ、あれ？なにこれ。おかしいな、 Xandboxie を起動するべきか。\\r\\n\r砂箱には 7370320 の時間標識が現れた。\\r\\n\rそしてそれは消えてなくなり、もう一行別の文字が現れた：“What is freedom?”\\r\\n\rthenazo.com/freedom\\r\\n\r鳩：freedomか、普遍的な始まりだね。\\r\\n\r文字は消え、スクリーンは赤色になってから黒色になり、そして一つのクエスチョンマークが現れた。\\r\\n\r鳩：面白い設計、この前資料庫で見かけたっけ。検索してみると…お、あったあった。\\r\\n\r鳩：What is freedom、 freedom を取り換えるべきか？\\r\\n\rGino：ポッポ、何してるの？\\r\\n\r鳩：私の名はポッポじゃない！ポ！\\r\\n\r二人が戯れていると、スクリーンにゆっくりと一段落の詩歌が現れた：\\r\\n\r文明は広大な星海に埋もれ\\r\\n\r勇者はインターネットの迷宮で跡を探す\\r\\n\r正解はたったの二文字\\r\\n\r導きは心の中にあり\\r\\n\r真実は即ち\\r\\n\r>>> G:\\Nazo\\Phi Project001\\\\r\\n",
+          "korean": ""
+        }
+      ]
+    },
+    {
+      "keyName": "kaoquanya",
+      "multiLanguageTitle": {
+        "chinese": "\r烤 全 鸭",
+        "chineseTraditional": "烤 全 鴨",
+        "english": "Roast Burnt Duck",
+        "japanese": "丸焼きアヒル",
+        "korean": ""
+      },
+      "getSong": -10030,
+      "texts": [
+        {
+          "chinese": "收集时间2092/03/32\\r\\n\r保管单位：Alpa\\r\\n\r等级：Nonsense\\r\\n\r【灯火通明的大街上，摩肩接踵的人群间，一股烤鸭的香味，跑出排风扇的约束，弥漫进行人的衣兜里，连带着鞋子，把这人啊，像木偶似的牵去着店门前，想着一探炉中乾坤。】\\r\\n\r【离饭点还有很长时间，NceS躺在太师椅上，手中转着太极球，就感觉这右眼皮直跳直跳的，今儿怕是有祸事，要不关门停业算了。】\\r\\n\r無極：老板，有生意来了，做不做啊。\\r\\n\rNceS：你是，無極？哎，不对啊，这头怎么换了呢？\\r\\n\r無極：别瞎摸，新做的脑袋，金贵着呢。\\r\\n\rNceS：哈，無極啊無極，你怕不是逃难来的吧，事先说好，老侧我不做偷渡好多年了。\\r\\n\r無極：我逃什么难，笑话。\\r\\n\r【無極以前还不叫無極的时候，就与NceS相识了。这次得罪了领导，第一时间想到的，也是这位老朋友。】\\r\\n\rNceS：你说你这叫什么事，让鸽子吧那帮老家伙儿，满大街喊打喊杀。要我说，不就是工资吗，都包吃包住了，至于往游戏里加bug嘛。\\r\\n\r無極：啧，一开口就是老AI了。这次啊，一不做二不休，工资不发，咱就散伙，该干啥干啥去，游戏也别做了。别拿一家人，抬头不见低头见的压我，亲兄弟明算账！为了写谱，你看我这手啊，都秃噜皮了。\\r\\n\rNceS：您这是塞爆塞的吧。\\r\\n\r【实不相瞒，NceS嫌麻烦，偷偷把無極来这儿的消息透露给了阿爽。清官难断家务事，这次造反的是居委会，鸽子吧追究起来，他工会也没干系。】\\r\\n\r無極：我老觉得你这，眼神不对劲。\\r\\n\rNceS：通电话呢，姜米條和村头鱼喊我晚上打麻雀。\\r\\n\r無極：你不会告密了吧。\\r\\n\rNceS：哪能啊，三缺一，你要不要来？\\r\\n\r阿爽：我来我来！\\r\\n\r無極：草，追兵来了！NceS，明天我再找你算账！\\r\\n\rNceS：慢走不送。\\r\\n\r【今天的商业街，也是和平的一天啊～】\\r\\n\r电视传讯：现在播报一条紧急消息：因音乐游戏Phigros而传播的赛博病毒垃圾症，已得到良好控制，我市铺路专家Sound Souler提醒广大民众，垃圾症可以通过头敲地板解决，连续敲击五次的效果最佳。\\r\\n\rNceS：这都什么跟什么啊。\\r\\n",
+          "chineseTraditional": "收集時間：2092/03/32\\r\\n\r保管單位：Alpa\\r\\n\r等級：Nonsense\\r\\n\r\\r\\n\r【燈火通明的大街上，摩肩接踵的人群間，一股烤鴨的香味，跑出排風扇的約束，彌漫的穿進衣兜裡，連帶著鞋子，把這人啊，像木偶似的牽去著店門前，想著一探爐中乾坤。】\\r\\n\r【離飯點還有很長時間，NceS躺在太師椅上，手中轉著太極球，就感覺這右眼皮直跳直跳的，今兒怕是有禍事，要不關門停業算了。】\\r\\n\r無極：老闆，有生意來了，做不做啊？\\r\\n\rNceS：你是，無極？哎，不對啊，這頭怎麼換了呢？\\r\\n\r無極：別瞎摸，新做的腦袋，金貴著呢。\\r\\n\rNceS：哈，無極啊無極，你怕不是逃難來的吧，事先說好，我啊，早就不做偷渡好多年了。\\r\\n\r無極：我逃什麼難，笑話。\\r\\n\r【無極以前還不叫無極的時候，就與NceS相識了，這次犯了事，第一時間想到的，也是這位老朋友。】\\r\\n\rNceS：你說你這叫什麼事，讓鴿子吧那幫老傢伙兒，滿大街喊打喊殺。要我說，不就是工資嗎，都包吃包住了，至於往遊戲里加bug嘛。\\r\\n\r無極：嘖，一開口就是老AI了。這次啊，一不做二不休，工資不發，咱就散夥，該幹啥幹啥去，遊戲也別做了。別拿一家人，抬頭不見低頭見的壓我，親兄弟明算帳！為了寫譜，你看我這手啊，都脫皮了。\\r\\n\rNceS：您這是塞爆塞的吧。\\r\\n\r【實不相瞞，NceS嫌麻煩，偷偷把無極來這兒的消息透露給了阿爽。清官難斷家務事，這次造反的是居委會，鴿子吧追究起來，他工會也沒辦法脫身。】\\r\\n\r無極：我老覺得你這眼神不對勁。\\r\\n\rNceS：通電話呢，姜米條和村頭魚喊我晚上打麻將。\\r\\n\r無極：你不會告密了吧。\\r\\n\rNceS：哪能啊，三缺一，你要不要來？\\r\\n\r阿爽：我來我來！\\r\\n\r無極：哇，追兵來了！NceS，明天我再找你算帳！\\r\\n\rNceS：慢走不送。\\r\\n\r【今天的商業街，也是和平的一天啊～】\\r\\n\r電視播報：現在插播一條緊急消息：因音樂遊戲Phigros而傳播的賽博病毒垃圾症，已得到良好控制，我市鋪路專家SoundSouler提醒收聽民眾，垃圾症可以通過頭敲地板解決，同時敲擊五次的效果最為良好。\\r\\n\rNceS：這都什麼跟什麼啊？\\r\\n",
+          "english": "Date: 2092/03/32 \\r\\n\rKeeper: Alpa \\r\\n\rCategory: Nonsense \\r\\n\r[On the street with bright lit, among people standing shoulder-to-shoulder, the smell of roasted ducks ran out of the constraints of the exhaust fan, permeating the person's pocket, and even shoes or hats, took human like a puppet to the front of the store, thinking about exploring the universe.] \\r\\n\r[It will be a little time before dinner. NceS is lying on an armchair chair, with two Taiji Balls in his hand, and feels that his right eyelid is jumping which makes him worried. It may be a bad idea to do business today.] \\r\\n\rWuji: Dude, there is business coming. \\r\\n\rNceS: Is that Wuji? What wrong with your head, how did this one change again? \\r\\n\rWuji: Don't touch it, booby, the new head is precious. \\r\\n\rNceS: Ahh, Wuji. I am afraid you are escaping from someone. In advance saying, I haven't done illegal smuggling for many years. \\r\\n\rWuji: What should I escape from. Joke.\\r\\n\r[Wuji was acquainted with NceS when he wasn't called Wuji before. This time he offended the leadership, the one first time to think of is this old friend, too.] \\r\\n\rNceS: What's wrong with you guys? Let the old pigeons scream all over the street. Should I say is, just wage arrears, the nonsense problem at all. They have all covered your food and residence, the wage will be paid one day. Can you tell me why add bugs to the game? \\r\\n\rWuji: Alas, the old AI is out of the gate. This time, if don't do it forever, and they won't get paid, let 's breaks up from now! Don't do anything, buddy. The game is over…except giving me wage. Don't take the family press me up! what bastards my brothers are! In order to write the charts, look at my hands, they are just like vulture skins. \\r\\n\rNceS: poof! Good joke! \\r\\n\r[It's true and troublesome for NceS to say, so he secretly disclosed the news of Wuji to Ash. It is difficult for others to solve family problems. Especially this time it was the neighborhood committee that rebelled, there is no business with the union members. ] \\r\\n\rWuji: I always thought your attention was elsewhere. \\r\\n\rNceS: Oh, my friend, just JiangMiTiao and the Ctymax called me though brain call to play mahjong at night. \\r\\n\rWuji: You wouldn't tell them. \\r\\n\rNceS: How could I do that? Do you want to come with us? \\r\\n\rAsh: Let me try it! \\r\\n\rWuji: Damn it, here comes the chase! NceS, I will find you again tomorrow! \\r\\n\rNceS: Bye-bye, welcome at any time. \\r\\n\r[What is a peaceful day for our street today~] \\r\\n\rTV news: Now an urgent news is broadcast: Cyber virus Rubbishphobia that spread by the music game Phigros has been well controlled. Our city's paving expert Sound Souler reminds the public that Rubbishphobia can be healed by hitting the floor with the head. When hit the floor five times, the effect of curing is the best. \\r\\n\rNceS: What the hell is this? \\r\\n\r\rWuji- His Chinese name is無極(Infinite), an evil phigros charter who always creates inhumane charts.\r",
+          "japanese": "収納日付2092/03/32\\r\\n\r保管単位：Alpa\\r\\n\rレベル：Nonsense\\r\\n\r【灯りにともされた大通り、肩がぶつかり合うほどの大勢の人。アヒルの丸焼きの香りが排気口から出て、行き来する人々を魅了し、まるで人形のように操って店までたどり着かせば、あまりのいい香りに人々はそのオーブンの中を見てみたいと思ってしまう。】\\r\\n\r【ご飯までまだ時間がある。NceSは木製の古いアームチェアに座り、手でタイチボールをぐるぐる回していると、右まぶたが痙攣しているのを感じた。これは悪い兆候、今日は閉店としようか。】\\r\\n\r無極：大将、まだやってるか？\\r\\n\rNceS：お前は...無極？いや、ちがう、また頭を変えたのか？\\r\\n\r無極：あんまり触らないでよ、新しく作った頭だ、ピッカピカだぞ。\\r\\n\rNceS：無極よ、お前まさか逃げてきたわけじゃないよな？言っとくが、わしはもう何年も密航者に協力してないぞ。\\r\\n\r無極：俺が逃げる？何から？馬鹿げた話だ。\\r\\n\r【昔、まだ無極がこの名前を使ってない時から、彼はすでにNceSと知り合っていた。今回やらかした時も、第一にこの古い友人を思い浮かべた。】\\r\\n\rNceS：これはこれは、なんてこった。ハトコミュニティの連中に指名手配されて。たったの給料だけじゃないか。住むところも食事も全部くれるもんだから、そんなゲームにバグを入れるなんて、必要あるか？\\r\\n\r無極：って、その話し方、やっぱAIとの付き合いは長いな。今回は絶対にストライキするぞ。給料をくれないともうやらない。もうゲームなんて作ってたまるか。家族だの、親友だの、そんなもん言っても無駄だ。親しい関係だからこそ給料はくれるべきだ。見ろ、俺のこの手を。譜面作ってばかりで皮が剥けたよもう。\\r\\n\rNceS：人間がやるもんじゃない譜面ばっか作ってるからじゃないか。\\r\\n\r【実をいうと、NceSはめんどくさいことにしたくないため、こっそりと無極がここに来ることを阿爽に知らせた。夫婦喧嘩は犬も食わぬ、今回謀反を起こしたのは住民委員会、ハトコミュニティのやつらが追究すれば、ほかの労働組合には関係ない。】\\r\\n\r無極：お前、なんかおかしいぞ。\\r\\n\rNceS：電話してるさ。姜米條とCtyが今夜に麻雀やりたいってな。\\r\\n\r無極：お前…まさか密告してないよな？\\r\\n\rNceS：いやまさか。一人足りない？お前も来ないか？\\r\\n\r阿爽：俺が行く！\\r\\n\r無極：ち、追っ手が来たか。NceS、待ってろよ此畜生！\\r\\n\rNceS：はーいはい、いってらっしゃーい。\\r\\n\r【今日も商店街は平和ですね～】\\r\\n\rテレビニュース：緊急ニュース速報です。リズムゲーム「Phigros」が原因で伝播しているサイバーウイルスゴミ症は、今制御することに成功し、徐々に収束していくと予想されます。我が街の道路専門家Sound Souler氏によりますと、「ゴミ症は頭を地面にぶつけることで治すことが可能で、同時に五回ぶつけると効果がいい」とのことです。\\r\\n\rNceS：……頭おかしいだろ。\\r\\n",
+          "korean": ""
+        }
+      ]
+    },
+    {
+      "keyName": "chongsheng",
+      "multiLanguageTitle": {
+        "chinese": "\r重生",
+        "chineseTraditional": "重生",
+        "english": "Gilgul",
+        "japanese": "輪廻(ギルグル)",
+        "korean": ""
+      },
+      "getSong": 28,
+      "texts": [
+        {
+          "chinese": "收集时间1/08/31\\r\\n\r保管单位：鸠\\r\\n\r等级：main\\r\\n\r蓝色的天空……\\r\\n\r我的脑海里，莫名闪过几个月来的画面，有多久，没见过这样的天空了。\\r\\n\r说来遇见他们也是前不久的事情，天空也是。\\r\\n\r所以这是哪儿？\\r\\n\r霓虹果然，已经毁灭了吗。\\r\\n\r“您醒了。”\\r\\n\r未见其人，先闻其声，来人竟是桃面笑颜，直叫我，晴空梦中惊坐起。\\r\\n\r“新角色！”\\r\\n\r“嗯？”\\r\\n\r冷静一点啊，咕咕，说不定是旧角色套新壳呢，也不是一次两次了。\\r\\n\r“请勿惊慌，我是今天起担任您重生指导员的Igallta，请多指教。”\\r\\n\r“以及，欢迎回到haven（港湾）。”\\r\\n\rHeaven（天堂），果然是死后的世界吗。\\r\\n\r很快，我便再次失去了意识。\\r\\n",
+          "chineseTraditional": "收集時間：1/08/31\\r\\n\r保管單位：Geopelia\\r\\n\r等級：main\\r\\n\r\\r\\n\r藍色的天空······\\r\\n\r我的腦海裡，莫名的閃過這幾個月的畫面，有多久，沒見過這樣的天空了。\\r\\n\r說起來遇見他們也是不久前的事情，天空也是。\\r\\n\r所以這是哪裡？\\r\\n\r霓虹果然，已經毀滅了嗎。\\r\\n\r「您醒了。」\\r\\n\r未見其人，先聞其聲。來者竟是桃面笑顏，直叫我，晴空夢中驚做起。\\r\\n\r「新角色！」\\r\\n\r「嗯？」\\r\\n\r冷靜一點啊，咕咕。說不定是舊角色套新殼呢，也不是一兩次了。\\r\\n\r「請勿驚慌，我是今天起擔任您重生指導員的Igallta，請多指教。」\\r\\n\r「以及，歡迎回到haven（港灣）。」\\r\\n\rHeaven（天堂），果然是死後的世界嗎。\\r\\n\r很快，我便再次失去了意識。\\r\\n",
+          "english": "Date: 1/08/31\\r\\n\rKeeper: Geopelia\\r\\n\rCategory: Main\\r\\n\rBlue sky......\\r\\n\rImages of the pass few months randomly flashed through my mind for no reason. How long has it been, since I've seen sky like this.\\r\\n\rSpeaking of it, it was also not long before coming across them; same for the sky.\\r\\n\rSo what is this place?\\r\\n\rNeon has indeed, already been destroyed then.\\r\\n\r\"\"You are awake.\"\"\\r\\n\rI heard the voice before seeing the person, whose smile like a flower blooming, woken me right up from the daydream.\\r\\n\r\"\"New character!\"\"\\r\\n\r\"\"What?\"\"\\r\\n\rCalm down, Coo-coo, maybe it's just an old character in a new shell. It is not the first time after all.\\r\\n\r\"\"Please do not panic. I am Igallta, your gilgul instructor from today onwards. It is my pleasure to meet you.\"\"\\r\\n\r\"\"And, welcome back to haven.\"\"\\r\\n\rHeaven, so is this indeed the afterlife.\\r\\n\rSoon, I lost conscious again.\\r\\n\r",
+          "japanese": "収納日付1/08/31\\r\\n\r保管単位：鳩\\r\\n\rレベル：main\\r\\n\r青い空……\\r\\n\rふと脳内に、数か月以来の出来事がフラッシュバックした。こんな青空は、いつぶりかな……\\r\\n\rそういえばあの人たちに出会ったのもちょっと前のことだった、空もだ。\\r\\n\r……と、いうことで…ここはどこ？\\r\\n\rやっぱりネオンはもう、壊滅したのか。\\r\\n\r「お目覚めになられたのですね。」\\r\\n\rまだ姿は見えず、先にその声が聞こえてきた。ようやく出てきたこの人は満面の笑顔で私を呼んでいた。白昼夢を見ていた私は慌てて体を起こした。\\r\\n\r「新キャラだ！」\\r\\n\r「……ん？」\\r\\n\r落ち着け、ポッポ。古いキャラクターがスタイルを変えて出てきたかもしれない、これはもう一度や二度あったことじゃないんだ。\\r\\n\r「そんなに慌てないでください。私は今日からあなたの輪廻指導員を担当しますIgalltaと申します。よろしくお願いします。」\\r\\n\r「それから、ようこそヘブン(港)にお帰りなさいました。」\\r\\n\rヘブン(天国)か。やはりここは死後の世界なのか。\\r\\n\rすぐに、私は再び意識を失った。\\r\\n",
+          "korean": ""
+        }
+      ]
+    },
+    {
+      "keyName": "poyiIG",
+      "multiLanguageTitle": {
+        "chinese": "\r破译·Igallta",
+        "chineseTraditional": "破譯·Igallta",
+        "english": "Decipher - Igallta",
+        "japanese": "解読·Igallta",
+        "korean": ""
+      },
+      "getSong": 31,
+      "texts": [
+        {
+          "chinese": "收集时间1/08/31\\r\\n 保管单位：deathMark\\r\\n 等级：key\\r\\n Trending：\\r\\n 00:00 Genesis 8:12\\r\\n 02:08 Trecheng Breth Féne 29/92/133/244/255\\r\\n 04:01 二子乘舟，泛泛其景。愿言思子，中心养养。\\r\\n 06:31 PPPPPPhigrOS_Project_Stage_Final_VI_ArkDoom_Igallta_deciphered\\r\\n 08:31 久等了，接下来，请根据我的指示操作。\\r\\n \\r\\n HINT:\\r\\n 请不要击打以下冒牌notes:\\r\\n EZ:214\\r\\n HD:185/398\\r\\n IN:218/495/629\\r\\n 敌人对「方舟Six」的侵入停止了，Igallta比我们想象的要弱。\\r\\n 冒牌note和其他正常note格格不入，所以数note是不必要的，请相信你的直觉。\\r\\n ",
+          "chineseTraditional": "收集時間：1/08/31\\r\\n\r保管單位：deathMark\\r\\n\r等級：key\\r\\n\r\\r\\n\rTrending：\\r\\n\r00:00 Genesis 8:12\\r\\n\r02:08 Trecheng Breth Féne 29/92/133/244/255\\r\\n\r04:01 二子乘舟，泛泛其景。愿言思子，中心养养。\\r\\n\r06:31 PPPPPPhigrOS_Project_Stage_Final_VI_ArkDoom_Igallta_deciphered\\r\\n\r08:31 久等了。接下來，請根據我的指示操作。\\r\\n\r\\r\\n\rHINT：\\r\\n\r請不要打擊以下冒牌notes：\\r\\n\rEZ：214\\r\\n\rHD：185/398\\r\\n\rIN：218/495/629\\r\\n\r敵人停止侵入「方舟Six」了，Igallta比我們想像的還要弱。\\r\\n\r冒牌note和其他正常note格格不入，所以數note是不必要的，請相信你的直覺。\\r\\n",
+          "english": "Date: 1/08/31\\r\\n\rKeeper: deathMark\\r\\n\rCategory: Key\\r\\n\rTrending: \\r\\n\r00:00 Genesis 8:12\\r\\n\r02:08 Trecheng Breth Féne 29/92/133/244/255\\r\\n\r04:01 二子乘舟，泛泛其景。愿言思子，中心养养。\\r\\n\r06:31 PPPPPPhigrOS_Project_Stage_Final_VI_ArkDoom_Igallta_deciphered\\r\\n\r08:31 Thank you for your waiting. Now, please follow my instructions.\\r\\n\\r\\n\rHINT:\\r\\n\rDo not hit the following fake notes:\\r\\n\rEZ:214\\r\\n\rHD:185/398\\r\\n\rIN:218/495/629\\r\\n\rThe enemies have ceased their invasion towards「方舟 Six」. Igallta is weaker than we imagined.\\r\\n\rFake notes are out of place among normal notes, so trust your intuition and stop counting them.\\r\\n",
+          "japanese": "収納日付1/08/31\\r\\n 保管単位：deathMark\\r\\n レベル：key\\r\\n Trending：\\r\\n 00:00 Genesis 8:12\\r\\n 02:08 Trecheng Breth Féne 29/92/133/244/255\\r\\n 04:01 二子乘舟，泛泛其景。愿言思子，中心养养。\\r\\n 06:31 PPPPPPhigrOS_Project_Stage_Final_VI_ArkDoom_Igallta_deciphered\\r\\n 08:31 お待たせしました、これからは私の指示に従って操作してください。\\r\\n \\r\\n HINT:\\r\\n 以下のコンボ数に出てくる偽のノーツに触れないでください:\\r\\n EZ:214\\r\\n HD:185/398\\r\\n IN:218/495/629\\r\\n 敵側から「方舟Six」への侵入は止まりました。Igalltaは私たちが想像したものよりも弱いです。\\r\\n 偽のノーツは他の正常ノーツとは違いがあるので，ノーツの数を数える必要はありません。自分の勘を信じてください。\\r\\n ",
+          "korean": ""
+        }
+      ]
+    },
+    {
+      "keyName": "poyiARK",
+      "multiLanguageTitle": {
+        "chinese": "\r破译·望影の方舟Six",
+        "chineseTraditional": "破譯·望影の方舟Six",
+        "english": "Decipher · 望影の方舟Six",
+        "japanese": "解読·望影の方舟Six",
+        "korean": ""
+      },
+      "getSong": 30,
+      "texts": [
+        {
+          "chinese": "收集时间1/08/31\\r\\n\r保管单位：鸠\\r\\n\r等级：key\\r\\n\r-【重生】登记处-\\r\\n\rIgallta:请随我往这边走。\\r\\n\r鸠：哦哦！\\r\\n\r【重生登记处的大厅中，数万块透明屏幕，随机闪烁着六位数字。这里每一块面板都有它的名字，而名为Gino的屏幕上，大大的000000格外显目。】\\r\\n\r鸠：Gino！唉？怎么自动跳到一百万了。\\r\\n\rIgallta：鸠？\\r\\n\r鸠：来了来了。\\r\\n\r\\r\\n\rHINT：【重生】跳转到1000000后，【望影の方舟Six】似乎也产生了变化。\\r\\n\r",
+          "chineseTraditional": "收集時間：1/08/31\\r\\n\r保管單位：Geopelia\\r\\n\r等級：key\\r\\n\r\\r\\n\r- 【重生】登記處 -\\r\\n\rIgallta：請跟隨我往這邊走。\\r\\n\rGeopelia：哦哦！\\r\\n\r【重生登記處的大廳中，數萬塊透明螢幕，隨機閃爍著六位數字。這裡的每一塊面板都有著它的名字，而在名為Gino的螢幕上，大大的000000格外顯眼。】\\r\\n\rGeopelia：Gino！唉？怎麼自動跳到一百萬了。\\r\\n\rIgallta：鳩？\\r\\n\rGeopelia：來了來了。\\r\\n \r\\r\\n\rHINT：【重生】跳轉到1000000後，【望影の方舟Six】似乎也產生了變化。\\r\\n\r",
+          "english": "Date: 1/08/31\\r\\n\rKeeper: Geopelia\\r\\n\rCategory: Key\\r\\n\r-【重生】Reception-\\r\\n\rIgallta: Please follow me this way.\\r\\n\rGeopelia: OK!\\r\\n\r【Coated on the walls of the reception hall were tens of thousands of transparent panels, each blinking with six-digit numbers. A name was given to every panel, and on the one named Gino, a big 000000 was especially eye-catching.】\\r\\n\rGeopelia: Gino, what? Why did it automatically turn into 1000000?\\r\\n\rIgallta: Geopelia?\\r\\n\rGeopelia: I'm coming!\\r\\n\r\\r\\n\rHINT: When 1000000 was reached for【重生】,【望影の方舟Six】also began to change.\\r\\n",
+          "japanese": "収納日付1/08/31\\r\\n\r保管単位：鳩\\r\\n\rレベル：key\\r\\n\r-【重生】受付所-\\r\\n\rIgallta：「どうぞこちらへ」\\r\\n\r鳩：「おお！」\\r\\n\r【重生(輪廻)受付所のロビーには数万枚、異なるランダムな六桁の数字を表示しているスクリーンがある。このスクリーンの一枚一枚に名前が付いている。そして、その「Gino」という名前が付いているスクリーンには、「000000」という目立った数字が表示されている。】\\r\\n\r鳩：「Gino！…えっ、なんで自動的に百万まで飛んだ？？」\\r\\n\rlgallta：「鳩？」\\r\\n\r鳩：「ハイハイ。」\\r\\n\r\\r\\n\rHINT: 【重生】が1000000まで飛んでから、【望影の方舟Six】にも何か変化が起きたようだ。\\r\\n\r",
+          "korean": ""
+        }
+      ]
+    }
+  ],
+  "cutOut": {
+    "m_FileID": 3,
+    "m_PathID": 19
+  },
+  "filePreferb": {
+    "m_FileID": 2,
+    "m_PathID": 17
+  },
+  "fileText": {
+    "m_FileID": 0,
+    "m_PathID": 300
+  },
+  "fileTextTitle": {
+    "m_FileID": 0,
+    "m_PathID": 254
+  },
+  "fileWindowGameObject": {
+    "m_FileID": 0,
+    "m_PathID": 56
+  },
+  "fileCanvas": {
+    "m_FileID": 0,
+    "m_PathID": 10
+  },
+  "numOfFileText": {
+    "m_FileID": 0,
+    "m_PathID": 40
+  },
+  "chapterText": {
+    "m_FileID": 0,
+    "m_PathID": 29
+  },
+  "fileGameObjdect": {
+    "m_FileID": 0,
+    "m_PathID": 39
+  },
+  "fileTransform": {
+    "m_FileID": 0,
+    "m_PathID": 14
+  },
+  "gotData": {
+    "m_FileID": 0,
+    "m_PathID": 77
+  },
+  "audioPlayer": {
+    "m_FileID": 0,
+    "m_PathID": 252
+  },
+  "getMoneyList": [
+    {
+      "num": 512,
+      "floatNum": 0.0,
+      "unit": 0
+    },
+    {
+      "num": 0,
+      "floatNum": 0.0,
+      "unit": 1
+    },
+    {
+      "num": 0,
+      "floatNum": 0.0,
+      "unit": 2
+    },
+    {
+      "num": 0,
+      "floatNum": 0.0,
+      "unit": 3
+    },
+    {
+      "num": 0,
+      "floatNum": 0.0,
+      "unit": 4
+    }
+  ]
+}

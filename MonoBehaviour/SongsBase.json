@@ -1,0 +1,3690 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 28
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 279
+  },
+  "m_Name": "",
+  "mainSongs": [
+    {
+      "songsId": "Glaciaxion.SunsetRay.0",
+      "songsKey": "Glaciaxion",
+      "songsName": "Glaciaxion",
+      "songsTitle": "",
+      "difficulty": [
+        2.7,
+        5.4,
+        11.2,
+        0.0
+      ],
+      "illustrator": "艾若拉",
+      "charter": [
+        "Arenn Saki",
+        "Arenn Saki",
+        "Arenn Saki",
+        ""
+      ],
+      "composer": "SunsetRay",
+      "levels": [
+        "EZ",
+        "HD",
+        "IN",
+        "AT"
+      ],
+      "previewTime": 15.42,
+      "allComboNum": [
+        238,
+        291,
+        611,
+        0
+      ]
+    },
+    {
+      "songsId": "EradicationCatastrophe.NceS.0",
+      "songsKey": "Eradication Catastrophe",
+      "songsName": "Eradication Catastrophe",
+      "songsTitle": "",
+      "difficulty": [
+        3.5,
+        7.5,
+        12.1,
+        0.0
+      ],
+      "illustrator": "海产",
+      "charter": [
+        "阿爽",
+        "阿爽",
+        "阿爽 & Ctymax",
+        ""
+      ],
+      "composer": "NceS",
+      "levels": [
+        "EZ",
+        "HD",
+        "IN",
+        "AT"
+      ],
+      "previewTime": 48.012,
+      "allComboNum": [
+        111,
+        319,
+        463,
+        0
+      ]
+    },
+    {
+      "songsId": "Credits.Frums.0",
+      "songsKey": "Credits",
+      "songsName": "Credits",
+      "songsTitle": "",
+      "difficulty": [
+        4.4,
+        10.4,
+        13.7,
+        0.0
+      ],
+      "illustrator": "Ctymax",
+      "charter": [
+        "Ctymax",
+        "Ctymax",
+        "Ctymax",
+        ""
+      ],
+      "composer": "Frums",
+      "levels": [
+        "EZ",
+        "HD",
+        "IN",
+        "AT"
+      ],
+      "previewTime": 32.0,
+      "allComboNum": [
+        188,
+        355,
+        535,
+        0
+      ]
+    },
+    {
+      "songsId": "Dlyrotz.Likey.0",
+      "songsKey": "Dlyrotz",
+      "songsName": "Dlyrotz",
+      "songsTitle": "",
+      "difficulty": [
+        6.5,
+        11.7,
+        14.6,
+        0.0
+      ],
+      "illustrator": "DoublePian",
+      "charter": [
+        "晨",
+        "晨",
+        "晨 vs Barbarianerman",
+        ""
+      ],
+      "composer": "Likey",
+      "levels": [
+        "EZ",
+        "HD",
+        "IN",
+        "AT"
+      ],
+      "previewTime": 23.0,
+      "allComboNum": [
+        279,
+        382,
+        764,
+        0
+      ]
+    },
+    {
+      "songsId": "EnginexStartmelodymix.CrossingSound.0",
+      "songsKey": "Engine x Start!! (melody mix)",
+      "songsName": "Engine x Start!! (melody mix)",
+      "songsTitle": "",
+      "difficulty": [
+        4.7,
+        10.5,
+        13.4,
+        0.0,
+        15.1
+      ],
+      "illustrator": "赤芽",
+      "charter": [
+        "Arenn Saki&Catcats",
+        "Arenn Saki&Catcats",
+        "Arenn Saki&Catcats",
+        "",
+        "Arenn Saki&Catcats"
+      ],
+      "composer": "CrossingSound",
+      "levels": [
+        "EZ",
+        "HD",
+        "IN",
+        "AT",
+        "Legacy"
+      ],
+      "previewTime": 47.74,
+      "allComboNum": [
+        126,
+        264,
+        433,
+        0,
+        564
+      ]
+    },
+    {
+      "songsId": "光.姜米條.0",
+      "songsKey": "光",
+      "songsName": "光",
+      "songsTitle": "",
+      "difficulty": [
+        4.9,
+        8.4,
+        13.6,
+        0.0,
+        13.6
+      ],
+      "illustrator": "winder",
+      "charter": [
+        "Catcats & 壹佰九十八",
+        "Catcats & 壹佰九十八",
+        "Catcats & 壹佰九十八",
+        "",
+        "Catcats"
+      ],
+      "composer": "姜米條",
+      "levels": [
+        "EZ",
+        "HD",
+        "IN",
+        "AT",
+        "Legacy"
+      ],
+      "previewTime": 63.33,
+      "allComboNum": [
+        249,
+        453,
+        517,
+        0,
+        532
+      ]
+    },
+    {
+      "songsId": "Wintercube.CtymaxfeatNceS.0",
+      "songsKey": "Winter ↑cube↓",
+      "songsName": "Winter ↑cube↓",
+      "songsTitle": "",
+      "difficulty": [
+        6.7,
+        11.6,
+        13.4,
+        0.0
+      ],
+      "illustrator": "翠冷兮",
+      "charter": [
+        "小鹏",
+        "小鹏",
+        "小鹏",
+        ""
+      ],
+      "composer": "Ctymax feat. NceS",
+      "levels": [
+        "EZ",
+        "HD",
+        "IN",
+        "AT"
+      ],
+      "previewTime": 9.5,
+      "allComboNum": [
+        401,
+        701,
+        909,
+        0
+      ]
+    },
+    {
+      "songsId": "Cipher20.TetrajectoryfeatCtymax.0",
+      "songsKey": "Cipher : /2&//<|0",
+      "songsName": "Cipher : /2&//<|0",
+      "songsTitle": "",
+      "difficulty": [
+        6.8,
+        10.8,
+        14.9,
+        0.0
+      ],
+      "illustrator": "Zris",
+      "charter": [
+        "Gausbon",
+        "Gausbon",
+        "Gausbon",
+        ""
+      ],
+      "composer": "Tetrajectory feat.Ctymax",
+      "levels": [
+        "EZ",
+        "HD",
+        "IN",
+        "AT"
+      ],
+      "previewTime": 37.54,
+      "allComboNum": [
+        380,
+        526,
+        969,
+        0
+      ]
+    },
+    {
+      "songsId": "混乱Confusion.OnlyMyBlackScore.0",
+      "songsKey": "混乱-Confusion",
+      "songsName": "混乱-Confusion",
+      "songsTitle": "",
+      "difficulty": [
+        5.3,
+        11.4,
+        13.9,
+        0.0
+      ],
+      "illustrator": "L-sp4",
+      "charter": [
+        "月下樱&115",
+        "月下樱&115",
+        "月下樱&115",
+        ""
+      ],
+      "composer": "OnlyMyBlackScore",
+      "levels": [
+        "EZ",
+        "HD",
+        "IN",
+        "AT"
+      ],
+      "previewTime": 77.33,
+      "allComboNum": [
+        290,
+        639,
+        753,
+        0
+      ]
+    },
+    {
+      "songsId": "FULiAUTOSHOOTER.MYUKKE.0",
+      "songsKey": "FULi AUTO SHOOTER",
+      "songsName": "FULi AUTO SHOOTER",
+      "songsTitle": "",
+      "difficulty": [
+        4.1,
+        11.3,
+        15.1,
+        0.0
+      ],
+      "illustrator": "ViscerA & Psycholine",
+      "charter": [
+        "AUTO. SHOOTER.",
+        "AUTO. SHOOTER.",
+        "AUTO. SHOOTER. fixed by Ctymax",
+        ""
+      ],
+      "composer": "MYUKKE.",
+      "levels": [
+        "EZ",
+        "HD",
+        "IN",
+        "AT"
+      ],
+      "previewTime": 53.781,
+      "allComboNum": [
+        165,
+        537,
+        843,
+        0
+      ]
+    },
+    {
+      "songsId": "HumaN.SOTUI.0",
+      "songsKey": "HumaN",
+      "songsName": "HumaN",
+      "songsTitle": "",
+      "difficulty": [
+        5.6,
+        8.8,
+        13.2,
+        0.0,
+        12.9
+      ],
+      "illustrator": "CH",
+      "charter": [
+        "阿爽",
+        "阿爽",
+        "CN_115+TangScend",
+        "",
+        "阿爽"
+      ],
+      "composer": "SOTUI",
+      "levels": [
+        "EZ",
+        "HD",
+        "IN",
+        "AT",
+        "Legacy"
+      ],
+      "previewTime": 84.989,
+      "allComboNum": [
+        182,
+        384,
+        554,
+        0,
+        651
+      ]
+    },
+    {
+      "songsId": "PRAW.Bluewind.0",
+      "songsKey": "[PRAW]",
+      "songsName": "[PRAW]",
+      "songsTitle": "",
+      "difficulty": [
+        4.4,
+        11.8,
+        14.6,
+        0.0,
+        13.9
+      ],
+      "illustrator": "老张",
+      "charter": [
+        "阿爽",
+        "阿爽",
+        "晨 vs. 阿爽",
+        "",
+        "阿爽"
+      ],
+      "composer": "Bluewind",
+      "levels": [
+        "EZ",
+        "HD",
+        "IN",
+        "AT",
+        "Legacy"
+      ],
+      "previewTime": 129.14,
+      "allComboNum": [
+        422,
+        691,
+        1172,
+        0,
+        817
+      ]
+    },
+    {
+      "songsId": "PixelRebelz.Normal1zer.0",
+      "songsKey": "Pixel Rebelz",
+      "songsName": "Pixel Rebelz",
+      "songsTitle": "",
+      "difficulty": [
+        4.5,
+        11.9,
+        14.6,
+        0.0
+      ],
+      "illustrator": "艾是Abby",
+      "charter": [
+        "阿爽",
+        "阿爽",
+        "阿爽",
+        ""
+      ],
+      "composer": "Normal1zer",
+      "levels": [
+        "EZ",
+        "HD",
+        "IN",
+        "AT"
+      ],
+      "previewTime": 110.4,
+      "allComboNum": [
+        250,
+        702,
+        961,
+        0
+      ]
+    },
+    {
+      "songsId": "Cereris.SunsetRayNceS.0",
+      "songsKey": "Cereris",
+      "songsName": "Cereris",
+      "songsTitle": "",
+      "difficulty": [
+        6.9,
+        11.2,
+        14.8,
+        0.0
+      ],
+      "illustrator": "Zris",
+      "charter": [
+        "StupiGGy",
+        "StupiGGy",
+        "StupiGGy",
+        ""
+      ],
+      "composer": "SunsetRay/NceS",
+      "levels": [
+        "EZ",
+        "HD",
+        "IN",
+        "AT"
+      ],
+      "previewTime": 57.58,
+      "allComboNum": [
+        470,
+        703,
+        898,
+        0
+      ]
+    },
+    {
+      "songsId": "NonMelodicRagezMUGEdit.Normal1zer.0",
+      "songsKey": "Non-Melodic Ragez (MUG Edit)",
+      "songsName": "Non-Melodic Ragez (MUG Edit)",
+      "songsTitle": "",
+      "difficulty": [
+        5.8,
+        10.5,
+        15.8,
+        0.0,
+        15.8
+      ],
+      "illustrator": "cycats",
+      "charter": [
+        "分化者『RageS』",
+        "分化者『RageS』",
+        "分化者 fixed by Barbarianerman",
+        "",
+        "分化者『RageS』"
+      ],
+      "composer": "Normal1zer",
+      "levels": [
+        "EZ",
+        "HD",
+        "IN",
+        "AT",
+        "Legacy"
+      ],
+      "previewTime": 63.085,
+      "allComboNum": [
+        221,
+        604,
+        1235,
+        0,
+        1028
+      ]
+    },
+    {
+      "songsId": "SultanRage.MonstDeath.0",
+      "songsKey": "Sultan Rage",
+      "songsName": "Sultan Rage",
+      "songsTitle": "",
+      "difficulty": [
+        3.9,
+        8.5,
+        12.2,
+        0.0
+      ],
+      "illustrator": "笔记RE",
+      "charter": [
+        "壹佰九十八",
+        "壹佰九十八",
+        "壹佰九十八",
+        ""
+      ],
+      "composer": "MonstDeath",
+      "levels": [
+        "EZ",
+        "HD",
+        "IN",
+        "AT"
+      ],
+      "previewTime": 15.87,
+      "allComboNum": [
+        159,
+        334,
+        485,
+        0
+      ]
+    },
+    {
+      "songsId": "ClassMemories.AntistarfeatCtymax.0",
+      "songsKey": "Class Memories",
+      "songsName": "Class Memories",
+      "songsTitle": "",
+      "difficulty": [
+        4.5,
+        8.9,
+        12.8,
+        0.0
+      ],
+      "illustrator": "xperz",
+      "charter": [
+        "JKy",
+        "JKy",
+        "JKy",
+        ""
+      ],
+      "composer": "Antistar feat. Ctymax",
+      "levels": [
+        "EZ",
+        "HD",
+        "IN",
+        "AT"
+      ],
+      "previewTime": 73.5,
+      "allComboNum": [
+        612,
+        801,
+        1194,
+        0
+      ]
+    },
+    {
+      "songsId": "SURREALISM.Itsuki.0",
+      "songsKey": "-SURREALISM-",
+      "songsName": "-SURREALISM-",
+      "songsTitle": "",
+      "difficulty": [
+        4.6,
+        7.7,
+        13.4,
+        0.0
+      ],
+      "illustrator": "喵n葵",
+      "charter": [
+        "-StupiGGy-",
+        "-StupiGGy-",
+        "-StupiGGy-",
+        ""
+      ],
+      "composer": "Itsuki",
+      "levels": [
+        "EZ",
+        "HD",
+        "IN",
+        "AT"
+      ],
+      "previewTime": 54.666,
+      "allComboNum": [
+        302,
+        532,
+        915,
+        0
+      ]
+    },
+    {
+      "songsId": "BonusTime.MegaloPaleWhite.0",
+      "songsKey": "Bonus Time",
+      "songsName": "Bonus Time",
+      "songsTitle": "",
+      "difficulty": [
+        4.7,
+        9.3,
+        14.2,
+        0.0,
+        13.5
+      ],
+      "illustrator": "笔记RE",
+      "charter": [
+        "Uvernight",
+        "Uvernight",
+        "Uvernight",
+        "",
+        "Uvernight"
+      ],
+      "composer": "Megalo_PaleWhite",
+      "levels": [
+        "EZ",
+        "HD",
+        "IN",
+        "AT",
+        "Legacy"
+      ],
+      "previewTime": 23.36,
+      "allComboNum": [
+        194,
+        326,
+        687,
+        0,
+        762
+      ]
+    },
+    {
+      "songsId": "ENERGYSYNERGYMATRIX.Tanchiky.0",
+      "songsKey": "Energy Synergy Matrix",
+      "songsName": "ENERGY SYNERGY MATRIX",
+      "songsTitle": "",
+      "difficulty": [
+        5.9,
+        10.7,
+        14.8,
+        0.0
+      ],
+      "illustrator": "Karameru",
+      "charter": [
+        "Ctymax vs 阿爽 ",
+        "Ctymax vs 阿爽 ",
+        "Ctymax vs 阿爽 ",
+        ""
+      ],
+      "composer": "Tanchiky",
+      "levels": [
+        "EZ",
+        "HD",
+        "IN",
+        "AT"
+      ],
+      "previewTime": 85.526,
+      "allComboNum": [
+        190,
+        468,
+        615,
+        0
+      ]
+    },
+    {
+      "songsId": "NYA.FLuoRiTe姜米條.0",
+      "songsKey": "NYA!!!",
+      "songsName": "NYA!!!",
+      "songsTitle": "",
+      "difficulty": [
+        1.8,
+        8.6,
+        12.9,
+        0.0
+      ],
+      "illustrator": "NEKO&海产",
+      "charter": [
+        "HCC!!!",
+        "HCC!!!",
+        "HCC!!!",
+        ""
+      ],
+      "composer": "FLuoRiTe/姜米條",
+      "levels": [
+        "EZ",
+        "HD",
+        "IN",
+        "AT"
+      ],
+      "previewTime": 39.35,
+      "allComboNum": [
+        122,
+        428,
+        666,
+        0
+      ]
+    },
+    {
+      "songsId": "JunXionBetweenLifeAndDeathVIPMix.1N6Fs.0",
+      "songsKey": "JunXion Between Life And Death(VIP Mix)",
+      "songsName": "JunXion Between Life And Death(VIP Mix)",
+      "songsTitle": "",
+      "difficulty": [
+        3.2,
+        8.7,
+        13.3,
+        0.0
+      ],
+      "illustrator": "IvyTowers",
+      "charter": [
+        "鲲&壹佰九十八",
+        "鲲&壹佰九十八",
+        "鲲&壹佰九十八",
+        ""
+      ],
+      "composer": "1N6Fs",
+      "levels": [
+        "EZ",
+        "HD",
+        "IN",
+        "AT"
+      ],
+      "previewTime": 111.219,
+      "allComboNum": [
+        262,
+        593,
+        722,
+        0
+      ]
+    },
+    {
+      "songsId": "cryout.JuE.0",
+      "songsKey": "cryout",
+      "songsName": "cryout",
+      "songsTitle": "",
+      "difficulty": [
+        4.3,
+        9.9,
+        13.7,
+        0.0
+      ],
+      "illustrator": "Haight",
+      "charter": [
+        "Ctymax",
+        "Ctymax",
+        "Ctymax",
+        ""
+      ],
+      "composer": "Ju_E",
+      "levels": [
+        "EZ",
+        "HD",
+        "IN",
+        "AT"
+      ],
+      "previewTime": 54.0,
+      "allComboNum": [
+        221,
+        529,
+        733,
+        0
+      ]
+    },
+    {
+      "songsId": "Reimei.影虎.0",
+      "songsKey": "Reimei",
+      "songsName": "Reimei",
+      "songsTitle": "",
+      "difficulty": [
+        6.8,
+        12.7,
+        15.3,
+        0.0
+      ],
+      "illustrator": "英英英",
+      "charter": [
+        "壹佰九十八",
+        "壹佰九十八",
+        "壹佰九十八",
+        ""
+      ],
+      "composer": "影虎。",
+      "levels": [
+        "EZ",
+        "HD",
+        "IN",
+        "AT"
+      ],
+      "previewTime": 95.675,
+      "allComboNum": [
+        325,
+        644,
+        983,
+        0
+      ]
+    },
+    {
+      "songsId": "尊師TheGuru.rider.0",
+      "songsKey": "尊師 ～The Guru～",
+      "songsName": "尊師 ～The Guru～",
+      "songsTitle": "",
+      "difficulty": [
+        3.6,
+        9.4,
+        15.2,
+        0.0
+      ],
+      "illustrator": "1B",
+      "charter": [
+        "奥術 ~The Empery~",
+        "奥術 ~The Empery~",
+        "奥術 ~The Empery~",
+        ""
+      ],
+      "composer": "rider",
+      "levels": [
+        "EZ",
+        "HD",
+        "IN",
+        "AT"
+      ],
+      "previewTime": 91.569,
+      "allComboNum": [
+        180,
+        346,
+        736,
+        0
+      ]
+    },
+    {
+      "songsId": "Spasmodic.姜米條颶風元力上人.0",
+      "songsKey": "Spasmodic",
+      "songsName": "Spasmodic",
+      "songsTitle": "",
+      "difficulty": [
+        7.9,
+        12.6,
+        15.4,
+        16.4
+      ],
+      "illustrator": "昔璃☆暴雨 ~ ♫危難聖帝♫",
+      "charter": [
+        "無極☆雷鳴 ~ ♫死の序曲♫",
+        "無極☆雷鳴 ~ ♫死の序曲♫",
+        "無極☆雷鳴 ~ ♫死の序曲♫",
+        "無極☆雷鳴 ~ ♫死の序曲♫"
+      ],
+      "composer": "姜米條☆颶風 ~ ♫元力上人♫",
+      "levels": [
+        "EZ",
+        "HD",
+        "IN",
+        "AT"
+      ],
+      "previewTime": 72.6,
+      "allComboNum": [
+        637,
+        904,
+        1389,
+        1671
+      ]
+    },
+    {
+      "songsId": "LeaveAllBehind.rider.0",
+      "songsKey": "Leave All Behind",
+      "songsName": "Leave All Behind",
+      "songsTitle": "",
+      "difficulty": [
+        2.5,
+        6.4,
+        12.7,
+        0.0
+      ],
+      "illustrator": "笔记RE",
+      "charter": [
+        "亚树见希子&198",
+        "亚树见希子&198",
+        "亚树见希子&198",
+        ""
+      ],
+      "composer": "rider",
+      "levels": [
+        "EZ",
+        "HD",
+        "IN",
+        "AT"
+      ],
+      "previewTime": 27.188,
+      "allComboNum": [
+        210,
+        394,
+        523,
+        0
+      ]
+    },
+    {
+      "songsId": "ColorfulDays.P4koofeatつゆり花鈴.0",
+      "songsKey": "Colorful Days♪",
+      "songsName": "Colorful Days♪",
+      "songsTitle": "",
+      "difficulty": [
+        4.6,
+        7.1,
+        12.7,
+        0.0
+      ],
+      "illustrator": "Doro-nyong & Ratif",
+      "charter": [
+        "阿♪爽",
+        "阿♪爽",
+        "阿♪爽",
+        ""
+      ],
+      "composer": "P4koo feat. つゆり花鈴",
+      "levels": [
+        "EZ",
+        "HD",
+        "IN",
+        "AT"
+      ],
+      "previewTime": 47.02,
+      "allComboNum": [
+        156,
+        186,
+        407,
+        0
+      ]
+    },
+    {
+      "songsId": "microwav.dandeless.0",
+      "songsKey": "micro.wav",
+      "songsName": "micro.wav",
+      "songsTitle": "",
+      "difficulty": [
+        6.2,
+        10.7,
+        14.5,
+        0.0
+      ],
+      "illustrator": "snake.ribs",
+      "charter": [
+        "壹佰九十八",
+        "壹佰九十八",
+        "壹佰九十八",
+        ""
+      ],
+      "composer": "dandeless",
+      "levels": [
+        "EZ",
+        "HD",
+        "IN",
+        "AT"
+      ],
+      "previewTime": 29.305,
+      "allComboNum": [
+        196,
+        459,
+        649,
+        0
+      ]
+    },
+    {
+      "songsId": "重生.姜米條.0",
+      "songsKey": "重生",
+      "songsName": "重生",
+      "songsTitle": "",
+      "difficulty": [
+        5.8,
+        9.3,
+        14.6,
+        0.0
+      ],
+      "illustrator": "昔璃&TNiK",
+      "charter": [
+        "Barbarianerman",
+        "Barbarianerman",
+        "Barbarianerman",
+        ""
+      ],
+      "composer": "姜米條",
+      "levels": [
+        "EZ",
+        "HD",
+        "IN",
+        "AT"
+      ],
+      "previewTime": 61.532,
+      "allComboNum": [
+        354,
+        650,
+        902,
+        0
+      ]
+    },
+    {
+      "songsId": "NOONEYESMAN.MYUKKE.0",
+      "songsKey": "NO ONE YES MAN",
+      "songsName": "NO ONE YES MAN",
+      "songsTitle": "",
+      "difficulty": [
+        5.5,
+        11.8,
+        15.4,
+        0.0
+      ],
+      "illustrator": "青鸟",
+      "charter": [
+        "Ctymax",
+        "晨",
+        "晨 vs. Ctymax",
+        ""
+      ],
+      "composer": "MYUKKE.",
+      "levels": [
+        "EZ",
+        "HD",
+        "IN",
+        "AT"
+      ],
+      "previewTime": 28.953,
+      "allComboNum": [
+        394,
+        612,
+        844,
+        0
+      ]
+    },
+    {
+      "songsId": "望影の方舟Six.SeURa.0",
+      "songsKey": "望影の方舟Six",
+      "songsName": "望影の方舟Six",
+      "songsTitle": "",
+      "difficulty": [
+        6.3,
+        12.9,
+        15.9,
+        0.0
+      ],
+      "illustrator": "鲸弑",
+      "charter": [
+        "六回目Traveler Scend",
+        "六回目Traveler Scend",
+        "六回目Traveler Scend as \"Knight of Arq\"",
+        ""
+      ],
+      "composer": "Se-U-Ra",
+      "levels": [
+        "EZ",
+        "HD",
+        "IN",
+        "AT"
+      ],
+      "previewTime": 71.114,
+      "allComboNum": [
+        276,
+        526,
+        1066,
+        0
+      ]
+    },
+    {
+      "songsId": "Igallta.SeURa.0",
+      "songsKey": "Igallta",
+      "songsName": "Igallta",
+      "songsTitle": "",
+      "difficulty": [
+        7.7,
+        12.7,
+        15.8,
+        16.7
+      ],
+      "illustrator": "Se-U-Ra",
+      "charter": [
+        "信仰の剣『生』",
+        "平川の剣『士』",
+        "夜明の剣『靈』",
+        "断罪の剣『神』"
+      ],
+      "composer": "Se-U-Ra",
+      "levels": [
+        "EZ",
+        "HD",
+        "IN",
+        "AT"
+      ],
+      "previewTime": 79.826,
+      "allComboNum": [
+        414,
+        601,
+        1018,
+        1114
+      ]
+    }
+  ],
+  "extraSongs": [
+    {
+      "songsId": "Doppelganger.LeaF.0",
+      "songsKey": "Doppelganger",
+      "songsName": "Doppelganger",
+      "songsTitle": "",
+      "difficulty": [
+        4.8,
+        9.4,
+        14.8,
+        0.0,
+        13.0
+      ],
+      "illustrator": "海产",
+      "charter": [
+        "阿爽",
+        "阿爽",
+        "Gausbon",
+        "",
+        "阿爽"
+      ],
+      "composer": "LeaF",
+      "levels": [
+        "EZ",
+        "HD",
+        "IN",
+        "AT",
+        "Legacy"
+      ],
+      "previewTime": 3.87,
+      "allComboNum": [
+        257,
+        439,
+        921,
+        0,
+        746
+      ]
+    },
+    {
+      "songsId": "もぺもぺ.LeaF.0",
+      "songsKey": "もぺもぺ",
+      "songsName": "もぺもぺ",
+      "songsTitle": "",
+      "difficulty": [
+        3.4,
+        8.5,
+        11.1,
+        14.3
+      ],
+      "illustrator": "cycat",
+      "charter": [
+        "阿爽",
+        "阿爽",
+        "阿爽",
+        "阿爽"
+      ],
+      "composer": "LeaF",
+      "levels": [
+        "EZ",
+        "HD",
+        "IN",
+        "AT"
+      ],
+      "previewTime": 7.2,
+      "allComboNum": [
+        125,
+        273,
+        412,
+        720
+      ]
+    },
+    {
+      "songsId": "MARENOL.LeaF.0",
+      "songsKey": "MARENOL",
+      "songsName": "MARENOL",
+      "songsTitle": "",
+      "difficulty": [
+        1.9,
+        10.2,
+        14.5,
+        0.0,
+        14.0
+      ],
+      "illustrator": "喵n葵",
+      "charter": [
+        "H.C.C.",
+        "H.C.C.",
+        "壹佰九十八",
+        "",
+        "H.C.C."
+      ],
+      "composer": "LeaF",
+      "levels": [
+        "EZ",
+        "HD",
+        "IN",
+        "AT",
+        "Legacy"
+      ],
+      "previewTime": 17.14,
+      "allComboNum": [
+        97,
+        437,
+        689,
+        0,
+        1368
+      ]
+    },
+    {
+      "songsId": "萤火虫の怨.闫东炜.0",
+      "songsKey": "萤火虫の怨",
+      "songsName": "萤火虫の怨",
+      "songsTitle": "",
+      "difficulty": [
+        4.3,
+        10.6,
+        13.4,
+        0.0,
+        13.0
+      ],
+      "illustrator": "L-sp4",
+      "charter": [
+        "阿爽 & 壹佰九十八",
+        "阿爽 & 壹佰九十八",
+        "阿爽 & 壹佰九十八",
+        "",
+        "阿爽"
+      ],
+      "composer": "闫东炜",
+      "levels": [
+        "EZ",
+        "HD",
+        "IN",
+        "AT",
+        "Legacy"
+      ],
+      "previewTime": 102.0,
+      "allComboNum": [
+        245,
+        746,
+        885,
+        0,
+        875
+      ]
+    },
+    {
+      "songsId": "万吨匿名信.闫东炜.0",
+      "songsKey": "万吨匿名信",
+      "songsName": "万吨匿名信",
+      "songsTitle": "",
+      "difficulty": [
+        5.7,
+        9.7,
+        13.6,
+        0.0,
+        13.0
+      ],
+      "illustrator": "IvyTowers",
+      "charter": [
+        "猫の信 & 壹佰九十八",
+        "猫の信 & 壹佰九十八",
+        "猫の信 & 壹佰九十八",
+        "",
+        "猫の信"
+      ],
+      "composer": "闫东炜",
+      "levels": [
+        "EZ",
+        "HD",
+        "IN",
+        "AT",
+        "Legacy"
+      ],
+      "previewTime": 120.0,
+      "allComboNum": [
+        307,
+        648,
+        781,
+        0,
+        857
+      ]
+    },
+    {
+      "songsId": "风屿.闫东炜.0",
+      "songsKey": "风屿",
+      "songsName": "风屿",
+      "songsTitle": "",
+      "difficulty": [
+        5.9,
+        10.3,
+        13.7,
+        0.0
+      ],
+      "illustrator": "cycats",
+      "charter": [
+        "Arenn Saki vs Catcats vs 壹佰九十八",
+        "Arenn Saki vs Catcats vs 壹佰九十八",
+        "Arenn Saki vs Catcats vs 壹佰九十八",
+        ""
+      ],
+      "composer": "闫东炜",
+      "levels": [
+        "EZ",
+        "HD",
+        "IN",
+        "AT"
+      ],
+      "previewTime": 120.0,
+      "allComboNum": [
+        368,
+        802,
+        1155,
+        0
+      ]
+    },
+    {
+      "songsId": "dBdoll.YUESTEVENuen.0",
+      "songsKey": "dB doll",
+      "songsName": "dB doll",
+      "songsTitle": "",
+      "difficulty": [
+        1.6,
+        3.6,
+        7.2,
+        0.0
+      ],
+      "illustrator": "何呵",
+      "charter": [
+        "阿爽",
+        "阿爽",
+        "阿爽",
+        ""
+      ],
+      "composer": "YUE.STEVEN/uen",
+      "levels": [
+        "EZ",
+        "HD",
+        "IN",
+        "AT"
+      ],
+      "previewTime": 50.62,
+      "allComboNum": [
+        113,
+        122,
+        237,
+        0
+      ]
+    },
+    {
+      "songsId": "Dash.小红Akane李祥辉.0",
+      "songsKey": "Dash",
+      "songsName": "Dash",
+      "songsTitle": "",
+      "difficulty": [
+        2.5,
+        5.7,
+        11.7,
+        0.0
+      ],
+      "illustrator": "艾是Abby",
+      "charter": [
+        "阿爽",
+        "阿爽",
+        "阿爽",
+        ""
+      ],
+      "composer": "小红Akane，李祥晖",
+      "levels": [
+        "EZ",
+        "HD",
+        "IN",
+        "AT"
+      ],
+      "previewTime": 60.035,
+      "allComboNum": [
+        114,
+        210,
+        296,
+        0
+      ]
+    },
+    {
+      "songsId": "云女孩.符白牙SiYFics.0",
+      "songsKey": "云女孩",
+      "songsName": "云女孩",
+      "songsTitle": "",
+      "difficulty": [
+        2.8,
+        9.9,
+        12.8,
+        0.0
+      ],
+      "illustrator": "御坂果子",
+      "charter": [
+        "Cloud Catcats",
+        "Cloud Catcats",
+        "Cloud Catcats",
+        ""
+      ],
+      "composer": "符白牙/SiYFics",
+      "levels": [
+        "EZ",
+        "HD",
+        "IN",
+        "AT"
+      ],
+      "previewTime": 26.32,
+      "allComboNum": [
+        220,
+        553,
+        740,
+        0
+      ]
+    },
+    {
+      "songsId": "DropIt.Asuka.0",
+      "songsKey": "Drop It",
+      "songsName": "Drop It",
+      "songsTitle": "",
+      "difficulty": [
+        3.8,
+        9.6,
+        14.4,
+        0.0
+      ],
+      "illustrator": "TNiK",
+      "charter": [
+        "Drop Catcats",
+        "Drop Catcats",
+        "Drop Catcats",
+        ""
+      ],
+      "composer": "Asuka",
+      "levels": [
+        "EZ",
+        "HD",
+        "IN",
+        "AT"
+      ],
+      "previewTime": 60.95,
+      "allComboNum": [
+        504,
+        612,
+        912,
+        0
+      ]
+    },
+    {
+      "songsId": "RIPPER.Friedwav.0",
+      "songsKey": "RIPPER",
+      "songsName": "RIPPER",
+      "songsTitle": "",
+      "difficulty": [
+        7.8,
+        12.4,
+        15.7,
+        0.0
+      ],
+      "illustrator": "何呵",
+      "charter": [
+        "撕裂者『無極』",
+        "撕裂者『無極』",
+        "撕裂者『無極』",
+        ""
+      ],
+      "composer": "Friedwav",
+      "levels": [
+        "EZ",
+        "HD",
+        "IN",
+        "AT"
+      ],
+      "previewTime": 107.2,
+      "allComboNum": [
+        524,
+        710,
+        1093,
+        0
+      ]
+    },
+    {
+      "songsId": "Aphasia.闫东炜.0",
+      "songsKey": "Aphasia",
+      "songsName": "Aphasia",
+      "songsTitle": "",
+      "difficulty": [
+        4.2,
+        8.8,
+        13.1,
+        0.0
+      ],
+      "illustrator": "笔记RE",
+      "charter": [
+        "壹佰九十八",
+        "壹佰九十八",
+        "壹佰九十八",
+        ""
+      ],
+      "composer": "闫东炜",
+      "levels": [
+        "EZ",
+        "HD",
+        "IN",
+        "AT"
+      ],
+      "previewTime": 82.967,
+      "allComboNum": [
+        283,
+        362,
+        553,
+        0
+      ]
+    },
+    {
+      "songsId": "开心病.闫东炜.0",
+      "songsKey": "开心病",
+      "songsName": "开心病",
+      "songsTitle": "",
+      "difficulty": [
+        3.7,
+        9.8,
+        13.7,
+        0.0
+      ],
+      "illustrator": "喵n葵",
+      "charter": [
+        "阿爽",
+        "阿爽",
+        "阿爽",
+        ""
+      ],
+      "composer": "闫东炜",
+      "levels": [
+        "EZ",
+        "HD",
+        "IN",
+        "AT"
+      ],
+      "previewTime": 31.141,
+      "allComboNum": [
+        158,
+        442,
+        815,
+        0
+      ]
+    },
+    {
+      "songsId": "華灯爱.闫东炜.0",
+      "songsKey": "華灯爱",
+      "songsName": "華灯爱",
+      "songsTitle": "",
+      "difficulty": [
+        5.5,
+        9.3,
+        13.8,
+        0.0
+      ],
+      "illustrator": "IvyTowers",
+      "charter": [
+        "Gausbon",
+        "Gausbon",
+        "Gausbon",
+        ""
+      ],
+      "composer": "闫东炜",
+      "levels": [
+        "EZ",
+        "HD",
+        "IN",
+        "AT"
+      ],
+      "previewTime": 82.0,
+      "allComboNum": [
+        318,
+        394,
+        493,
+        0
+      ]
+    },
+    {
+      "songsId": "FindMe.Kforest.0",
+      "songsKey": "Find_Me",
+      "songsName": "Find_Me",
+      "songsTitle": "",
+      "difficulty": [
+        5.7,
+        10.5,
+        14.4,
+        0.0
+      ],
+      "illustrator": "YuKiMuMa",
+      "charter": [
+        "Find_Ctymax",
+        "Find_Ctymax",
+        "Find_Ctymax",
+        ""
+      ],
+      "composer": "K-forest",
+      "levels": [
+        "EZ",
+        "HD",
+        "IN",
+        "AT"
+      ],
+      "previewTime": 78.76,
+      "allComboNum": [
+        465,
+        657,
+        839,
+        0
+      ]
+    },
+    {
+      "songsId": "Sein.朔Apo11oprogramvsお月さま交響曲ftkuroa荒巻.0",
+      "songsKey": "Sein",
+      "songsName": "Sein",
+      "songsTitle": "",
+      "difficulty": [
+        4.6,
+        9.2,
+        14.9,
+        0.0
+      ],
+      "illustrator": "hideo",
+      "charter": [
+        "A.S.H",
+        "A.S.H",
+        "A.S.H&晨",
+        ""
+      ],
+      "composer": "朔(Apo11o program vs. お月さま交響曲) ft. kuroa×荒巻",
+      "levels": [
+        "EZ",
+        "HD",
+        "IN",
+        "AT"
+      ],
+      "previewTime": 37.738,
+      "allComboNum": [
+        203,
+        473,
+        721,
+        0
+      ]
+    },
+    {
+      "songsId": "狂喜蘭舞.LeaF.0",
+      "songsKey": "狂喜蘭舞",
+      "songsName": "狂喜蘭舞",
+      "songsTitle": "",
+      "difficulty": [
+        6.8,
+        10.8,
+        14.4,
+        16.1
+      ],
+      "illustrator": "DoublePian",
+      "charter": [
+        "Catcats a.k.a. 無極 VS H.C.C.",
+        "Catcats a.k.a. 無極 VS H.C.C.",
+        "Catcats a.k.a. 無極 VS H.C.C.",
+        "Catcats a.k.a. 無極 VS H.C.C."
+      ],
+      "composer": "LeaF",
+      "levels": [
+        "EZ",
+        "HD",
+        "IN",
+        "AT"
+      ],
+      "previewTime": 61.56,
+      "allComboNum": [
+        499,
+        648,
+        954,
+        1209
+      ]
+    },
+    {
+      "songsId": "SparkleNewLife.rider.0",
+      "songsKey": "Sparkle New Life",
+      "songsName": "Sparkle New Life",
+      "songsTitle": "",
+      "difficulty": [
+        4.2,
+        9.2,
+        12.9,
+        0.0
+      ],
+      "illustrator": "1B",
+      "charter": [
+        "Sparkle Ctymax",
+        "Sparkle Ctymax",
+        "Sparkle Ctymax",
+        ""
+      ],
+      "composer": "rider",
+      "levels": [
+        "EZ",
+        "HD",
+        "IN",
+        "AT"
+      ],
+      "previewTime": 32.0,
+      "allComboNum": [
+        305,
+        497,
+        676,
+        0
+      ]
+    },
+    {
+      "songsId": "KhronostasisKatharsis.Halv.0",
+      "songsKey": "Khronostasis Katharsis",
+      "songsName": "Khronostasis Katharsis",
+      "songsTitle": "",
+      "difficulty": [
+        5.2,
+        10.8,
+        14.7,
+        0.0
+      ],
+      "illustrator": "utosao",
+      "charter": [
+        "StupiGGy",
+        "StupiGGy",
+        "StupiGGy",
+        ""
+      ],
+      "composer": "Halv",
+      "levels": [
+        "EZ",
+        "HD",
+        "IN",
+        "AT"
+      ],
+      "previewTime": 84.5,
+      "allComboNum": [
+        394,
+        747,
+        883,
+        0
+      ]
+    },
+    {
+      "songsId": "SnowDesert.WyvernP.0",
+      "songsKey": "Snow Desert",
+      "songsName": "Snow Desert",
+      "songsTitle": "",
+      "difficulty": [
+        5.1,
+        9.6,
+        13.6,
+        0.0
+      ],
+      "illustrator": "knife美工刀",
+      "charter": [
+        "CN_115",
+        "CN_115",
+        "CN_115",
+        ""
+      ],
+      "composer": "WyvernP",
+      "levels": [
+        "EZ",
+        "HD",
+        "IN",
+        "AT"
+      ],
+      "previewTime": 77.5,
+      "allComboNum": [
+        236,
+        534,
+        552,
+        0
+      ]
+    },
+    {
+      "songsId": "Burn.NceS.0",
+      "songsKey": "Burn",
+      "songsName": "Burn",
+      "songsTitle": "",
+      "difficulty": [
+        4.2,
+        10.6,
+        14.8,
+        0.0
+      ],
+      "illustrator": "knife美工刀",
+      "charter": [
+        "Ctymatch Girl",
+        "Burn Full Catcats",
+        "Burn Full Catcats VS Ctymatch Girl",
+        ""
+      ],
+      "composer": "NceS",
+      "levels": [
+        "EZ",
+        "HD",
+        "IN",
+        "AT"
+      ],
+      "previewTime": 81.0,
+      "allComboNum": [
+        278,
+        497,
+        707,
+        0
+      ]
+    },
+    {
+      "songsId": "Aleph0.LeaF.0",
+      "songsKey": "Aleph-0",
+      "songsName": "Aleph-0",
+      "songsTitle": "",
+      "difficulty": [
+        4.5,
+        12.2,
+        15.5,
+        0.0
+      ],
+      "illustrator": "Optie",
+      "charter": [
+        "阿爽 VS Arenn Saki",
+        "阿爽 VS Arenn Saki",
+        "阿爽 VS Arenn Saki",
+        ""
+      ],
+      "composer": "LeaF",
+      "levels": [
+        "EZ",
+        "HD",
+        "IN",
+        "AT"
+      ],
+      "previewTime": 11.519,
+      "allComboNum": [
+        124,
+        438,
+        684,
+        0
+      ]
+    },
+    {
+      "songsId": "NextTime.SaMZIng.0",
+      "songsKey": "Next Time",
+      "songsName": "Next Time",
+      "songsTitle": "",
+      "difficulty": [
+        4.8,
+        9.2,
+        12.6,
+        0.0
+      ],
+      "illustrator": "叶藤",
+      "charter": [
+        "Gausbon ~ See you next time ~ ",
+        "Gausbon ~ See you next time ~ ",
+        "Gausbon ~ See you next time ~ ",
+        ""
+      ],
+      "composer": "SaMZIng",
+      "levels": [
+        "EZ",
+        "HD",
+        "IN",
+        "AT"
+      ],
+      "previewTime": 45.247,
+      "allComboNum": [
+        240,
+        303,
+        387,
+        0
+      ]
+    },
+    {
+      "songsId": "RubbishSorting.CtymaxvsNceS.0",
+      "songsKey": "Rubbish Sorting",
+      "songsName": "Rubbish Sorting",
+      "songsTitle": "",
+      "difficulty": [
+        3.3,
+        9.4,
+        12.8,
+        0.0
+      ],
+      "illustrator": "knife美工刀",
+      "charter": [
+        "阿爽 vs. Ctymax -Haose 垃圾-",
+        "阿爽 vs. Ctymax -Haose 垃圾-",
+        "阿爽 vs. Ctymax -Haose 垃圾-",
+        ""
+      ],
+      "composer": "Ctymax vs. NceS",
+      "levels": [
+        "EZ",
+        "HD",
+        "IN",
+        "AT"
+      ],
+      "previewTime": 46.87,
+      "allComboNum": [
+        229,
+        475,
+        613,
+        0
+      ]
+    },
+    {
+      "songsId": "AnotherMe.NeutralMoon.0",
+      "songsKey": "Another Me",
+      "songsName": "Another Me",
+      "songsTitle": "",
+      "difficulty": [
+        1.7,
+        5.6,
+        13.2,
+        0.0
+      ],
+      "illustrator": "IvyTowers",
+      "charter": [
+        "__Additional__(Self)",
+        "__Additional__(Self)",
+        "__Additional__(Self)",
+        ""
+      ],
+      "composer": "Neutral Moon",
+      "levels": [
+        "EZ",
+        "HD",
+        "IN",
+        "AT"
+      ],
+      "previewTime": 76.916,
+      "allComboNum": [
+        111,
+        259,
+        549,
+        0
+      ]
+    },
+    {
+      "songsId": "mechanted.rareguy.0",
+      "songsKey": "mechanted",
+      "songsName": "mechanted",
+      "songsTitle": "",
+      "difficulty": [
+        2.7,
+        11.3,
+        14.7,
+        0.0
+      ],
+      "illustrator": "IvyTowers",
+      "charter": [
+        "Ctymax",
+        "Ctymax",
+        "Ctymax",
+        ""
+      ],
+      "composer": "rareguy",
+      "levels": [
+        "EZ",
+        "HD",
+        "IN",
+        "AT"
+      ],
+      "previewTime": 83.741,
+      "allComboNum": [
+        184,
+        500,
+        662,
+        0
+      ]
+    },
+    {
+      "songsId": "lifeflashesbeforeweebeyes.BilliumMoto.0",
+      "songsKey": "life flashes before weeb eyes",
+      "songsName": "life flashes before weeb eyes",
+      "songsTitle": "",
+      "difficulty": [
+        6.6,
+        11.9,
+        14.8,
+        0.0
+      ],
+      "illustrator": "壹佰九十八",
+      "charter": [
+        "壹佰九十八",
+        "壹佰九十八",
+        "壹佰九十八",
+        ""
+      ],
+      "composer": "BilliumMoto",
+      "levels": [
+        "EZ",
+        "HD",
+        "IN",
+        "AT"
+      ],
+      "previewTime": 17.973,
+      "allComboNum": [
+        567,
+        960,
+        1065,
+        0
+      ]
+    },
+    {
+      "songsId": "BreakThroughTheBarrier.lixound.0",
+      "songsKey": "Break Through The Barrier",
+      "songsName": "Break Through The Barrier",
+      "songsTitle": "",
+      "difficulty": [
+        5.9,
+        10.8,
+        14.9,
+        0.0
+      ],
+      "illustrator": "Xquid",
+      "charter": [
+        "Catcats",
+        "Catcats",
+        "Catcats",
+        ""
+      ],
+      "composer": "lixound",
+      "levels": [
+        "EZ",
+        "HD",
+        "IN",
+        "AT"
+      ],
+      "previewTime": 77.72,
+      "allComboNum": [
+        384,
+        623,
+        1293,
+        0
+      ]
+    },
+    {
+      "songsId": "Chronostasis.黒皇帝.0",
+      "songsKey": "Chronostasis",
+      "songsName": "Chronostasis",
+      "songsTitle": "",
+      "difficulty": [
+        6.8,
+        11.6,
+        15.9,
+        0.0
+      ],
+      "illustrator": "Sand",
+      "charter": [
+        "Gausbon",
+        "Gausbon",
+        "Gausbon",
+        ""
+      ],
+      "composer": "黒皇帝",
+      "levels": [
+        "EZ",
+        "HD",
+        "IN",
+        "AT"
+      ],
+      "previewTime": 36.283,
+      "allComboNum": [
+        596,
+        665,
+        1156,
+        0
+      ]
+    },
+    {
+      "songsId": "DeadSoul.SoundSouler.0",
+      "songsKey": "Dead Soul",
+      "songsName": "Dead Soul",
+      "songsTitle": "",
+      "difficulty": [
+        4.3,
+        11.7,
+        13.4,
+        0.0
+      ],
+      "illustrator": "Photonskyto",
+      "charter": [
+        "Phigros Charting Team",
+        "Phigros Charting Team",
+        "Phigros Charting Team",
+        ""
+      ],
+      "composer": "Sound Souler",
+      "levels": [
+        "EZ",
+        "HD",
+        "IN",
+        "AT"
+      ],
+      "previewTime": 14.627,
+      "allComboNum": [
+        273,
+        613,
+        787,
+        0
+      ]
+    },
+    {
+      "songsId": "InfinityHeaven.HyuN.0",
+      "songsKey": "Infinity Heaven",
+      "songsName": "Infinity Heaven",
+      "songsTitle": "",
+      "difficulty": [
+        3.3,
+        8.4,
+        13.6,
+        0.0
+      ],
+      "illustrator": "DoublePian",
+      "charter": [
+        "晨 vs 阿爽",
+        "晨 vs 阿爽",
+        "晨 vs 阿爽",
+        ""
+      ],
+      "composer": "HyuN",
+      "levels": [
+        "EZ",
+        "HD",
+        "IN",
+        "AT"
+      ],
+      "previewTime": 48.826,
+      "allComboNum": [
+        164,
+        422,
+        1029,
+        0
+      ]
+    },
+    {
+      "songsId": "Disorder.HyuNfeatYURI.0",
+      "songsKey": "Disorder",
+      "songsName": "Disorder",
+      "songsTitle": "",
+      "difficulty": [
+        5.4,
+        9.8,
+        14.7,
+        0.0
+      ],
+      "illustrator": "Nabom",
+      "charter": [
+        "Gausbon",
+        "Gausbon",
+        "Gausbon",
+        ""
+      ],
+      "composer": "HyuN feat. YURI",
+      "levels": [
+        "EZ",
+        "HD",
+        "IN",
+        "AT"
+      ],
+      "previewTime": 27.386,
+      "allComboNum": [
+        444,
+        629,
+        918,
+        0
+      ]
+    },
+    {
+      "songsId": "CROSSSOUL.HyuNfeatSyepias.0",
+      "songsKey": "CROSS†SOUL",
+      "songsName": "CROSS†SOUL",
+      "songsTitle": "",
+      "difficulty": [
+        7.7,
+        12.8,
+        15.9,
+        0.0
+      ],
+      "illustrator": "knife美工刀",
+      "charter": [
+        "無†極",
+        "無†極",
+        "無†極",
+        ""
+      ],
+      "composer": "HyuN feat. Syepias",
+      "levels": [
+        "EZ",
+        "HD",
+        "IN",
+        "AT"
+      ],
+      "previewTime": 92.4,
+      "allComboNum": [
+        517,
+        891,
+        1305,
+        0
+      ]
+    },
+    {
+      "songsId": "SpeedUp.DarTokki.0",
+      "songsKey": "Speed Up!",
+      "songsName": "Speed Up!",
+      "songsTitle": "",
+      "difficulty": [
+        4.3,
+        10.3,
+        14.6,
+        0.0
+      ],
+      "illustrator": "TNiK",
+      "charter": [
+        "Ctymax VS 壹佰九十八",
+        "Ctymax VS 壹佰九十八",
+        "Ctymax VS 壹佰九十八",
+        ""
+      ],
+      "composer": "DarTokki",
+      "levels": [
+        "EZ",
+        "HD",
+        "IN",
+        "AT"
+      ],
+      "previewTime": 57.103,
+      "allComboNum": [
+        262,
+        463,
+        711,
+        0
+      ]
+    },
+    {
+      "songsId": "MagentaPotion.EmoCo.0",
+      "songsKey": "Magenta Potion",
+      "songsName": "Magenta Potion",
+      "songsTitle": "",
+      "difficulty": [
+        6.3,
+        11.3,
+        14.5,
+        0.0
+      ],
+      "illustrator": "NOISER",
+      "charter": [
+        "Ctymax VS 晨",
+        "Ctymax VS 晨",
+        "Ctymax VS 晨",
+        ""
+      ],
+      "composer": "EmoCo.",
+      "levels": [
+        "EZ",
+        "HD",
+        "IN",
+        "AT"
+      ],
+      "previewTime": 28.395,
+      "allComboNum": [
+        334,
+        633,
+        791,
+        0
+      ]
+    },
+    {
+      "songsId": "GetBack.CAP3.0",
+      "songsKey": "Get Back",
+      "songsName": "Get Back",
+      "songsTitle": "",
+      "difficulty": [
+        6.6,
+        11.4,
+        13.8,
+        0.0
+      ],
+      "illustrator": "TNiK",
+      "charter": [
+        "JKy",
+        "JKy",
+        "JKy",
+        ""
+      ],
+      "composer": "CAP3",
+      "levels": [
+        "EZ",
+        "HD",
+        "IN",
+        "AT"
+      ],
+      "previewTime": 30.0,
+      "allComboNum": [
+        321,
+        550,
+        707,
+        0
+      ]
+    },
+    {
+      "songsId": "Palescreen.WyvernPfeatMadol.0",
+      "songsKey": "Palescreen",
+      "songsName": "Palescreen",
+      "songsTitle": "",
+      "difficulty": [
+        5.6,
+        11.8,
+        15.7,
+        0.0
+      ],
+      "illustrator": "GAMEBAKA",
+      "charter": [
+        "Jeitie",
+        "Jeitie",
+        "Jeitie",
+        ""
+      ],
+      "composer": "WyvernP feat. Madol",
+      "levels": [
+        "EZ",
+        "HD",
+        "IN",
+        "AT"
+      ],
+      "previewTime": 24.971,
+      "allComboNum": [
+        224,
+        772,
+        1059,
+        0
+      ]
+    },
+    {
+      "songsId": "GOODTEK.EBIMAYO.0",
+      "songsKey": "GOODTEK",
+      "songsName": "GOODTEK",
+      "songsTitle": "",
+      "difficulty": [
+        5.4,
+        10.8,
+        14.2,
+        0.0
+      ],
+      "illustrator": "Ctymax feat. EBIMAYO",
+      "charter": [
+        "壹佰九十八",
+        "壹佰九十八",
+        "壹佰九十八",
+        ""
+      ],
+      "composer": "EBIMAYO",
+      "levels": [
+        "EZ",
+        "HD",
+        "IN",
+        "AT"
+      ],
+      "previewTime": 91.893,
+      "allComboNum": [
+        295,
+        609,
+        873,
+        0
+      ]
+    },
+    {
+      "songsId": "GOODBOUNCE.EBIMAYO.0",
+      "songsKey": "GOODBOUNCE",
+      "songsName": "GOODBOUNCE",
+      "songsTitle": "",
+      "difficulty": [
+        5.7,
+        11.6,
+        14.4,
+        0.0
+      ],
+      "illustrator": "EBIMAYO",
+      "charter": [
+        "Gausbounce & 晨",
+        "Gausbounce",
+        "Ctymax vs. Gausbounce",
+        ""
+      ],
+      "composer": "EBIMAYO",
+      "levels": [
+        "EZ",
+        "HD",
+        "IN",
+        "AT"
+      ],
+      "previewTime": 44.0,
+      "allComboNum": [
+        588,
+        797,
+        898,
+        0
+      ]
+    },
+    {
+      "songsId": "GOODWORLD.EBIMAYO.0",
+      "songsKey": "GOODWORLD",
+      "songsName": "GOODWORLD",
+      "songsTitle": "",
+      "difficulty": [
+        3.2,
+        11.4,
+        14.5,
+        0.0
+      ],
+      "illustrator": "EBIMAYO",
+      "charter": [
+        "阿爽",
+        "StupiGGy",
+        "StupiGGy vs. 阿爽",
+        ""
+      ],
+      "composer": "EBIMAYO",
+      "levels": [
+        "EZ",
+        "HD",
+        "IN",
+        "AT"
+      ],
+      "previewTime": 105.826,
+      "allComboNum": [
+        215,
+        805,
+        960,
+        0
+      ]
+    },
+    {
+      "songsId": "GOODFORTUNE.EBIMAYO.0",
+      "songsKey": "GOODFORTUNE",
+      "songsName": "GOODFORTUNE",
+      "songsTitle": "",
+      "difficulty": [
+        7.3,
+        8.7,
+        15.4,
+        0.0
+      ],
+      "illustrator": "Ctymax",
+      "charter": [
+        "晨",
+        "晨",
+        "晨",
+        ""
+      ],
+      "composer": "EBIMAYO",
+      "levels": [
+        "EZ",
+        "HD",
+        "IN",
+        "AT"
+      ],
+      "previewTime": 102.705,
+      "allComboNum": [
+        455,
+        733,
+        1011,
+        0
+      ]
+    },
+    {
+      "songsId": "GOODRAGE.EBIMAYO.0",
+      "songsKey": "GOODRAGE",
+      "songsName": "GOODRAGE",
+      "songsTitle": "",
+      "difficulty": [
+        4.6,
+        7.8,
+        15.8,
+        0.0
+      ],
+      "illustrator": "Ctymax feat. EBIMAYO",
+      "charter": [
+        "阿爽",
+        "阿爽",
+        "Ctymax vs. 阿爽",
+        ""
+      ],
+      "composer": "EBIMAYO",
+      "levels": [
+        "EZ",
+        "HD",
+        "IN",
+        "AT"
+      ],
+      "previewTime": 90.81,
+      "allComboNum": [
+        308,
+        628,
+        1034,
+        0
+      ]
+    },
+    {
+      "songsId": "TheMountainEater.PaulBazooka.0",
+      "songsKey": "The Mountain Eater",
+      "songsName": "The Mountain Eater",
+      "songsTitle": "",
+      "difficulty": [
+        4.3,
+        9.1,
+        14.4,
+        0.0
+      ],
+      "illustrator": "START SEED",
+      "charter": [
+        "壹佰九十八",
+        "壹佰九十八",
+        "壹佰九十八",
+        ""
+      ],
+      "composer": "Paul Bazooka",
+      "levels": [
+        "EZ",
+        "HD",
+        "IN",
+        "AT"
+      ],
+      "previewTime": 18.897,
+      "allComboNum": [
+        210,
+        386,
+        697,
+        0
+      ]
+    },
+    {
+      "songsId": "Orthodox.tokiwa.0",
+      "songsKey": "Orthodox",
+      "songsName": "Orthodox",
+      "songsTitle": "",
+      "difficulty": [
+        4.7,
+        10.6,
+        14.2,
+        0.0
+      ],
+      "illustrator": "cycats",
+      "charter": [
+        "Uvernight",
+        "Uvernight",
+        "Uvernight",
+        ""
+      ],
+      "composer": "tokiwa",
+      "levels": [
+        "EZ",
+        "HD",
+        "IN",
+        "AT"
+      ],
+      "previewTime": 55.443,
+      "allComboNum": [
+        304,
+        627,
+        962,
+        0
+      ]
+    },
+    {
+      "songsId": "EndMe.ZxNXasDelaina.0",
+      "songsKey": "End Me",
+      "songsName": "End Me",
+      "songsTitle": "",
+      "difficulty": [
+        5.8,
+        7.5,
+        14.3,
+        0.0
+      ],
+      "illustrator": "何呵",
+      "charter": [
+        "鲲",
+        "鲲",
+        "鲲",
+        ""
+      ],
+      "composer": "ZxNX as \"Delaina\"",
+      "levels": [
+        "EZ",
+        "HD",
+        "IN",
+        "AT"
+      ],
+      "previewTime": 66.0,
+      "allComboNum": [
+        217,
+        320,
+        717,
+        0
+      ]
+    },
+    {
+      "songsId": "ParallelRetrogressionGameVer.Tetrajectory.0",
+      "songsKey": "Parallel Retrogression(Game Ver.)",
+      "songsName": "Parallel Retrogression(Game Ver.)",
+      "songsTitle": "",
+      "difficulty": [
+        6.8,
+        10.7,
+        14.4,
+        0.0
+      ],
+      "illustrator": "青鸟",
+      "charter": [
+        "HaraKuma",
+        "HaraKuma",
+        "HaraKuma",
+        ""
+      ],
+      "composer": "Tetrajectory",
+      "levels": [
+        "EZ",
+        "HD",
+        "IN",
+        "AT"
+      ],
+      "previewTime": 55.3,
+      "allComboNum": [
+        507,
+        697,
+        851,
+        0
+      ]
+    },
+    {
+      "songsId": "Starduster.Quree.0",
+      "songsKey": "Starduster",
+      "songsName": "Starduster",
+      "songsTitle": "",
+      "difficulty": [
+        5.6,
+        11.4,
+        14.8,
+        0.0
+      ],
+      "illustrator": "IvyTowers",
+      "charter": [
+        "NerSAN",
+        "NerSAN",
+        "NerSAN",
+        ""
+      ],
+      "composer": "Quree",
+      "levels": [
+        "EZ",
+        "HD",
+        "IN",
+        "AT"
+      ],
+      "previewTime": 63.3,
+      "allComboNum": [
+        280,
+        578,
+        876,
+        0
+      ]
+    },
+    {
+      "songsId": "Electron.ElousFZ.0",
+      "songsKey": "Electron",
+      "songsName": "Electron",
+      "songsTitle": "",
+      "difficulty": [
+        3.7,
+        10.4,
+        13.6,
+        0.0
+      ],
+      "illustrator": "DoublePian",
+      "charter": [
+        "壹佰九十八",
+        "壹佰九十八",
+        "壹佰九十八",
+        ""
+      ],
+      "composer": "ElousΛ.-FZ",
+      "levels": [
+        "EZ",
+        "HD",
+        "IN",
+        "AT"
+      ],
+      "previewTime": 48.0,
+      "allComboNum": [
+        219,
+        423,
+        576,
+        0
+      ]
+    },
+    {
+      "songsId": "SIGMA.Kryexe.0",
+      "songsKey": "SIGMA",
+      "songsName": "SIGMA",
+      "songsTitle": "",
+      "difficulty": [
+        4.8,
+        11.5,
+        15.6,
+        0.0
+      ],
+      "illustrator": "塔塔",
+      "charter": [
+        "Barbarianerman.exe",
+        "Bσrbσriσnermσn.exe",
+        "Bσrbσriσn∑rmσn.∑x∑",
+        ""
+      ],
+      "composer": "Kry.exe",
+      "levels": [
+        "EZ",
+        "HD",
+        "IN",
+        "AT"
+      ],
+      "previewTime": 42.24,
+      "allComboNum": [
+        352,
+        516,
+        785,
+        0
+      ]
+    },
+    {
+      "songsId": "HardcoreKwaya.EnFr.0",
+      "songsKey": "Hardcore Kwaya",
+      "songsName": "Hardcore Kwaya",
+      "songsTitle": "",
+      "difficulty": [
+        4.3,
+        9.2,
+        14.6,
+        0.0
+      ],
+      "illustrator": "EnFr",
+      "charter": [
+        "One skunk (Ctymax) in Africa",
+        "Hardcore Barbaya",
+        "Two skunks (Ctymax and 晨) in Africa shouting WAHHHHHH!",
+        ""
+      ],
+      "composer": "EnFr",
+      "levels": [
+        "EZ",
+        "HD",
+        "IN",
+        "AT"
+      ],
+      "previewTime": 78.5,
+      "allComboNum": [
+        340,
+        611,
+        852,
+        0
+      ]
+    },
+    {
+      "songsId": "Aventyr.GrandThawRigelTheatre.0",
+      "songsKey": "Aventyr",
+      "songsName": "Äventyr",
+      "songsTitle": "",
+      "difficulty": [
+        2.3,
+        9.4,
+        13.7,
+        0.0
+      ],
+      "illustrator": "Grand Thaw / Rigël Theatre",
+      "charter": [
+        "Barbarianerman",
+        "Snorkel",
+        "Barbarianerman vs. Snorkel",
+        ""
+      ],
+      "composer": "Grand Thaw / Rigël Theatre",
+      "levels": [
+        "EZ",
+        "HD",
+        "IN",
+        "AT"
+      ],
+      "previewTime": 9.2,
+      "allComboNum": [
+        345,
+        626,
+        954,
+        0
+      ]
+    },
+    {
+      "songsId": "Trane.MALVA.0",
+      "songsKey": "Trane",
+      "songsName": "Träne",
+      "songsTitle": "",
+      "difficulty": [
+        1.5,
+        6.7,
+        14.5,
+        0.0
+      ],
+      "illustrator": "しえろ",
+      "charter": [
+        "Barbarianerman",
+        "Barbarianerman",
+        "Barbarianerman",
+        ""
+      ],
+      "composer": "MALVA.",
+      "levels": [
+        "EZ",
+        "HD",
+        "IN",
+        "AT"
+      ],
+      "previewTime": 3.2,
+      "allComboNum": [
+        148,
+        420,
+        661,
+        0
+      ]
+    },
+    {
+      "songsId": "雪降りメリクリ.A39.0",
+      "songsKey": "雪降り、メリクリ",
+      "songsName": "雪降り、メリクリ",
+      "songsTitle": "",
+      "difficulty": [
+        5.6,
+        9.3,
+        15.3,
+        0.0
+      ],
+      "illustrator": "犀牛坨动画工坊",
+      "charter": [
+        "Merry xmAS",
+        "Merry ChristymAxS",
+        "N\\erry Xmas",
+        ""
+      ],
+      "composer": "A-39",
+      "levels": [
+        "EZ",
+        "HD",
+        "IN",
+        "AT"
+      ],
+      "previewTime": 20.664,
+      "allComboNum": [
+        316,
+        559,
+        939,
+        0
+      ]
+    },
+    {
+      "songsId": "CervelleConnexion.SCTL.0",
+      "songsKey": "Cervelle Connexion",
+      "songsName": "Cervelle Connexion",
+      "songsTitle": "",
+      "difficulty": [
+        4.8,
+        11.3,
+        14.5,
+        0.0
+      ],
+      "illustrator": "SCTL",
+      "charter": [
+        "Eastern Ailuropoda Gang",
+        "Eastern Ailuropoda Gang",
+        "Eastern Ailuropoda Gang",
+        ""
+      ],
+      "composer": "SCTL",
+      "levels": [
+        "EZ",
+        "HD",
+        "IN",
+        "AT"
+      ],
+      "previewTime": 99.295,
+      "allComboNum": [
+        301,
+        569,
+        563,
+        0
+      ]
+    },
+    {
+      "songsId": "modulus.PTB10.0",
+      "songsKey": "modulus",
+      "songsName": "modulus",
+      "songsTitle": "",
+      "difficulty": [
+        3.7,
+        10.1,
+        14.7,
+        0.0
+      ],
+      "illustrator": "geralt",
+      "charter": [
+        "Cty moyules",
+        "Cty moyules",
+        "Pat Brick Man Mr.C",
+        ""
+      ],
+      "composer": "PTB10",
+      "levels": [
+        "EZ",
+        "HD",
+        "IN",
+        "AT"
+      ],
+      "previewTime": 86.0,
+      "allComboNum": [
+        258,
+        482,
+        774,
+        0
+      ]
+    },
+    {
+      "songsId": "Shadow.SumaiLightvs姜米條.0",
+      "songsKey": "Shadow",
+      "songsName": "Shadow",
+      "songsTitle": "",
+      "difficulty": [
+        4.7,
+        10.3,
+        14.5,
+        0.0
+      ],
+      "illustrator": "御坂果子",
+      "charter": [
+        "晨",
+        "晨",
+        "Sillyp vs 晨",
+        ""
+      ],
+      "composer": "姜米條&SumaiLight",
+      "levels": [
+        "EZ",
+        "HD",
+        "IN",
+        "AT"
+      ],
+      "previewTime": 105.0,
+      "allComboNum": [
+        393,
+        549,
+        840,
+        0
+      ]
+    },
+    {
+      "songsId": "Wavetapper.Frums.0",
+      "songsKey": "Wavetapper",
+      "songsName": "Wavetapper",
+      "songsTitle": "",
+      "difficulty": [
+        4.4,
+        6.9,
+        13.8,
+        0.0
+      ],
+      "illustrator": "壹佰九十八",
+      "charter": [
+        "Sillyp",
+        "Sillyp",
+        "壹佰九十八 vs. Barbarianerman",
+        ""
+      ],
+      "composer": "Frums",
+      "levels": [
+        "EZ",
+        "HD",
+        "IN",
+        "AT"
+      ],
+      "previewTime": 2.139,
+      "allComboNum": [
+        470,
+        507,
+        866,
+        0
+      ]
+    },
+    {
+      "songsId": "大和撫子WildDances.adapatorvsDRIVE.0",
+      "songsKey": "大和撫子 -Wild Dances-",
+      "songsName": "大和撫子 -Wild Dances-",
+      "songsTitle": "",
+      "difficulty": [
+        5.2,
+        11.8,
+        14.8,
+        0.0
+      ],
+      "illustrator": "りゅうら",
+      "charter": [
+        "Eaimo",
+        "Eaimo",
+        "Eaimo vs. CtyNer dancing wildly",
+        ""
+      ],
+      "composer": "adaptor vs DRIVE.",
+      "levels": [
+        "EZ",
+        "HD",
+        "IN",
+        "AT"
+      ],
+      "previewTime": 62.01,
+      "allComboNum": [
+        367,
+        565,
+        1002,
+        0
+      ]
+    },
+    {
+      "songsId": "Eltaw.Fl00t.0",
+      "songsKey": "Eltaw",
+      "songsName": "Eltaw",
+      "songsTitle": "",
+      "difficulty": [
+        5.8,
+        10.5,
+        14.4,
+        0.0
+      ],
+      "illustrator": "xperz",
+      "charter": [
+        "JKy",
+        "JKy",
+        "BarbariaNERman vs. JKy",
+        ""
+      ],
+      "composer": "Fl00t",
+      "levels": [
+        "EZ",
+        "HD",
+        "IN",
+        "AT"
+      ],
+      "previewTime": 90.015,
+      "allComboNum": [
+        391,
+        608,
+        855,
+        0
+      ]
+    },
+    {
+      "songsId": "Initialize.iF.0",
+      "songsKey": "Initialize",
+      "songsName": "Initialize",
+      "songsTitle": "",
+      "difficulty": [
+        2.5,
+        7.2,
+        11.6,
+        0.0
+      ],
+      "illustrator": "あおお/A-ZERO, morph",
+      "charter": [
+        "阿爽",
+        "NerSAN",
+        "Arenn Saki vs. NerSAN",
+        ""
+      ],
+      "composer": "iF",
+      "levels": [
+        "EZ",
+        "HD",
+        "IN",
+        "AT"
+      ],
+      "previewTime": 15.005,
+      "allComboNum": [
+        117,
+        354,
+        581,
+        0
+      ]
+    },
+    {
+      "songsId": "桜樹街道.kozatosnow.0",
+      "songsKey": "桜樹街道",
+      "songsName": "桜樹街道",
+      "songsTitle": "",
+      "difficulty": [
+        3.6,
+        7.4,
+        12.6,
+        0.0
+      ],
+      "illustrator": "あおお/A-ZERO, morph",
+      "charter": [
+        "Barbarianerman",
+        "Barbarianerman",
+        "壹佰九十八",
+        ""
+      ],
+      "composer": "kozato snow",
+      "levels": [
+        "EZ",
+        "HD",
+        "IN",
+        "AT"
+      ],
+      "previewTime": 107.555,
+      "allComboNum": [
+        292,
+        421,
+        459,
+        0
+      ]
+    },
+    {
+      "songsId": "GetReady.iF.0",
+      "songsKey": "Get Ready!! ",
+      "songsName": "Get Ready!! ",
+      "songsTitle": "",
+      "difficulty": [
+        4.5,
+        8.7,
+        13.5,
+        0.0
+      ],
+      "illustrator": "あおお/A-ZERO, morph",
+      "charter": [
+        "StupiGGy",
+        "StupiGGy",
+        "StupiGGy",
+        ""
+      ],
+      "composer": "iF",
+      "levels": [
+        "EZ",
+        "HD",
+        "IN",
+        "AT"
+      ],
+      "previewTime": 96.338,
+      "allComboNum": [
+        363,
+        584,
+        819,
+        0
+      ]
+    },
+    {
+      "songsId": "volcanic.DETROakaルゼ.0",
+      "songsKey": "volcanic",
+      "songsName": "volcanic",
+      "songsTitle": "",
+      "difficulty": [
+        7.3,
+        11.9,
+        14.8,
+        16.2
+      ],
+      "illustrator": "あおお/A-ZERO, morph",
+      "charter": [
+        "Barbarianerman",
+        "Rikko",
+        "Ctymax in a volcano, very delicious",
+        "Alloces"
+      ],
+      "composer": "DETRO a.k.a. ルゼ",
+      "levels": [
+        "EZ",
+        "HD",
+        "IN",
+        "AT"
+      ],
+      "previewTime": 111.832,
+      "allComboNum": [
+        1052,
+        985,
+        1178,
+        1650
+      ]
+    },
+    {
+      "songsId": "BetterGraphicAnimation.ルゼ.0",
+      "songsKey": "Better Graphic Animation",
+      "songsName": "Better Graphic Animation",
+      "songsTitle": "",
+      "difficulty": [
+        6.4,
+        11.7,
+        15.3,
+        0.0
+      ],
+      "illustrator": "A-Zero Project",
+      "charter": [
+        "NerSAN",
+        "NerSAN",
+        "縱連打の信者☆無極",
+        ""
+      ],
+      "composer": "ルゼ",
+      "levels": [
+        "EZ",
+        "HD",
+        "IN",
+        "AT"
+      ],
+      "previewTime": 44.0,
+      "allComboNum": [
+        178,
+        469,
+        616,
+        0
+      ]
+    },
+    {
+      "songsId": "XING.ginkiha.0",
+      "songsKey": "XING",
+      "songsName": "XING",
+      "songsTitle": "",
+      "difficulty": [
+        5.5,
+        9.9,
+        13.5,
+        0.0
+      ],
+      "illustrator": "打雷打人（青鸟 modified）",
+      "charter": [
+        "StupiGGy",
+        "StupiGGy",
+        "Sillyp vs. 阿爽",
+        ""
+      ],
+      "composer": "ginkiha",
+      "levels": [
+        "EZ",
+        "HD",
+        "IN",
+        "AT"
+      ],
+      "previewTime": 85.088,
+      "allComboNum": [
+        310,
+        587,
+        711,
+        0
+      ]
+    },
+    {
+      "songsId": "FinalStep.Lime.0",
+      "songsKey": "Final Step!",
+      "songsName": "Final Step!",
+      "songsTitle": "",
+      "difficulty": [
+        5.9,
+        11.8,
+        14.6,
+        0.0
+      ],
+      "illustrator": "谷地（青鸟 modified）",
+      "charter": [
+        "Barbarianerman",
+        "Barbarianerman",
+        "Barbarianerman vs. Uvernight",
+        ""
+      ],
+      "composer": "Lime",
+      "levels": [
+        "EZ",
+        "HD",
+        "IN",
+        "AT"
+      ],
+      "previewTime": 110.66,
+      "allComboNum": [
+        355,
+        604,
+        931,
+        0
+      ]
+    },
+    {
+      "songsId": "Cthugha.USAO.0",
+      "songsKey": "Cthugha",
+      "songsName": "Cthugha",
+      "songsTitle": "",
+      "difficulty": [
+        7.2,
+        12.3,
+        15.7,
+        15.9
+      ],
+      "illustrator": "谷地（青鸟 modified）",
+      "charter": [
+        "Barbarianerman",
+        "Barbarianerman",
+        "Gausbon",
+        "壹佰九十八 feat. NerSAN"
+      ],
+      "composer": "USAO",
+      "levels": [
+        "EZ",
+        "HD",
+        "IN",
+        "AT"
+      ],
+      "previewTime": 56.901,
+      "allComboNum": [
+        378,
+        697,
+        1333,
+        1444
+      ]
+    },
+    {
+      "songsId": "WithYou.Cashew.0",
+      "songsKey": "With You",
+      "songsName": "With You",
+      "songsTitle": "",
+      "difficulty": [
+        3.5,
+        9.3,
+        13.4,
+        0.0
+      ],
+      "illustrator": "ADZUKI",
+      "charter": [
+        "with U",
+        "with U",
+        "with U",
+        ""
+      ],
+      "composer": "Cashew",
+      "levels": [
+        "EZ",
+        "HD",
+        "IN",
+        "AT"
+      ],
+      "previewTime": 109.1,
+      "allComboNum": [
+        226,
+        654,
+        774,
+        0
+      ]
+    },
+    {
+      "songsId": "UnorthodoxThoughts.Joulez.0",
+      "songsKey": "Unorthodox Thoughts",
+      "songsName": "Unorthodox Thoughts",
+      "songsTitle": "",
+      "difficulty": [
+        4.7,
+        11.3,
+        14.4,
+        0.0
+      ],
+      "illustrator": "ASXX",
+      "charter": [
+        "Barbarianerman",
+        "HaraKuma",
+        "Barbarianerman vs. HaraKuma",
+        ""
+      ],
+      "composer": "Joulez",
+      "levels": [
+        "EZ",
+        "HD",
+        "IN",
+        "AT"
+      ],
+      "previewTime": 108.0,
+      "allComboNum": [
+        512,
+        644,
+        729,
+        0
+      ]
+    },
+    {
+      "songsId": "Apocalyptic.ZClaxxSumaiLight.0",
+      "songsKey": "Apocalyptic",
+      "songsName": "Apocalyptic",
+      "songsTitle": "",
+      "difficulty": [
+        3.2,
+        9.6,
+        13.4,
+        0.0
+      ],
+      "illustrator": "佑木いずみ & Ctymax",
+      "charter": [
+        "阿爽",
+        "NerSAN",
+        "NerSAN vs. 阿爽",
+        ""
+      ],
+      "composer": "Z ClaxX & SumaiLight",
+      "levels": [
+        "EZ",
+        "HD",
+        "IN",
+        "AT"
+      ],
+      "previewTime": 106.745,
+      "allComboNum": [
+        282,
+        329,
+        676,
+        0
+      ]
+    },
+    {
+      "songsId": "游园地.椒盐菠萝.0",
+      "songsKey": "游园地",
+      "songsName": "游园地",
+      "songsTitle": "",
+      "difficulty": [
+        2.8,
+        7.7,
+        13.2,
+        0.0
+      ],
+      "illustrator": "CEM",
+      "charter": [
+        "野从菠萝",
+        "野从菠萝",
+        "椒盐倪尔",
+        ""
+      ],
+      "composer": "椒盐菠萝",
+      "levels": [
+        "EZ",
+        "HD",
+        "IN",
+        "AT"
+      ],
+      "previewTime": 76.815,
+      "allComboNum": [
+        220,
+        444,
+        481,
+        0
+      ]
+    }
+  ],
+  "sideStorySongs": [
+    {
+      "songsId": "Poseidon.1112vsStar.0",
+      "songsKey": "Ποσειδών",
+      "songsName": "Ποσειδών",
+      "songsTitle": "",
+      "difficulty": [
+        4.7,
+        8.4,
+        12.8,
+        0.0
+      ],
+      "illustrator": "老张",
+      "charter": [
+        "Jαckψ a.k.a JKy",
+        "Jαckψ",
+        "Jαckψ feat. Βαρβαροςαντρας",
+        ""
+      ],
+      "composer": "1112 vs. Star＊",
+      "levels": [
+        "EZ",
+        "HD",
+        "IN",
+        "AT"
+      ],
+      "previewTime": 79.542,
+      "allComboNum": [
+        533,
+        397,
+        450,
+        0
+      ]
+    },
+    {
+      "songsId": "WATER.A39沙包P.0",
+      "songsKey": "WATER",
+      "songsName": "WATER",
+      "songsTitle": "",
+      "difficulty": [
+        4.5,
+        9.4,
+        13.6,
+        0.0
+      ],
+      "illustrator": "knife美工刀",
+      "charter": [
+        "急流に巻き込まれ",
+        "対流に巻き込まれ",
+        "乱流に巻き込まれ",
+        ""
+      ],
+      "composer": "A-39/沙包P",
+      "levels": [
+        "EZ",
+        "HD",
+        "IN",
+        "AT"
+      ],
+      "previewTime": 107.294,
+      "allComboNum": [
+        338,
+        703,
+        643,
+        0
+      ]
+    },
+    {
+      "songsId": "MiracleForestVIPMix.Rinthlive.0",
+      "songsKey": "Miracle Forest (VIP Mix)",
+      "songsName": "Miracle Forest (VIP Mix)",
+      "songsTitle": "",
+      "difficulty": [
+        2.6,
+        9.8,
+        13.9,
+        0.0
+      ],
+      "illustrator": "L-sp4",
+      "charter": [
+        "奇跡の希",
+        "奇跡の希",
+        "奇跡の希 feat. 奇跡の従",
+        ""
+      ],
+      "composer": "Rinth_live",
+      "levels": [
+        "EZ",
+        "HD",
+        "IN",
+        "AT"
+      ],
+      "previewTime": 63.04,
+      "allComboNum": [
+        324,
+        666,
+        917,
+        0
+      ]
+    },
+    {
+      "songsId": "MOBILYS.Dachs.0",
+      "songsKey": "MOBILYS",
+      "songsName": "MOBILYS",
+      "songsTitle": "",
+      "difficulty": [
+        4.8,
+        9.7,
+        14.4,
+        0.0
+      ],
+      "illustrator": "わっふゑ",
+      "charter": [
+        "壹佰九十八",
+        "壹佰九十八",
+        "StupiGGy vs. 壹佰九十八 ft. 野从",
+        ""
+      ],
+      "composer": "Dachs",
+      "levels": [
+        "EZ",
+        "HD",
+        "IN",
+        "AT"
+      ],
+      "previewTime": 59.166,
+      "allComboNum": [
+        311,
+        530,
+        927,
+        0
+      ]
+    },
+    {
+      "songsId": "Lyrith迷宮リリス.ユメミド.0",
+      "songsKey": "Lyrith -迷宮リリス-",
+      "songsName": "Lyrith -迷宮リリス-",
+      "songsTitle": "",
+      "difficulty": [
+        5.2,
+        11.6,
+        15.7,
+        16.3
+      ],
+      "illustrator": "何呵",
+      "charter": [
+        "Arenn Saki as \"mAze\"",
+        "Arenn Saki as \"myStery\"",
+        "Arenn Saki as \"lAβyrinS\"",
+        "CN_115 as \"prediCameNt\""
+      ],
+      "composer": "ユメミド",
+      "levels": [
+        "EZ",
+        "HD",
+        "IN",
+        "AT"
+      ],
+      "previewTime": 92.866,
+      "allComboNum": [
+        248,
+        700,
+        1122,
+        1236
+      ]
+    }
+  ],
+  "otherSongs": [
+    {
+      "songsId": "Introduction",
+      "songsKey": "Introduction",
+      "songsName": "Introduction",
+      "songsTitle": "",
+      "difficulty": [
+        2.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "illustrator": "L-sp4",
+      "charter": [
+        "Catcats",
+        "",
+        "",
+        ""
+      ],
+      "composer": "",
+      "levels": [
+        "EZ",
+        "HD",
+        "IN",
+        "AT"
+      ],
+      "previewTime": 0.0,
+      "allComboNum": [
+        288,
+        0,
+        0,
+        0
+      ]
+    }
+  ]
+}
