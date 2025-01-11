@@ -6,30 +6,35 @@
   "m_Enabled": 1,
   "m_Script": {
     "m_FileID": 1,
-    "m_PathID": 2573
+    "m_PathID": 2790
   },
   "m_Name": "",
   "isGameServiceAvailable": true,
   "canConnectGoogle": false,
   "ifUserLogin": false,
-  "songsId": "",
-  "songsName": "",
-  "songsDifficulty": "",
-  "songsLevel": "",
-  "composer": "",
-  "illustrator": "",
-  "charter": "",
-  "chartAddressableKey": "",
-  "musicAddressableKey": "",
-  "score": 0.0,
-  "percent": 0.0,
-  "maxCombo": 0,
-  "perfect": 0,
-  "good": 0,
-  "bad": 0,
-  "miss": 0,
-  "early": 0,
-  "late": 0,
+  "levelStartInfo": {
+    "songsId": "",
+    "songsName": "",
+    "composer": "",
+    "charter": "",
+    "illustrator": "",
+    "songsLevel": "",
+    "songsDifficulty": "",
+    "musicAddressableKey": "",
+    "chartAddressableKey": "",
+    "mirror": false,
+    "judgeLineImages": [],
+    "levelMods": []
+  },
+  "levelResultInfo": {
+    "perfect": 0,
+    "good": 0,
+    "bad": 0,
+    "miss": 0,
+    "early": 0,
+    "late": 0,
+    "maxCombo": 0
+  },
   "screenW": 0.0,
   "screenH": 0.0,
   "stopBeforeBegan": false,
@@ -39,22 +44,18 @@
   },
   "sceneSwitchMask": {
     "m_FileID": 0,
-    "m_PathID": 81
-  },
-  "judgeLineImages": [],
-  "levelMods": {
-    "levelMods": []
+    "m_PathID": 147
   },
   "noteCodes": [],
   "nowChallengeIndex": 0,
   "challengeSongItems": [],
   "moneyControl": {
     "m_FileID": 0,
-    "m_PathID": 63
+    "m_PathID": 125
   },
   "getCollectionControl": {
     "m_FileID": 0,
-    "m_PathID": 64
+    "m_PathID": 126
   },
   "hitFxIsOn": true,
   "offset": 0.0,
@@ -74,7 +75,7 @@
         "banner": "Single",
         "songs": [
           {
-            "songsId": "ジングルベルJingleBell.A39沙包P.0",
+            "songsId": "PoisonANDORAffection.LeaF.0",
             "unlockType": 1,
             "unlockInfo": [
               "4"
@@ -83,11 +84,181 @@
             "secretInfo": []
           },
           {
-            "songsId": "Concvssion.Halv.0",
+            "songsId": "Upshift.Iriss-Frantzz.0",
             "unlockType": 1,
             "unlockInfo": [
               "4"
             ],
+            "secretType": 0,
+            "secretInfo": []
+          },
+          {
+            "songsId": "インフェルノシティ.Ponchifeatはぁち.0",
+            "unlockType": 1,
+            "unlockInfo": [
+              "4"
+            ],
+            "secretType": 0,
+            "secretInfo": []
+          },
+          {
+            "songsId": "青丘.BLACK0.0",
+            "unlockType": 1,
+            "unlockInfo": [],
+            "secretType": 0,
+            "secretInfo": []
+          },
+          {
+            "songsId": "Pontdessouvenirs.VeetaCrushvsitsufeatitsu.0",
+            "unlockType": 1,
+            "unlockInfo": [],
+            "secretType": 0,
+            "secretInfo": []
+          },
+          {
+            "songsId": "BelieveLightfeat果丸哒呦.ScalerMestie果丸哒呦.0",
+            "unlockType": 1,
+            "unlockInfo": [],
+            "secretType": 0,
+            "secretInfo": []
+          },
+          {
+            "songsId": "BreakOver.Kforest.0",
+            "unlockType": 1,
+            "unlockInfo": [],
+            "secretType": 0,
+            "secretInfo": []
+          },
+          {
+            "songsId": "ElCondorPasaPhigrosEdit.PlasticFruits.0",
+            "unlockType": 1,
+            "unlockInfo": [],
+            "secretType": 0,
+            "secretInfo": []
+          },
+          {
+            "songsId": "RainySeason.AbyssIdols.0",
+            "unlockType": 1,
+            "unlockInfo": [],
+            "secretType": 0,
+            "secretInfo": []
+          },
+          {
+            "songsId": "EternalSnow.AbyssIdols.0",
+            "unlockType": 1,
+            "unlockInfo": [],
+            "secretType": 0,
+            "secretInfo": []
+          },
+          {
+            "songsId": "BraveNotes.TurquoiseDRIVENota.0",
+            "unlockType": 1,
+            "unlockInfo": [],
+            "secretType": 0,
+            "secretInfo": []
+          },
+          {
+            "songsId": "csqn.Aoi.0",
+            "unlockType": 1,
+            "unlockInfo": [],
+            "secretType": 0,
+            "secretInfo": []
+          },
+          {
+            "songsId": "DataErr0r.Cosmograph.0",
+            "unlockType": 1,
+            "unlockInfo": [],
+            "secretType": 0,
+            "secretInfo": []
+          },
+          {
+            "songsId": "OnAndOn.ETIAfeatJenga.0",
+            "unlockType": 1,
+            "unlockInfo": [],
+            "secretType": 0,
+            "secretInfo": []
+          },
+          {
+            "songsId": "月下缭乱.月見静華vsLUNARiUM.0",
+            "unlockType": 1,
+            "unlockInfo": [],
+            "secretType": 0,
+            "secretInfo": []
+          },
+          {
+            "songsId": "いざ参ります.Uskefeat棗いつき.0",
+            "unlockType": 1,
+            "unlockInfo": [],
+            "secretType": 0,
+            "secretInfo": []
+          },
+          {
+            "songsId": "opia.rN.0",
+            "unlockType": 1,
+            "unlockInfo": [],
+            "secretType": 0,
+            "secretInfo": []
+          },
+          {
+            "songsId": "IMustSayNo.TangJuan.0",
+            "unlockType": 1,
+            "unlockInfo": [],
+            "secretType": 0,
+            "secretInfo": []
+          },
+          {
+            "songsId": "FULiAUTOBUSTER.MYUKKE.0",
+            "unlockType": 1,
+            "unlockInfo": [],
+            "secretType": 0,
+            "secretInfo": []
+          },
+          {
+            "songsId": "Luminescent.Daison.0",
+            "unlockType": 1,
+            "unlockInfo": [],
+            "secretType": 0,
+            "secretInfo": []
+          },
+          {
+            "songsId": "FutureMind.RayNauticaRekuMochizuki.0",
+            "unlockType": 1,
+            "unlockInfo": [],
+            "secretType": 0,
+            "secretInfo": []
+          },
+          {
+            "songsId": "996.李化禹.0",
+            "unlockType": 1,
+            "unlockInfo": [],
+            "secretType": 0,
+            "secretInfo": []
+          },
+          {
+            "songsId": "AnotherRound.JustinDai.0",
+            "unlockType": 1,
+            "unlockInfo": [],
+            "secretType": 0,
+            "secretInfo": []
+          },
+          {
+            "songsId": "Dreamland.z1onkyrrin.0",
+            "unlockType": 1,
+            "unlockInfo": [],
+            "secretType": 0,
+            "secretInfo": []
+          },
+          {
+            "songsId": "ジングルベルJingleBell.A39沙包P.0",
+            "unlockType": 1,
+            "unlockInfo": [],
+            "secretType": 0,
+            "secretInfo": []
+          },
+          {
+            "songsId": "Concvssion.Halv.0",
+            "unlockType": 1,
+            "unlockInfo": [],
             "secretType": 0,
             "secretInfo": []
           },
@@ -177,13 +348,6 @@
           },
           {
             "songsId": "Wavetapper.Frums.0",
-            "unlockType": 1,
-            "unlockInfo": [],
-            "secretType": 0,
-            "secretInfo": []
-          },
-          {
-            "songsId": "Shadow.SumaiLightvs姜米條.0",
             "unlockType": 1,
             "unlockInfo": [],
             "secretType": 0,
@@ -917,6 +1081,204 @@
       }
     },
     {
+      "chapterCode": "SideStory2",
+      "songInfo": {
+        "title": "\\ChapterSideStory2Title",
+        "subTitle": "\\ChapterSideStory2SubTitle",
+        "banner": "Side story 2",
+        "songs": [
+          {
+            "songsId": "Demiurge.Rabpit.0",
+            "unlockType": 0,
+            "unlockInfo": [],
+            "secretType": 0,
+            "secretInfo": []
+          },
+          {
+            "songsId": "Demonkin.ForgedReigns.0",
+            "unlockType": 0,
+            "unlockInfo": [],
+            "secretType": 0,
+            "secretInfo": []
+          },
+          {
+            "songsId": "Re_NascencePsystyleVer.Rinth_live.0",
+            "unlockType": 0,
+            "unlockInfo": [],
+            "secretType": 0,
+            "secretInfo": []
+          },
+          {
+            "songsId": "Ark.kanoryo.0",
+            "unlockType": 0,
+            "unlockInfo": [],
+            "secretType": 0,
+            "secretInfo": []
+          },
+          {
+            "songsId": "AfterDawn.S9ryne.0",
+            "unlockType": 0,
+            "unlockInfo": [],
+            "secretType": 0,
+            "secretInfo": []
+          },
+          {
+            "songsId": "INFiNiTEENERZYOverdoze.RekuMochizuki.0",
+            "unlockType": 0,
+            "unlockInfo": [],
+            "secretType": 0,
+            "secretInfo": []
+          }
+        ]
+      },
+      "unlockInfo": {
+        "unlockMode": 1,
+        "unlockFlag": "Rrharil.TeamGrimoire.0",
+        "unlockTip": "",
+        "fakeCoverFlag": "",
+        "fakeCoverCode": "",
+        "fakeCoverBlurCode": ""
+      }
+    },
+    {
+      "chapterCode": "TEA12",
+      "songInfo": {
+        "title": "\\ChapterTEA12Title",
+        "subTitle": "\\ChapterExtraSubTitle",
+        "banner": "茶鸣拾贰律",
+        "songs": [
+          {
+            "songsId": "盏茗.茶鸣拾贰律.0",
+            "unlockType": 0,
+            "unlockInfo": [],
+            "secretType": 0,
+            "secretInfo": []
+          },
+          {
+            "songsId": "青芽.茶鸣拾贰律.0",
+            "unlockType": 0,
+            "unlockInfo": [],
+            "secretType": 0,
+            "secretInfo": []
+          },
+          {
+            "songsId": "瓷岁.茶鸣拾贰律.0",
+            "unlockType": 0,
+            "unlockInfo": [],
+            "secretType": 0,
+            "secretInfo": []
+          },
+          {
+            "songsId": "Feast远东之宴.茶鸣拾贰律.0",
+            "unlockType": 0,
+            "unlockInfo": [],
+            "secretType": 0,
+            "secretInfo": []
+          }
+        ]
+      },
+      "unlockInfo": {
+        "unlockMode": 0,
+        "unlockFlag": "",
+        "unlockTip": "",
+        "fakeCoverFlag": "",
+        "fakeCoverCode": "",
+        "fakeCoverBlurCode": ""
+      }
+    },
+    {
+      "chapterCode": "JMT",
+      "songInfo": {
+        "title": "\\ChapterJMTTitle",
+        "subTitle": "\\ChapterExtraSubTitle",
+        "banner": "姜米條",
+        "songs": [
+          {
+            "songsId": "Shadow.SumaiLightvs姜米條.0",
+            "unlockType": 0,
+            "unlockInfo": [],
+            "secretType": 0,
+            "secretInfo": []
+          },
+          {
+            "songsId": "心之所向.姜米條.0",
+            "unlockType": 0,
+            "unlockInfo": [],
+            "secretType": 0,
+            "secretInfo": []
+          },
+          {
+            "songsId": "inferior.姜米條.0",
+            "unlockType": 0,
+            "unlockInfo": [],
+            "secretType": 0,
+            "secretInfo": []
+          }
+        ]
+      },
+      "unlockInfo": {
+        "unlockMode": 0,
+        "unlockFlag": "",
+        "unlockTip": "",
+        "fakeCoverFlag": "",
+        "fakeCoverCode": "",
+        "fakeCoverBlurCode": ""
+      }
+    },
+    {
+      "chapterCode": "Lanota",
+      "songInfo": {
+        "title": "\\ChapterLanotaTitle",
+        "subTitle": "\\ChapterExtraSubTitle",
+        "banner": "Lanota",
+        "songs": [
+          {
+            "songsId": "Apocalypse.アリスシャッハと魔法の楽団.0",
+            "unlockType": 0,
+            "unlockInfo": [],
+            "secretType": 0,
+            "secretInfo": []
+          },
+          {
+            "songsId": "Protoflicker.Silentroom.0",
+            "unlockType": 0,
+            "unlockInfo": [],
+            "secretType": 0,
+            "secretInfo": []
+          },
+          {
+            "songsId": "HorizonBlue.NothingButRequiemfeatAikapinChiyoko.0",
+            "unlockType": 0,
+            "unlockInfo": [],
+            "secretType": 0,
+            "secretInfo": []
+          },
+          {
+            "songsId": "YouaretheMiserable.tpazolite.0",
+            "unlockType": 0,
+            "unlockInfo": [],
+            "secretType": 0,
+            "secretInfo": []
+          },
+          {
+            "songsId": "Stasis.Maozon.0",
+            "unlockType": 0,
+            "unlockInfo": [],
+            "secretType": 0,
+            "secretInfo": []
+          }
+        ]
+      },
+      "unlockInfo": {
+        "unlockMode": 0,
+        "unlockFlag": "",
+        "unlockTip": "",
+        "fakeCoverFlag": "",
+        "fakeCoverCode": "",
+        "fakeCoverBlurCode": ""
+      }
+    },
+    {
       "chapterCode": "KALPA",
       "songInfo": {
         "title": "\\ChapterKALPATitle",
@@ -1208,27 +1570,24 @@
         "songsName": "Glaciaxion",
         "songsTitle": "",
         "difficulty": [
-          1.1,
-          6.7,
+          1.0,
+          6.5,
           12.5,
-          0.0,
-          11.0
+          0.0
         ],
         "illustrator": "艾若拉",
         "charter": [
           "Barbarianerman",
           "Arenn Saki",
           "Barbarianerman vs. NerSAN",
-          "",
-          "Arenn Saki"
+          ""
         ],
         "composer": "SunsetRay",
         "levels": [
           "EZ",
           "HD",
           "IN",
-          "AT",
-          "Legacy"
+          "AT"
         ],
         "previewTime": 15.42,
         "unlockInfo": [
@@ -1279,14 +1638,14 @@
         "difficulty": [
           3.5,
           7.5,
-          11.6,
+          12.7,
           0.0
         ],
         "illustrator": "海产",
         "charter": [
-          "阿爽",
-          "阿爽",
-          "阿爽 & Ctymax",
+          "Barbarianerman",
+          "Barbarianerman",
+          "Barbarianerman",
           ""
         ],
         "composer": "NceS",
@@ -1339,7 +1698,7 @@
         "songsName": "Credits",
         "songsTitle": "",
         "difficulty": [
-          4.4,
+          4.5,
           10.4,
           13.7,
           0.0
@@ -1401,16 +1760,16 @@
         "songsName": "Dlyrotz",
         "songsTitle": "",
         "difficulty": [
-          6.5,
-          11.7,
-          14.6,
+          5.0,
+          9.4,
+          13.7,
           0.0
         ],
         "illustrator": "DoublePian",
         "charter": [
-          "晨",
-          "晨",
-          "晨 vs Barbarianerman",
+          "Su1fuR",
+          "Su1fuR",
+          "XMT小咩兔 vs Barbarianerman",
           ""
         ],
         "composer": "Likey",
@@ -1463,27 +1822,24 @@
         "songsName": "Engine x Start!! (melody mix)",
         "songsTitle": "",
         "difficulty": [
-          4.7,
+          4.5,
           10.5,
           13.4,
-          0.0,
-          15.1
+          0.0
         ],
         "illustrator": "赤芽",
         "charter": [
           "Arenn Saki&Catcats",
           "Arenn Saki&Catcats",
           "Arenn Saki&Catcats",
-          "",
-          "Arenn Saki&Catcats"
+          ""
         ],
         "composer": "CrossingSound",
         "levels": [
           "EZ",
           "HD",
           "IN",
-          "AT",
-          "Legacy"
+          "AT"
         ],
         "previewTime": 47.74,
         "unlockInfo": [
@@ -1528,27 +1884,24 @@
         "songsName": "光",
         "songsTitle": "",
         "difficulty": [
-          4.9,
+          5.0,
           8.4,
           12.8,
-          0.0,
-          13.6
+          0.0
         ],
         "illustrator": "winder",
         "charter": [
           "Catcats & 百九十八",
           "Catcats & 百九十八",
           "Catcats & 百九十八",
-          "",
-          "Catcats"
+          ""
         ],
         "composer": "姜米條",
         "levels": [
           "EZ",
           "HD",
           "IN",
-          "AT",
-          "Legacy"
+          "AT"
         ],
         "previewTime": 63.33,
         "unlockInfo": [
@@ -1593,27 +1946,24 @@
         "songsName": "Winter ↑cube↓",
         "songsTitle": "",
         "difficulty": [
-          6.7,
+          6.5,
           10.7,
           13.4,
-          0.0,
-          13.0
+          0.0
         ],
         "illustrator": "翠冷兮",
         "charter": [
-          "小鹏  fixed by Barbarianerman",
-          "小鹏  fixed by Barbarianerman",
+          "小鹏 fixed by Barbarianerman",
+          "小鹏 fixed by Barbarianerman",
           "百九十八",
-          "",
-          "小鹏"
+          ""
         ],
         "composer": "Ctymax feat. NceS",
         "levels": [
           "EZ",
           "HD",
           "IN",
-          "AT",
-          "Legacy"
+          "AT"
         ],
         "previewTime": 9.5,
         "unlockInfo": [
@@ -1658,16 +2008,16 @@
         "songsName": "Cipher : /2&//<|0",
         "songsTitle": "",
         "difficulty": [
-          6.8,
-          10.8,
-          14.7,
+          5.5,
+          9.7,
+          14.4,
           0.0
         ],
         "illustrator": "IvyTowers",
         "charter": [
-          "Gausbon",
-          "Gausbon",
-          "Gausbon",
+          "M3d1uM",
+          "M3d1uM",
+          "Barbarianerman feat. Gausbon",
           ""
         ],
         "composer": "Tetrajectory feat.Ctymax",
@@ -1720,27 +2070,24 @@
         "songsName": "混乱-Confusion",
         "songsTitle": "",
         "difficulty": [
-          5.3,
+          5.5,
           11.4,
           14.8,
-          0.0,
-          13.0
+          0.0
         ],
         "illustrator": "L-sp4",
         "charter": [
           "月下樱&115",
           "月下樱&115",
           "XMT小咩兔",
-          "",
-          "CN_115"
+          ""
         ],
         "composer": "OnlyMyBlackScore",
         "levels": [
           "EZ",
           "HD",
           "IN",
-          "AT",
-          "Legacy"
+          "AT"
         ],
         "previewTime": 77.33,
         "unlockInfo": [
@@ -1785,7 +2132,7 @@
         "songsName": "FULi AUTO SHOOTER",
         "songsTitle": "",
         "difficulty": [
-          4.1,
+          4.0,
           11.3,
           14.8,
           0.0
@@ -1847,27 +2194,24 @@
         "songsName": "HumaN",
         "songsTitle": "",
         "difficulty": [
-          5.6,
+          5.5,
           8.8,
           12.6,
-          0.0,
-          12.9
+          0.0
         ],
         "illustrator": "CH",
         "charter": [
           "阿爽",
           "阿爽",
           "CN_115+TangScend",
-          "",
-          "阿爽"
+          ""
         ],
         "composer": "SOTUI",
         "levels": [
           "EZ",
           "HD",
           "IN",
-          "AT",
-          "Legacy"
+          "AT"
         ],
         "previewTime": 84.989,
         "unlockInfo": [
@@ -1912,27 +2256,24 @@
         "songsName": "[PRAW]",
         "songsTitle": "",
         "difficulty": [
-          4.4,
+          4.5,
           11.8,
-          14.9,
-          0.0,
-          13.9
+          15.1,
+          0.0
         ],
         "illustrator": "老张",
         "charter": [
           "阿爽",
           "阿爽",
           "晨 vs. 阿爽",
-          "",
-          "阿爽"
+          ""
         ],
         "composer": "Bluewind",
         "levels": [
           "EZ",
           "HD",
           "IN",
-          "AT",
-          "Legacy"
+          "AT"
         ],
         "previewTime": 129.14,
         "unlockInfo": [
@@ -1979,25 +2320,22 @@
         "difficulty": [
           4.5,
           11.9,
-          15.2,
-          0.0,
-          14.0
+          15.1,
+          0.0
         ],
         "illustrator": "艾是Abby",
         "charter": [
           "阿爽",
           "阿爽",
           "NerSAN",
-          "",
-          "阿爽"
+          ""
         ],
         "composer": "Normal1zer",
         "levels": [
           "EZ",
           "HD",
           "IN",
-          "AT",
-          "Legacy"
+          "AT"
         ],
         "previewTime": 110.4,
         "unlockInfo": [
@@ -2042,15 +2380,15 @@
         "songsName": "Cereris",
         "songsTitle": "",
         "difficulty": [
-          6.9,
-          10.5,
+          5.5,
+          11.4,
           14.8,
           0.0
         ],
         "illustrator": "IvyTowers",
         "charter": [
-          "StupiGGy",
-          "StupiGGy",
+          "Su1fuR",
+          "Su1fuR",
           "StupiGGy",
           ""
         ],
@@ -2104,27 +2442,24 @@
         "songsName": "Non-Melodic Ragez (MUG Edit)",
         "songsTitle": "",
         "difficulty": [
-          5.8,
-          10.5,
+          5.5,
+          11.8,
           15.8,
-          0.0,
-          15.8
+          0.0
         ],
         "illustrator": "cycats",
         "charter": [
-          "分化者『RageS』",
-          "分化者『RageS』",
+          "Clutter",
+          "Clutter",
           "分化者 fixed by Barbarianerman",
-          "",
-          "分化者『RageS』"
+          ""
         ],
         "composer": "Normal1zer",
         "levels": [
           "EZ",
           "HD",
           "IN",
-          "AT",
-          "Legacy"
+          "AT"
         ],
         "previewTime": 63.085,
         "unlockInfo": [
@@ -2169,7 +2504,7 @@
         "songsName": "Sultan Rage",
         "songsTitle": "",
         "difficulty": [
-          3.9,
+          4.0,
           8.5,
           12.5,
           0.0
@@ -2231,15 +2566,15 @@
         "songsName": "Class Memories",
         "songsTitle": "",
         "difficulty": [
-          4.5,
-          8.9,
+          5.5,
+          10.4,
           13.5,
           0.0
         ],
         "illustrator": "xperz",
         "charter": [
-          "JKy",
-          "JKy",
+          "M3d1uM",
+          "M3d1uM",
           "JKy",
           ""
         ],
@@ -2293,15 +2628,15 @@
         "songsName": "-SURREALISM-",
         "songsTitle": "",
         "difficulty": [
-          4.6,
-          7.7,
+          5.0,
+          9.4,
           13.4,
           0.0
         ],
         "illustrator": "喵n葵",
         "charter": [
-          "-StupiGGy-",
-          "-StupiGGy-",
+          "Su1fuR",
+          "Su1fuR",
           "-StupiGGy- fixed by 晨",
           ""
         ],
@@ -2355,27 +2690,24 @@
         "songsName": "Bonus Time",
         "songsTitle": "",
         "difficulty": [
-          4.7,
+          4.5,
           9.3,
           14.2,
-          0.0,
-          13.5
+          0.0
         ],
         "illustrator": "笔记RE",
         "charter": [
-          "Uvernight  fixed by Barbarianerman",
-          "Uvernight  fixed by Barbarianerman",
+          "Uvernight fixed by Barbarianerman",
+          "Uvernight fixed by Barbarianerman",
           "Uvernight fixed by 百九十八",
-          "",
-          "Uvernight"
+          ""
         ],
         "composer": "Megalo_PaleWhite",
         "levels": [
           "EZ",
           "HD",
           "IN",
-          "AT",
-          "Legacy"
+          "AT"
         ],
         "previewTime": 23.36,
         "unlockInfo": [
@@ -2420,16 +2752,16 @@
         "songsName": "ENERGY SYNERGY MATRIX",
         "songsTitle": "",
         "difficulty": [
-          5.9,
-          10.7,
-          14.8,
+          5.5,
+          11.5,
+          14.6,
           0.0,
           14.0
         ],
         "illustrator": "Karameru",
         "charter": [
-          "Ctymax vs 阿爽 ",
-          "Ctymax vs 阿爽 ",
+          "Su1fuR",
+          "Su1fuR",
           "B B M pow",
           "",
           "Ctymax vs 阿爽 "
@@ -2482,10 +2814,10 @@
       {
         "songsId": "NYA.FLuoRiTe姜米條.0",
         "songsKey": "NYA!!!",
-        "songsName": "NYA!!!",
+        "songsName": "NYA!!! (Phigros ver.)",
         "songsTitle": "",
         "difficulty": [
-          1.8,
+          2.0,
           8.6,
           12.9,
           0.0
@@ -2547,7 +2879,7 @@
         "songsName": "JunXion Between Life And Death(VIP Mix)",
         "songsTitle": "",
         "difficulty": [
-          3.2,
+          3.0,
           8.7,
           13.3,
           0.0
@@ -2609,7 +2941,7 @@
         "songsName": "cryout",
         "songsTitle": "",
         "difficulty": [
-          4.3,
+          4.5,
           9.9,
           13.7,
           0.0
@@ -2671,7 +3003,7 @@
         "songsName": "Reimei",
         "songsTitle": "",
         "difficulty": [
-          6.8,
+          7.0,
           11.9,
           15.1,
           0.0
@@ -2733,15 +3065,15 @@
         "songsName": "尊師 ～The Guru～",
         "songsTitle": "",
         "difficulty": [
-          3.6,
-          9.4,
+          6.0,
+          11.6,
           15.2,
           0.0
         ],
         "illustrator": "1B",
         "charter": [
-          "奥術 ~The Empery~",
-          "奥術 ~The Empery~",
+          "M3d1uM",
+          "M3d1uM",
           "奥術 ~The Empery~",
           ""
         ],
@@ -2795,10 +3127,10 @@
         "songsName": "Spasmodic",
         "songsTitle": "",
         "difficulty": [
-          7.9,
+          7.5,
           12.6,
           15.2,
-          16.4
+          16.3
         ],
         "illustrator": "昔璃☆暴雨 ~ ♫危難聖帝♫",
         "charter": [
@@ -2864,7 +3196,7 @@
         "songsTitle": "",
         "difficulty": [
           2.5,
-          6.4,
+          6.5,
           12.7,
           0.0
         ],
@@ -2925,8 +3257,8 @@
         "songsName": "Colorful Days♪",
         "songsTitle": "",
         "difficulty": [
-          4.6,
-          7.1,
+          4.5,
+          7.0,
           12.7,
           0.0
         ],
@@ -2987,7 +3319,7 @@
         "songsName": "micro.wav",
         "songsTitle": "",
         "difficulty": [
-          6.2,
+          6.0,
           10.7,
           14.5,
           0.0
@@ -3049,7 +3381,7 @@
         "songsName": "重生",
         "songsTitle": "",
         "difficulty": [
-          5.8,
+          6.0,
           9.3,
           14.6,
           0.0
@@ -3173,7 +3505,7 @@
         "songsName": "望影の方舟Six",
         "songsTitle": "",
         "difficulty": [
-          6.3,
+          6.5,
           12.9,
           15.7,
           0.0
@@ -3182,7 +3514,7 @@
         "charter": [
           "六回目Traveler Scend",
           "六回目Traveler Scend",
-          "六回目Traveler Scend as \"Knight of Arq\"",
+          "六回目Traveler Scend as \"Knight of Arq\"",
           ""
         ],
         "composer": "Se-U-Ra",
@@ -3235,7 +3567,7 @@
         "songsName": "Igallta",
         "songsTitle": "",
         "difficulty": [
-          7.7,
+          7.5,
           12.7,
           15.6,
           16.7
@@ -3303,8 +3635,8 @@
         "songsName": "Clock Paradox",
         "songsTitle": "",
         "difficulty": [
-          2.3,
-          5.8,
+          2.5,
+          6.0,
           12.6,
           0.0
         ],
@@ -3365,7 +3697,7 @@
         "songsName": "Chronologika",
         "songsTitle": "",
         "difficulty": [
-          3.7,
+          3.5,
           9.8,
           13.9,
           0.0
@@ -3427,7 +3759,7 @@
         "songsName": "Nick of Time",
         "songsTitle": "",
         "difficulty": [
-          4.4,
+          4.5,
           8.1,
           14.4,
           0.0
@@ -3489,8 +3821,8 @@
         "songsName": "Chronomia",
         "songsTitle": "",
         "difficulty": [
-          4.7,
-          10.4,
+          4.5,
+          11.1,
           15.3,
           0.0
         ],
@@ -3551,8 +3883,8 @@
         "songsName": "Chronos Collapse - La Campanella",
         "songsTitle": "",
         "difficulty": [
-          2.8,
-          10.6,
+          3.0,
+          11.2,
           15.9,
           0.0
         ],
@@ -3613,7 +3945,7 @@
         "songsName": "Rrhar'il",
         "songsTitle": "",
         "difficulty": [
-          7.2,
+          7.0,
           12.7,
           15.7,
           16.8
@@ -3683,27 +4015,24 @@
         "songsName": "Doppelganger",
         "songsTitle": "",
         "difficulty": [
-          4.8,
-          9.4,
+          5.0,
+          9.8,
           14.8,
-          0.0,
-          13.0
+          0.0
         ],
         "illustrator": "海产",
         "charter": [
-          "阿爽",
-          "阿爽",
+          "Lumiere",
+          "Lumiere",
           "Gausbon",
-          "",
-          "阿爽"
+          ""
         ],
         "composer": "LeaF",
         "levels": [
           "EZ",
           "HD",
           "IN",
-          "AT",
-          "Legacy"
+          "AT"
         ],
         "previewTime": 3.87,
         "unlockInfo": [
@@ -3748,7 +4077,7 @@
         "songsName": "もぺもぺ",
         "songsTitle": "",
         "difficulty": [
-          3.4,
+          3.5,
           8.5,
           11.1,
           14.9
@@ -3810,27 +4139,24 @@
         "songsName": "MARENOL",
         "songsTitle": "",
         "difficulty": [
-          1.9,
+          2.0,
           10.2,
           14.2,
-          0.0,
-          14.0
+          0.0
         ],
         "illustrator": "喵n葵",
         "charter": [
-          "H.C.C.  fixed by Barbarinerman",
-          "H.C.C.  fixed by Barbarinerman",
+          "H.C.C. fixed by Barbarinerman",
+          "H.C.C. fixed by Barbarinerman",
           "百九十八",
-          "",
-          "H.C.C."
+          ""
         ],
         "composer": "LeaF",
         "levels": [
           "EZ",
           "HD",
           "IN",
-          "AT",
-          "Legacy"
+          "AT"
         ],
         "previewTime": 17.14,
         "unlockInfo": [
@@ -3875,27 +4201,24 @@
         "songsName": "萤火虫の怨",
         "songsTitle": "",
         "difficulty": [
-          4.3,
+          4.5,
           10.6,
           13.1,
-          0.0,
-          13.0
+          0.0
         ],
         "illustrator": "L-sp4",
         "charter": [
           "阿爽 & 百九十八",
           "阿爽 & 百九十八",
           "阿爽 & 百九十八",
-          "",
-          "阿爽"
+          ""
         ],
         "composer": "闫东炜",
         "levels": [
           "EZ",
           "HD",
           "IN",
-          "AT",
-          "Legacy"
+          "AT"
         ],
         "previewTime": 102.0,
         "unlockInfo": [
@@ -3940,27 +4263,24 @@
         "songsName": "万吨匿名信",
         "songsTitle": "",
         "difficulty": [
-          5.7,
+          5.5,
           9.7,
           13.3,
-          0.0,
-          13.0
+          0.0
         ],
         "illustrator": "IvyTowers",
         "charter": [
           "猫の信 & 百九十八",
           "猫の信 & 百九十八",
           "猫の信 & 百九十八",
-          "",
-          "猫の信"
+          ""
         ],
         "composer": "闫东炜",
         "levels": [
           "EZ",
           "HD",
           "IN",
-          "AT",
-          "Legacy"
+          "AT"
         ],
         "previewTime": 120.0,
         "unlockInfo": [
@@ -4005,7 +4325,7 @@
         "songsName": "风屿",
         "songsTitle": "",
         "difficulty": [
-          5.9,
+          6.0,
           10.3,
           13.7,
           0.0
@@ -4067,9 +4387,9 @@
         "songsName": "dB doll",
         "songsTitle": "",
         "difficulty": [
-          1.3,
-          3.6,
-          6.2,
+          1.5,
+          3.5,
+          6.0,
           13.6
         ],
         "illustrator": "何呵",
@@ -4130,26 +4450,23 @@
         "songsTitle": "",
         "difficulty": [
           2.5,
-          5.7,
+          5.5,
           11.7,
-          0.0,
-          11.0
+          0.0
         ],
         "illustrator": "艾是Abby",
         "charter": [
           "阿爽 fixed by Barbarianerman",
           "阿爽 fixed by Barbarianerman",
           "JKy",
-          "",
-          "阿爽"
+          ""
         ],
         "composer": "小红Akane，李祥晖",
         "levels": [
           "EZ",
           "HD",
           "IN",
-          "AT",
-          "Legacy"
+          "AT"
         ],
         "previewTime": 60.035,
         "unlockInfo": [
@@ -4194,27 +4511,24 @@
         "songsName": "云女孩",
         "songsTitle": "",
         "difficulty": [
-          2.8,
+          3.0,
           9.9,
           12.6,
-          0.0,
-          12.0
+          0.0
         ],
         "illustrator": "御坂果子",
         "charter": [
           "Cloud Catcats",
           "Cloud Catcats",
           "云正太",
-          "",
-          "Cloud Catcats"
+          ""
         ],
         "composer": "符白牙/SiYFics",
         "levels": [
           "EZ",
           "HD",
           "IN",
-          "AT",
-          "Legacy"
+          "AT"
         ],
         "previewTime": 26.32,
         "unlockInfo": [
@@ -4259,27 +4573,24 @@
         "songsName": "Drop It",
         "songsTitle": "",
         "difficulty": [
-          3.8,
+          4.0,
           9.6,
           14.1,
-          0.0,
-          14.0
+          0.0
         ],
         "illustrator": "TNiK",
         "charter": [
           "Drop Catcats",
           "Drop Catcats",
           "NerSAN & 百九十八",
-          "",
-          "Drop Catcats"
+          ""
         ],
         "composer": "Asuka",
         "levels": [
           "EZ",
           "HD",
           "IN",
-          "AT",
-          "Legacy"
+          "AT"
         ],
         "previewTime": 60.95,
         "unlockInfo": [
@@ -4324,27 +4635,24 @@
         "songsName": "RIPPER",
         "songsTitle": "",
         "difficulty": [
-          7.8,
+          7.5,
           11.2,
           15.2,
-          0.0,
-          15.0
+          0.0
         ],
         "illustrator": "何呵",
         "charter": [
           "撕裂者『無極』 fixed by 晨",
           "撕裂者『無極』 fixed by 晨",
           "撕裂者『Alloces vs Shin』",
-          "",
-          "撕裂者『無極』"
+          ""
         ],
         "composer": "Friedwav",
         "levels": [
           "EZ",
           "HD",
           "IN",
-          "AT",
-          "Legacy"
+          "AT"
         ],
         "previewTime": 107.2,
         "unlockInfo": [
@@ -4389,7 +4697,7 @@
         "songsName": "Aphasia",
         "songsTitle": "",
         "difficulty": [
-          4.2,
+          4.0,
           8.8,
           13.1,
           0.0
@@ -4451,27 +4759,24 @@
         "songsName": "开心病",
         "songsTitle": "",
         "difficulty": [
-          3.7,
-          9.8,
-          14.4,
-          0.0,
-          13.0
+          6.0,
+          11.5,
+          14.2,
+          0.0
         ],
         "illustrator": "喵n葵",
         "charter": [
-          "阿爽",
-          "阿爽",
+          "HaraKuma",
+          "HaraKuma",
           "Barbarianerman feat. 晨",
-          "",
-          "阿爽"
+          ""
         ],
         "composer": "闫东炜",
         "levels": [
           "EZ",
           "HD",
           "IN",
-          "AT",
-          "Legacy"
+          "AT"
         ],
         "previewTime": 31.141,
         "unlockInfo": [
@@ -4516,27 +4821,24 @@
         "songsName": "華灯爱",
         "songsTitle": "",
         "difficulty": [
-          5.5,
-          9.3,
+          6.0,
+          9.6,
           14.1,
-          0.0,
-          13.0
+          0.0
         ],
         "illustrator": "IvyTowers",
         "charter": [
-          "Gausbon",
-          "Gausbon",
+          "HaraKuma",
+          "HaraKuma",
           "Barbarianerman",
-          "",
-          "Gausbon"
+          ""
         ],
         "composer": "闫东炜",
         "levels": [
           "EZ",
           "HD",
           "IN",
-          "AT",
-          "Legacy"
+          "AT"
         ],
         "previewTime": 82.0,
         "unlockInfo": [
@@ -4581,7 +4883,7 @@
         "songsName": "Find_Me",
         "songsTitle": "",
         "difficulty": [
-          5.7,
+          5.5,
           10.5,
           14.4,
           0.0
@@ -4643,7 +4945,7 @@
         "songsName": "Sein",
         "songsTitle": "",
         "difficulty": [
-          4.6,
+          4.5,
           9.2,
           14.9,
           0.0
@@ -4705,27 +5007,24 @@
         "songsName": "狂喜蘭舞",
         "songsTitle": "",
         "difficulty": [
-          6.8,
+          7.0,
           10.8,
           14.4,
-          16.1,
-          14.0
+          16.1
         ],
         "illustrator": "DoublePian",
         "charter": [
           "Catcats a.k.a. 無極 VS H.C.C. fixed by 晨",
           "Catcats a.k.a. 無極 VS H.C.C. fixed by Pcat",
           "晨",
-          "Catcats a.k.a. 無極 VS H.C.C. fixed by 野从&晨",
-          "Catcats a.k.a. 無極 VS H.C.C."
+          "Catcats a.k.a. 無極 VS H.C.C. fixed by 野从&晨"
         ],
         "composer": "LeaF",
         "levels": [
           "EZ",
           "HD",
           "IN",
-          "AT",
-          "Legacy"
+          "AT"
         ],
         "previewTime": 61.56,
         "unlockInfo": [
@@ -4770,7 +5069,7 @@
         "songsName": "Sparkle New Life",
         "songsTitle": "",
         "difficulty": [
-          4.2,
+          4.0,
           9.2,
           12.4,
           0.0
@@ -4832,27 +5131,24 @@
         "songsName": "Khronostasis Katharsis",
         "songsTitle": "",
         "difficulty": [
-          5.2,
-          10.8,
+          5.5,
+          11.6,
           14.2,
-          0.0,
-          14.0
+          0.0
         ],
         "illustrator": "utosao",
         "charter": [
-          "StupiGGy",
-          "StupiGGy",
+          "XMT小咩兔 & Myna",
+          "XMT小咩兔 & Myna",
           "StupiGGy fixed by 百九十八",
-          "",
-          "StupiGGy"
+          ""
         ],
         "composer": "Halv",
         "levels": [
           "EZ",
           "HD",
           "IN",
-          "AT",
-          "Legacy"
+          "AT"
         ],
         "previewTime": 84.5,
         "unlockInfo": [
@@ -4897,16 +5193,16 @@
         "songsName": "Snow Desert",
         "songsTitle": "",
         "difficulty": [
-          5.1,
-          9.6,
-          13.6,
+          5.0,
+          10.3,
+          13.3,
           0.0
         ],
         "illustrator": "knife美工刀",
         "charter": [
-          "CN_115",
-          "CN_115",
-          "CN_115",
+          "VikingNexus",
+          "VikingNexus",
+          "VikingNexus",
           ""
         ],
         "composer": "WyvernP",
@@ -4959,7 +5255,7 @@
         "songsName": "Burn",
         "songsTitle": "",
         "difficulty": [
-          4.2,
+          4.0,
           10.6,
           14.8,
           0.0
@@ -5021,24 +5317,27 @@
         "songsName": "Aleph-0",
         "songsTitle": "",
         "difficulty": [
-          4.5,
-          11.6,
-          15.6,
-          0.0
+          3.5,
+          12.2,
+          15.7,
+          0.0,
+          15.6
         ],
         "illustrator": "Optie",
         "charter": [
-          "阿爽 VS Arenn Saki",
-          "阿爽 VS Arenn Saki",
-          "阿爽 VS Arenn Saki",
-          ""
+          "Clutter",
+          "Clutter",
+          "Clutter",
+          "",
+          "阿爽 VS Arenn Saki"
         ],
         "composer": "LeaF",
         "levels": [
           "EZ",
           "HD",
           "IN",
-          "AT"
+          "AT",
+          "Legacy"
         ],
         "previewTime": 11.519,
         "unlockInfo": [
@@ -5083,7 +5382,7 @@
         "songsName": "Next Time",
         "songsTitle": "",
         "difficulty": [
-          4.8,
+          5.0,
           9.2,
           12.6,
           0.0
@@ -5145,7 +5444,7 @@
         "songsName": "Rubbish Sorting",
         "songsTitle": "",
         "difficulty": [
-          3.3,
+          3.5,
           9.4,
           12.8,
           0.0
@@ -5207,27 +5506,24 @@
         "songsName": "Another Me",
         "songsTitle": "",
         "difficulty": [
-          1.7,
-          5.6,
+          5.5,
+          9.2,
           13.6,
-          0.0,
-          13.0
+          0.0
         ],
         "illustrator": "IvyTowers",
         "charter": [
-          "__Additional__(Self)",
-          "__Additional__(Self)",
+          "Another M3",
+          "Another M3",
           "NerSAN",
-          "",
-          "__Additional__(Self)"
+          ""
         ],
         "composer": "Neutral Moon",
         "levels": [
           "EZ",
           "HD",
           "IN",
-          "AT",
-          "Legacy"
+          "AT"
         ],
         "previewTime": 76.916,
         "unlockInfo": [
@@ -5272,7 +5568,7 @@
         "songsName": "mechanted",
         "songsTitle": "",
         "difficulty": [
-          2.7,
+          2.5,
           11.3,
           14.7,
           0.0
@@ -5334,7 +5630,7 @@
         "songsName": "life flashes before weeb eyes",
         "songsTitle": "",
         "difficulty": [
-          6.6,
+          6.5,
           11.9,
           14.8,
           0.0
@@ -5396,16 +5692,16 @@
         "songsName": "Break Through The Barrier",
         "songsTitle": "",
         "difficulty": [
-          5.9,
+          5.5,
           10.8,
-          14.9,
+          14.7,
           0.0,
           15.0
         ],
         "illustrator": "Xquid",
         "charter": [
-          "Catcats",
-          "Catcats",
+          "Su1fuR",
+          "Su1fuR",
           "百九十八",
           "",
           "Catcats"
@@ -5465,15 +5761,15 @@
         "songsName": "Chronostasis",
         "songsTitle": "",
         "difficulty": [
-          6.8,
-          11.6,
-          15.9,
+          6.5,
+          11.2,
+          15.8,
           0.0
         ],
         "illustrator": "Sand",
         "charter": [
-          "Gausbon",
-          "Gausbon",
+          "Uvernight",
+          "Uvernight",
           "Gausbon",
           ""
         ],
@@ -5527,7 +5823,7 @@
         "songsName": "Dead Soul",
         "songsTitle": "",
         "difficulty": [
-          4.3,
+          4.5,
           11.7,
           14.4,
           0.0
@@ -5589,7 +5885,7 @@
         "songsName": "Infinity Heaven",
         "songsTitle": "",
         "difficulty": [
-          3.3,
+          3.5,
           8.4,
           13.6,
           0.0
@@ -5651,7 +5947,7 @@
         "songsName": "Disorder",
         "songsTitle": "",
         "difficulty": [
-          5.4,
+          5.5,
           9.8,
           14.7,
           0.0
@@ -5713,7 +6009,7 @@
         "songsName": "CROSS†SOUL",
         "songsTitle": "",
         "difficulty": [
-          7.7,
+          7.5,
           12.8,
           15.9,
           0.0
@@ -5775,7 +6071,7 @@
         "songsName": "Speed Up!",
         "songsTitle": "",
         "difficulty": [
-          4.3,
+          4.5,
           10.3,
           14.3,
           0.0
@@ -5837,7 +6133,7 @@
         "songsName": "Magenta Potion",
         "songsTitle": "",
         "difficulty": [
-          6.3,
+          6.5,
           11.3,
           14.5,
           0.0
@@ -5899,7 +6195,7 @@
         "songsName": "Get Back",
         "songsTitle": "",
         "difficulty": [
-          6.6,
+          6.5,
           11.4,
           13.8,
           0.0
@@ -5961,7 +6257,7 @@
         "songsName": "Palescreen",
         "songsTitle": "",
         "difficulty": [
-          5.6,
+          5.5,
           11.8,
           15.7,
           0.0
@@ -6023,9 +6319,9 @@
         "songsName": "GOODTEK",
         "songsTitle": "",
         "difficulty": [
-          5.4,
+          5.5,
           10.8,
-          14.2,
+          13.8,
           0.0
         ],
         "illustrator": "Ctymax feat. EBIMAYO",
@@ -6085,7 +6381,7 @@
         "songsName": "GOODBOUNCE",
         "songsTitle": "",
         "difficulty": [
-          5.7,
+          5.5,
           11.6,
           14.4,
           0.0
@@ -6147,7 +6443,7 @@
         "songsName": "GOODWORLD",
         "songsTitle": "",
         "difficulty": [
-          3.2,
+          3.0,
           11.4,
           14.5,
           0.0
@@ -6209,7 +6505,7 @@
         "songsName": "GOODFORTUNE",
         "songsTitle": "",
         "difficulty": [
-          7.3,
+          7.5,
           8.7,
           15.4,
           0.0
@@ -6271,9 +6567,9 @@
         "songsName": "GOODRAGE",
         "songsTitle": "",
         "difficulty": [
-          4.6,
-          7.8,
-          15.8,
+          4.5,
+          7.5,
+          15.7,
           0.0
         ],
         "illustrator": "Ctymax feat. EBIMAYO",
@@ -6333,7 +6629,7 @@
         "songsName": "The Mountain Eater",
         "songsTitle": "",
         "difficulty": [
-          4.3,
+          4.5,
           9.1,
           14.4,
           0.0
@@ -6395,9 +6691,9 @@
         "songsName": "Orthodox",
         "songsTitle": "",
         "difficulty": [
-          4.7,
+          4.5,
           10.6,
-          14.2,
+          14.3,
           0.0
         ],
         "illustrator": "cycats",
@@ -6457,9 +6753,9 @@
         "songsName": "End Me",
         "songsTitle": "",
         "difficulty": [
-          5.8,
+          6.0,
           7.5,
-          14.3,
+          14.1,
           0.0
         ],
         "illustrator": "何呵",
@@ -6519,7 +6815,7 @@
         "songsName": "Parallel Retrogression(Game Ver.)",
         "songsTitle": "",
         "difficulty": [
-          6.8,
+          7.0,
           10.7,
           14.4,
           0.0
@@ -6581,7 +6877,7 @@
         "songsName": "Starduster",
         "songsTitle": "",
         "difficulty": [
-          5.6,
+          5.5,
           11.4,
           15.1,
           0.0
@@ -6643,7 +6939,7 @@
         "songsName": "Electron",
         "songsTitle": "",
         "difficulty": [
-          3.7,
+          3.5,
           10.4,
           13.2,
           0.0
@@ -6705,7 +7001,7 @@
         "songsName": "SIGMA",
         "songsTitle": "",
         "difficulty": [
-          4.8,
+          5.0,
           11.5,
           15.6,
           0.0
@@ -6767,7 +7063,7 @@
         "songsName": "Hardcore Kwaya",
         "songsTitle": "",
         "difficulty": [
-          4.3,
+          4.5,
           9.2,
           14.6,
           0.0
@@ -6776,7 +7072,7 @@
         "charter": [
           "One skunk (Ctymax) in Africa",
           "Hardcore Barbaya",
-          "Two skunks (Ctymax and 晨) in Africa shouting WAHHHHHH!",
+          "Two skunks (Ctymax and 晨) in Africa shouting WAHHHHHH!",
           ""
         ],
         "composer": "EnFr",
@@ -6829,7 +7125,7 @@
         "songsName": "Äventyr",
         "songsTitle": "",
         "difficulty": [
-          2.3,
+          2.5,
           9.4,
           13.7,
           0.0
@@ -6892,7 +7188,7 @@
         "songsTitle": "",
         "difficulty": [
           1.5,
-          6.7,
+          6.5,
           14.5,
           0.0
         ],
@@ -6953,7 +7249,7 @@
         "songsName": "雪降り、メリクリ",
         "songsTitle": "",
         "difficulty": [
-          5.6,
+          5.5,
           9.3,
           15.3,
           0.0
@@ -7015,7 +7311,7 @@
         "songsName": "Cervelle Connexion",
         "songsTitle": "",
         "difficulty": [
-          4.8,
+          5.0,
           11.3,
           14.5,
           0.0
@@ -7077,7 +7373,7 @@
         "songsName": "modulus",
         "songsTitle": "",
         "difficulty": [
-          3.7,
+          3.5,
           10.1,
           14.7,
           0.0
@@ -7134,75 +7430,13 @@
         ]
       },
       {
-        "songsId": "Shadow.SumaiLightvs姜米條.0",
-        "songsKey": "Shadow",
-        "songsName": "Shadow",
-        "songsTitle": "",
-        "difficulty": [
-          4.7,
-          10.3,
-          14.5,
-          0.0
-        ],
-        "illustrator": "御坂果子",
-        "charter": [
-          "晨",
-          "晨",
-          "Sillyp vs 晨",
-          ""
-        ],
-        "composer": "姜米條&SumaiLight",
-        "levels": [
-          "EZ",
-          "HD",
-          "IN",
-          "AT"
-        ],
-        "previewTime": 105.0,
-        "unlockInfo": [
-          {
-            "unlockType": 0,
-            "unlockInfo": []
-          },
-          {
-            "unlockType": 0,
-            "unlockInfo": []
-          },
-          {
-            "unlockType": 0,
-            "unlockInfo": []
-          },
-          {
-            "unlockType": 0,
-            "unlockInfo": []
-          }
-        ],
-        "levelMods": [
-          {
-            "levelMods": []
-          },
-          {
-            "levelMods": []
-          },
-          {
-            "levelMods": []
-          },
-          {
-            "levelMods": []
-          },
-          {
-            "levelMods": []
-          }
-        ]
-      },
-      {
         "songsId": "Wavetapper.Frums.0",
         "songsKey": "Wavetapper",
         "songsName": "Wavetapper",
         "songsTitle": "",
         "difficulty": [
-          4.4,
-          6.9,
+          4.5,
+          7.0,
           13.8,
           0.0
         ],
@@ -7263,7 +7497,7 @@
         "songsName": "大和撫子 -Wild Dances-",
         "songsTitle": "",
         "difficulty": [
-          5.7,
+          5.5,
           11.8,
           14.8,
           0.0
@@ -7325,7 +7559,7 @@
         "songsName": "Eltaw",
         "songsTitle": "",
         "difficulty": [
-          5.8,
+          6.0,
           10.5,
           14.4,
           0.0
@@ -7388,7 +7622,7 @@
         "songsTitle": "",
         "difficulty": [
           2.5,
-          7.2,
+          7.0,
           11.6,
           0.0
         ],
@@ -7449,9 +7683,9 @@
         "songsName": "桜樹街道",
         "songsTitle": "",
         "difficulty": [
-          3.6,
-          7.4,
-          12.6,
+          3.5,
+          7.5,
+          13.4,
           0.0
         ],
         "illustrator": "あおお/A-ZERO, morph",
@@ -7513,7 +7747,7 @@
         "difficulty": [
           4.5,
           8.7,
-          13.5,
+          13.7,
           0.0
         ],
         "illustrator": "あおお/A-ZERO, morph",
@@ -7573,7 +7807,7 @@
         "songsName": "volcanic",
         "songsTitle": "",
         "difficulty": [
-          7.3,
+          7.5,
           11.9,
           14.8,
           16.2
@@ -7635,7 +7869,7 @@
         "songsName": "Better Graphic Animation",
         "songsTitle": "",
         "difficulty": [
-          6.4,
+          6.5,
           11.7,
           15.3,
           0.0
@@ -7759,7 +7993,7 @@
         "songsName": "Final Step!",
         "songsTitle": "",
         "difficulty": [
-          5.9,
+          6.0,
           11.8,
           14.3,
           0.0
@@ -7821,10 +8055,10 @@
         "songsName": "Cthugha",
         "songsTitle": "",
         "difficulty": [
-          7.2,
+          7.0,
           12.3,
-          15.7,
-          15.9
+          15.6,
+          15.8
         ],
         "illustrator": "谷地（青鸟 modified）",
         "charter": [
@@ -7945,9 +8179,9 @@
         "songsName": "Unorthodox Thoughts",
         "songsTitle": "",
         "difficulty": [
-          4.7,
+          4.5,
           11.3,
-          14.4,
+          13.9,
           0.0
         ],
         "illustrator": "ASXX",
@@ -8007,9 +8241,9 @@
         "songsName": "Apocalyptic",
         "songsTitle": "",
         "difficulty": [
-          3.2,
+          3.0,
           9.6,
-          13.4,
+          13.6,
           0.0
         ],
         "illustrator": "佑木いずみ & Ctymax",
@@ -8070,7 +8304,7 @@
         "songsTitle": "",
         "difficulty": [
           2.8,
-          7.7,
+          7.5,
           13.2,
           0.0
         ],
@@ -8131,7 +8365,7 @@
         "songsName": "energy trixxx",
         "songsTitle": "",
         "difficulty": [
-          4.3,
+          4.5,
           11.4,
           15.2,
           0.0
@@ -8193,7 +8427,7 @@
         "songsName": "Nhelv",
         "songsTitle": "",
         "difficulty": [
-          1.7,
+          1.5,
           11.9,
           15.4,
           0.0
@@ -8317,9 +8551,9 @@
         "songsName": "Kerberos",
         "songsTitle": "",
         "difficulty": [
-          5.7,
+          5.5,
           12.4,
-          15.4,
+          15.5,
           0.0
         ],
         "illustrator": "Eridani",
@@ -8379,7 +8613,7 @@
         "songsName": "ρars/ey",
         "songsTitle": "",
         "difficulty": [
-          3.1,
+          3.0,
           11.3,
           14.7,
           0.0
@@ -8441,7 +8675,7 @@
         "songsName": "Concvssion",
         "songsTitle": "",
         "difficulty": [
-          4.1,
+          4.0,
           10.2,
           15.5,
           0.0
@@ -8503,8 +8737,8 @@
         "songsName": "ジングルベル(Jingle Bell)",
         "songsTitle": "",
         "difficulty": [
-          4.3,
-          7.2,
+          4.5,
+          7.0,
           14.5,
           0.0
         ],
@@ -8565,7 +8799,7 @@
         "songsName": "Time to Night Sky (feat. Lee Yu Jin)",
         "songsTitle": "",
         "difficulty": [
-          2.7,
+          2.5,
           9.1,
           13.6,
           0.0
@@ -8574,7 +8808,7 @@
         "charter": [
           "Rikko",
           "Barbarianerman",
-          "Likey & 198ar",
+          "Likey & 198ar",
           ""
         ],
         "composer": "HyuN & KLYDIX",
@@ -8627,7 +8861,7 @@
         "songsName": "HAZARD",
         "songsTitle": "",
         "difficulty": [
-          3.6,
+          3.5,
           10.9,
           14.7,
           0.0
@@ -8685,11 +8919,11 @@
       },
       {
         "songsId": "AnotherMe.DAAN.0",
-        "songsKey": "Another Me",
+        "songsKey": "Another Me ",
         "songsName": "Another Me",
         "songsTitle": "",
         "difficulty": [
-          4.8,
+          5.0,
           9.2,
           15.5,
           0.0
@@ -8751,7 +8985,7 @@
         "songsName": "Don't Never Around",
         "songsTitle": "",
         "difficulty": [
-          4.4,
+          4.5,
           11.7,
           15.6,
           0.0
@@ -8813,7 +9047,7 @@
         "songsName": "RESSiSTANCE",
         "songsTitle": "",
         "difficulty": [
-          6.1,
+          6.0,
           10.6,
           15.8,
           0.0
@@ -8868,6 +9102,2250 @@
             "levelMods": []
           }
         ]
+      },
+      {
+        "songsId": "Dreamland.z1onkyrrin.0",
+        "songsKey": "Dreamland",
+        "songsName": "Dreamland",
+        "songsTitle": "",
+        "difficulty": [
+          5.0,
+          9.8,
+          13.2,
+          0.0
+        ],
+        "illustrator": "海产",
+        "charter": [
+          "Bear",
+          "Bear",
+          "XMT & 198",
+          ""
+        ],
+        "composer": "z1on & kyrrin",
+        "levels": [
+          "EZ",
+          "HD",
+          "IN",
+          "AT"
+        ],
+        "previewTime": 113.5,
+        "unlockInfo": [
+          {
+            "unlockType": 0,
+            "unlockInfo": []
+          },
+          {
+            "unlockType": 0,
+            "unlockInfo": []
+          },
+          {
+            "unlockType": 0,
+            "unlockInfo": []
+          },
+          {
+            "unlockType": 0,
+            "unlockInfo": []
+          }
+        ],
+        "levelMods": [
+          {
+            "levelMods": []
+          },
+          {
+            "levelMods": []
+          },
+          {
+            "levelMods": []
+          },
+          {
+            "levelMods": []
+          },
+          {
+            "levelMods": []
+          }
+        ]
+      },
+      {
+        "songsId": "AnotherRound.JustinDai.0",
+        "songsKey": "Another Round",
+        "songsName": "Another Round",
+        "songsTitle": "",
+        "difficulty": [
+          3.0,
+          7.5,
+          13.3,
+          0.0
+        ],
+        "illustrator": "艾是Abby",
+        "charter": [
+          "阿爽",
+          "Another Stage",
+          "TimiTini →\"X\"← 阿爽",
+          ""
+        ],
+        "composer": "Justin Dai",
+        "levels": [
+          "EZ",
+          "HD",
+          "IN",
+          "AT"
+        ],
+        "previewTime": 46.641,
+        "unlockInfo": [
+          {
+            "unlockType": 0,
+            "unlockInfo": []
+          },
+          {
+            "unlockType": 0,
+            "unlockInfo": []
+          },
+          {
+            "unlockType": 0,
+            "unlockInfo": []
+          },
+          {
+            "unlockType": 0,
+            "unlockInfo": []
+          }
+        ],
+        "levelMods": [
+          {
+            "levelMods": []
+          },
+          {
+            "levelMods": []
+          },
+          {
+            "levelMods": []
+          },
+          {
+            "levelMods": []
+          },
+          {
+            "levelMods": []
+          }
+        ]
+      },
+      {
+        "songsId": "996.李化禹.0",
+        "songsKey": "996",
+        "songsName": "996",
+        "songsTitle": "",
+        "difficulty": [
+          4.0,
+          8.1,
+          14.6,
+          0.0
+        ],
+        "illustrator": "笔记RE",
+        "charter": [
+          "RTH",
+          "Likey",
+          "Barbarianerman & NerSAN in the ICU",
+          ""
+        ],
+        "composer": "李化禹",
+        "levels": [
+          "EZ",
+          "HD",
+          "IN",
+          "AT"
+        ],
+        "previewTime": 48.0,
+        "unlockInfo": [
+          {
+            "unlockType": 0,
+            "unlockInfo": []
+          },
+          {
+            "unlockType": 0,
+            "unlockInfo": []
+          },
+          {
+            "unlockType": 0,
+            "unlockInfo": []
+          },
+          {
+            "unlockType": 0,
+            "unlockInfo": []
+          }
+        ],
+        "levelMods": [
+          {
+            "levelMods": []
+          },
+          {
+            "levelMods": []
+          },
+          {
+            "levelMods": []
+          },
+          {
+            "levelMods": []
+          },
+          {
+            "levelMods": []
+          }
+        ]
+      },
+      {
+        "songsId": "FutureMind.RayNauticaRekuMochizuki.0",
+        "songsKey": "Future Mind",
+        "songsName": "Future Mind",
+        "songsTitle": "",
+        "difficulty": [
+          5.5,
+          11.7,
+          14.6,
+          0.0
+        ],
+        "illustrator": "Keiby.comics",
+        "charter": [
+          "Barbarianerman",
+          "XMT小咩兔",
+          "Future BarbarXMT",
+          ""
+        ],
+        "composer": "Ray Nautica & Reku Mochizuki",
+        "levels": [
+          "EZ",
+          "HD",
+          "IN",
+          "AT"
+        ],
+        "previewTime": 65.347,
+        "unlockInfo": [
+          {
+            "unlockType": 0,
+            "unlockInfo": []
+          },
+          {
+            "unlockType": 0,
+            "unlockInfo": []
+          },
+          {
+            "unlockType": 0,
+            "unlockInfo": []
+          },
+          {
+            "unlockType": 0,
+            "unlockInfo": []
+          }
+        ],
+        "levelMods": [
+          {
+            "levelMods": []
+          },
+          {
+            "levelMods": []
+          },
+          {
+            "levelMods": []
+          },
+          {
+            "levelMods": []
+          },
+          {
+            "levelMods": []
+          }
+        ]
+      },
+      {
+        "songsId": "Luminescent.Daison.0",
+        "songsKey": "Luminescent",
+        "songsName": "Luminescent",
+        "songsTitle": "",
+        "difficulty": [
+          5.5,
+          9.3,
+          14.4,
+          0.0
+        ],
+        "illustrator": "鲸弑",
+        "charter": [
+          "Uvernight",
+          "Uvernight",
+          "百九十八",
+          ""
+        ],
+        "composer": "Daison",
+        "levels": [
+          "EZ",
+          "HD",
+          "IN",
+          "AT"
+        ],
+        "previewTime": 97.446,
+        "unlockInfo": [
+          {
+            "unlockType": 0,
+            "unlockInfo": []
+          },
+          {
+            "unlockType": 0,
+            "unlockInfo": []
+          },
+          {
+            "unlockType": 0,
+            "unlockInfo": []
+          },
+          {
+            "unlockType": 0,
+            "unlockInfo": []
+          }
+        ],
+        "levelMods": [
+          {
+            "levelMods": []
+          },
+          {
+            "levelMods": []
+          },
+          {
+            "levelMods": []
+          },
+          {
+            "levelMods": []
+          },
+          {
+            "levelMods": []
+          }
+        ]
+      },
+      {
+        "songsId": "FULiAUTOBUSTER.MYUKKE.0",
+        "songsKey": "FULi AUTO BUSTER",
+        "songsName": "FULi AUTO BUSTER",
+        "songsTitle": "",
+        "difficulty": [
+          5.0,
+          8.6,
+          14.7,
+          0.0
+        ],
+        "illustrator": "cycats",
+        "charter": [
+          "M3d1uM & 百九十八",
+          "M3d1uM & 百九十八",
+          "百九十八 busting 阿爽",
+          ""
+        ],
+        "composer": "MYUKKE.",
+        "levels": [
+          "EZ",
+          "HD",
+          "IN",
+          "AT"
+        ],
+        "previewTime": 79.451,
+        "unlockInfo": [
+          {
+            "unlockType": 0,
+            "unlockInfo": []
+          },
+          {
+            "unlockType": 0,
+            "unlockInfo": []
+          },
+          {
+            "unlockType": 0,
+            "unlockInfo": []
+          },
+          {
+            "unlockType": 0,
+            "unlockInfo": []
+          }
+        ],
+        "levelMods": [
+          {
+            "levelMods": []
+          },
+          {
+            "levelMods": []
+          },
+          {
+            "levelMods": []
+          },
+          {
+            "levelMods": []
+          },
+          {
+            "levelMods": []
+          }
+        ]
+      },
+      {
+        "songsId": "IMustSayNo.TangJuan.0",
+        "songsKey": "I Must Say No",
+        "songsName": "I Must Say No",
+        "songsTitle": "",
+        "difficulty": [
+          2.5,
+          9.5,
+          13.5,
+          0.0
+        ],
+        "illustrator": "cycats",
+        "charter": [
+          "Likey",
+          "JKy",
+          "Likey & 百九十八",
+          ""
+        ],
+        "composer": "TangJuan",
+        "levels": [
+          "EZ",
+          "HD",
+          "IN",
+          "AT"
+        ],
+        "previewTime": 26.056,
+        "unlockInfo": [
+          {
+            "unlockType": 0,
+            "unlockInfo": []
+          },
+          {
+            "unlockType": 0,
+            "unlockInfo": []
+          },
+          {
+            "unlockType": 0,
+            "unlockInfo": []
+          },
+          {
+            "unlockType": 0,
+            "unlockInfo": []
+          }
+        ],
+        "levelMods": [
+          {
+            "levelMods": []
+          },
+          {
+            "levelMods": []
+          },
+          {
+            "levelMods": []
+          },
+          {
+            "levelMods": []
+          },
+          {
+            "levelMods": []
+          }
+        ]
+      },
+      {
+        "songsId": "opia.rN.0",
+        "songsKey": "opia",
+        "songsName": "opia",
+        "songsTitle": "",
+        "difficulty": [
+          5.5,
+          11.6,
+          15.5,
+          0.0
+        ],
+        "illustrator": "rN @ 湯元画伯",
+        "charter": [
+          "BlindForest",
+          "BlindForest 『Observing』",
+          "Jeitie & CorruptedEntity 『Hollow』",
+          ""
+        ],
+        "composer": "rN",
+        "levels": [
+          "EZ",
+          "HD",
+          "IN",
+          "AT"
+        ],
+        "previewTime": 28.601,
+        "unlockInfo": [
+          {
+            "unlockType": 0,
+            "unlockInfo": []
+          },
+          {
+            "unlockType": 0,
+            "unlockInfo": []
+          },
+          {
+            "unlockType": 0,
+            "unlockInfo": []
+          },
+          {
+            "unlockType": 0,
+            "unlockInfo": []
+          }
+        ],
+        "levelMods": [
+          {
+            "levelMods": []
+          },
+          {
+            "levelMods": []
+          },
+          {
+            "levelMods": []
+          },
+          {
+            "levelMods": []
+          },
+          {
+            "levelMods": []
+          }
+        ]
+      },
+      {
+        "songsId": "Apocalypse.アリスシャッハと魔法の楽団.0",
+        "songsKey": "Apocalypse",
+        "songsName": "Apocalypse",
+        "songsTitle": "",
+        "difficulty": [
+          4.0,
+          8.6,
+          13.5,
+          0.0
+        ],
+        "illustrator": "Lanota © Noxy Games Inc. ",
+        "charter": [
+          "R.",
+          "B.",
+          "Rikko & 198",
+          ""
+        ],
+        "composer": "アリスシャッハと魔法の楽団",
+        "levels": [
+          "EZ",
+          "HD",
+          "IN",
+          "AT"
+        ],
+        "previewTime": 54.818,
+        "unlockInfo": [
+          {
+            "unlockType": 0,
+            "unlockInfo": []
+          },
+          {
+            "unlockType": 0,
+            "unlockInfo": []
+          },
+          {
+            "unlockType": 0,
+            "unlockInfo": []
+          },
+          {
+            "unlockType": 0,
+            "unlockInfo": []
+          }
+        ],
+        "levelMods": [
+          {
+            "levelMods": []
+          },
+          {
+            "levelMods": []
+          },
+          {
+            "levelMods": []
+          },
+          {
+            "levelMods": []
+          },
+          {
+            "levelMods": []
+          }
+        ]
+      },
+      {
+        "songsId": "Protoflicker.Silentroom.0",
+        "songsKey": "Protoflicker",
+        "songsName": "Protoflicker",
+        "songsTitle": "",
+        "difficulty": [
+          3.5,
+          10.6,
+          15.2,
+          0.0
+        ],
+        "illustrator": "Lanota © Noxy Games Inc. ",
+        "charter": [
+          "Barbarianerman & J.R",
+          "RTH",
+          "Gausbon",
+          ""
+        ],
+        "composer": "Silentroom",
+        "levels": [
+          "EZ",
+          "HD",
+          "IN",
+          "AT"
+        ],
+        "previewTime": 96.032,
+        "unlockInfo": [
+          {
+            "unlockType": 0,
+            "unlockInfo": []
+          },
+          {
+            "unlockType": 0,
+            "unlockInfo": []
+          },
+          {
+            "unlockType": 0,
+            "unlockInfo": []
+          },
+          {
+            "unlockType": 0,
+            "unlockInfo": []
+          }
+        ],
+        "levelMods": [
+          {
+            "levelMods": []
+          },
+          {
+            "levelMods": []
+          },
+          {
+            "levelMods": []
+          },
+          {
+            "levelMods": []
+          },
+          {
+            "levelMods": []
+          }
+        ]
+      },
+      {
+        "songsId": "HorizonBlue.NothingButRequiemfeatAikapinChiyoko.0",
+        "songsKey": "Horizon Blue",
+        "songsName": "Horizon Blue",
+        "songsTitle": "",
+        "difficulty": [
+          6.5,
+          12.2,
+          15.5,
+          0.0
+        ],
+        "illustrator": "Lanota © Noxy Games Inc. ",
+        "charter": [
+          "Nothing But Uvernight",
+          "Nothing But Likey",
+          "Nothing But Ner & Pcat",
+          ""
+        ],
+        "composer": "Nothing But Requiem feat. Aikapin & Chiyoko",
+        "levels": [
+          "EZ",
+          "HD",
+          "IN",
+          "AT"
+        ],
+        "previewTime": 41.099,
+        "unlockInfo": [
+          {
+            "unlockType": 0,
+            "unlockInfo": []
+          },
+          {
+            "unlockType": 0,
+            "unlockInfo": []
+          },
+          {
+            "unlockType": 0,
+            "unlockInfo": []
+          },
+          {
+            "unlockType": 0,
+            "unlockInfo": []
+          }
+        ],
+        "levelMods": [
+          {
+            "levelMods": []
+          },
+          {
+            "levelMods": []
+          },
+          {
+            "levelMods": []
+          },
+          {
+            "levelMods": []
+          },
+          {
+            "levelMods": []
+          }
+        ]
+      },
+      {
+        "songsId": "YouaretheMiserable.tpazolite.0",
+        "songsKey": "You are the Miserable",
+        "songsName": "You are the Miserable",
+        "songsTitle": "",
+        "difficulty": [
+          6.0,
+          11.7,
+          14.6,
+          15.8
+        ],
+        "illustrator": "Lanota © Noxy Games Inc. ",
+        "charter": [
+          "M3d1uM",
+          "M3d1uM",
+          "We are the Miserable",
+          "Pat Brick Man Mr.C & Mr.B"
+        ],
+        "composer": "t+pazolite",
+        "levels": [
+          "EZ",
+          "HD",
+          "IN",
+          "AT"
+        ],
+        "previewTime": 117.798,
+        "unlockInfo": [
+          {
+            "unlockType": 0,
+            "unlockInfo": []
+          },
+          {
+            "unlockType": 0,
+            "unlockInfo": []
+          },
+          {
+            "unlockType": 0,
+            "unlockInfo": []
+          },
+          {
+            "unlockType": 2,
+            "unlockInfo": [
+              "ReadLanota1",
+              "ReadLanota2",
+              "ReadLanota3",
+              "YouaretheMiserableINSGrade"
+            ]
+          }
+        ],
+        "levelMods": [
+          {
+            "levelMods": []
+          },
+          {
+            "levelMods": []
+          },
+          {
+            "levelMods": []
+          },
+          {
+            "levelMods": []
+          },
+          {
+            "levelMods": []
+          }
+        ]
+      },
+      {
+        "songsId": "Stasis.Maozon.0",
+        "songsKey": "Stasis",
+        "songsName": "Stasis",
+        "songsTitle": "",
+        "difficulty": [
+          5.0,
+          11.1,
+          15.5,
+          16.4
+        ],
+        "illustrator": "Lanota © Noxy Games Inc. ",
+        "charter": [
+          "空の希",
+          "空の希",
+          "ST AS is XMT",
+          "百九十八"
+        ],
+        "composer": "Maozon",
+        "levels": [
+          "EZ",
+          "HD",
+          "IN",
+          "AT"
+        ],
+        "previewTime": 42.666,
+        "unlockInfo": [
+          {
+            "unlockType": 0,
+            "unlockInfo": []
+          },
+          {
+            "unlockType": 0,
+            "unlockInfo": []
+          },
+          {
+            "unlockType": 0,
+            "unlockInfo": []
+          },
+          {
+            "unlockType": 2,
+            "unlockInfo": [
+              "ReadLanota4",
+              "StasisINSGrade"
+            ]
+          }
+        ],
+        "levelMods": [
+          {
+            "levelMods": []
+          },
+          {
+            "levelMods": []
+          },
+          {
+            "levelMods": []
+          },
+          {
+            "levelMods": []
+          },
+          {
+            "levelMods": []
+          }
+        ]
+      },
+      {
+        "songsId": "いざ参ります.Uskefeat棗いつき.0",
+        "songsKey": "いざ、参ります",
+        "songsName": "いざ、参ります",
+        "songsTitle": "",
+        "difficulty": [
+          4.0,
+          9.6,
+          14.8,
+          0.0
+        ],
+        "illustrator": "緑風マルト",
+        "charter": [
+          "Clutter & Barbarianerman",
+          "Clutter & Barbarianerman",
+          "小咩兔、参上",
+          ""
+        ],
+        "composer": "U-ske feat. 棗いつき",
+        "levels": [
+          "EZ",
+          "HD",
+          "IN",
+          "AT"
+        ],
+        "previewTime": 38.297,
+        "unlockInfo": [
+          {
+            "unlockType": 0,
+            "unlockInfo": []
+          },
+          {
+            "unlockType": 0,
+            "unlockInfo": []
+          },
+          {
+            "unlockType": 0,
+            "unlockInfo": []
+          },
+          {
+            "unlockType": 0,
+            "unlockInfo": []
+          }
+        ],
+        "levelMods": [
+          {
+            "levelMods": []
+          },
+          {
+            "levelMods": []
+          },
+          {
+            "levelMods": []
+          },
+          {
+            "levelMods": []
+          },
+          {
+            "levelMods": []
+          }
+        ]
+      },
+      {
+        "songsId": "月下缭乱.月見静華vsLUNARiUM.0",
+        "songsKey": "月下缭乱",
+        "songsName": "月下缭乱",
+        "songsTitle": "",
+        "difficulty": [
+          5.0,
+          9.4,
+          14.8,
+          0.0
+        ],
+        "illustrator": "TNiK",
+        "charter": [
+          "XMT小咩兔",
+          "XMT小咩兔",
+          "iv",
+          ""
+        ],
+        "composer": "月見静華 vs. LUNARiUM",
+        "levels": [
+          "EZ",
+          "HD",
+          "IN",
+          "AT"
+        ],
+        "previewTime": 70.628,
+        "unlockInfo": [
+          {
+            "unlockType": 0,
+            "unlockInfo": []
+          },
+          {
+            "unlockType": 0,
+            "unlockInfo": []
+          },
+          {
+            "unlockType": 0,
+            "unlockInfo": []
+          },
+          {
+            "unlockType": 0,
+            "unlockInfo": []
+          }
+        ],
+        "levelMods": [
+          {
+            "levelMods": []
+          },
+          {
+            "levelMods": []
+          },
+          {
+            "levelMods": []
+          },
+          {
+            "levelMods": []
+          },
+          {
+            "levelMods": []
+          }
+        ]
+      },
+      {
+        "songsId": "OnAndOn.ETIAfeatJenga.0",
+        "songsKey": "On And On!!",
+        "songsName": "On And On!!",
+        "songsTitle": "",
+        "difficulty": [
+          5.0,
+          10.3,
+          14.9,
+          0.0
+        ],
+        "illustrator": "わっふゑ",
+        "charter": [
+          "Rikko",
+          "Rikko",
+          "NerSAN feat. Takanashi Rikko",
+          ""
+        ],
+        "composer": "ETIA. feat. Jenga",
+        "levels": [
+          "EZ",
+          "HD",
+          "IN",
+          "AT"
+        ],
+        "previewTime": 11.287,
+        "unlockInfo": [
+          {
+            "unlockType": 0,
+            "unlockInfo": []
+          },
+          {
+            "unlockType": 0,
+            "unlockInfo": []
+          },
+          {
+            "unlockType": 0,
+            "unlockInfo": []
+          },
+          {
+            "unlockType": 0,
+            "unlockInfo": []
+          }
+        ],
+        "levelMods": [
+          {
+            "levelMods": []
+          },
+          {
+            "levelMods": []
+          },
+          {
+            "levelMods": []
+          },
+          {
+            "levelMods": []
+          },
+          {
+            "levelMods": []
+          }
+        ]
+      },
+      {
+        "songsId": "DataErr0r.Cosmograph.0",
+        "songsKey": "DataErr0r",
+        "songsName": "DataErr0r",
+        "songsTitle": "",
+        "difficulty": [
+          6.0,
+          11.6,
+          14.6,
+          0.0
+        ],
+        "illustrator": "Photonskyto",
+        "charter": [
+          "[!!12:l<l<ο!!]",
+          "Rikko",
+          "TangScend -Err0rederci-",
+          ""
+        ],
+        "composer": "Cosmograph",
+        "levels": [
+          "EZ",
+          "HD",
+          "IN",
+          "AT"
+        ],
+        "previewTime": 52.0,
+        "unlockInfo": [
+          {
+            "unlockType": 0,
+            "unlockInfo": []
+          },
+          {
+            "unlockType": 0,
+            "unlockInfo": []
+          },
+          {
+            "unlockType": 0,
+            "unlockInfo": []
+          },
+          {
+            "unlockType": 0,
+            "unlockInfo": []
+          }
+        ],
+        "levelMods": [
+          {
+            "levelMods": []
+          },
+          {
+            "levelMods": []
+          },
+          {
+            "levelMods": []
+          },
+          {
+            "levelMods": []
+          },
+          {
+            "levelMods": []
+          }
+        ]
+      },
+      {
+        "songsId": "Shadow.SumaiLightvs姜米條.0",
+        "songsKey": "Shadow",
+        "songsName": "Shadow",
+        "songsTitle": "",
+        "difficulty": [
+          4.5,
+          10.3,
+          14.5,
+          15.9
+        ],
+        "illustrator": "御坂果子",
+        "charter": [
+          "晨",
+          "晨",
+          "Sillyp vs 晨",
+          "J0(_)I2|\\|3y'5 3|\\||)"
+        ],
+        "composer": "姜米條&SumaiLight",
+        "levels": [
+          "EZ",
+          "HD",
+          "IN",
+          "AT"
+        ],
+        "previewTime": 105.0,
+        "unlockInfo": [
+          {
+            "unlockType": 0,
+            "unlockInfo": []
+          },
+          {
+            "unlockType": 0,
+            "unlockInfo": []
+          },
+          {
+            "unlockType": 0,
+            "unlockInfo": []
+          },
+          {
+            "unlockType": 2,
+            "unlockInfo": [
+              "ShadowINSGrade",
+              "心之所向INSGrade",
+              "inferiorINSGrade"
+            ]
+          }
+        ],
+        "levelMods": [
+          {
+            "levelMods": []
+          },
+          {
+            "levelMods": []
+          },
+          {
+            "levelMods": []
+          },
+          {
+            "levelMods": []
+          },
+          {
+            "levelMods": []
+          }
+        ]
+      },
+      {
+        "songsId": "心之所向.姜米條.0",
+        "songsKey": "心之所向",
+        "songsName": "心之所向",
+        "songsTitle": "",
+        "difficulty": [
+          4.5,
+          9.7,
+          13.6,
+          0.0
+        ],
+        "illustrator": "笔记RE",
+        "charter": [
+          "波之所杂",
+          "波之所杂",
+          "倪之所爽",
+          ""
+        ],
+        "composer": "姜米條",
+        "levels": [
+          "EZ",
+          "HD",
+          "IN",
+          "AT"
+        ],
+        "previewTime": 46.663,
+        "unlockInfo": [
+          {
+            "unlockType": 0,
+            "unlockInfo": []
+          },
+          {
+            "unlockType": 0,
+            "unlockInfo": []
+          },
+          {
+            "unlockType": 0,
+            "unlockInfo": []
+          },
+          {
+            "unlockType": 0,
+            "unlockInfo": []
+          }
+        ],
+        "levelMods": [
+          {
+            "levelMods": []
+          },
+          {
+            "levelMods": []
+          },
+          {
+            "levelMods": []
+          },
+          {
+            "levelMods": []
+          },
+          {
+            "levelMods": []
+          }
+        ]
+      },
+      {
+        "songsId": "inferior.姜米條.0",
+        "songsKey": "inferior",
+        "songsName": "inferior",
+        "songsTitle": "",
+        "difficulty": [
+          7.0,
+          7.5,
+          14.6,
+          0.0
+        ],
+        "illustrator": "群青kurara",
+        "charter": [
+          "Ner, the inferior",
+          "Ner, the inferior",
+          "JKy, the inferior",
+          ""
+        ],
+        "composer": "姜米條",
+        "levels": [
+          "EZ",
+          "HD",
+          "IN",
+          "AT"
+        ],
+        "previewTime": 20.1,
+        "unlockInfo": [
+          {
+            "unlockType": 0,
+            "unlockInfo": []
+          },
+          {
+            "unlockType": 0,
+            "unlockInfo": []
+          },
+          {
+            "unlockType": 0,
+            "unlockInfo": []
+          },
+          {
+            "unlockType": 0,
+            "unlockInfo": []
+          }
+        ],
+        "levelMods": [
+          {
+            "levelMods": []
+          },
+          {
+            "levelMods": []
+          },
+          {
+            "levelMods": []
+          },
+          {
+            "levelMods": []
+          },
+          {
+            "levelMods": []
+          }
+        ]
+      },
+      {
+        "songsId": "csqn.Aoi.0",
+        "songsKey": "c.s.q.n.",
+        "songsName": "c.s.q.n.",
+        "songsTitle": "",
+        "difficulty": [
+          5.0,
+          12.5,
+          15.7,
+          0.0
+        ],
+        "illustrator": "Ctymax vs. TNiK feat. 出前",
+        "charter": [
+          "b.b.n.m.",
+          "h.o.m.e.e.e.",
+          "s.t.p.g.",
+          ""
+        ],
+        "composer": "Aoi",
+        "levels": [
+          "EZ",
+          "HD",
+          "IN",
+          "AT"
+        ],
+        "previewTime": 88.446,
+        "unlockInfo": [
+          {
+            "unlockType": 0,
+            "unlockInfo": []
+          },
+          {
+            "unlockType": 0,
+            "unlockInfo": []
+          },
+          {
+            "unlockType": 0,
+            "unlockInfo": []
+          },
+          {
+            "unlockType": 0,
+            "unlockInfo": []
+          }
+        ],
+        "levelMods": [
+          {
+            "levelMods": []
+          },
+          {
+            "levelMods": []
+          },
+          {
+            "levelMods": []
+          },
+          {
+            "levelMods": []
+          },
+          {
+            "levelMods": []
+          }
+        ]
+      },
+      {
+        "songsId": "BraveNotes.TurquoiseDRIVENota.0",
+        "songsKey": "Brave Notes",
+        "songsName": "Brave Notes",
+        "songsTitle": "",
+        "difficulty": [
+          5.5,
+          11.4,
+          14.6,
+          0.0
+        ],
+        "illustrator": "林语",
+        "charter": [
+          "Brave Eaimo",
+          "Brave Eaimo",
+          "Brave Eaimo",
+          ""
+        ],
+        "composer": "Turquoise(DRIVE.+Nota)",
+        "levels": [
+          "EZ",
+          "HD",
+          "IN",
+          "AT"
+        ],
+        "previewTime": 45.01,
+        "unlockInfo": [
+          {
+            "unlockType": 0,
+            "unlockInfo": []
+          },
+          {
+            "unlockType": 0,
+            "unlockInfo": []
+          },
+          {
+            "unlockType": 0,
+            "unlockInfo": []
+          },
+          {
+            "unlockType": 0,
+            "unlockInfo": []
+          }
+        ],
+        "levelMods": [
+          {
+            "levelMods": []
+          },
+          {
+            "levelMods": []
+          },
+          {
+            "levelMods": []
+          },
+          {
+            "levelMods": []
+          },
+          {
+            "levelMods": []
+          }
+        ]
+      },
+      {
+        "songsId": "盏茗.茶鸣拾贰律.0",
+        "songsKey": "盏茗",
+        "songsName": "盏茗",
+        "songsTitle": "",
+        "difficulty": [
+          2.0,
+          4.5,
+          13.3,
+          0.0
+        ],
+        "illustrator": "茶鸣拾贰律",
+        "charter": [
+          "Barbarianerman",
+          "Barbarianerman",
+          "NerSAN sipping XMTea",
+          ""
+        ],
+        "composer": "茶鸣拾贰律",
+        "levels": [
+          "EZ",
+          "HD",
+          "IN",
+          "AT"
+        ],
+        "previewTime": 65.954,
+        "unlockInfo": [
+          {
+            "unlockType": 0,
+            "unlockInfo": []
+          },
+          {
+            "unlockType": 0,
+            "unlockInfo": []
+          },
+          {
+            "unlockType": 0,
+            "unlockInfo": []
+          },
+          {
+            "unlockType": 0,
+            "unlockInfo": []
+          }
+        ],
+        "levelMods": [
+          {
+            "levelMods": []
+          },
+          {
+            "levelMods": []
+          },
+          {
+            "levelMods": []
+          },
+          {
+            "levelMods": []
+          },
+          {
+            "levelMods": []
+          }
+        ]
+      },
+      {
+        "songsId": "青芽.茶鸣拾贰律.0",
+        "songsKey": "青芽",
+        "songsName": "青芽",
+        "songsTitle": "",
+        "difficulty": [
+          5.0,
+          10.8,
+          14.7,
+          0.0
+        ],
+        "illustrator": "茶鸣拾贰律",
+        "charter": [
+          "生根发芽的小咩兔",
+          "逆流而上的小咩兔",
+          "Hook vs. _鉄",
+          ""
+        ],
+        "composer": "茶鸣拾贰律",
+        "levels": [
+          "EZ",
+          "HD",
+          "IN",
+          "AT"
+        ],
+        "previewTime": 106.87,
+        "unlockInfo": [
+          {
+            "unlockType": 0,
+            "unlockInfo": []
+          },
+          {
+            "unlockType": 0,
+            "unlockInfo": []
+          },
+          {
+            "unlockType": 0,
+            "unlockInfo": []
+          },
+          {
+            "unlockType": 0,
+            "unlockInfo": []
+          }
+        ],
+        "levelMods": [
+          {
+            "levelMods": []
+          },
+          {
+            "levelMods": []
+          },
+          {
+            "levelMods": []
+          },
+          {
+            "levelMods": []
+          },
+          {
+            "levelMods": []
+          }
+        ]
+      },
+      {
+        "songsId": "EternalSnow.AbyssIdols.0",
+        "songsKey": "Eternal Snow",
+        "songsName": "Eternal Snow",
+        "songsTitle": "",
+        "difficulty": [
+          4.0,
+          8.8,
+          13.5,
+          0.0
+        ],
+        "illustrator": "Sak",
+        "charter": [
+          "M3d1uM",
+          "M3d1uM",
+          "JKy",
+          ""
+        ],
+        "composer": "Abyss Idols",
+        "levels": [
+          "EZ",
+          "HD",
+          "IN",
+          "AT"
+        ],
+        "previewTime": 81.428,
+        "unlockInfo": [
+          {
+            "unlockType": 0,
+            "unlockInfo": []
+          },
+          {
+            "unlockType": 0,
+            "unlockInfo": []
+          },
+          {
+            "unlockType": 0,
+            "unlockInfo": []
+          },
+          {
+            "unlockType": 0,
+            "unlockInfo": []
+          }
+        ],
+        "levelMods": [
+          {
+            "levelMods": []
+          },
+          {
+            "levelMods": []
+          },
+          {
+            "levelMods": []
+          },
+          {
+            "levelMods": []
+          },
+          {
+            "levelMods": []
+          }
+        ]
+      },
+      {
+        "songsId": "RainySeason.AbyssIdols.0",
+        "songsKey": "Rainy Season",
+        "songsName": "Rainy Season",
+        "songsTitle": "",
+        "difficulty": [
+          5.5,
+          10.7,
+          14.4,
+          0.0
+        ],
+        "illustrator": "Robin",
+        "charter": [
+          "StupiGGy",
+          "StupiGGy",
+          "Raiky Season",
+          ""
+        ],
+        "composer": "Abyss Idols",
+        "levels": [
+          "EZ",
+          "HD",
+          "IN",
+          "AT"
+        ],
+        "previewTime": 67.0,
+        "unlockInfo": [
+          {
+            "unlockType": 0,
+            "unlockInfo": []
+          },
+          {
+            "unlockType": 0,
+            "unlockInfo": []
+          },
+          {
+            "unlockType": 0,
+            "unlockInfo": []
+          },
+          {
+            "unlockType": 0,
+            "unlockInfo": []
+          }
+        ],
+        "levelMods": [
+          {
+            "levelMods": []
+          },
+          {
+            "levelMods": []
+          },
+          {
+            "levelMods": []
+          },
+          {
+            "levelMods": []
+          },
+          {
+            "levelMods": []
+          }
+        ]
+      },
+      {
+        "songsId": "ElCondorPasaPhigrosEdit.PlasticFruits.0",
+        "songsKey": "El Condor Pasa (Phigros Edit)",
+        "songsName": "El Condor Pasa (Phigros Edit)",
+        "songsTitle": "",
+        "difficulty": [
+          4.5,
+          12.5,
+          15.5,
+          0.0
+        ],
+        "illustrator": "青鸟",
+        "charter": [
+          "TimiTini",
+          "TimiTini",
+          "XMT小咩兔",
+          ""
+        ],
+        "composer": "Plastic Fruits",
+        "levels": [
+          "EZ",
+          "HD",
+          "IN",
+          "AT"
+        ],
+        "previewTime": 76.8,
+        "unlockInfo": [
+          {
+            "unlockType": 0,
+            "unlockInfo": []
+          },
+          {
+            "unlockType": 0,
+            "unlockInfo": []
+          },
+          {
+            "unlockType": 0,
+            "unlockInfo": []
+          },
+          {
+            "unlockType": 0,
+            "unlockInfo": []
+          }
+        ],
+        "levelMods": [
+          {
+            "levelMods": []
+          },
+          {
+            "levelMods": []
+          },
+          {
+            "levelMods": []
+          },
+          {
+            "levelMods": []
+          },
+          {
+            "levelMods": []
+          }
+        ]
+      },
+      {
+        "songsId": "BreakOver.Kforest.0",
+        "songsKey": "Break Over",
+        "songsName": "Break Over",
+        "songsTitle": "",
+        "difficulty": [
+          5.0,
+          11.8,
+          14.6,
+          14.9
+        ],
+        "illustrator": "圆规compasses",
+        "charter": [
+          "Barbarianerman",
+          "Barbarianerman",
+          "百九十八 vs Barbarianerman",
+          "百九十八"
+        ],
+        "composer": "K-forest",
+        "levels": [
+          "EZ",
+          "HD",
+          "IN",
+          "AT"
+        ],
+        "previewTime": 83.324,
+        "unlockInfo": [
+          {
+            "unlockType": 0,
+            "unlockInfo": []
+          },
+          {
+            "unlockType": 0,
+            "unlockInfo": []
+          },
+          {
+            "unlockType": 0,
+            "unlockInfo": []
+          },
+          {
+            "unlockType": 0,
+            "unlockInfo": []
+          }
+        ],
+        "levelMods": [
+          {
+            "levelMods": []
+          },
+          {
+            "levelMods": []
+          },
+          {
+            "levelMods": []
+          },
+          {
+            "levelMods": []
+          },
+          {
+            "levelMods": []
+          }
+        ]
+      },
+      {
+        "songsId": "BelieveLightfeat果丸哒呦.ScalerMestie果丸哒呦.0",
+        "songsKey": "Believe Light (feat. 果丸哒呦)",
+        "songsName": "Believe Light (feat. 果丸哒呦)",
+        "songsTitle": "",
+        "difficulty": [
+          2.5,
+          9.5,
+          14.5,
+          0.0
+        ],
+        "illustrator": "圆规compasses",
+        "charter": [
+          "Believe Ctymax",
+          "Believe TimiTini",
+          "Believe Ctymax & TimiTini",
+          ""
+        ],
+        "composer": "Scaler & Mestie & 果丸哒呦",
+        "levels": [
+          "EZ",
+          "HD",
+          "IN",
+          "AT"
+        ],
+        "previewTime": 44.16,
+        "unlockInfo": [
+          {
+            "unlockType": 0,
+            "unlockInfo": []
+          },
+          {
+            "unlockType": 0,
+            "unlockInfo": []
+          },
+          {
+            "unlockType": 0,
+            "unlockInfo": []
+          },
+          {
+            "unlockType": 0,
+            "unlockInfo": []
+          }
+        ],
+        "levelMods": [
+          {
+            "levelMods": []
+          },
+          {
+            "levelMods": []
+          },
+          {
+            "levelMods": []
+          },
+          {
+            "levelMods": []
+          },
+          {
+            "levelMods": []
+          }
+        ]
+      },
+      {
+        "songsId": "Pontdessouvenirs.VeetaCrushvsitsufeatitsu.0",
+        "songsKey": "Pont des souvenirs",
+        "songsName": "Pont des souvenirs",
+        "songsTitle": "",
+        "difficulty": [
+          5.5,
+          10.7,
+          15.2,
+          0.0
+        ],
+        "illustrator": "林语",
+        "charter": [
+          "JKy",
+          "JKy",
+          "晨",
+          ""
+        ],
+        "composer": "VeetaCrush vs. [itsu(feat.itsu)]",
+        "levels": [
+          "EZ",
+          "HD",
+          "IN",
+          "AT"
+        ],
+        "previewTime": 41.0,
+        "unlockInfo": [
+          {
+            "unlockType": 0,
+            "unlockInfo": []
+          },
+          {
+            "unlockType": 0,
+            "unlockInfo": []
+          },
+          {
+            "unlockType": 0,
+            "unlockInfo": []
+          },
+          {
+            "unlockType": 0,
+            "unlockInfo": []
+          }
+        ],
+        "levelMods": [
+          {
+            "levelMods": []
+          },
+          {
+            "levelMods": []
+          },
+          {
+            "levelMods": []
+          },
+          {
+            "levelMods": []
+          },
+          {
+            "levelMods": []
+          }
+        ]
+      },
+      {
+        "songsId": "青丘.BLACK0.0",
+        "songsKey": "青丘",
+        "songsName": "青丘",
+        "songsTitle": "",
+        "difficulty": [
+          5.5,
+          10.5,
+          15.3,
+          0.0
+        ],
+        "illustrator": "BLACK 0",
+        "charter": [
+          "Ctymax",
+          "Su1fuR",
+          "KillJoy",
+          ""
+        ],
+        "composer": "BLACK 0",
+        "levels": [
+          "EZ",
+          "HD",
+          "IN",
+          "AT"
+        ],
+        "previewTime": 43.166,
+        "unlockInfo": [
+          {
+            "unlockType": 0,
+            "unlockInfo": []
+          },
+          {
+            "unlockType": 0,
+            "unlockInfo": []
+          },
+          {
+            "unlockType": 0,
+            "unlockInfo": []
+          },
+          {
+            "unlockType": 0,
+            "unlockInfo": []
+          }
+        ],
+        "levelMods": [
+          {
+            "levelMods": []
+          },
+          {
+            "levelMods": []
+          },
+          {
+            "levelMods": []
+          },
+          {
+            "levelMods": []
+          },
+          {
+            "levelMods": []
+          }
+        ]
+      },
+      {
+        "songsId": "瓷岁.茶鸣拾贰律.0",
+        "songsKey": "瓷岁",
+        "songsName": "瓷岁",
+        "songsTitle": "",
+        "difficulty": [
+          3.5,
+          6.5,
+          7.0,
+          0.0
+        ],
+        "illustrator": "茶鸣拾贰律",
+        "charter": [
+          "『流』年大顺",
+          "『流』年大顺",
+          "『兔』年大吉",
+          ""
+        ],
+        "composer": "茶鸣拾贰律",
+        "levels": [
+          "EZ",
+          "HD",
+          "IN",
+          "AT"
+        ],
+        "previewTime": 92.38,
+        "unlockInfo": [
+          {
+            "unlockType": 0,
+            "unlockInfo": []
+          },
+          {
+            "unlockType": 0,
+            "unlockInfo": []
+          },
+          {
+            "unlockType": 0,
+            "unlockInfo": []
+          },
+          {
+            "unlockType": 0,
+            "unlockInfo": []
+          }
+        ],
+        "levelMods": [
+          {
+            "levelMods": []
+          },
+          {
+            "levelMods": []
+          },
+          {
+            "levelMods": []
+          },
+          {
+            "levelMods": []
+          },
+          {
+            "levelMods": []
+          }
+        ]
+      },
+      {
+        "songsId": "Feast远东之宴.茶鸣拾贰律.0",
+        "songsKey": "Feast远东之宴",
+        "songsName": "Feast远东之宴",
+        "songsTitle": "",
+        "difficulty": [
+          6.5,
+          11.9,
+          15.3,
+          0.0
+        ],
+        "illustrator": "茶鸣拾贰律",
+        "charter": [
+          "Barbarianerman",
+          "Barbarianerman",
+          "Gino",
+          ""
+        ],
+        "composer": "茶鸣拾贰律",
+        "levels": [
+          "EZ",
+          "HD",
+          "IN",
+          "AT"
+        ],
+        "previewTime": 37.5,
+        "unlockInfo": [
+          {
+            "unlockType": 0,
+            "unlockInfo": []
+          },
+          {
+            "unlockType": 0,
+            "unlockInfo": []
+          },
+          {
+            "unlockType": 0,
+            "unlockInfo": []
+          },
+          {
+            "unlockType": 0,
+            "unlockInfo": []
+          }
+        ],
+        "levelMods": [
+          {
+            "levelMods": []
+          },
+          {
+            "levelMods": []
+          },
+          {
+            "levelMods": []
+          },
+          {
+            "levelMods": []
+          },
+          {
+            "levelMods": []
+          }
+        ]
+      },
+      {
+        "songsId": "インフェルノシティ.Ponchifeatはぁち.0",
+        "songsKey": "インフェルノシティ",
+        "songsName": "インフェルノシティ",
+        "songsTitle": "",
+        "difficulty": [
+          5.0,
+          11.2,
+          15.7,
+          0.0
+        ],
+        "illustrator": "LESYEF & 藍瀬 まなみ",
+        "charter": [
+          "Su1fuR",
+          "Alloces feat. Uvernight",
+          "Alloces",
+          ""
+        ],
+        "composer": "Ponchi♪ feat. はぁち",
+        "levels": [
+          "EZ",
+          "HD",
+          "IN",
+          "AT"
+        ],
+        "previewTime": 63.627,
+        "unlockInfo": [
+          {
+            "unlockType": 0,
+            "unlockInfo": []
+          },
+          {
+            "unlockType": 0,
+            "unlockInfo": []
+          },
+          {
+            "unlockType": 0,
+            "unlockInfo": []
+          },
+          {
+            "unlockType": 0,
+            "unlockInfo": []
+          }
+        ],
+        "levelMods": [
+          {
+            "levelMods": []
+          },
+          {
+            "levelMods": []
+          },
+          {
+            "levelMods": []
+          },
+          {
+            "levelMods": []
+          },
+          {
+            "levelMods": []
+          }
+        ]
+      },
+      {
+        "songsId": "Upshift.Iriss-Frantzz.0",
+        "songsKey": "Upshift",
+        "songsName": "Upshift",
+        "songsTitle": "",
+        "difficulty": [
+          5.5,
+          10.8,
+          15.3,
+          0.0
+        ],
+        "illustrator": "Iriss=Frantzz=s-don",
+        "charter": [
+          "Lumiere",
+          "CorruptedEntity & 野从",
+          "_鉄",
+          ""
+        ],
+        "composer": "Iriss-Frantzz",
+        "levels": [
+          "EZ",
+          "HD",
+          "IN",
+          "AT"
+        ],
+        "previewTime": 100.645,
+        "unlockInfo": [
+          {
+            "unlockType": 0,
+            "unlockInfo": []
+          },
+          {
+            "unlockType": 0,
+            "unlockInfo": []
+          },
+          {
+            "unlockType": 0,
+            "unlockInfo": []
+          },
+          {
+            "unlockType": 0,
+            "unlockInfo": []
+          }
+        ],
+        "levelMods": [
+          {
+            "levelMods": []
+          },
+          {
+            "levelMods": []
+          },
+          {
+            "levelMods": []
+          },
+          {
+            "levelMods": []
+          },
+          {
+            "levelMods": []
+          }
+        ]
+      },
+      {
+        "songsId": "PoisonANDORAffection.LeaF.0",
+        "songsKey": "Poison AND÷OR Affection",
+        "songsName": "Poison AND÷OR Affection",
+        "songsTitle": "",
+        "difficulty": [
+          3.5,
+          9.6,
+          15.5,
+          0.0
+        ],
+        "illustrator": "笔记RE/海产",
+        "charter": [
+          "R/kko",
+          "&ikko",
+          "1÷98",
+          ""
+        ],
+        "composer": "LeaF",
+        "levels": [
+          "EZ",
+          "HD",
+          "IN",
+          "AT"
+        ],
+        "previewTime": 20.5,
+        "unlockInfo": [
+          {
+            "unlockType": 0,
+            "unlockInfo": []
+          },
+          {
+            "unlockType": 0,
+            "unlockInfo": []
+          },
+          {
+            "unlockType": 0,
+            "unlockInfo": []
+          },
+          {
+            "unlockType": 0,
+            "unlockInfo": []
+          }
+        ],
+        "levelMods": [
+          {
+            "levelMods": []
+          },
+          {
+            "levelMods": []
+          },
+          {
+            "levelMods": []
+          },
+          {
+            "levelMods": []
+          },
+          {
+            "levelMods": []
+          }
+        ]
       }
     ],
     "sideStorySongs": [
@@ -8877,7 +11355,7 @@
         "songsName": "Ποσειδών",
         "songsTitle": "",
         "difficulty": [
-          4.7,
+          4.5,
           8.4,
           12.8,
           0.0
@@ -9001,27 +11479,24 @@
         "songsName": "Miracle Forest (VIP Mix)",
         "songsTitle": "",
         "difficulty": [
-          2.6,
+          2.5,
           9.8,
           13.7,
-          0.0,
-          14.0
+          0.0
         ],
         "illustrator": "L-sp4",
         "charter": [
           "奇跡の希",
           "奇跡の希",
           "奇跡の希 feat. 奇跡の従",
-          "",
-          "奇跡の希 feat. 奇跡の従"
+          ""
         ],
         "composer": "Rinth_live",
         "levels": [
           "EZ",
           "HD",
           "IN",
-          "AT",
-          "Legacy"
+          "AT"
         ],
         "previewTime": 63.04,
         "unlockInfo": [
@@ -9070,7 +11545,7 @@
         "songsName": "MOBILYS",
         "songsTitle": "",
         "difficulty": [
-          4.8,
+          5.0,
           9.7,
           14.4,
           0.0
@@ -9132,10 +11607,10 @@
         "songsName": "Lyrith -迷宮リリス-",
         "songsTitle": "",
         "difficulty": [
-          5.2,
+          5.0,
           11.6,
           15.9,
-          16.3
+          16.2
         ],
         "illustrator": "何呵",
         "charter": [
@@ -9152,6 +11627,378 @@
           "AT"
         ],
         "previewTime": 92.866,
+        "unlockInfo": [
+          {
+            "unlockType": 0,
+            "unlockInfo": []
+          },
+          {
+            "unlockType": 0,
+            "unlockInfo": []
+          },
+          {
+            "unlockType": 0,
+            "unlockInfo": []
+          },
+          {
+            "unlockType": 0,
+            "unlockInfo": []
+          }
+        ],
+        "levelMods": [
+          {
+            "levelMods": []
+          },
+          {
+            "levelMods": []
+          },
+          {
+            "levelMods": []
+          },
+          {
+            "levelMods": []
+          },
+          {
+            "levelMods": []
+          }
+        ]
+      },
+      {
+        "songsId": "Demiurge.Rabpit.0",
+        "songsKey": "Demiurge",
+        "songsName": "Demiurge",
+        "songsTitle": "",
+        "difficulty": [
+          1.5,
+          7.5,
+          11.8,
+          0.0
+        ],
+        "illustrator": "青鸟",
+        "charter": [
+          "\"Manufacturer\" ~ Rikko",
+          "\"Creator\" ~ StupiGGy",
+          "\"Demiurge\" ~ Dawn",
+          ""
+        ],
+        "composer": "Rabpit",
+        "levels": [
+          "EZ",
+          "HD",
+          "IN",
+          "AT"
+        ],
+        "previewTime": 89.729,
+        "unlockInfo": [
+          {
+            "unlockType": 0,
+            "unlockInfo": []
+          },
+          {
+            "unlockType": 0,
+            "unlockInfo": []
+          },
+          {
+            "unlockType": 0,
+            "unlockInfo": []
+          },
+          {
+            "unlockType": 0,
+            "unlockInfo": []
+          }
+        ],
+        "levelMods": [
+          {
+            "levelMods": []
+          },
+          {
+            "levelMods": []
+          },
+          {
+            "levelMods": []
+          },
+          {
+            "levelMods": []
+          },
+          {
+            "levelMods": []
+          }
+        ]
+      },
+      {
+        "songsId": "Demonkin.ForgedReigns.0",
+        "songsKey": "Demonkin",
+        "songsName": "Demonkin",
+        "songsTitle": "",
+        "difficulty": [
+          6.0,
+          10.7,
+          13.7,
+          0.0
+        ],
+        "illustrator": "Jeffery",
+        "charter": [
+          "Alloces",
+          "Alloces",
+          "Sillyp & Alloces",
+          ""
+        ],
+        "composer": "Forged Reigns",
+        "levels": [
+          "EZ",
+          "HD",
+          "IN",
+          "AT"
+        ],
+        "previewTime": 42.5,
+        "unlockInfo": [
+          {
+            "unlockType": 0,
+            "unlockInfo": []
+          },
+          {
+            "unlockType": 0,
+            "unlockInfo": []
+          },
+          {
+            "unlockType": 0,
+            "unlockInfo": []
+          },
+          {
+            "unlockType": 0,
+            "unlockInfo": []
+          }
+        ],
+        "levelMods": [
+          {
+            "levelMods": []
+          },
+          {
+            "levelMods": []
+          },
+          {
+            "levelMods": []
+          },
+          {
+            "levelMods": []
+          },
+          {
+            "levelMods": []
+          }
+        ]
+      },
+      {
+        "songsId": "Re_NascencePsystyleVer.Rinth_live.0",
+        "songsKey": "Re_Nascence (Psystyle Ver.) ",
+        "songsName": "Re_Nascence (Psystyle Ver.) ",
+        "songsTitle": "",
+        "difficulty": [
+          4.5,
+          11.4,
+          14.6,
+          0.0
+        ],
+        "illustrator": "Tsuioku",
+        "charter": [
+          "NerSAN",
+          "NerSAN",
+          "NerSAN & 百九十八",
+          ""
+        ],
+        "composer": "Rinth_live",
+        "levels": [
+          "EZ",
+          "HD",
+          "IN",
+          "AT"
+        ],
+        "previewTime": 30.4,
+        "unlockInfo": [
+          {
+            "unlockType": 0,
+            "unlockInfo": []
+          },
+          {
+            "unlockType": 0,
+            "unlockInfo": []
+          },
+          {
+            "unlockType": 0,
+            "unlockInfo": []
+          },
+          {
+            "unlockType": 0,
+            "unlockInfo": []
+          }
+        ],
+        "levelMods": [
+          {
+            "levelMods": []
+          },
+          {
+            "levelMods": []
+          },
+          {
+            "levelMods": []
+          },
+          {
+            "levelMods": []
+          },
+          {
+            "levelMods": []
+          }
+        ]
+      },
+      {
+        "songsId": "Ark.kanoryo.0",
+        "songsKey": "Ark",
+        "songsName": "Ark",
+        "songsTitle": "",
+        "difficulty": [
+          4.5,
+          10.9,
+          15.1,
+          0.0
+        ],
+        "illustrator": "MOAI WORKS",
+        "charter": [
+          "TimiTini",
+          "TimiTini",
+          "阿爽 eat Ctymax",
+          ""
+        ],
+        "composer": "kanoryo",
+        "levels": [
+          "EZ",
+          "HD",
+          "IN",
+          "AT"
+        ],
+        "previewTime": 42.686,
+        "unlockInfo": [
+          {
+            "unlockType": 0,
+            "unlockInfo": []
+          },
+          {
+            "unlockType": 0,
+            "unlockInfo": []
+          },
+          {
+            "unlockType": 0,
+            "unlockInfo": []
+          },
+          {
+            "unlockType": 0,
+            "unlockInfo": []
+          }
+        ],
+        "levelMods": [
+          {
+            "levelMods": []
+          },
+          {
+            "levelMods": []
+          },
+          {
+            "levelMods": []
+          },
+          {
+            "levelMods": []
+          },
+          {
+            "levelMods": []
+          }
+        ]
+      },
+      {
+        "songsId": "AfterDawn.S9ryne.0",
+        "songsKey": "After Dawn",
+        "songsName": "After Dawn",
+        "songsTitle": "",
+        "difficulty": [
+          4.0,
+          11.1,
+          15.3,
+          0.0
+        ],
+        "illustrator": "月亮酱",
+        "charter": [
+          "Barbarianerman",
+          "NerSAN feat. Pcat",
+          "BarbariaNerSAN feat. Snorkel",
+          ""
+        ],
+        "composer": "S9ryne",
+        "levels": [
+          "EZ",
+          "HD",
+          "IN",
+          "AT"
+        ],
+        "previewTime": 52.363,
+        "unlockInfo": [
+          {
+            "unlockType": 0,
+            "unlockInfo": []
+          },
+          {
+            "unlockType": 0,
+            "unlockInfo": []
+          },
+          {
+            "unlockType": 0,
+            "unlockInfo": []
+          },
+          {
+            "unlockType": 0,
+            "unlockInfo": []
+          }
+        ],
+        "levelMods": [
+          {
+            "levelMods": []
+          },
+          {
+            "levelMods": []
+          },
+          {
+            "levelMods": []
+          },
+          {
+            "levelMods": []
+          },
+          {
+            "levelMods": []
+          }
+        ]
+      },
+      {
+        "songsId": "INFiNiTEENERZYOverdoze.RekuMochizuki.0",
+        "songsKey": "INFiNiTE ENERZY -Overdoze-",
+        "songsName": "INFiNiTE ENERZY -Overdoze-",
+        "songsTitle": "",
+        "difficulty": [
+          7.5,
+          12.4,
+          14.6,
+          16.3
+        ],
+        "illustrator": "knife美工刀",
+        "charter": [
+          "while(TangScend<=TangScend);",
+          "while(TangScend>=TangScend);",
+          "while(TangScend==TangScend);",
+          "while(TangScend=TangScend);"
+        ],
+        "composer": "Reku Mochizuki",
+        "levels": [
+          "EZ",
+          "HD",
+          "IN",
+          "AT"
+        ],
+        "previewTime": 48.0,
         "unlockInfo": [
           {
             "unlockType": 0,
@@ -10134,6 +12981,12 @@
       "unlockTimes": 1
     },
     {
+      "keyName": "Another Me ",
+      "unlockedTimes": 0,
+      "kindOfKey": 2,
+      "unlockTimes": 1
+    },
+    {
       "keyName": "mechanted",
       "unlockedTimes": 0,
       "kindOfKey": 2,
@@ -10440,24 +13293,6 @@
       "unlockTimes": 1
     },
     {
-      "keyName": "Shadow",
-      "unlockedTimes": 0,
-      "kindOfKey": 0,
-      "unlockTimes": 1
-    },
-    {
-      "keyName": "Shadow",
-      "unlockedTimes": 0,
-      "kindOfKey": 2,
-      "unlockTimes": 1
-    },
-    {
-      "keyName": "Shadow",
-      "unlockedTimes": 0,
-      "kindOfKey": 2,
-      "unlockTimes": 1
-    },
-    {
       "keyName": "Wavetapper",
       "unlockedTimes": 0,
       "kindOfKey": 0,
@@ -10698,6 +13533,540 @@
       "unlockTimes": 1
     },
     {
+      "keyName": "Dreamland",
+      "unlockedTimes": 0,
+      "kindOfKey": 0,
+      "unlockTimes": 1
+    },
+    {
+      "keyName": "Dreamland",
+      "unlockedTimes": 0,
+      "kindOfKey": 2,
+      "unlockTimes": 1
+    },
+    {
+      "keyName": "Another Round",
+      "unlockedTimes": 0,
+      "kindOfKey": 0,
+      "unlockTimes": 1
+    },
+    {
+      "keyName": "Another Round",
+      "unlockedTimes": 0,
+      "kindOfKey": 2,
+      "unlockTimes": 1
+    },
+    {
+      "keyName": "996",
+      "unlockedTimes": 0,
+      "kindOfKey": 0,
+      "unlockTimes": 1
+    },
+    {
+      "keyName": "996",
+      "unlockedTimes": 0,
+      "kindOfKey": 2,
+      "unlockTimes": 1
+    },
+    {
+      "keyName": "Future Mind",
+      "unlockedTimes": 0,
+      "kindOfKey": 0,
+      "unlockTimes": 1
+    },
+    {
+      "keyName": "Future Mind",
+      "unlockedTimes": 0,
+      "kindOfKey": 2,
+      "unlockTimes": 1
+    },
+    {
+      "keyName": "Luminescent",
+      "unlockedTimes": 0,
+      "kindOfKey": 0,
+      "unlockTimes": 1
+    },
+    {
+      "keyName": "Luminescent",
+      "unlockedTimes": 0,
+      "kindOfKey": 2,
+      "unlockTimes": 1
+    },
+    {
+      "keyName": "FULi AUTO BUSTER",
+      "unlockedTimes": 0,
+      "kindOfKey": 0,
+      "unlockTimes": 1
+    },
+    {
+      "keyName": "FULi AUTO BUSTER",
+      "unlockedTimes": 0,
+      "kindOfKey": 2,
+      "unlockTimes": 1
+    },
+    {
+      "keyName": "I Must Say No",
+      "unlockedTimes": 0,
+      "kindOfKey": 0,
+      "unlockTimes": 1
+    },
+    {
+      "keyName": "I Must Say No",
+      "unlockedTimes": 0,
+      "kindOfKey": 2,
+      "unlockTimes": 1
+    },
+    {
+      "keyName": "opia",
+      "unlockedTimes": 0,
+      "kindOfKey": 0,
+      "unlockTimes": 1
+    },
+    {
+      "keyName": "opia",
+      "unlockedTimes": 0,
+      "kindOfKey": 2,
+      "unlockTimes": 1
+    },
+    {
+      "keyName": "Apocalypse",
+      "unlockedTimes": 0,
+      "kindOfKey": 2,
+      "unlockTimes": 1
+    },
+    {
+      "keyName": "Protoflicker",
+      "unlockedTimes": 0,
+      "kindOfKey": 2,
+      "unlockTimes": 1
+    },
+    {
+      "keyName": "Horizon Blue",
+      "unlockedTimes": 0,
+      "kindOfKey": 2,
+      "unlockTimes": 1
+    },
+    {
+      "keyName": "You are the Miserable",
+      "unlockedTimes": 0,
+      "kindOfKey": 2,
+      "unlockTimes": 1
+    },
+    {
+      "keyName": "Stasis",
+      "unlockedTimes": 0,
+      "kindOfKey": 2,
+      "unlockTimes": 1
+    },
+    {
+      "keyName": "いざ、参ります",
+      "unlockedTimes": 0,
+      "kindOfKey": 0,
+      "unlockTimes": 1
+    },
+    {
+      "keyName": "いざ、参ります",
+      "unlockedTimes": 0,
+      "kindOfKey": 2,
+      "unlockTimes": 1
+    },
+    {
+      "keyName": "月下缭乱",
+      "unlockedTimes": 0,
+      "kindOfKey": 0,
+      "unlockTimes": 1
+    },
+    {
+      "keyName": "月下缭乱",
+      "unlockedTimes": 0,
+      "kindOfKey": 2,
+      "unlockTimes": 1
+    },
+    {
+      "keyName": "On And On!!",
+      "unlockedTimes": 0,
+      "kindOfKey": 0,
+      "unlockTimes": 1
+    },
+    {
+      "keyName": "On And On!!",
+      "unlockedTimes": 0,
+      "kindOfKey": 2,
+      "unlockTimes": 1
+    },
+    {
+      "keyName": "DataErr0r",
+      "unlockedTimes": 0,
+      "kindOfKey": 0,
+      "unlockTimes": 1
+    },
+    {
+      "keyName": "DataErr0r",
+      "unlockedTimes": 0,
+      "kindOfKey": 2,
+      "unlockTimes": 1
+    },
+    {
+      "keyName": "Shadow",
+      "unlockedTimes": 0,
+      "kindOfKey": 0,
+      "unlockTimes": 1
+    },
+    {
+      "keyName": "Shadow",
+      "unlockedTimes": 0,
+      "kindOfKey": 2,
+      "unlockTimes": 1
+    },
+    {
+      "keyName": "Shadow",
+      "unlockedTimes": 0,
+      "kindOfKey": 2,
+      "unlockTimes": 1
+    },
+    {
+      "keyName": "心之所向",
+      "unlockedTimes": 0,
+      "kindOfKey": 2,
+      "unlockTimes": 1
+    },
+    {
+      "keyName": "inferior",
+      "unlockedTimes": 0,
+      "kindOfKey": 2,
+      "unlockTimes": 1
+    },
+    {
+      "keyName": "c.s.q.n.",
+      "unlockedTimes": 0,
+      "kindOfKey": 0,
+      "unlockTimes": 1
+    },
+    {
+      "keyName": "c.s.q.n.",
+      "unlockedTimes": 0,
+      "kindOfKey": 2,
+      "unlockTimes": 1
+    },
+    {
+      "keyName": "Brave Notes",
+      "unlockedTimes": 0,
+      "kindOfKey": 0,
+      "unlockTimes": 1
+    },
+    {
+      "keyName": "Brave Notes",
+      "unlockedTimes": 0,
+      "kindOfKey": 2,
+      "unlockTimes": 1
+    },
+    {
+      "keyName": "盏茗",
+      "unlockedTimes": 0,
+      "kindOfKey": 0,
+      "unlockTimes": 1
+    },
+    {
+      "keyName": "盏茗",
+      "unlockedTimes": 0,
+      "kindOfKey": 2,
+      "unlockTimes": 1
+    },
+    {
+      "keyName": "盏茗-Special",
+      "unlockedTimes": 0,
+      "kindOfKey": 3,
+      "unlockTimes": 1
+    },
+    {
+      "keyName": "盏茗1",
+      "unlockedTimes": 0,
+      "kindOfKey": 3,
+      "unlockTimes": 1
+    },
+    {
+      "keyName": "盏茗2",
+      "unlockedTimes": 0,
+      "kindOfKey": 3,
+      "unlockTimes": 1
+    },
+    {
+      "keyName": "盏茗3",
+      "unlockedTimes": 0,
+      "kindOfKey": 3,
+      "unlockTimes": 1
+    },
+    {
+      "keyName": "青芽",
+      "unlockedTimes": 0,
+      "kindOfKey": 0,
+      "unlockTimes": 1
+    },
+    {
+      "keyName": "青芽",
+      "unlockedTimes": 0,
+      "kindOfKey": 2,
+      "unlockTimes": 1
+    },
+    {
+      "keyName": "青芽",
+      "unlockedTimes": 0,
+      "kindOfKey": 3,
+      "unlockTimes": 1
+    },
+    {
+      "keyName": "青芽-Special",
+      "unlockedTimes": 0,
+      "kindOfKey": 3,
+      "unlockTimes": 1
+    },
+    {
+      "keyName": "Eternal Snow",
+      "unlockedTimes": 0,
+      "kindOfKey": 0,
+      "unlockTimes": 1
+    },
+    {
+      "keyName": "Eternal Snow",
+      "unlockedTimes": 0,
+      "kindOfKey": 2,
+      "unlockTimes": 1
+    },
+    {
+      "keyName": "Rainy Season",
+      "unlockedTimes": 0,
+      "kindOfKey": 0,
+      "unlockTimes": 1
+    },
+    {
+      "keyName": "Rainy Season",
+      "unlockedTimes": 0,
+      "kindOfKey": 2,
+      "unlockTimes": 1
+    },
+    {
+      "keyName": "El Condor Pasa (Phigros Edit)",
+      "unlockedTimes": 0,
+      "kindOfKey": 0,
+      "unlockTimes": 1
+    },
+    {
+      "keyName": "El Condor Pasa (Phigros Edit)",
+      "unlockedTimes": 0,
+      "kindOfKey": 2,
+      "unlockTimes": 1
+    },
+    {
+      "keyName": "Break Over",
+      "unlockedTimes": 0,
+      "kindOfKey": 0,
+      "unlockTimes": 1
+    },
+    {
+      "keyName": "Break Over",
+      "unlockedTimes": 0,
+      "kindOfKey": 2,
+      "unlockTimes": 1
+    },
+    {
+      "keyName": "Believe Light (feat. 果丸哒呦)",
+      "unlockedTimes": 0,
+      "kindOfKey": 0,
+      "unlockTimes": 1
+    },
+    {
+      "keyName": "Believe Light (feat. 果丸哒呦)",
+      "unlockedTimes": 0,
+      "kindOfKey": 2,
+      "unlockTimes": 1
+    },
+    {
+      "keyName": "Pont des souvenirs",
+      "unlockedTimes": 0,
+      "kindOfKey": 0,
+      "unlockTimes": 1
+    },
+    {
+      "keyName": "Pont des souvenirs",
+      "unlockedTimes": 0,
+      "kindOfKey": 2,
+      "unlockTimes": 1
+    },
+    {
+      "keyName": "青丘",
+      "unlockedTimes": 0,
+      "kindOfKey": 0,
+      "unlockTimes": 1
+    },
+    {
+      "keyName": "青丘",
+      "unlockedTimes": 0,
+      "kindOfKey": 2,
+      "unlockTimes": 1
+    },
+    {
+      "keyName": "瓷岁",
+      "unlockedTimes": 0,
+      "kindOfKey": 2,
+      "unlockTimes": 1
+    },
+    {
+      "keyName": "瓷岁-Special",
+      "unlockedTimes": 0,
+      "kindOfKey": 3,
+      "unlockTimes": 1
+    },
+    {
+      "keyName": "瓷岁1",
+      "unlockedTimes": 0,
+      "kindOfKey": 3,
+      "unlockTimes": 1
+    },
+    {
+      "keyName": "瓷岁2",
+      "unlockedTimes": 0,
+      "kindOfKey": 3,
+      "unlockTimes": 1
+    },
+    {
+      "keyName": "瓷岁3",
+      "unlockedTimes": 0,
+      "kindOfKey": 3,
+      "unlockTimes": 1
+    },
+    {
+      "keyName": "瓷岁4",
+      "unlockedTimes": 0,
+      "kindOfKey": 3,
+      "unlockTimes": 1
+    },
+    {
+      "keyName": "瓷岁5",
+      "unlockedTimes": 0,
+      "kindOfKey": 3,
+      "unlockTimes": 1
+    },
+    {
+      "keyName": "瓷岁6",
+      "unlockedTimes": 0,
+      "kindOfKey": 3,
+      "unlockTimes": 1
+    },
+    {
+      "keyName": "瓷岁7",
+      "unlockedTimes": 0,
+      "kindOfKey": 3,
+      "unlockTimes": 1
+    },
+    {
+      "keyName": "Feast远东之宴",
+      "unlockedTimes": 0,
+      "kindOfKey": 2,
+      "unlockTimes": 1
+    },
+    {
+      "keyName": "Feast远东之宴-Special1",
+      "unlockedTimes": 0,
+      "kindOfKey": 3,
+      "unlockTimes": 1
+    },
+    {
+      "keyName": "Feast远东之宴-Special2",
+      "unlockedTimes": 0,
+      "kindOfKey": 3,
+      "unlockTimes": 1
+    },
+    {
+      "keyName": "Feast远东之宴1",
+      "unlockedTimes": 0,
+      "kindOfKey": 3,
+      "unlockTimes": 1
+    },
+    {
+      "keyName": "Feast远东之宴2",
+      "unlockedTimes": 0,
+      "kindOfKey": 3,
+      "unlockTimes": 1
+    },
+    {
+      "keyName": "Feast远东之宴3",
+      "unlockedTimes": 0,
+      "kindOfKey": 3,
+      "unlockTimes": 1
+    },
+    {
+      "keyName": "Feast远东之宴4",
+      "unlockedTimes": 0,
+      "kindOfKey": 3,
+      "unlockTimes": 1
+    },
+    {
+      "keyName": "Feast远东之宴5",
+      "unlockedTimes": 0,
+      "kindOfKey": 3,
+      "unlockTimes": 1
+    },
+    {
+      "keyName": "Feast远东之宴6",
+      "unlockedTimes": 0,
+      "kindOfKey": 3,
+      "unlockTimes": 1
+    },
+    {
+      "keyName": "Feast远东之宴7",
+      "unlockedTimes": 0,
+      "kindOfKey": 3,
+      "unlockTimes": 1
+    },
+    {
+      "keyName": "Feast远东之宴8",
+      "unlockedTimes": 0,
+      "kindOfKey": 3,
+      "unlockTimes": 1
+    },
+    {
+      "keyName": "Feast远东之宴9",
+      "unlockedTimes": 0,
+      "kindOfKey": 3,
+      "unlockTimes": 1
+    },
+    {
+      "keyName": "インフェルノシティ",
+      "unlockedTimes": 0,
+      "kindOfKey": 0,
+      "unlockTimes": 1
+    },
+    {
+      "keyName": "インフェルノシティ",
+      "unlockedTimes": 0,
+      "kindOfKey": 2,
+      "unlockTimes": 1
+    },
+    {
+      "keyName": "Upshift",
+      "unlockedTimes": 0,
+      "kindOfKey": 0,
+      "unlockTimes": 1
+    },
+    {
+      "keyName": "Upshift",
+      "unlockedTimes": 0,
+      "kindOfKey": 2,
+      "unlockTimes": 1
+    },
+    {
+      "keyName": "Poison AND÷OR Affection",
+      "unlockedTimes": 0,
+      "kindOfKey": 0,
+      "unlockTimes": 1
+    },
+    {
+      "keyName": "Poison AND÷OR Affection",
+      "unlockedTimes": 0,
+      "kindOfKey": 2,
+      "unlockTimes": 1
+    },
+    {
       "keyName": "Ποσειδών",
       "unlockedTimes": 0,
       "kindOfKey": 2,
@@ -10723,6 +14092,42 @@
     },
     {
       "keyName": "Lyrith -迷宮リリス-",
+      "unlockedTimes": 0,
+      "kindOfKey": 2,
+      "unlockTimes": 1
+    },
+    {
+      "keyName": "Demiurge",
+      "unlockedTimes": 0,
+      "kindOfKey": 2,
+      "unlockTimes": 1
+    },
+    {
+      "keyName": "Demonkin",
+      "unlockedTimes": 0,
+      "kindOfKey": 2,
+      "unlockTimes": 1
+    },
+    {
+      "keyName": "Re_Nascence (Psystyle Ver.) ",
+      "unlockedTimes": 0,
+      "kindOfKey": 2,
+      "unlockTimes": 1
+    },
+    {
+      "keyName": "Ark",
+      "unlockedTimes": 0,
+      "kindOfKey": 2,
+      "unlockTimes": 1
+    },
+    {
+      "keyName": "After Dawn",
+      "unlockedTimes": 0,
+      "kindOfKey": 2,
+      "unlockTimes": 1
+    },
+    {
+      "keyName": "INFiNiTE ENERZY -Overdoze-",
       "unlockedTimes": 0,
       "kindOfKey": 2,
       "unlockTimes": 1
@@ -10987,6 +14392,36 @@
     },
     {
       "keyName": "kuxingren",
+      "unlockedTimes": 0,
+      "kindOfKey": 1,
+      "unlockTimes": 1
+    },
+    {
+      "keyName": "Lanota1",
+      "unlockedTimes": 0,
+      "kindOfKey": 1,
+      "unlockTimes": 1
+    },
+    {
+      "keyName": "Lanota2",
+      "unlockedTimes": 0,
+      "kindOfKey": 1,
+      "unlockTimes": 1
+    },
+    {
+      "keyName": "Lanota3",
+      "unlockedTimes": 0,
+      "kindOfKey": 1,
+      "unlockTimes": 1
+    },
+    {
+      "keyName": "Lanota4",
+      "unlockedTimes": 0,
+      "kindOfKey": 1,
+      "unlockTimes": 1
+    },
+    {
+      "keyName": "Lanota5",
       "unlockedTimes": 0,
       "kindOfKey": 1,
       "unlockTimes": 1
@@ -12410,462 +15845,637 @@
       "kayName": "Glaciaxion",
       "image": {
         "m_FileID": 2,
-        "m_PathID": 93
+        "m_PathID": 142
       }
     },
     {
       "kayName": "Eradication Catastrophe",
       "image": {
         "m_FileID": 2,
-        "m_PathID": 106
+        "m_PathID": 158
       }
     },
     {
       "kayName": "Credits",
       "image": {
         "m_FileID": 2,
-        "m_PathID": 126
+        "m_PathID": 186
       }
     },
     {
       "kayName": "Dlyrotz",
       "image": {
         "m_FileID": 2,
-        "m_PathID": 146
+        "m_PathID": 219
       }
     },
     {
       "kayName": "Engine x Start!! (melody mix)",
       "image": {
         "m_FileID": 2,
-        "m_PathID": 96
+        "m_PathID": 145
       }
     },
     {
       "kayName": "光",
       "image": {
         "m_FileID": 2,
-        "m_PathID": 109
+        "m_PathID": 163
       }
     },
     {
       "kayName": "Winter ↑cube↓",
       "image": {
         "m_FileID": 2,
-        "m_PathID": 120
+        "m_PathID": 178
       }
     },
     {
       "kayName": "Cipher : /2&//<|0",
       "image": {
         "m_FileID": 2,
-        "m_PathID": 131
+        "m_PathID": 195
       }
     },
     {
       "kayName": "混乱-Confusion",
       "image": {
         "m_FileID": 2,
-        "m_PathID": 136
+        "m_PathID": 204
       }
     },
     {
       "kayName": "FULi AUTO SHOOTER",
       "image": {
         "m_FileID": 2,
-        "m_PathID": 98
+        "m_PathID": 147
       }
     },
     {
       "kayName": "HumaN",
       "image": {
         "m_FileID": 2,
-        "m_PathID": 122
+        "m_PathID": 180
       }
     },
     {
       "kayName": "[PRAW]",
       "image": {
         "m_FileID": 2,
-        "m_PathID": 124
+        "m_PathID": 184
       }
     },
     {
       "kayName": "Pixel Rebelz1",
       "image": {
         "m_FileID": 2,
-        "m_PathID": 130
+        "m_PathID": 194
       }
     },
     {
       "kayName": "Pixel Rebelz2",
       "image": {
         "m_FileID": 2,
-        "m_PathID": 110
+        "m_PathID": 164
       }
     },
     {
       "kayName": "Pixel Rebelz3",
       "image": {
         "m_FileID": 2,
-        "m_PathID": 111
+        "m_PathID": 166
       }
     },
     {
       "kayName": "Cereris1",
       "image": {
         "m_FileID": 2,
-        "m_PathID": 138
+        "m_PathID": 206
       }
     },
     {
       "kayName": "Cereris2",
       "image": {
         "m_FileID": 2,
-        "m_PathID": 117
+        "m_PathID": 173
       }
     },
     {
       "kayName": "Cereris3",
       "image": {
         "m_FileID": 2,
-        "m_PathID": 104
+        "m_PathID": 155
       }
     },
     {
       "kayName": "Non-Melodic Ragez (MUG Edit)",
       "image": {
         "m_FileID": 2,
-        "m_PathID": 134
+        "m_PathID": 202
       }
     },
     {
       "kayName": "Sultan Rage",
       "image": {
         "m_FileID": 2,
-        "m_PathID": 108
+        "m_PathID": 161
       }
     },
     {
       "kayName": "Class Memories",
       "image": {
         "m_FileID": 2,
-        "m_PathID": 154
+        "m_PathID": 229
       }
     },
     {
       "kayName": "-SURREALISM-",
       "image": {
         "m_FileID": 2,
-        "m_PathID": 123
+        "m_PathID": 182
       }
     },
     {
       "kayName": "Bonus Time",
       "image": {
         "m_FileID": 2,
-        "m_PathID": 148
+        "m_PathID": 223
       }
     },
     {
       "kayName": "Energy Synergy Matrix1",
       "image": {
         "m_FileID": 2,
-        "m_PathID": 88
+        "m_PathID": 134
       }
     },
     {
       "kayName": "Energy Synergy Matrix2",
       "image": {
         "m_FileID": 2,
-        "m_PathID": 137
+        "m_PathID": 205
       }
     },
     {
       "kayName": "Energy Synergy Matrix3",
       "image": {
         "m_FileID": 2,
-        "m_PathID": 101
+        "m_PathID": 151
       }
     },
     {
       "kayName": "Doppelganger1",
       "image": {
         "m_FileID": 2,
-        "m_PathID": 135
+        "m_PathID": 203
       }
     },
     {
       "kayName": "Doppelganger2",
       "image": {
         "m_FileID": 2,
-        "m_PathID": 92
+        "m_PathID": 141
       }
     },
     {
       "kayName": "もぺもぺ1",
       "image": {
         "m_FileID": 2,
-        "m_PathID": 127
+        "m_PathID": 187
       }
     },
     {
       "kayName": "もぺもぺ2",
       "image": {
         "m_FileID": 2,
-        "m_PathID": 147
+        "m_PathID": 221
       }
     },
     {
       "kayName": "MARENOL",
       "image": {
         "m_FileID": 2,
-        "m_PathID": 113
+        "m_PathID": 168
       }
     },
     {
       "kayName": "萤火虫の怨1",
       "image": {
         "m_FileID": 2,
-        "m_PathID": 152
+        "m_PathID": 227
       }
     },
     {
       "kayName": "萤火虫の怨2",
       "image": {
         "m_FileID": 2,
-        "m_PathID": 128
+        "m_PathID": 188
       }
     },
     {
       "kayName": "万吨匿名信",
       "image": {
         "m_FileID": 2,
-        "m_PathID": 133
+        "m_PathID": 201
       }
     },
     {
       "kayName": "风屿",
       "image": {
         "m_FileID": 2,
-        "m_PathID": 115
+        "m_PathID": 170
       }
     },
     {
       "kayName": "Aphasia",
       "image": {
         "m_FileID": 2,
-        "m_PathID": 132
+        "m_PathID": 200
       }
     },
     {
       "kayName": "華灯爱1",
       "image": {
         "m_FileID": 2,
-        "m_PathID": 103
+        "m_PathID": 153
       }
     },
     {
       "kayName": "華灯爱2",
       "image": {
         "m_FileID": 2,
-        "m_PathID": 139
+        "m_PathID": 207
       }
     },
     {
       "kayName": "dB doll",
       "image": {
         "m_FileID": 2,
-        "m_PathID": 95
+        "m_PathID": 144
       }
     },
     {
       "kayName": "Dash",
       "image": {
         "m_FileID": 2,
-        "m_PathID": 151
+        "m_PathID": 226
       }
     },
     {
       "kayName": "云女孩",
       "image": {
         "m_FileID": 2,
-        "m_PathID": 99
+        "m_PathID": 148
       }
     },
     {
       "kayName": "Drop It",
       "image": {
         "m_FileID": 2,
-        "m_PathID": 91
+        "m_PathID": 140
       }
     },
     {
       "kayName": "RIPPER",
       "image": {
         "m_FileID": 2,
-        "m_PathID": 141
+        "m_PathID": 211
       }
     },
     {
       "kayName": "开心病1",
       "image": {
         "m_FileID": 2,
-        "m_PathID": 144
+        "m_PathID": 215
       }
     },
     {
       "kayName": "开心病2",
       "image": {
         "m_FileID": 2,
-        "m_PathID": 149
+        "m_PathID": 224
       }
     },
     {
       "kayName": "Introduction",
       "image": {
         "m_FileID": 2,
-        "m_PathID": 100
+        "m_PathID": 150
       }
     },
     {
       "kayName": "Find_Me",
       "image": {
         "m_FileID": 2,
-        "m_PathID": 153
+        "m_PathID": 228
       }
     },
     {
       "kayName": "Sein",
       "image": {
         "m_FileID": 2,
-        "m_PathID": 142
+        "m_PathID": 213
       }
     },
     {
       "kayName": "狂喜蘭舞1",
       "image": {
         "m_FileID": 2,
-        "m_PathID": 102
+        "m_PathID": 152
       }
     },
     {
       "kayName": "狂喜蘭舞2",
       "image": {
         "m_FileID": 2,
-        "m_PathID": 145
+        "m_PathID": 216
       }
     },
     {
       "kayName": "Sparkle New Life",
       "image": {
         "m_FileID": 2,
-        "m_PathID": 105
+        "m_PathID": 157
       }
     },
     {
       "kayName": "Khronostasis Katharsis",
       "image": {
         "m_FileID": 2,
-        "m_PathID": 90
+        "m_PathID": 139
       }
     },
     {
       "kayName": "Geopelia 1 -by cycats",
       "image": {
         "m_FileID": 2,
-        "m_PathID": 129
+        "m_PathID": 192
       }
     },
     {
       "kayName": "Geopelia 2 -by cycats",
       "image": {
         "m_FileID": 2,
-        "m_PathID": 97
+        "m_PathID": 146
       }
     },
     {
       "kayName": "Engine x Start!! extra 1 -by cycats",
       "image": {
         "m_FileID": 2,
-        "m_PathID": 116
+        "m_PathID": 171
       }
     },
     {
       "kayName": "FULi AUTO SHOOTER extra 1 -by cycats",
       "image": {
         "m_FileID": 2,
-        "m_PathID": 119
+        "m_PathID": 177
       }
     },
     {
       "kayName": "Non-Melodic Ragez extra 1 -by cycats",
       "image": {
         "m_FileID": 2,
-        "m_PathID": 107
+        "m_PathID": 159
       }
     },
     {
       "kayName": "RIPPER extra 1 -by cycats",
       "image": {
         "m_FileID": 2,
-        "m_PathID": 89
+        "m_PathID": 137
       }
     },
     {
       "kayName": "RIPPER extra 2 -by 何呵",
       "image": {
         "m_FileID": 2,
-        "m_PathID": 121
+        "m_PathID": 179
       }
     },
     {
       "kayName": "Marenol extra 1 -by 喵n葵",
       "image": {
         "m_FileID": 2,
-        "m_PathID": 118
+        "m_PathID": 174
       }
     },
     {
       "kayName": "云女孩 extra 1 -by 御坂果子",
       "image": {
         "m_FileID": 2,
-        "m_PathID": 140
+        "m_PathID": 210
       }
     },
     {
       "kayName": "Geopelia in WEPLAY -by 海产",
       "image": {
         "m_FileID": 2,
-        "m_PathID": 94
+        "m_PathID": 143
       }
     },
     {
       "kayName": "Geopelia 3 -by 何呵",
       "image": {
         "m_FileID": 2,
-        "m_PathID": 114
+        "m_PathID": 169
       }
     },
     {
       "kayName": "Christmas -2019",
       "image": {
         "m_FileID": 2,
-        "m_PathID": 125
+        "m_PathID": 185
       }
     },
     {
       "kayName": "Snow Desert",
       "image": {
         "m_FileID": 2,
-        "m_PathID": 150
+        "m_PathID": 225
       }
     },
     {
       "kayName": "Burn",
       "image": {
         "m_FileID": 2,
-        "m_PathID": 143
+        "m_PathID": 214
+      }
+    },
+    {
+      "kayName": "Feast远东之宴1",
+      "image": {
+        "m_FileID": 2,
+        "m_PathID": 165
+      }
+    },
+    {
+      "kayName": "Feast远东之宴2",
+      "image": {
+        "m_FileID": 2,
+        "m_PathID": 149
+      }
+    },
+    {
+      "kayName": "Feast远东之宴3",
+      "image": {
+        "m_FileID": 2,
+        "m_PathID": 136
+      }
+    },
+    {
+      "kayName": "Feast远东之宴4",
+      "image": {
+        "m_FileID": 2,
+        "m_PathID": 138
+      }
+    },
+    {
+      "kayName": "Feast远东之宴5",
+      "image": {
+        "m_FileID": 2,
+        "m_PathID": 162
+      }
+    },
+    {
+      "kayName": "Feast远东之宴6",
+      "image": {
+        "m_FileID": 2,
+        "m_PathID": 175
+      }
+    },
+    {
+      "kayName": "Feast远东之宴7",
+      "image": {
+        "m_FileID": 2,
+        "m_PathID": 198
+      }
+    },
+    {
+      "kayName": "Feast远东之宴8",
+      "image": {
+        "m_FileID": 2,
+        "m_PathID": 197
+      }
+    },
+    {
+      "kayName": "Feast远东之宴9",
+      "image": {
+        "m_FileID": 2,
+        "m_PathID": 222
+      }
+    },
+    {
+      "kayName": "瓷岁1",
+      "image": {
+        "m_FileID": 2,
+        "m_PathID": 190
+      }
+    },
+    {
+      "kayName": "瓷岁2",
+      "image": {
+        "m_FileID": 2,
+        "m_PathID": 193
+      }
+    },
+    {
+      "kayName": "瓷岁3",
+      "image": {
+        "m_FileID": 2,
+        "m_PathID": 156
+      }
+    },
+    {
+      "kayName": "瓷岁4",
+      "image": {
+        "m_FileID": 2,
+        "m_PathID": 191
+      }
+    },
+    {
+      "kayName": "瓷岁5",
+      "image": {
+        "m_FileID": 2,
+        "m_PathID": 196
+      }
+    },
+    {
+      "kayName": "瓷岁6",
+      "image": {
+        "m_FileID": 2,
+        "m_PathID": 183
+      }
+    },
+    {
+      "kayName": "瓷岁7",
+      "image": {
+        "m_FileID": 2,
+        "m_PathID": 132
+      }
+    },
+    {
+      "kayName": "盏茗1",
+      "image": {
+        "m_FileID": 2,
+        "m_PathID": 160
+      }
+    },
+    {
+      "kayName": "盏茗2",
+      "image": {
+        "m_FileID": 2,
+        "m_PathID": 220
+      }
+    },
+    {
+      "kayName": "盏茗3",
+      "image": {
+        "m_FileID": 2,
+        "m_PathID": 209
+      }
+    },
+    {
+      "kayName": "青芽",
+      "image": {
+        "m_FileID": 2,
+        "m_PathID": 154
+      }
+    },
+    {
+      "kayName": "Feast远东之宴-Special1",
+      "image": {
+        "m_FileID": 2,
+        "m_PathID": 218
+      }
+    },
+    {
+      "kayName": "Feast远东之宴-Special2",
+      "image": {
+        "m_FileID": 2,
+        "m_PathID": 217
+      }
+    },
+    {
+      "kayName": "瓷岁-Special",
+      "image": {
+        "m_FileID": 2,
+        "m_PathID": 208
+      }
+    },
+    {
+      "kayName": "盏茗-Special",
+      "image": {
+        "m_FileID": 2,
+        "m_PathID": 199
+      }
+    },
+    {
+      "kayName": "青芽-Special",
+      "image": {
+        "m_FileID": 2,
+        "m_PathID": 172
       }
     }
   ]
