@@ -1,0 +1,6322 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 1
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 1560
+  },
+  "m_Name": "",
+  "collectionGetItems": [
+    {
+      "keyName": "alpa",
+      "multiLanguageTitle": {
+        "code": "",
+        "chinese": "\r录音笔Alpa",
+        "chineseTraditional": "錄音筆Alpa",
+        "english": "[Item] The Alpa Pen",
+        "japanese": "ペン型ボイスレコーダーAlpa",
+        "korean": ""
+      },
+      "kindOfKey": 1,
+      "unlockTimes": 1,
+      "getSong": 0,
+      "getType": -1,
+      "getPower": 100,
+      "getInfo1": "",
+      "getInfo2": "",
+      "getInfo3": ""
+    },
+    {
+      "keyName": "shijian0",
+      "multiLanguageTitle": {
+        "code": "",
+        "chinese": "诗笺#0",
+        "chineseTraditional": "詩籤#0",
+        "english": "Stave No.0",
+        "japanese": "詩集#0",
+        "korean": ""
+      },
+      "kindOfKey": 1,
+      "unlockTimes": 1,
+      "getSong": 0,
+      "getType": -1,
+      "getPower": 100,
+      "getInfo1": "",
+      "getInfo2": "",
+      "getInfo3": ""
+    },
+    {
+      "keyName": "shijian2",
+      "multiLanguageTitle": {
+        "code": "",
+        "chinese": "\r诗笺#2",
+        "chineseTraditional": "詩籤#2",
+        "english": "Stave No.2",
+        "japanese": "詩集#2",
+        "korean": ""
+      },
+      "kindOfKey": 1,
+      "unlockTimes": 1,
+      "getSong": 0,
+      "getType": -1,
+      "getPower": 100,
+      "getInfo1": "",
+      "getInfo2": "",
+      "getInfo3": ""
+    },
+    {
+      "keyName": "7huizhang",
+      "multiLanguageTitle": {
+        "code": "",
+        "chinese": "\r第七小队徽章",
+        "chineseTraditional": "第七小隊勳章",
+        "english": "[Item] Team VII Badge",
+        "japanese": "第七小隊紋章",
+        "korean": ""
+      },
+      "kindOfKey": 1,
+      "unlockTimes": 1,
+      "getSong": 1,
+      "getType": -1,
+      "getPower": 30,
+      "getInfo1": "",
+      "getInfo2": "",
+      "getInfo3": ""
+    },
+    {
+      "keyName": "alpa",
+      "multiLanguageTitle": {
+        "code": "",
+        "chinese": "\r录音笔Alpa·线索一",
+        "chineseTraditional": "錄音筆Alpa·資訊一",
+        "english": "The Alpa Pen - Clue I",
+        "japanese": "ペン型ボイスレコーダーAlpa·手がかり1",
+        "korean": ""
+      },
+      "kindOfKey": 1,
+      "unlockTimes": 2,
+      "getSong": 1,
+      "getType": -1,
+      "getPower": 30,
+      "getInfo1": "",
+      "getInfo2": "",
+      "getInfo3": ""
+    },
+    {
+      "keyName": "trophon",
+      "multiLanguageTitle": {
+        "code": "",
+        "chinese": "\r两用摩托Trophon·线索一",
+        "chineseTraditional": "兩用摩托車Trophon·資訊一",
+        "english": "Trophon - Clue I",
+        "japanese": "両用バイクTrophon·手がかり1",
+        "korean": ""
+      },
+      "kindOfKey": 1,
+      "unlockTimes": 2,
+      "getSong": 1,
+      "getType": -1,
+      "getPower": 30,
+      "getInfo1": "",
+      "getInfo2": "",
+      "getInfo3": ""
+    },
+    {
+      "keyName": "trophon",
+      "multiLanguageTitle": {
+        "code": "",
+        "chinese": "\r两用摩托Trophon",
+        "chineseTraditional": "兩用摩托車Trophon",
+        "english": "[Item] Trophon",
+        "japanese": "両用バイクTrophon",
+        "korean": ""
+      },
+      "kindOfKey": 1,
+      "unlockTimes": 1,
+      "getSong": 1,
+      "getType": -1,
+      "getPower": 30,
+      "getInfo1": "",
+      "getInfo2": "",
+      "getInfo3": ""
+    },
+    {
+      "keyName": "Yhuoguo",
+      "multiLanguageTitle": {
+        "code": "",
+        "chinese": "\r【录音】火锅",
+        "chineseTraditional": "【錄音】火鍋",
+        "english": "[Rec] Hot Pot",
+        "japanese": "【録音】火鍋",
+        "korean": ""
+      },
+      "kindOfKey": 1,
+      "unlockTimes": 1,
+      "getSong": 1,
+      "getType": -1,
+      "getPower": 30,
+      "getInfo1": "",
+      "getInfo2": "",
+      "getInfo3": ""
+    },
+    {
+      "keyName": "shijian3",
+      "multiLanguageTitle": {
+        "code": "",
+        "chinese": "\r诗笺#3",
+        "chineseTraditional": "詩籤#3",
+        "english": "Stave No.3",
+        "japanese": "詩集#3",
+        "korean": ""
+      },
+      "kindOfKey": 1,
+      "unlockTimes": 1,
+      "getSong": 1,
+      "getType": -1,
+      "getPower": 100,
+      "getInfo1": "",
+      "getInfo2": "",
+      "getInfo3": ""
+    },
+    {
+      "keyName": "Yshanfeng",
+      "multiLanguageTitle": {
+        "code": "",
+        "chinese": "\r【录音】山风",
+        "chineseTraditional": "【錄音】山風",
+        "english": "[Rec] Mountain Breeze",
+        "japanese": "【録音】山風",
+        "korean": ""
+      },
+      "kindOfKey": 1,
+      "unlockTimes": 1,
+      "getSong": 1,
+      "getType": -1,
+      "getPower": 100,
+      "getInfo1": "",
+      "getInfo2": "",
+      "getInfo3": ""
+    },
+    {
+      "keyName": "binghaofu",
+      "multiLanguageTitle": {
+        "code": "",
+        "chinese": "\r病号服",
+        "chineseTraditional": "住院服",
+        "english": "[Item] Patient Uniform",
+        "japanese": "病衣",
+        "korean": ""
+      },
+      "kindOfKey": 1,
+      "unlockTimes": 1,
+      "getSong": -1,
+      "getType": 2,
+      "getPower": 10,
+      "getInfo1": "HD",
+      "getInfo2": "",
+      "getInfo3": "950000"
+    },
+    {
+      "keyName": "mopeknife",
+      "multiLanguageTitle": {
+        "code": "",
+        "chinese": "\r花柄小刀",
+        "chineseTraditional": "花柄小刀",
+        "english": "[Item] Flowery Knife",
+        "japanese": "花柄のナイフ",
+        "korean": ""
+      },
+      "kindOfKey": 1,
+      "unlockTimes": 1,
+      "getSong": -1,
+      "getType": 2,
+      "getPower": 10,
+      "getInfo1": "HD",
+      "getInfo2": "",
+      "getInfo3": "950000"
+    },
+    {
+      "keyName": "Mshenjing",
+      "multiLanguageTitle": {
+        "code": "",
+        "chinese": "\r【影像】深井",
+        "chineseTraditional": "【影像】深井",
+        "english": "[Image] Deep Well",
+        "japanese": "【映像】深井戸",
+        "korean": ""
+      },
+      "kindOfKey": 1,
+      "unlockTimes": 1,
+      "getSong": -1,
+      "getType": 2,
+      "getPower": 5,
+      "getInfo1": "HD",
+      "getInfo2": "",
+      "getInfo3": "950000"
+    },
+    {
+      "keyName": "alpa",
+      "multiLanguageTitle": {
+        "code": "",
+        "chinese": "\r录音笔Alpa·线索二",
+        "chineseTraditional": "錄音筆Alpa·資訊二",
+        "english": "The Alpa Pen - Clue II",
+        "japanese": "ペン型ボイスレコーダーAlpa·手がかり2",
+        "korean": ""
+      },
+      "kindOfKey": 1,
+      "unlockTimes": 3,
+      "getSong": 2,
+      "getType": -1,
+      "getPower": 5,
+      "getInfo1": "",
+      "getInfo2": "",
+      "getInfo3": ""
+    },
+    {
+      "keyName": "shushekey",
+      "multiLanguageTitle": {
+        "code": "",
+        "chinese": "\r宿舍钥匙",
+        "chineseTraditional": "宿舍鑰匙",
+        "english": "[Item] Dorm Key",
+        "japanese": "宿舎の鍵",
+        "korean": ""
+      },
+      "kindOfKey": 1,
+      "unlockTimes": 1,
+      "getSong": 2,
+      "getType": -1,
+      "getPower": 10,
+      "getInfo1": "",
+      "getInfo2": "",
+      "getInfo3": ""
+    },
+    {
+      "keyName": "trophon",
+      "multiLanguageTitle": {
+        "code": "",
+        "chinese": "\r两用摩托Trophon·线索二",
+        "chineseTraditional": "兩用摩托車Trophon·資訊二",
+        "english": "Trophon - Clue II",
+        "japanese": "両用バイクTrophon·手がかり2",
+        "korean": ""
+      },
+      "kindOfKey": 1,
+      "unlockTimes": 3,
+      "getSong": 2,
+      "getType": -1,
+      "getPower": 10,
+      "getInfo1": "",
+      "getInfo2": "",
+      "getInfo3": ""
+    },
+    {
+      "keyName": "Yhuangying",
+      "multiLanguageTitle": {
+        "code": "",
+        "chinese": "\r【录音】黄莺亮翅",
+        "chineseTraditional": "【錄音】黃鶯展翅",
+        "english": "[Rec] Orioles",
+        "japanese": "【録音】鶯の翅",
+        "korean": ""
+      },
+      "kindOfKey": 1,
+      "unlockTimes": 1,
+      "getSong": 2,
+      "getType": -1,
+      "getPower": 10,
+      "getInfo1": "",
+      "getInfo2": "",
+      "getInfo3": ""
+    },
+    {
+      "keyName": "Ysnow",
+      "multiLanguageTitle": {
+        "code": "",
+        "chinese": "\r【录音】踩雪",
+        "chineseTraditional": "【錄音】踩雪",
+        "english": "[Rec] Snow",
+        "japanese": "【録音】雪踏み",
+        "korean": ""
+      },
+      "kindOfKey": 1,
+      "unlockTimes": 1,
+      "getSong": 2,
+      "getType": -1,
+      "getPower": 10,
+      "getInfo1": "",
+      "getInfo2": "",
+      "getInfo3": ""
+    },
+    {
+      "keyName": "cookies",
+      "multiLanguageTitle": {
+        "code": "",
+        "chinese": "\r空投小饼干",
+        "chineseTraditional": "空投小餅乾",
+        "english": "[Item] Airdrop Biscuits",
+        "japanese": "補給物資のビスケット",
+        "korean": ""
+      },
+      "kindOfKey": 1,
+      "unlockTimes": 1,
+      "getSong": 2,
+      "getType": -1,
+      "getPower": 30,
+      "getInfo1": "",
+      "getInfo2": "",
+      "getInfo3": ""
+    },
+    {
+      "keyName": "shijian4",
+      "multiLanguageTitle": {
+        "code": "",
+        "chinese": "\r诗笺#4",
+        "chineseTraditional": "詩籤#4",
+        "english": "Stave No.4",
+        "japanese": "詩集#4",
+        "korean": ""
+      },
+      "kindOfKey": 1,
+      "unlockTimes": 1,
+      "getSong": 2,
+      "getType": -1,
+      "getPower": 100,
+      "getInfo1": "",
+      "getInfo2": "",
+      "getInfo3": ""
+    },
+    {
+      "keyName": "Yyuxi",
+      "multiLanguageTitle": {
+        "code": "",
+        "chinese": "\r【录音】鱼戏",
+        "chineseTraditional": "【錄音】魚群的下場",
+        "english": "[Rec] Fish Show",
+        "japanese": "【録音】魚芝居",
+        "korean": ""
+      },
+      "kindOfKey": 1,
+      "unlockTimes": 1,
+      "getSong": 3,
+      "getType": -1,
+      "getPower": 1,
+      "getInfo1": "",
+      "getInfo2": "",
+      "getInfo3": ""
+    },
+    {
+      "keyName": "deemoangle",
+      "multiLanguageTitle": {
+        "code": "",
+        "chinese": "\r魇魉角",
+        "chineseTraditional": "魘魎角",
+        "english": "[Item] Demice Horn",
+        "japanese": "魘魎(えんりょう)の角",
+        "korean": ""
+      },
+      "kindOfKey": 1,
+      "unlockTimes": 1,
+      "getSong": 3,
+      "getType": -1,
+      "getPower": 10,
+      "getInfo1": "",
+      "getInfo2": "",
+      "getInfo3": ""
+    },
+    {
+      "keyName": "alpa",
+      "multiLanguageTitle": {
+        "code": "",
+        "chinese": "\r录音笔Alpa·线索三",
+        "chineseTraditional": "錄音筆Alpa·資訊三",
+        "english": "The Alpa Pen - Clue III",
+        "japanese": "ペン型ボイスレコーダーAlpa·手がかり3",
+        "korean": ""
+      },
+      "kindOfKey": 1,
+      "unlockTimes": 4,
+      "getSong": 3,
+      "getType": -1,
+      "getPower": 30,
+      "getInfo1": "",
+      "getInfo2": "",
+      "getInfo3": ""
+    },
+    {
+      "keyName": "electicgun",
+      "multiLanguageTitle": {
+        "code": "",
+        "chinese": "\r电磁霰弹枪",
+        "chineseTraditional": "電磁散彈槍",
+        "english": "[Item] Electro magnetic Shotgun",
+        "japanese": "電磁散弾銃(レールショットガン)",
+        "korean": ""
+      },
+      "kindOfKey": 1,
+      "unlockTimes": 1,
+      "getSong": 3,
+      "getType": -1,
+      "getPower": 30,
+      "getInfo1": "",
+      "getInfo2": "",
+      "getInfo3": ""
+    },
+    {
+      "keyName": "flute",
+      "multiLanguageTitle": {
+        "code": "",
+        "chinese": "\r梆笛",
+        "chineseTraditional": "梆笛",
+        "english": "[Item] Ancient Flute",
+        "japanese": "梆笛(ほうてき)",
+        "korean": ""
+      },
+      "kindOfKey": 1,
+      "unlockTimes": 1,
+      "getSong": 3,
+      "getType": -1,
+      "getPower": 30,
+      "getInfo1": "",
+      "getInfo2": "",
+      "getInfo3": ""
+    },
+    {
+      "keyName": "yulou",
+      "multiLanguageTitle": {
+        "code": "",
+        "chinese": "\r鱼篓",
+        "chineseTraditional": "魚簍",
+        "english": "[Item] Fish Basket",
+        "japanese": "【録音】魚籠",
+        "korean": ""
+      },
+      "kindOfKey": 1,
+      "unlockTimes": 1,
+      "getSong": 3,
+      "getType": -1,
+      "getPower": 30,
+      "getInfo1": "",
+      "getInfo2": "",
+      "getInfo3": ""
+    },
+    {
+      "keyName": "shijian5",
+      "multiLanguageTitle": {
+        "code": "",
+        "chinese": "\r诗笺#5",
+        "chineseTraditional": "詩籤#5",
+        "english": "Stave No.5",
+        "japanese": "詩集#5",
+        "korean": ""
+      },
+      "kindOfKey": 1,
+      "unlockTimes": 1,
+      "getSong": 3,
+      "getType": -1,
+      "getPower": 100,
+      "getInfo1": "",
+      "getInfo2": "",
+      "getInfo3": ""
+    },
+    {
+      "keyName": "Ysleep",
+      "multiLanguageTitle": {
+        "code": "",
+        "chinese": "\r【录音】睡眠",
+        "chineseTraditional": "【錄音】睡眠",
+        "english": "[Rec] Sleep",
+        "japanese": "【録音】睡眠",
+        "korean": ""
+      },
+      "kindOfKey": 1,
+      "unlockTimes": 1,
+      "getSong": 3,
+      "getType": 2,
+      "getPower": 10,
+      "getInfo1": "EZ",
+      "getInfo2": "5",
+      "getInfo3": ""
+    },
+    {
+      "keyName": "hairtheo",
+      "multiLanguageTitle": {
+        "code": "",
+        "chinese": "\r发",
+        "chineseTraditional": "Theo的遺物·髮",
+        "english": "[Item] Strand of Hair",
+        "japanese": "髪",
+        "korean": ""
+      },
+      "kindOfKey": 1,
+      "unlockTimes": 1,
+      "getSong": 4,
+      "getType": -1,
+      "getPower": 5,
+      "getInfo1": "",
+      "getInfo2": "",
+      "getInfo3": ""
+    },
+    {
+      "keyName": "meishihui",
+      "multiLanguageTitle": {
+        "code": "",
+        "chinese": "\r冰川美食汇·线索三",
+        "chineseTraditional": "冰川美食集·資訊三",
+        "english": "Glaci'o'Food - Clue III",
+        "japanese": "氷河美食会·手がかり三",
+        "korean": ""
+      },
+      "kindOfKey": 1,
+      "unlockTimes": 4,
+      "getSong": 4,
+      "getType": -1,
+      "getPower": 5,
+      "getInfo1": "",
+      "getInfo2": "",
+      "getInfo3": ""
+    },
+    {
+      "keyName": "meishihui",
+      "multiLanguageTitle": {
+        "code": "",
+        "chinese": "\r冰川美食汇·线索一",
+        "chineseTraditional": "冰川美食集·資訊一",
+        "english": "Glaci'o'Food - Clue I",
+        "japanese": "氷河美食会·手がかり一",
+        "korean": ""
+      },
+      "kindOfKey": 1,
+      "unlockTimes": 2,
+      "getSong": 4,
+      "getType": -1,
+      "getPower": 10,
+      "getInfo1": "",
+      "getInfo2": "",
+      "getInfo3": ""
+    },
+    {
+      "keyName": "meishihui",
+      "multiLanguageTitle": {
+        "code": "",
+        "chinese": "\r冰川美食汇·线索二",
+        "chineseTraditional": "冰川美食集·資訊二",
+        "english": "Glaci'o'Food - Clue II",
+        "japanese": "氷河美食会·手がかり二",
+        "korean": ""
+      },
+      "kindOfKey": 1,
+      "unlockTimes": 3,
+      "getSong": 4,
+      "getType": -1,
+      "getPower": 10,
+      "getInfo1": "",
+      "getInfo2": "",
+      "getInfo3": ""
+    },
+    {
+      "keyName": "saturn",
+      "multiLanguageTitle": {
+        "code": "",
+        "chinese": "\r登入权限：土星·线索一",
+        "chineseTraditional": "登入權限：土星·資訊一",
+        "english": "Saturn Login - Clue I",
+        "japanese": "ログイン権利：土星・手がかり一",
+        "korean": ""
+      },
+      "kindOfKey": 1,
+      "unlockTimes": 2,
+      "getSong": 4,
+      "getType": -1,
+      "getPower": 10,
+      "getInfo1": "",
+      "getInfo2": "",
+      "getInfo3": ""
+    },
+    {
+      "keyName": "Ysleep",
+      "multiLanguageTitle": {
+        "code": "",
+        "chinese": "\r【录音】睡眠·线索一",
+        "chineseTraditional": "【錄音】睡眠·資訊一",
+        "english": "[Rec] Sleep - Clue I",
+        "japanese": "【録音】睡眠·手がかり1",
+        "korean": ""
+      },
+      "kindOfKey": 1,
+      "unlockTimes": 2,
+      "getSong": 4,
+      "getType": -1,
+      "getPower": 10,
+      "getInfo1": "",
+      "getInfo2": "",
+      "getInfo3": ""
+    },
+    {
+      "keyName": "meishihui",
+      "multiLanguageTitle": {
+        "code": "",
+        "chinese": "\r冰川美食汇",
+        "chineseTraditional": "冰川美食集",
+        "english": "Glaci'o'Food",
+        "japanese": "氷河美食会",
+        "korean": ""
+      },
+      "kindOfKey": 1,
+      "unlockTimes": 1,
+      "getSong": 4,
+      "getType": -1,
+      "getPower": 30,
+      "getInfo1": "",
+      "getInfo2": "",
+      "getInfo3": ""
+    },
+    {
+      "keyName": "saturn",
+      "multiLanguageTitle": {
+        "code": "",
+        "chinese": "\r登入权限：土星",
+        "chineseTraditional": "登入權限：土星",
+        "english": "[Login Permissions] Saturn",
+        "japanese": "ログイン権利：土星(サターン)",
+        "korean": ""
+      },
+      "kindOfKey": 1,
+      "unlockTimes": 1,
+      "getSong": 4,
+      "getType": -1,
+      "getPower": 30,
+      "getInfo1": "",
+      "getInfo2": "",
+      "getInfo3": ""
+    },
+    {
+      "keyName": "shijian1",
+      "multiLanguageTitle": {
+        "code": "",
+        "chinese": "\r诗笺#1",
+        "chineseTraditional": "詩籤#1",
+        "english": "Stave No.1",
+        "japanese": "詩集#1",
+        "korean": ""
+      },
+      "kindOfKey": 1,
+      "unlockTimes": 1,
+      "getSong": 4,
+      "getType": -1,
+      "getPower": 100,
+      "getInfo1": "",
+      "getInfo2": "",
+      "getInfo3": ""
+    },
+    {
+      "keyName": "327",
+      "multiLanguageTitle": {
+        "code": "",
+        "chinese": "\r0327围剿令",
+        "chineseTraditional": "\"0327圍剿令\"",
+        "english": "Suppression Order 0327",
+        "japanese": "0327討伐令",
+        "korean": ""
+      },
+      "kindOfKey": 1,
+      "unlockTimes": 1,
+      "getSong": 5,
+      "getType": -1,
+      "getPower": 5,
+      "getInfo1": "",
+      "getInfo2": "",
+      "getInfo3": ""
+    },
+    {
+      "keyName": "377",
+      "multiLanguageTitle": {
+        "code": "",
+        "chinese": "\r魇皮纸377",
+        "chineseTraditional": "\"魔皮紙377\"",
+        "english": "Demice Skin Paper 377",
+        "japanese": "魔革377",
+        "korean": ""
+      },
+      "kindOfKey": 1,
+      "unlockTimes": 1,
+      "getSong": 5,
+      "getType": -1,
+      "getPower": 5,
+      "getInfo1": "",
+      "getInfo2": "",
+      "getInfo3": ""
+    },
+    {
+      "keyName": "377",
+      "multiLanguageTitle": {
+        "code": "",
+        "chinese": "\r魇皮纸377·线索一",
+        "chineseTraditional": "魔皮紙377·資訊一",
+        "english": "Demice Skin Paper 377 - Clue I",
+        "japanese": "魔革377・手がかり一",
+        "korean": ""
+      },
+      "kindOfKey": 1,
+      "unlockTimes": 2,
+      "getSong": 5,
+      "getType": -1,
+      "getPower": 5,
+      "getInfo1": "",
+      "getInfo2": "",
+      "getInfo3": ""
+    },
+    {
+      "keyName": "jinnang",
+      "multiLanguageTitle": {
+        "code": "",
+        "chinese": "\r锦囊",
+        "chineseTraditional": "錦囊",
+        "english": "[Item] Silk Pouch",
+        "japanese": "錦嚢(きんのう)",
+        "korean": ""
+      },
+      "kindOfKey": 1,
+      "unlockTimes": 1,
+      "getSong": 5,
+      "getType": -1,
+      "getPower": 10,
+      "getInfo1": "",
+      "getInfo2": "",
+      "getInfo3": ""
+    },
+    {
+      "keyName": "trophon",
+      "multiLanguageTitle": {
+        "code": "",
+        "chinese": "\r两用摩托Trophon·线索三",
+        "chineseTraditional": "兩用摩托車Trophon·資訊三",
+        "english": "Trophon - Clue III",
+        "japanese": "両用バイクTrophon·手がかり3",
+        "korean": ""
+      },
+      "kindOfKey": 1,
+      "unlockTimes": 4,
+      "getSong": 5,
+      "getType": -1,
+      "getPower": 30,
+      "getInfo1": "",
+      "getInfo2": "",
+      "getInfo3": ""
+    },
+    {
+      "keyName": "Yblackhole",
+      "multiLanguageTitle": {
+        "code": "",
+        "chinese": "\r【录音】黑洞",
+        "chineseTraditional": "【錄音】黑洞",
+        "english": "[Rec] The Black Vortex",
+        "japanese": "【録音】ブラックホール",
+        "korean": ""
+      },
+      "kindOfKey": 1,
+      "unlockTimes": 1,
+      "getSong": 5,
+      "getType": -1,
+      "getPower": 30,
+      "getInfo1": "",
+      "getInfo2": "",
+      "getInfo3": ""
+    },
+    {
+      "keyName": "Ylight",
+      "multiLanguageTitle": {
+        "code": "",
+        "chinese": "\r【录音】光",
+        "chineseTraditional": "【錄音】光",
+        "english": "[Rec] Hikari",
+        "japanese": "【録音】光",
+        "korean": ""
+      },
+      "kindOfKey": 1,
+      "unlockTimes": 1,
+      "getSong": 5,
+      "getType": -1,
+      "getPower": 30,
+      "getInfo1": "",
+      "getInfo2": "",
+      "getInfo3": ""
+    },
+    {
+      "keyName": "shijian6",
+      "multiLanguageTitle": {
+        "code": "",
+        "chinese": "\r诗笺#6",
+        "chineseTraditional": "詩籤#6",
+        "english": "Stave No.6",
+        "japanese": "詩集#6",
+        "korean": ""
+      },
+      "kindOfKey": 1,
+      "unlockTimes": 1,
+      "getSong": 5,
+      "getType": -1,
+      "getPower": 100,
+      "getInfo1": "",
+      "getInfo2": "",
+      "getInfo3": ""
+    },
+    {
+      "keyName": "Mzhiqiu",
+      "multiLanguageTitle": {
+        "code": "",
+        "chinese": "\r【影像】脂球",
+        "chineseTraditional": "【影像】脂球",
+        "english": "[Image] Dark Bile",
+        "japanese": "【映像】脂肪球",
+        "korean": ""
+      },
+      "kindOfKey": 1,
+      "unlockTimes": 1,
+      "getSong": -5,
+      "getType": 0,
+      "getPower": 5,
+      "getInfo1": "Engine x Start!! (melody mix)IN",
+      "getInfo2": "840000",
+      "getInfo3": ""
+    },
+    {
+      "keyName": "Mxiabug",
+      "multiLanguageTitle": {
+        "code": "",
+        "chinese": "\r【影像】现场勘验报告·夏草",
+        "chineseTraditional": "【影像】現場勘驗報告·夏草",
+        "english": "[Image] Site Inspection Record",
+        "japanese": "【映像】現場調査レポート・夏草",
+        "korean": ""
+      },
+      "kindOfKey": 1,
+      "unlockTimes": 1,
+      "getSong": 6,
+      "getType": -1,
+      "getPower": 1,
+      "getInfo1": "",
+      "getInfo2": "",
+      "getInfo3": ""
+    },
+    {
+      "keyName": "flute",
+      "multiLanguageTitle": {
+        "code": "",
+        "chinese": "\r梆笛·线索一",
+        "chineseTraditional": "梆笛·資訊一",
+        "english": "Ancient Flute - Clue I",
+        "japanese": "",
+        "korean": ""
+      },
+      "kindOfKey": 1,
+      "unlockTimes": 2,
+      "getSong": 6,
+      "getType": -1,
+      "getPower": 5,
+      "getInfo1": "",
+      "getInfo2": "",
+      "getInfo3": ""
+    },
+    {
+      "keyName": "Mtowersakura",
+      "multiLanguageTitle": {
+        "code": "",
+        "chinese": "\r【影像】塔",
+        "chineseTraditional": "【影像】塔",
+        "english": "[Image] Tower",
+        "japanese": "【映像】塔",
+        "korean": ""
+      },
+      "kindOfKey": 1,
+      "unlockTimes": 1,
+      "getSong": 6,
+      "getType": -1,
+      "getPower": 5,
+      "getInfo1": "",
+      "getInfo2": "",
+      "getInfo3": ""
+    },
+    {
+      "keyName": "alpa",
+      "multiLanguageTitle": {
+        "code": "",
+        "chinese": "\r录音笔Alpa·线索四",
+        "chineseTraditional": "錄音筆Alpa·資訊四",
+        "english": "The Alpa Pen - Clue IV",
+        "japanese": "ペン型ボイスレコーダーAlpa·手がかり4",
+        "korean": ""
+      },
+      "kindOfKey": 1,
+      "unlockTimes": 5,
+      "getSong": 6,
+      "getType": -1,
+      "getPower": 30,
+      "getInfo1": "",
+      "getInfo2": "",
+      "getInfo3": ""
+    },
+    {
+      "keyName": "Mtuya",
+      "multiLanguageTitle": {
+        "code": "",
+        "chinese": "\r【影像】涂鸦",
+        "chineseTraditional": "【影像】塗鴉",
+        "english": "[Image] Graffiti",
+        "japanese": "【映像】落書き",
+        "korean": ""
+      },
+      "kindOfKey": 1,
+      "unlockTimes": 1,
+      "getSong": 6,
+      "getType": -1,
+      "getPower": 30,
+      "getInfo1": "",
+      "getInfo2": "",
+      "getInfo3": ""
+    },
+    {
+      "keyName": "starshitsnow",
+      "multiLanguageTitle": {
+        "code": "",
+        "chinese": "\r星星的碎片·冬",
+        "chineseTraditional": "星星的碎片·冬",
+        "english": "[Item] Winter Star Fragment",
+        "japanese": "星の欠片・冬",
+        "korean": ""
+      },
+      "kindOfKey": 1,
+      "unlockTimes": 1,
+      "getSong": 6,
+      "getType": -1,
+      "getPower": 30,
+      "getInfo1": "",
+      "getInfo2": "",
+      "getInfo3": ""
+    },
+    {
+      "keyName": "younggino",
+      "multiLanguageTitle": {
+        "code": "",
+        "chinese": "\r警长证",
+        "chineseTraditional": "警長證",
+        "english": "[Item] Sheriff's Badge",
+        "japanese": "警察官の証",
+        "korean": ""
+      },
+      "kindOfKey": 1,
+      "unlockTimes": 1,
+      "getSong": 6,
+      "getType": -1,
+      "getPower": 30,
+      "getInfo1": "",
+      "getInfo2": "",
+      "getInfo3": ""
+    },
+    {
+      "keyName": "shijian7",
+      "multiLanguageTitle": {
+        "code": "",
+        "chinese": "\r诗笺#7",
+        "chineseTraditional": "詩籤#7",
+        "english": "Stave No.7",
+        "japanese": "詩集#7",
+        "korean": ""
+      },
+      "kindOfKey": 1,
+      "unlockTimes": 1,
+      "getSong": 6,
+      "getType": -1,
+      "getPower": 100,
+      "getInfo1": "",
+      "getInfo2": "",
+      "getInfo3": ""
+    },
+    {
+      "keyName": "922alice",
+      "multiLanguageTitle": {
+        "code": "",
+        "chinese": "\r周边·判定线抱枕",
+        "chineseTraditional": "周邊·判定線抱枕",
+        "english": "[Merch] Judgement Line Pillow",
+        "japanese": "グッズ·判定ライン抱き枕",
+        "korean": ""
+      },
+      "kindOfKey": 1,
+      "unlockTimes": 1,
+      "getSong": -6,
+      "getType": 1,
+      "getPower": 1,
+      "getInfo1": "光IN",
+      "getInfo2": "100",
+      "getInfo3": ""
+    },
+    {
+      "keyName": "Ytaipingpingpang",
+      "multiLanguageTitle": {
+        "code": "",
+        "chinese": "\r【录音】太平鼓",
+        "chineseTraditional": "【錄音】太平鼓",
+        "english": "[Rec] Drums of Peace",
+        "japanese": "【録音】太平鼓",
+        "korean": ""
+      },
+      "kindOfKey": 1,
+      "unlockTimes": 1,
+      "getSong": 7,
+      "getType": -1,
+      "getPower": 5,
+      "getInfo1": "",
+      "getInfo2": "",
+      "getInfo3": ""
+    },
+    {
+      "keyName": "alpa",
+      "multiLanguageTitle": {
+        "code": "",
+        "chinese": "\r录音笔Alpa·线索五",
+        "chineseTraditional": "錄音筆Alpa·資訊五",
+        "english": "The Alpa Pen - Clue V",
+        "japanese": "ペン型ボイスレコーダーAlpa·手がかり５",
+        "korean": ""
+      },
+      "kindOfKey": 1,
+      "unlockTimes": 7,
+      "getSong": 7,
+      "getType": -1,
+      "getPower": 10,
+      "getInfo1": "",
+      "getInfo2": "",
+      "getInfo3": ""
+    },
+    {
+      "keyName": "listentomyradio",
+      "multiLanguageTitle": {
+        "code": "",
+        "chinese": "\r收音机",
+        "chineseTraditional": "收音機",
+        "english": "[item] Radio",
+        "japanese": "ラジオ",
+        "korean": ""
+      },
+      "kindOfKey": 1,
+      "unlockTimes": 1,
+      "getSong": 7,
+      "getType": -1,
+      "getPower": 10,
+      "getInfo1": "",
+      "getInfo2": "",
+      "getInfo3": ""
+    },
+    {
+      "keyName": "listentomyradio",
+      "multiLanguageTitle": {
+        "code": "",
+        "chinese": "\r收音机·线索二",
+        "chineseTraditional": "收音機·資訊二",
+        "english": "Radio - Clue II",
+        "japanese": "ラジオ・手がかり二",
+        "korean": ""
+      },
+      "kindOfKey": 1,
+      "unlockTimes": 3,
+      "getSong": 7,
+      "getType": -1,
+      "getPower": 10,
+      "getInfo1": "",
+      "getInfo2": "",
+      "getInfo3": ""
+    },
+    {
+      "keyName": "magicballball",
+      "multiLanguageTitle": {
+        "code": "",
+        "chinese": "\r魔术棒",
+        "chineseTraditional": "魔術棒",
+        "english": "[Item] Magic Wand",
+        "japanese": "マジック杖",
+        "korean": ""
+      },
+      "kindOfKey": 1,
+      "unlockTimes": 1,
+      "getSong": 7,
+      "getType": -1,
+      "getPower": 10,
+      "getInfo1": "",
+      "getInfo2": "",
+      "getInfo3": ""
+    },
+    {
+      "keyName": "listentomyradio",
+      "multiLanguageTitle": {
+        "code": "",
+        "chinese": "\r收音机·线索一",
+        "chineseTraditional": "收音機·資訊一",
+        "english": "Radio - Clue I",
+        "japanese": "ラジオ・手がかり一",
+        "korean": ""
+      },
+      "kindOfKey": 1,
+      "unlockTimes": 2,
+      "getSong": 7,
+      "getType": -1,
+      "getPower": 30,
+      "getInfo1": "",
+      "getInfo2": "",
+      "getInfo3": ""
+    },
+    {
+      "keyName": "trophon",
+      "multiLanguageTitle": {
+        "code": "",
+        "chinese": "\r两用摩托Trophon·线索四",
+        "chineseTraditional": "兩用摩托車Trophon·資訊四",
+        "english": "Trophon - Clue IV",
+        "japanese": "両用バイクTrophon·手がかり4",
+        "korean": ""
+      },
+      "kindOfKey": 1,
+      "unlockTimes": 5,
+      "getSong": 7,
+      "getType": -1,
+      "getPower": 30,
+      "getInfo1": "",
+      "getInfo2": "",
+      "getInfo3": ""
+    },
+    {
+      "keyName": "shijian8",
+      "multiLanguageTitle": {
+        "code": "",
+        "chinese": "\r诗笺#8",
+        "chineseTraditional": "詩籤#8",
+        "english": "Stave No.8",
+        "japanese": "詩集#8",
+        "korean": ""
+      },
+      "kindOfKey": 1,
+      "unlockTimes": 1,
+      "getSong": 7,
+      "getType": -1,
+      "getPower": 100,
+      "getInfo1": "",
+      "getInfo2": "",
+      "getInfo3": ""
+    },
+    {
+      "keyName": "Mbaolei",
+      "multiLanguageTitle": {
+        "code": "",
+        "chinese": "\r【影像】堡垒",
+        "chineseTraditional": "【影像】堡壘",
+        "english": "[Image] Fortress",
+        "japanese": "【映像】お城",
+        "korean": ""
+      },
+      "kindOfKey": 1,
+      "unlockTimes": 1,
+      "getSong": 7,
+      "getType": 2,
+      "getPower": 5,
+      "getInfo1": "混乱-ConfusionIN",
+      "getInfo2": "8",
+      "getInfo3": ""
+    },
+    {
+      "keyName": "metalarm",
+      "multiLanguageTitle": {
+        "code": "",
+        "chinese": "\r金属臂",
+        "chineseTraditional": "金屬臂",
+        "english": "[Item] Metal Arm",
+        "japanese": "メタルアーム",
+        "korean": ""
+      },
+      "kindOfKey": 1,
+      "unlockTimes": 1,
+      "getSong": 8,
+      "getType": -1,
+      "getPower": 5,
+      "getInfo1": "",
+      "getInfo2": "",
+      "getInfo3": ""
+    },
+    {
+      "keyName": "rainbowbook",
+      "multiLanguageTitle": {
+        "code": "",
+        "chinese": "\r彩虹绘本",
+        "chineseTraditional": "彩虹繪本",
+        "english": "[File] Colorful Picture Book",
+        "japanese": "虹色の絵本",
+        "korean": ""
+      },
+      "kindOfKey": 1,
+      "unlockTimes": 1,
+      "getSong": 8,
+      "getType": -1,
+      "getPower": 10,
+      "getInfo1": "",
+      "getInfo2": "",
+      "getInfo3": ""
+    },
+    {
+      "keyName": "aiblood",
+      "multiLanguageTitle": {
+        "code": "",
+        "chinese": "\r液压剂",
+        "chineseTraditional": "液壓劑",
+        "english": "[Item] Hydraulic Agent",
+        "japanese": "水圧フィラー",
+        "korean": ""
+      },
+      "kindOfKey": 1,
+      "unlockTimes": 1,
+      "getSong": 8,
+      "getType": -1,
+      "getPower": 30,
+      "getInfo1": "",
+      "getInfo2": "",
+      "getInfo3": ""
+    },
+    {
+      "keyName": "greenchicken",
+      "multiLanguageTitle": {
+        "code": "",
+        "chinese": "\r绿色变异种",
+        "chineseTraditional": "綠色異變種",
+        "english": "[Rec] Mutant Poultry",
+        "japanese": "緑の変異体",
+        "korean": ""
+      },
+      "kindOfKey": 1,
+      "unlockTimes": 1,
+      "getSong": 8,
+      "getType": -1,
+      "getPower": 30,
+      "getInfo1": "",
+      "getInfo2": "",
+      "getInfo3": ""
+    },
+    {
+      "keyName": "wucaishi",
+      "multiLanguageTitle": {
+        "code": "",
+        "chinese": "\r五彩石",
+        "chineseTraditional": "五彩石",
+        "english": "[Item] Five-Color Rock",
+        "japanese": "五彩石",
+        "korean": ""
+      },
+      "kindOfKey": 1,
+      "unlockTimes": 1,
+      "getSong": 8,
+      "getType": -1,
+      "getPower": 30,
+      "getInfo1": "",
+      "getInfo2": "",
+      "getInfo3": ""
+    },
+    {
+      "keyName": "Yjiaohuachicken",
+      "multiLanguageTitle": {
+        "code": "",
+        "chinese": "\r【录音】叫花鸡",
+        "chineseTraditional": "【錄音】叫花雞",
+        "english": "[Rec] Beggar's Chicken",
+        "japanese": "【録音】叫化鶏",
+        "korean": ""
+      },
+      "kindOfKey": 1,
+      "unlockTimes": 1,
+      "getSong": 8,
+      "getType": -1,
+      "getPower": 30,
+      "getInfo1": "",
+      "getInfo2": "",
+      "getInfo3": ""
+    },
+    {
+      "keyName": "shijian9",
+      "multiLanguageTitle": {
+        "code": "",
+        "chinese": "\r诗笺#9",
+        "chineseTraditional": "詩籤#9",
+        "english": "Stave No.9",
+        "japanese": "詩集#9",
+        "korean": ""
+      },
+      "kindOfKey": 1,
+      "unlockTimes": 1,
+      "getSong": 8,
+      "getType": -1,
+      "getPower": 100,
+      "getInfo1": "",
+      "getInfo2": "",
+      "getInfo3": ""
+    },
+    {
+      "keyName": "hoodoomap",
+      "multiLanguageTitle": {
+        "code": "",
+        "chinese": "\r石林地图",
+        "chineseTraditional": "石林地圖",
+        "english": "[Item] Hoodoo Map",
+        "japanese": "石森の地図",
+        "korean": ""
+      },
+      "kindOfKey": 1,
+      "unlockTimes": 1,
+      "getSong": 8,
+      "getType": 0,
+      "getPower": 10,
+      "getInfo1": "混乱-ConfusionEZ",
+      "getInfo2": "600000",
+      "getInfo3": ""
+    },
+    {
+      "keyName": "shihaungzhelingpai",
+      "multiLanguageTitle": {
+        "code": "",
+        "chinese": "\r拾荒者令牌",
+        "chineseTraditional": "拾荒者身分識別證",
+        "english": "[Item] Scavenger Token",
+        "japanese": "ホームレスの証",
+        "korean": ""
+      },
+      "kindOfKey": 1,
+      "unlockTimes": 1,
+      "getSong": 8,
+      "getType": 0,
+      "getPower": 30,
+      "getInfo1": "FULi AUTO SHOOTERIN",
+      "getInfo2": "820000",
+      "getInfo3": ""
+    },
+    {
+      "keyName": "watertower8",
+      "multiLanguageTitle": {
+        "code": "",
+        "chinese": "\r【影像】水塔",
+        "chineseTraditional": "【影像】水塔",
+        "english": "[Image] Water Tower",
+        "japanese": "【映像】水の塔",
+        "korean": ""
+      },
+      "kindOfKey": 1,
+      "unlockTimes": 1,
+      "getSong": 8,
+      "getType": 1,
+      "getPower": 5,
+      "getInfo1": "混乱-ConfusionIN",
+      "getInfo2": "90",
+      "getInfo3": ""
+    },
+    {
+      "keyName": "Mstationkuzumi",
+      "multiLanguageTitle": {
+        "code": "",
+        "chinese": "\r【影像】巢栖道站·线索一",
+        "chineseTraditional": "【影像】巢棲道站·資訊一",
+        "english": "Perchnest Station - Clue I ",
+        "japanese": "【映像】巣栖道駅·手がかり一",
+        "korean": ""
+      },
+      "kindOfKey": 1,
+      "unlockTimes": 2,
+      "getSong": 9,
+      "getType": -1,
+      "getPower": 5,
+      "getInfo1": "",
+      "getInfo2": "",
+      "getInfo3": ""
+    },
+    {
+      "keyName": "Mstationkuzumi",
+      "multiLanguageTitle": {
+        "code": "",
+        "chinese": "\r【影像】巢栖道站",
+        "chineseTraditional": "【影像】巢棲道站",
+        "english": "[Image] Perchnest Station",
+        "japanese": "【映像】巣栖駅",
+        "korean": ""
+      },
+      "kindOfKey": 1,
+      "unlockTimes": 1,
+      "getSong": 9,
+      "getType": -1,
+      "getPower": 5,
+      "getInfo1": "",
+      "getInfo2": "",
+      "getInfo3": ""
+    },
+    {
+      "keyName": "Ymorningmyworld",
+      "multiLanguageTitle": {
+        "code": "",
+        "chinese": "\r【录音】晨",
+        "chineseTraditional": "【錄音】晨",
+        "english": "[Rec] Morning",
+        "japanese": "【録音】朝",
+        "korean": ""
+      },
+      "kindOfKey": 1,
+      "unlockTimes": 1,
+      "getSong": 9,
+      "getType": -1,
+      "getPower": 5,
+      "getInfo1": "",
+      "getInfo2": "",
+      "getInfo3": ""
+    },
+    {
+      "keyName": "hq004chepiao",
+      "multiLanguageTitle": {
+        "code": "",
+        "chinese": "\rHQ004班次车票",
+        "chineseTraditional": "HQ004班次車票",
+        "english": "[Item] HQ004 Ticket",
+        "japanese": "HQ004チケット",
+        "korean": ""
+      },
+      "kindOfKey": 1,
+      "unlockTimes": 1,
+      "getSong": 9,
+      "getType": -1,
+      "getPower": 10,
+      "getInfo1": "",
+      "getInfo2": "",
+      "getInfo3": ""
+    },
+    {
+      "keyName": "kuxingren",
+      "multiLanguageTitle": {
+        "code": "",
+        "chinese": "\r苦杏仁",
+        "chineseTraditional": "苦杏仁",
+        "english": "[Item] Bitter Nuts",
+        "japanese": "苦い杏仁",
+        "korean": ""
+      },
+      "kindOfKey": 1,
+      "unlockTimes": 1,
+      "getSong": 9,
+      "getType": -1,
+      "getPower": 30,
+      "getInfo1": "",
+      "getInfo2": "",
+      "getInfo3": ""
+    },
+    {
+      "keyName": "Ymorningmyworld",
+      "multiLanguageTitle": {
+        "code": "",
+        "chinese": "\r【录音】晨·线索一",
+        "chineseTraditional": "【錄音】晨·資訊一",
+        "english": "[Rec] Morning - Clue I",
+        "japanese": "【録音】朝・手がかり一",
+        "korean": ""
+      },
+      "kindOfKey": 1,
+      "unlockTimes": 2,
+      "getSong": 9,
+      "getType": -1,
+      "getPower": 30,
+      "getInfo1": "",
+      "getInfo2": "",
+      "getInfo3": ""
+    },
+    {
+      "keyName": "shijian10",
+      "multiLanguageTitle": {
+        "code": "",
+        "chinese": "\r诗笺#10",
+        "chineseTraditional": "詩籤#10",
+        "english": "Stave No.10",
+        "japanese": "詩集＃10",
+        "korean": ""
+      },
+      "kindOfKey": 1,
+      "unlockTimes": 1,
+      "getSong": 9,
+      "getType": -1,
+      "getPower": 100,
+      "getInfo1": "",
+      "getInfo2": "",
+      "getInfo3": ""
+    },
+    {
+      "keyName": "justicemao",
+      "multiLanguageTitle": {
+        "code": "",
+        "chinese": "\r锚",
+        "chineseTraditional": "錨",
+        "english": "[Item] Anchor",
+        "japanese": "アンカー",
+        "korean": ""
+      },
+      "kindOfKey": 1,
+      "unlockTimes": 1,
+      "getSong": 9,
+      "getType": 2,
+      "getPower": 10,
+      "getInfo1": "Cipher : /2&//<|0IN",
+      "getInfo2": "",
+      "getInfo3": "880000"
+    },
+    {
+      "keyName": "listentomyradio",
+      "multiLanguageTitle": {
+        "code": "",
+        "chinese": "\r收音机·线索三",
+        "chineseTraditional": "收音機·資訊三",
+        "english": "Radio - Clue III",
+        "japanese": "ラジオ・手がかり三",
+        "korean": ""
+      },
+      "kindOfKey": 1,
+      "unlockTimes": 4,
+      "getSong": 9,
+      "getType": 2,
+      "getPower": 10,
+      "getInfo1": "FULi AUTO SHOOTERIN",
+      "getInfo2": "10",
+      "getInfo3": ""
+    },
+    {
+      "keyName": "Mfuliautoshooter",
+      "multiLanguageTitle": {
+        "code": "",
+        "chinese": "\r【影像】Fuli Auto Shooter！",
+        "chineseTraditional": "【影像】Fuli Auto Shooter！",
+        "english": "[Image] Fuli Auto Shooter!",
+        "japanese": "【映像 】Fuli Auto Shooter",
+        "korean": ""
+      },
+      "kindOfKey": 1,
+      "unlockTimes": 1,
+      "getSong": 10,
+      "getType": -1,
+      "getPower": 5,
+      "getInfo1": "",
+      "getInfo2": "",
+      "getInfo3": ""
+    },
+    {
+      "keyName": "bulletboom",
+      "multiLanguageTitle": {
+        "code": "",
+        "chinese": "\r巴雷特外壳",
+        "chineseTraditional": "巴雷特外殼",
+        "english": "[Item] Bullet Casings",
+        "japanese": "バレットの殻",
+        "korean": ""
+      },
+      "kindOfKey": 1,
+      "unlockTimes": 1,
+      "getSong": 10,
+      "getType": -1,
+      "getPower": 30,
+      "getInfo1": "",
+      "getInfo2": "",
+      "getInfo3": ""
+    },
+    {
+      "keyName": "shijian11",
+      "multiLanguageTitle": {
+        "code": "",
+        "chinese": "\r诗笺#11",
+        "chineseTraditional": "詩籤#11",
+        "english": "Stave No.11",
+        "japanese": "詩集＃11",
+        "korean": ""
+      },
+      "kindOfKey": 1,
+      "unlockTimes": 1,
+      "getSong": 10,
+      "getType": -1,
+      "getPower": 100,
+      "getInfo1": "",
+      "getInfo2": "",
+      "getInfo3": ""
+    },
+    {
+      "keyName": "fulistructure",
+      "multiLanguageTitle": {
+        "code": "",
+        "chinese": "\rFuli雕像",
+        "chineseTraditional": "Fuli雕像",
+        "english": "[Image] Statue of Fuli",
+        "japanese": "Fuliの像",
+        "korean": ""
+      },
+      "kindOfKey": 1,
+      "unlockTimes": 1,
+      "getSong": 10,
+      "getType": 0,
+      "getPower": 30,
+      "getInfo1": "FULi AUTO SHOOTERIN",
+      "getInfo2": "666666",
+      "getInfo3": ""
+    },
+    {
+      "keyName": "cookies",
+      "multiLanguageTitle": {
+        "code": "",
+        "chinese": "\r空投小饼干·线索一",
+        "chineseTraditional": "空投小餅乾·資訊一",
+        "english": "Airdrop Biscuits - Clue I",
+        "japanese": "",
+        "korean": ""
+      },
+      "kindOfKey": 1,
+      "unlockTimes": 2,
+      "getSong": 16,
+      "getType": -1,
+      "getPower": 10,
+      "getInfo1": "",
+      "getInfo2": "",
+      "getInfo3": ""
+    },
+    {
+      "keyName": "alpa",
+      "multiLanguageTitle": {
+        "code": "",
+        "chinese": "\r录音笔Alpa·线索六",
+        "chineseTraditional": "錄音筆Alpa·資訊六",
+        "english": "The Alpa Pen - Clue VI",
+        "japanese": "ペン型ボイスレコーダーAlpa·手がかり6",
+        "korean": ""
+      },
+      "kindOfKey": 1,
+      "unlockTimes": 8,
+      "getSong": 19,
+      "getType": -1,
+      "getPower": 10,
+      "getInfo1": "",
+      "getInfo2": "",
+      "getInfo3": ""
+    },
+    {
+      "keyName": "trophon",
+      "multiLanguageTitle": {
+        "code": "",
+        "chinese": "\r两用摩托Trophon·线索五",
+        "chineseTraditional": "兩用摩托車Trophon·資訊五",
+        "english": "Trophon - Clue V",
+        "japanese": "両用バイクTrophon·手がかり5",
+        "korean": ""
+      },
+      "kindOfKey": 1,
+      "unlockTimes": 6,
+      "getSong": 21,
+      "getType": -1,
+      "getPower": 10,
+      "getInfo1": "",
+      "getInfo2": "",
+      "getInfo3": ""
+    },
+    {
+      "keyName": "chongsheng",
+      "multiLanguageTitle": {
+        "code": "",
+        "chinese": "\r重生",
+        "chineseTraditional": "重生",
+        "english": "[Rec] Rebirth",
+        "japanese": "輪廻(ギルグル)",
+        "korean": ""
+      },
+      "kindOfKey": 1,
+      "unlockTimes": 1,
+      "getSong": 28,
+      "getType": -1,
+      "getPower": 100,
+      "getInfo1": "",
+      "getInfo2": "",
+      "getInfo3": ""
+    },
+    {
+      "keyName": "poyiARK",
+      "multiLanguageTitle": {
+        "code": "",
+        "chinese": "\r破译·望影の方舟Six",
+        "chineseTraditional": "破譯·望影の方舟Six",
+        "english": "[Decipher] 望影の方舟Six",
+        "japanese": "解読·望影の方舟Six",
+        "korean": ""
+      },
+      "kindOfKey": 1,
+      "unlockTimes": 1,
+      "getSong": 30,
+      "getType": -1,
+      "getPower": 100,
+      "getInfo1": "",
+      "getInfo2": "",
+      "getInfo3": ""
+    },
+    {
+      "keyName": "poyiIG",
+      "multiLanguageTitle": {
+        "code": "",
+        "chinese": "\r破译·Igallta",
+        "chineseTraditional": "破譯·Igallta",
+        "english": "Decipher - Igallta",
+        "japanese": "解読·Igallta",
+        "korean": ""
+      },
+      "kindOfKey": 1,
+      "unlockTimes": 1,
+      "getSong": 31,
+      "getType": -1,
+      "getPower": 100,
+      "getInfo1": "",
+      "getInfo2": "",
+      "getInfo3": ""
+    },
+    {
+      "keyName": "clockparadox",
+      "multiLanguageTitle": {
+        "code": "",
+        "chinese": "\r【影像】时钟悖论",
+        "chineseTraditional": "【影像】時鐘悖論",
+        "english": "[Image] Clock Paradox",
+        "japanese": "【映像】クロックパラドックス",
+        "korean": ""
+      },
+      "kindOfKey": 1,
+      "unlockTimes": 1,
+      "getSong": 34,
+      "getType": -1,
+      "getPower": 100,
+      "getInfo1": "",
+      "getInfo2": "",
+      "getInfo3": ""
+    },
+    {
+      "keyName": "93Align",
+      "multiLanguageTitle": {
+        "code": "",
+        "chinese": "\r时钟城第93届ALIGN梅花型拉力赛",
+        "chineseTraditional": "時鐘城第93屆ALIGN梅花型拉力賽",
+        "english": "Clock Town 93rd ALIGN Club Type Rally",
+        "japanese": "時計城第93回ALIGNクラブ型リレー大会",
+        "korean": ""
+      },
+      "kindOfKey": 1,
+      "unlockTimes": 1,
+      "getSong": 35,
+      "getType": -1,
+      "getPower": 100,
+      "getInfo1": "",
+      "getInfo2": "",
+      "getInfo3": ""
+    },
+    {
+      "keyName": "mope1",
+      "multiLanguageTitle": {
+        "code": "",
+        "chinese": "\r收容报告·小报",
+        "chineseTraditional": "\"收容報告·日報\"",
+        "english": "[Item Report] Tabloid",
+        "japanese": "収容レポート・報道",
+        "korean": ""
+      },
+      "kindOfKey": 1,
+      "unlockTimes": 1,
+      "getSong": -10002,
+      "getType": -1,
+      "getPower": 5,
+      "getInfo1": "",
+      "getInfo2": "",
+      "getInfo3": ""
+    },
+    {
+      "keyName": "mope3",
+      "multiLanguageTitle": {
+        "code": "",
+        "chinese": "\r收容报告·陶土花盆·线索二",
+        "chineseTraditional": "收容報告·陶土花盆·資訊二",
+        "english": "Clay Flowerpot - Clue II",
+        "japanese": "収容レポート・植木鉢・手がかり二",
+        "korean": ""
+      },
+      "kindOfKey": 1,
+      "unlockTimes": 3,
+      "getSong": -10002,
+      "getType": -1,
+      "getPower": 5,
+      "getInfo1": "",
+      "getInfo2": "",
+      "getInfo3": ""
+    },
+    {
+      "keyName": "mope4",
+      "multiLanguageTitle": {
+        "code": "",
+        "chinese": "\r收容报告·裙底之物",
+        "chineseTraditional": "收容報告·裙底之物",
+        "english": "[Rec] Under the Dress",
+        "japanese": "収容レポート・アンダースカートキス",
+        "korean": ""
+      },
+      "kindOfKey": 1,
+      "unlockTimes": 1,
+      "getSong": -10002,
+      "getType": -1,
+      "getPower": 5,
+      "getInfo1": "もぺもぺIN",
+      "getInfo2": "96.6",
+      "getInfo3": ""
+    },
+    {
+      "keyName": "mope2",
+      "multiLanguageTitle": {
+        "code": "",
+        "chinese": "\r收容报告·红色蝴蝶结·线索一",
+        "chineseTraditional": "收容報告·紅色蝴蝶結·資訊二",
+        "english": "Red Bow - Clue I",
+        "japanese": "収容レポート・赤いリボン・手がかり一",
+        "korean": ""
+      },
+      "kindOfKey": 1,
+      "unlockTimes": 2,
+      "getSong": -10002,
+      "getType": -1,
+      "getPower": 10,
+      "getInfo1": "",
+      "getInfo2": "",
+      "getInfo3": ""
+    },
+    {
+      "keyName": "mope3",
+      "multiLanguageTitle": {
+        "code": "",
+        "chinese": "\r收容报告·陶土花盆·线索一",
+        "chineseTraditional": "收容報告·陶土花盆·資訊一",
+        "english": "Clay Flowerpot - Clue I",
+        "japanese": "収容レポート・植木鉢・手がかり一",
+        "korean": ""
+      },
+      "kindOfKey": 1,
+      "unlockTimes": 2,
+      "getSong": -10002,
+      "getType": -1,
+      "getPower": 10,
+      "getInfo1": "",
+      "getInfo2": "",
+      "getInfo3": ""
+    },
+    {
+      "keyName": "mope2",
+      "multiLanguageTitle": {
+        "code": "",
+        "chinese": "\r收容报告·红色蝴蝶结",
+        "chineseTraditional": "\"收容報告·紅色蝴蝶結\"",
+        "english": "[Item Report] Red Bow",
+        "japanese": "収容レポート・赤いリボン",
+        "korean": ""
+      },
+      "kindOfKey": 1,
+      "unlockTimes": 1,
+      "getSong": -10002,
+      "getType": -1,
+      "getPower": 30,
+      "getInfo1": "",
+      "getInfo2": "",
+      "getInfo3": ""
+    },
+    {
+      "keyName": "mope3",
+      "multiLanguageTitle": {
+        "code": "",
+        "chinese": "\r收容报告·陶土花盆",
+        "chineseTraditional": "收容報告·陶土花盆",
+        "english": "[Item Report] Clay Flowerpot",
+        "japanese": "収容レポート・陶土植木鉢",
+        "korean": ""
+      },
+      "kindOfKey": 1,
+      "unlockTimes": 1,
+      "getSong": -10002,
+      "getType": -1,
+      "getPower": 30,
+      "getInfo1": "",
+      "getInfo2": "",
+      "getInfo3": ""
+    },
+    {
+      "keyName": "mope4",
+      "multiLanguageTitle": {
+        "code": "",
+        "chinese": "\r收容报告·裙底之物·线索一",
+        "chineseTraditional": "收容報告·裙底之物·資訊一",
+        "english": "Under the Dress - Clue I",
+        "japanese": "収容レポート・アンダースカートキス・手がかり一",
+        "korean": ""
+      },
+      "kindOfKey": 1,
+      "unlockTimes": 2,
+      "getSong": -10003,
+      "getType": -1,
+      "getPower": 30,
+      "getInfo1": " MARENOLIN",
+      "getInfo2": "52",
+      "getInfo3": ""
+    },
+    {
+      "keyName": "B17treature",
+      "multiLanguageTitle": {
+        "code": "",
+        "chinese": "\r公告·十七的宝藏",
+        "chineseTraditional": "公告·十七的寶藏",
+        "english": "[Announcement] The Treasure of 17",
+        "japanese": "報告·十七の宝",
+        "korean": ""
+      },
+      "kindOfKey": 1,
+      "unlockTimes": 1,
+      "getSong": -10015,
+      "getType": -1,
+      "getPower": 30,
+      "getInfo1": "",
+      "getInfo2": "",
+      "getInfo3": ""
+    },
+    {
+      "keyName": "gugugou",
+      "multiLanguageTitle": {
+        "code": "",
+        "chinese": "\r鸽子集结号",
+        "chineseTraditional": "鴿子集結號",
+        "english": "[Rec] Pigeon Assembly",
+        "japanese": "ぽっぽ集合ラッパ",
+        "korean": ""
+      },
+      "kindOfKey": 1,
+      "unlockTimes": 1,
+      "getSong": -10015,
+      "getType": -1,
+      "getPower": 30,
+      "getInfo1": "",
+      "getInfo2": "",
+      "getInfo3": ""
+    },
+    {
+      "keyName": "jixiangruyi",
+      "multiLanguageTitle": {
+        "code": "",
+        "chinese": "\r三尾吉祥鱼",
+        "chineseTraditional": "三尾吉祥魚",
+        "english": "[Rec] Three Lucky Fish",
+        "japanese": "三尾幸運魚",
+        "korean": ""
+      },
+      "kindOfKey": 1,
+      "unlockTimes": 1,
+      "getSong": -10015,
+      "getType": -1,
+      "getPower": 30,
+      "getInfo1": "",
+      "getInfo2": "",
+      "getInfo3": ""
+    },
+    {
+      "keyName": "nazotiaozhan",
+      "multiLanguageTitle": {
+        "code": "",
+        "chinese": "\r给十七的挑战书·线索一",
+        "chineseTraditional": "給十七的挑戰書·資訊一",
+        "english": "Challenge Letter to 17 - Clue I",
+        "japanese": "十七への挑戦状·手がかり一",
+        "korean": ""
+      },
+      "kindOfKey": 1,
+      "unlockTimes": 2,
+      "getSong": -10024,
+      "getType": -1,
+      "getPower": 30,
+      "getInfo1": "",
+      "getInfo2": "",
+      "getInfo3": ""
+    },
+    {
+      "keyName": "nazotiaozhan",
+      "multiLanguageTitle": {
+        "code": "",
+        "chinese": "\r给十七的挑战书",
+        "chineseTraditional": "給十七的挑戰書",
+        "english": "Challenge Letter to 17",
+        "japanese": "十七への挑戦状",
+        "korean": ""
+      },
+      "kindOfKey": 1,
+      "unlockTimes": 1,
+      "getSong": -10029,
+      "getType": -1,
+      "getPower": 30,
+      "getInfo1": "",
+      "getInfo2": "",
+      "getInfo3": ""
+    },
+    {
+      "keyName": "kaoquanya",
+      "multiLanguageTitle": {
+        "code": "",
+        "chinese": "\r烤 全 鸭",
+        "chineseTraditional": "烤 全 鴨",
+        "english": "[File] Burn'd Duck",
+        "japanese": "丸焼きアヒル",
+        "korean": ""
+      },
+      "kindOfKey": 1,
+      "unlockTimes": 1,
+      "getSong": -10030,
+      "getType": -1,
+      "getPower": 5,
+      "getInfo1": "",
+      "getInfo2": "",
+      "getInfo3": ""
+    },
+    {
+      "keyName": "Kalpa1",
+      "multiLanguageTitle": {
+        "code": "",
+        "chinese": "\r今年过节上春晚",
+        "chineseTraditional": "今年過節上春晚",
+        "english": "This year on the New Year’s Gala",
+        "japanese": "今年の正月は春晩で",
+        "korean": ""
+      },
+      "kindOfKey": 1,
+      "unlockTimes": 1,
+      "getSong": -10079,
+      "getType": -1,
+      "getPower": 100,
+      "getInfo1": "",
+      "getInfo2": "",
+      "getInfo3": ""
+    },
+    {
+      "keyName": "Kalpa2",
+      "multiLanguageTitle": {
+        "code": "",
+        "chinese": "\r穿越小队少一人",
+        "chineseTraditional": "穿越小隊少一人",
+        "english": "One less person in the Travelling Squad",
+        "japanese": "トラベル小隊一人消失",
+        "korean": ""
+      },
+      "kindOfKey": 1,
+      "unlockTimes": 1,
+      "getSong": -10080,
+      "getType": -1,
+      "getPower": 100,
+      "getInfo1": "",
+      "getInfo2": "",
+      "getInfo3": ""
+    },
+    {
+      "keyName": "Kalpa3",
+      "multiLanguageTitle": {
+        "code": "",
+        "chinese": "\r世界上的另个我",
+        "chineseTraditional": "世界上的另個我",
+        "english": "Another me in the world",
+        "japanese": "この世界のもう一人の私",
+        "korean": ""
+      },
+      "kindOfKey": 1,
+      "unlockTimes": 1,
+      "getSong": -10081,
+      "getType": -1,
+      "getPower": 100,
+      "getInfo1": "",
+      "getInfo2": "",
+      "getInfo3": ""
+    },
+    {
+      "keyName": "Kalpa4",
+      "multiLanguageTitle": {
+        "code": "",
+        "chinese": "\r亲朋好友齐欢聚",
+        "chineseTraditional": "親朋好友其歡聚",
+        "english": "Family and friends gather together",
+        "japanese": "家族親友大集合",
+        "korean": ""
+      },
+      "kindOfKey": 1,
+      "unlockTimes": 1,
+      "getSong": -10082,
+      "getType": -1,
+      "getPower": 100,
+      "getInfo1": "",
+      "getInfo2": "",
+      "getInfo3": ""
+    },
+    {
+      "keyName": "Kalpa5",
+      "multiLanguageTitle": {
+        "code": "",
+        "chinese": "\r未来降临我身边",
+        "chineseTraditional": "未來降臨我身邊",
+        "english": "Future falls down to me",
+        "japanese": "未来が私に舞い降りた",
+        "korean": ""
+      },
+      "kindOfKey": 1,
+      "unlockTimes": 1,
+      "getSong": -10083,
+      "getType": -1,
+      "getPower": 100,
+      "getInfo1": "",
+      "getInfo2": "",
+      "getInfo3": ""
+    },
+    {
+      "keyName": "xuwangzhixia",
+      "multiLanguageTitle": {
+        "code": "",
+        "chinese": "\r虚妄之匣",
+        "chineseTraditional": "虛妄之匣",
+        "english": "Box of Delusion",
+        "japanese": "虚妄の箱",
+        "korean": ""
+      },
+      "kindOfKey": 1,
+      "unlockTimes": 2,
+      "getSong": 20001,
+      "getType": -1,
+      "getPower": 10,
+      "getInfo1": "",
+      "getInfo2": "",
+      "getInfo3": ""
+    },
+    {
+      "keyName": "zhenlizhizhu",
+      "multiLanguageTitle": {
+        "code": "",
+        "chinese": "\r真理之珠",
+        "chineseTraditional": "真理之珠",
+        "english": "Pearl of Truth",
+        "japanese": "真理の珠",
+        "korean": ""
+      },
+      "kindOfKey": 1,
+      "unlockTimes": 2,
+      "getSong": 20001,
+      "getType": -1,
+      "getPower": 10,
+      "getInfo1": "",
+      "getInfo2": "",
+      "getInfo3": ""
+    },
+    {
+      "keyName": "chaozhendong",
+      "multiLanguageTitle": {
+        "code": "",
+        "chinese": "\r艾达的超震动小刀",
+        "chineseTraditional": "Ida的超振動小刀",
+        "english": "Ida's Super Vibration Knife",
+        "japanese": "エダの超振動ナイフ",
+        "korean": ""
+      },
+      "kindOfKey": 1,
+      "unlockTimes": 1,
+      "getSong": 20001,
+      "getType": -1,
+      "getPower": 30,
+      "getInfo1": "",
+      "getInfo2": "",
+      "getInfo3": ""
+    },
+    {
+      "keyName": "chuhaijilu",
+      "multiLanguageTitle": {
+        "code": "",
+        "chinese": "\r奥德修斯港出海记录",
+        "chineseTraditional": "奧德修斯港出海紀錄",
+        "english": "Port Odysseus Sailing Record",
+        "japanese": "オデシュース港出航記録",
+        "korean": ""
+      },
+      "kindOfKey": 1,
+      "unlockTimes": 1,
+      "getSong": 20001,
+      "getType": -1,
+      "getPower": 30,
+      "getInfo1": "",
+      "getInfo2": "",
+      "getInfo3": ""
+    },
+    {
+      "keyName": "dinngxiangshensuo",
+      "multiLanguageTitle": {
+        "code": "",
+        "chinese": "\r定向绳索",
+        "chineseTraditional": "定向繩索",
+        "english": "Directional Rope",
+        "japanese": "指向性ロープ",
+        "korean": ""
+      },
+      "kindOfKey": 1,
+      "unlockTimes": 1,
+      "getSong": 20001,
+      "getType": -1,
+      "getPower": 30,
+      "getInfo1": "",
+      "getInfo2": "",
+      "getInfo3": ""
+    },
+    {
+      "keyName": "shenqikuabao",
+      "multiLanguageTitle": {
+        "code": "",
+        "chinese": "\r伯尼丝的神奇挎包",
+        "chineseTraditional": "Bernice的神奇挎包",
+        "english": "Bernice's Magical Satchel",
+        "japanese": "べルネスの奇妙ポシェット",
+        "korean": ""
+      },
+      "kindOfKey": 1,
+      "unlockTimes": 1,
+      "getSong": 20001,
+      "getType": -1,
+      "getPower": 30,
+      "getInfo1": "",
+      "getInfo2": "",
+      "getInfo3": ""
+    },
+    {
+      "keyName": "xuwangzhixia",
+      "multiLanguageTitle": {
+        "code": "",
+        "chinese": "\r虚妄之匣",
+        "chineseTraditional": "虛妄之匣",
+        "english": "Box of Delusion",
+        "japanese": "虚妄の箱",
+        "korean": ""
+      },
+      "kindOfKey": 1,
+      "unlockTimes": 1,
+      "getSong": 20001,
+      "getType": -1,
+      "getPower": 30,
+      "getInfo1": "",
+      "getInfo2": "",
+      "getInfo3": ""
+    },
+    {
+      "keyName": "yanjiubonisi",
+      "multiLanguageTitle": {
+        "code": "",
+        "chinese": "\r伯尼丝的研究笔记",
+        "chineseTraditional": "Bernice的研究筆記",
+        "english": "Bernice's Research Notes",
+        "japanese": "べルネスの研究ノート",
+        "korean": ""
+      },
+      "kindOfKey": 1,
+      "unlockTimes": 1,
+      "getSong": 20001,
+      "getType": -1,
+      "getPower": 30,
+      "getInfo1": "",
+      "getInfo2": "",
+      "getInfo3": ""
+    },
+    {
+      "keyName": "yundongxiangji",
+      "multiLanguageTitle": {
+        "code": "",
+        "chinese": "\r萨芙的运动相机",
+        "chineseTraditional": "Sappho的運動相機",
+        "english": "Sappho's Action Camera",
+        "japanese": "サフォのアクションカメラ",
+        "korean": ""
+      },
+      "kindOfKey": 1,
+      "unlockTimes": 1,
+      "getSong": 20001,
+      "getType": -1,
+      "getPower": 30,
+      "getInfo1": "",
+      "getInfo2": "",
+      "getInfo3": ""
+    },
+    {
+      "keyName": "zhenlizhizhu",
+      "multiLanguageTitle": {
+        "code": "",
+        "chinese": "\r真理之珠",
+        "chineseTraditional": "真理之珠",
+        "english": "Pearl of Truth",
+        "japanese": "真理の珠",
+        "korean": ""
+      },
+      "kindOfKey": 1,
+      "unlockTimes": 1,
+      "getSong": 20001,
+      "getType": -1,
+      "getPower": 30,
+      "getInfo1": "",
+      "getInfo2": "",
+      "getInfo3": ""
+    },
+    {
+      "keyName": "zhixian10",
+      "multiLanguageTitle": {
+        "code": "",
+        "chinese": "\r旁白：忘忧宫",
+        "chineseTraditional": "旁白：忘憂宮",
+        "english": "Narration: Lotos",
+        "japanese": "ナレーション「ロートス」",
+        "korean": ""
+      },
+      "kindOfKey": 1,
+      "unlockTimes": 1,
+      "getSong": 20001,
+      "getType": -1,
+      "getPower": 100,
+      "getInfo1": "",
+      "getInfo2": "",
+      "getInfo3": ""
+    },
+    {
+      "keyName": "yundongxiangji",
+      "multiLanguageTitle": {
+        "code": "",
+        "chinese": "\r萨芙的运动相机",
+        "chineseTraditional": "Sappho的運動相機",
+        "english": "Sappho's Action Camera",
+        "japanese": "サフォのアクションカメラ",
+        "korean": ""
+      },
+      "kindOfKey": 1,
+      "unlockTimes": 3,
+      "getSong": 20002,
+      "getType": -1,
+      "getPower": 5,
+      "getInfo1": "",
+      "getInfo2": "",
+      "getInfo3": ""
+    },
+    {
+      "keyName": "chaozhendong",
+      "multiLanguageTitle": {
+        "code": "",
+        "chinese": "\r艾达的超震动小刀",
+        "chineseTraditional": "Ida的超振動小刀",
+        "english": "Ida's Super Vibration Knife",
+        "japanese": "エダの超振動ナイフ",
+        "korean": ""
+      },
+      "kindOfKey": 1,
+      "unlockTimes": 2,
+      "getSong": 20002,
+      "getType": -1,
+      "getPower": 10,
+      "getInfo1": "",
+      "getInfo2": "",
+      "getInfo3": ""
+    },
+    {
+      "keyName": "yundongxiangji",
+      "multiLanguageTitle": {
+        "code": "",
+        "chinese": "\r萨芙的运动相机",
+        "chineseTraditional": "Sappho的運動相機",
+        "english": "Sappho's Action Camera",
+        "japanese": "サフォのアクションカメラ",
+        "korean": ""
+      },
+      "kindOfKey": 1,
+      "unlockTimes": 2,
+      "getSong": 20002,
+      "getType": -1,
+      "getPower": 10,
+      "getInfo1": "",
+      "getInfo2": "",
+      "getInfo3": ""
+    },
+    {
+      "keyName": "qietingqi",
+      "multiLanguageTitle": {
+        "code": "",
+        "chinese": "\r窃听器",
+        "chineseTraditional": "竊聽器",
+        "english": "Wiretap",
+        "japanese": "盗聴器",
+        "korean": ""
+      },
+      "kindOfKey": 1,
+      "unlockTimes": 1,
+      "getSong": 20002,
+      "getType": -1,
+      "getPower": 30,
+      "getInfo1": "",
+      "getInfo2": "",
+      "getInfo3": ""
+    },
+    {
+      "keyName": "shenfenzhengjian",
+      "multiLanguageTitle": {
+        "code": "",
+        "chinese": "\r身份证件",
+        "chineseTraditional": "身分證",
+        "english": "Identification",
+        "japanese": "身分証明",
+        "korean": ""
+      },
+      "kindOfKey": 1,
+      "unlockTimes": 1,
+      "getSong": 20002,
+      "getType": -1,
+      "getPower": 30,
+      "getInfo1": "",
+      "getInfo2": "",
+      "getInfo3": ""
+    },
+    {
+      "keyName": "yanjiubonisi",
+      "multiLanguageTitle": {
+        "code": "",
+        "chinese": "\r伯尼丝的研究笔记",
+        "chineseTraditional": "Bernice的研究筆記",
+        "english": "Bernice's Research Notes",
+        "japanese": "べルネスの研究ノート",
+        "korean": ""
+      },
+      "kindOfKey": 1,
+      "unlockTimes": 2,
+      "getSong": 20002,
+      "getType": -1,
+      "getPower": 30,
+      "getInfo1": "",
+      "getInfo2": "",
+      "getInfo3": ""
+    },
+    {
+      "keyName": "yanjiubonisi",
+      "multiLanguageTitle": {
+        "code": "",
+        "chinese": "\r伯尼丝的研究笔记",
+        "chineseTraditional": "Bernice的研究筆記",
+        "english": "Bernice's Research Notes",
+        "japanese": "べルネスの研究ノート",
+        "korean": ""
+      },
+      "kindOfKey": 1,
+      "unlockTimes": 3,
+      "getSong": 20002,
+      "getType": -1,
+      "getPower": 30,
+      "getInfo1": "",
+      "getInfo2": "",
+      "getInfo3": ""
+    },
+    {
+      "keyName": "zhixian11",
+      "multiLanguageTitle": {
+        "code": "",
+        "chinese": "\r旁白：奥德修斯港",
+        "chineseTraditional": "旁白：奧德修斯港",
+        "english": "Narration: Odysseus",
+        "japanese": "ナレーション「オデシュース港」",
+        "korean": ""
+      },
+      "kindOfKey": 1,
+      "unlockTimes": 1,
+      "getSong": 20002,
+      "getType": -1,
+      "getPower": 100,
+      "getInfo1": "",
+      "getInfo2": "",
+      "getInfo3": ""
+    },
+    {
+      "keyName": "chuhaijilu",
+      "multiLanguageTitle": {
+        "code": "",
+        "chinese": "\r奥德修斯港出海记录",
+        "chineseTraditional": "奧德修斯港出海紀錄",
+        "english": "Port Odysseus Sailing Record",
+        "japanese": "オデシュース港出航記録",
+        "korean": ""
+      },
+      "kindOfKey": 1,
+      "unlockTimes": 2,
+      "getSong": 20003,
+      "getType": -1,
+      "getPower": 10,
+      "getInfo1": "",
+      "getInfo2": "",
+      "getInfo3": ""
+    },
+    {
+      "keyName": "yanjiubonisi",
+      "multiLanguageTitle": {
+        "code": "",
+        "chinese": "\r伯尼丝的研究笔记",
+        "chineseTraditional": "Bernice的研究筆記",
+        "english": "Bernice's Research Notes",
+        "japanese": "べルネスの研究ノート",
+        "korean": ""
+      },
+      "kindOfKey": 1,
+      "unlockTimes": 4,
+      "getSong": 20003,
+      "getType": -1,
+      "getPower": 10,
+      "getInfo1": "",
+      "getInfo2": "",
+      "getInfo3": ""
+    },
+    {
+      "keyName": "zhenlizhizhu",
+      "multiLanguageTitle": {
+        "code": "",
+        "chinese": "\r真理之珠",
+        "chineseTraditional": "真理之珠",
+        "english": "Pearl of Truth",
+        "japanese": "真理の珠",
+        "korean": ""
+      },
+      "kindOfKey": 1,
+      "unlockTimes": 3,
+      "getSong": 20003,
+      "getType": -1,
+      "getPower": 10,
+      "getInfo1": "",
+      "getInfo2": "",
+      "getInfo3": ""
+    },
+    {
+      "keyName": "dinngxiangshensuo",
+      "multiLanguageTitle": {
+        "code": "",
+        "chinese": "\r定向绳索",
+        "chineseTraditional": "定向繩索",
+        "english": "Directional Rope",
+        "japanese": "指向性ロープ",
+        "korean": ""
+      },
+      "kindOfKey": 1,
+      "unlockTimes": 2,
+      "getSong": 20003,
+      "getType": -1,
+      "getPower": 30,
+      "getInfo1": "",
+      "getInfo2": "",
+      "getInfo3": ""
+    },
+    {
+      "keyName": "qietingqi",
+      "multiLanguageTitle": {
+        "code": "",
+        "chinese": "\r窃听器",
+        "chineseTraditional": "竊聽器",
+        "english": "Wiretap",
+        "japanese": "盗聴器",
+        "korean": ""
+      },
+      "kindOfKey": 1,
+      "unlockTimes": 2,
+      "getSong": 20003,
+      "getType": -1,
+      "getPower": 30,
+      "getInfo1": "",
+      "getInfo2": "",
+      "getInfo3": ""
+    },
+    {
+      "keyName": "shenfenzhengjian",
+      "multiLanguageTitle": {
+        "code": "",
+        "chinese": "\r身份证件",
+        "chineseTraditional": "身分證",
+        "english": "Identification",
+        "japanese": "身分証明",
+        "korean": ""
+      },
+      "kindOfKey": 1,
+      "unlockTimes": 2,
+      "getSong": 20003,
+      "getType": -1,
+      "getPower": 30,
+      "getInfo1": "",
+      "getInfo2": "",
+      "getInfo3": ""
+    },
+    {
+      "keyName": "shenfenzhengjian",
+      "multiLanguageTitle": {
+        "code": "",
+        "chinese": "\r身份证件",
+        "chineseTraditional": "身分證",
+        "english": "Identification",
+        "japanese": "身分証明",
+        "korean": ""
+      },
+      "kindOfKey": 1,
+      "unlockTimes": 3,
+      "getSong": 20003,
+      "getType": -1,
+      "getPower": 30,
+      "getInfo1": "",
+      "getInfo2": "",
+      "getInfo3": ""
+    },
+    {
+      "keyName": "zhixian12",
+      "multiLanguageTitle": {
+        "code": "",
+        "chinese": "\r旁白：克罗诺斯",
+        "chineseTraditional": "旁白：克羅諾斯",
+        "english": "Narration: Chronos",
+        "japanese": "ナレーション「クロノス」",
+        "korean": ""
+      },
+      "kindOfKey": 1,
+      "unlockTimes": 1,
+      "getSong": 20003,
+      "getType": -1,
+      "getPower": 100,
+      "getInfo1": "",
+      "getInfo2": "",
+      "getInfo3": ""
+    },
+    {
+      "keyName": "dinngxiangshensuo",
+      "multiLanguageTitle": {
+        "code": "",
+        "chinese": "\r定向绳索",
+        "chineseTraditional": "定向繩索",
+        "english": "Directional Rope",
+        "japanese": "指向性ロープ",
+        "korean": ""
+      },
+      "kindOfKey": 1,
+      "unlockTimes": 3,
+      "getSong": 20004,
+      "getType": -1,
+      "getPower": 10,
+      "getInfo1": "",
+      "getInfo2": "",
+      "getInfo3": ""
+    },
+    {
+      "keyName": "qietingqi",
+      "multiLanguageTitle": {
+        "code": "",
+        "chinese": "\r窃听器",
+        "chineseTraditional": "監聽器",
+        "english": "Wiretap",
+        "japanese": "盗聴器",
+        "korean": ""
+      },
+      "kindOfKey": 1,
+      "unlockTimes": 3,
+      "getSong": 20004,
+      "getType": -1,
+      "getPower": 10,
+      "getInfo1": "",
+      "getInfo2": "",
+      "getInfo3": ""
+    },
+    {
+      "keyName": "shenqikuabao",
+      "multiLanguageTitle": {
+        "code": "",
+        "chinese": "\r伯尼丝的神奇挎包",
+        "chineseTraditional": "Bernice的神奇挎包",
+        "english": "Bernice's Magical Satchel",
+        "japanese": "べルネスの奇妙ポシェット",
+        "korean": ""
+      },
+      "kindOfKey": 1,
+      "unlockTimes": 3,
+      "getSong": 20004,
+      "getType": -1,
+      "getPower": 10,
+      "getInfo1": "",
+      "getInfo2": "",
+      "getInfo3": ""
+    },
+    {
+      "keyName": "shenqikuabao",
+      "multiLanguageTitle": {
+        "code": "",
+        "chinese": "\r伯尼丝的神奇挎包",
+        "chineseTraditional": "Bernice的神奇挎包",
+        "english": "Bernice's Magical Satchel",
+        "japanese": "べルネスの奇妙ポシェット",
+        "korean": ""
+      },
+      "kindOfKey": 1,
+      "unlockTimes": 2,
+      "getSong": 20004,
+      "getType": -1,
+      "getPower": 10,
+      "getInfo1": "",
+      "getInfo2": "",
+      "getInfo3": ""
+    },
+    {
+      "keyName": "xuwangzhixia",
+      "multiLanguageTitle": {
+        "code": "",
+        "chinese": "\r虚妄之匣",
+        "chineseTraditional": "虛妄之匣",
+        "english": "Box of Delusion",
+        "japanese": "虚妄の箱",
+        "korean": ""
+      },
+      "kindOfKey": 1,
+      "unlockTimes": 3,
+      "getSong": 20004,
+      "getType": -1,
+      "getPower": 10,
+      "getInfo1": "",
+      "getInfo2": "",
+      "getInfo3": ""
+    },
+    {
+      "keyName": "zhixian13",
+      "multiLanguageTitle": {
+        "code": "",
+        "chinese": "\r旁白：奇迹之森",
+        "chineseTraditional": "旁白：奇蹟之森",
+        "english": "Narration: Miracle Forest",
+        "japanese": "ナレーション「奇跡の森」",
+        "korean": ""
+      },
+      "kindOfKey": 1,
+      "unlockTimes": 1,
+      "getSong": 20004,
+      "getType": -1,
+      "getPower": 100,
+      "getInfo1": "",
+      "getInfo2": "",
+      "getInfo3": ""
+    },
+    {
+      "keyName": "zhipian",
+      "multiLanguageTitle": {
+        "code": "",
+        "chinese": "\r纸片",
+        "chineseTraditional": "紙片",
+        "english": "Piece of Paper",
+        "japanese": "紙片",
+        "korean": ""
+      },
+      "kindOfKey": 1,
+      "unlockTimes": 1,
+      "getSong": 20005,
+      "getType": -1,
+      "getPower": 1,
+      "getInfo1": "",
+      "getInfo2": "",
+      "getInfo3": ""
+    },
+    {
+      "keyName": "chuhaijilu",
+      "multiLanguageTitle": {
+        "code": "",
+        "chinese": "\r奥德修斯港出海记录",
+        "chineseTraditional": "奧德修斯港出海紀錄",
+        "english": "Port Odysseus Sailing Record",
+        "japanese": "オデシュース港出航記録",
+        "korean": ""
+      },
+      "kindOfKey": 1,
+      "unlockTimes": 3,
+      "getSong": 20005,
+      "getType": -1,
+      "getPower": 5,
+      "getInfo1": "",
+      "getInfo2": "",
+      "getInfo3": ""
+    },
+    {
+      "keyName": "lawabofumiele",
+      "multiLanguageTitle": {
+        "code": "",
+        "chinese": "\r《拉瓦钵的覆灭》",
+        "chineseTraditional": "《拉瓦缽的覆滅》",
+        "english": "<The Fall of Lavabo>",
+        "japanese": "《ラベーボの壊滅》",
+        "korean": ""
+      },
+      "kindOfKey": 1,
+      "unlockTimes": 5,
+      "getSong": 20005,
+      "getType": -1,
+      "getPower": 5,
+      "getInfo1": "",
+      "getInfo2": "",
+      "getInfo3": ""
+    },
+    {
+      "keyName": "shenqikuabao",
+      "multiLanguageTitle": {
+        "code": "",
+        "chinese": "\r伯尼丝的神奇挎包",
+        "chineseTraditional": "Bernice的神奇挎包",
+        "english": "Bernice's Magical Satchel",
+        "japanese": "べルネスの奇妙ポシェット",
+        "korean": ""
+      },
+      "kindOfKey": 1,
+      "unlockTimes": 4,
+      "getSong": 20005,
+      "getType": -1,
+      "getPower": 5,
+      "getInfo1": "",
+      "getInfo2": "",
+      "getInfo3": ""
+    },
+    {
+      "keyName": "lawabofumiele",
+      "multiLanguageTitle": {
+        "code": "",
+        "chinese": "\r《拉瓦钵的覆灭》",
+        "chineseTraditional": "《拉瓦缽的覆滅》",
+        "english": "<The Fall of Lavabo>",
+        "japanese": "《ラベーボの壊滅》",
+        "korean": ""
+      },
+      "kindOfKey": 1,
+      "unlockTimes": 4,
+      "getSong": 20005,
+      "getType": -1,
+      "getPower": 10,
+      "getInfo1": "",
+      "getInfo2": "",
+      "getInfo3": ""
+    },
+    {
+      "keyName": "shenfenzhengjian",
+      "multiLanguageTitle": {
+        "code": "",
+        "chinese": "\r身份证件",
+        "chineseTraditional": "身分證",
+        "english": "Identification",
+        "japanese": "身分証明",
+        "korean": ""
+      },
+      "kindOfKey": 1,
+      "unlockTimes": 4,
+      "getSong": 20005,
+      "getType": -1,
+      "getPower": 10,
+      "getInfo1": "",
+      "getInfo2": "",
+      "getInfo3": ""
+    },
+    {
+      "keyName": "yundongxiangji",
+      "multiLanguageTitle": {
+        "code": "",
+        "chinese": "\r萨芙的运动相机",
+        "chineseTraditional": "Sappho的運動相機",
+        "english": "Sappho's Action Camera",
+        "japanese": "サフォのアクションカメラ",
+        "korean": ""
+      },
+      "kindOfKey": 1,
+      "unlockTimes": 4,
+      "getSong": 20005,
+      "getType": -1,
+      "getPower": 10,
+      "getInfo1": "",
+      "getInfo2": "",
+      "getInfo3": ""
+    },
+    {
+      "keyName": "lawabofumiele",
+      "multiLanguageTitle": {
+        "code": "",
+        "chinese": "\r《拉瓦钵的覆灭》",
+        "chineseTraditional": "《拉瓦缽的覆滅》",
+        "english": "<The Fall of Lavabo>",
+        "japanese": "《ラベーボの壊滅》",
+        "korean": ""
+      },
+      "kindOfKey": 1,
+      "unlockTimes": 2,
+      "getSong": 20005,
+      "getType": -1,
+      "getPower": 30,
+      "getInfo1": "",
+      "getInfo2": "",
+      "getInfo3": ""
+    },
+    {
+      "keyName": "lawabofumiele",
+      "multiLanguageTitle": {
+        "code": "",
+        "chinese": "\r《拉瓦钵的覆灭》",
+        "chineseTraditional": "《拉瓦缽的覆滅》",
+        "english": "<The Fall of Lavabo>",
+        "japanese": "《ラベーボの壊滅》",
+        "korean": ""
+      },
+      "kindOfKey": 1,
+      "unlockTimes": 3,
+      "getSong": 20005,
+      "getType": -1,
+      "getPower": 30,
+      "getInfo1": "",
+      "getInfo2": "",
+      "getInfo3": ""
+    },
+    {
+      "keyName": "lawabofumiele",
+      "multiLanguageTitle": {
+        "code": "",
+        "chinese": "\r《拉瓦钵的覆灭》",
+        "chineseTraditional": "《拉瓦缽的覆滅》",
+        "english": "<The Fall of Lavabo>",
+        "japanese": "《ラベーボの壊滅》",
+        "korean": ""
+      },
+      "kindOfKey": 1,
+      "unlockTimes": 1,
+      "getSong": 20005,
+      "getType": -1,
+      "getPower": 30,
+      "getInfo1": "",
+      "getInfo2": "",
+      "getInfo3": ""
+    },
+    {
+      "keyName": "zhixian14",
+      "multiLanguageTitle": {
+        "code": "",
+        "chinese": "\r旁白：迷宫尽头",
+        "chineseTraditional": "旁白：迷宮盡頭",
+        "english": "Narration: End of Labyrinth",
+        "japanese": "ナレーション「迷宮の果て」",
+        "korean": ""
+      },
+      "kindOfKey": 1,
+      "unlockTimes": 1,
+      "getSong": 20005,
+      "getType": -1,
+      "getPower": 100,
+      "getInfo1": "",
+      "getInfo2": "",
+      "getInfo3": ""
+    },
+    {
+      "keyName": "Glaciaxion",
+      "multiLanguageTitle": {
+        "code": "",
+        "chinese": "",
+        "chineseTraditional": "",
+        "english": "",
+        "japanese": "",
+        "korean": ""
+      },
+      "kindOfKey": 2,
+      "unlockTimes": 1,
+      "getSong": -1,
+      "getType": -1,
+      "getPower": 30,
+      "getInfo1": "",
+      "getInfo2": "",
+      "getInfo3": ""
+    },
+    {
+      "keyName": "Eradication Catastrophe",
+      "multiLanguageTitle": {
+        "code": "",
+        "chinese": "",
+        "chineseTraditional": "",
+        "english": "",
+        "japanese": "",
+        "korean": ""
+      },
+      "kindOfKey": 2,
+      "unlockTimes": 1,
+      "getSong": -2,
+      "getType": -1,
+      "getPower": 30,
+      "getInfo1": "",
+      "getInfo2": "",
+      "getInfo3": ""
+    },
+    {
+      "keyName": "Credits",
+      "multiLanguageTitle": {
+        "code": "",
+        "chinese": "",
+        "chineseTraditional": "",
+        "english": "",
+        "japanese": "",
+        "korean": ""
+      },
+      "kindOfKey": 2,
+      "unlockTimes": 1,
+      "getSong": -3,
+      "getType": -1,
+      "getPower": 30,
+      "getInfo1": "",
+      "getInfo2": "",
+      "getInfo3": ""
+    },
+    {
+      "keyName": "Dlyrotz",
+      "multiLanguageTitle": {
+        "code": "",
+        "chinese": "",
+        "chineseTraditional": "",
+        "english": "",
+        "japanese": "",
+        "korean": ""
+      },
+      "kindOfKey": 2,
+      "unlockTimes": 1,
+      "getSong": -4,
+      "getType": -1,
+      "getPower": 30,
+      "getInfo1": "",
+      "getInfo2": "",
+      "getInfo3": ""
+    },
+    {
+      "keyName": "Engine x Start!! (melody mix)",
+      "multiLanguageTitle": {
+        "code": "",
+        "chinese": "",
+        "chineseTraditional": "",
+        "english": "",
+        "japanese": "",
+        "korean": ""
+      },
+      "kindOfKey": 2,
+      "unlockTimes": 1,
+      "getSong": -5,
+      "getType": -1,
+      "getPower": 30,
+      "getInfo1": "",
+      "getInfo2": "",
+      "getInfo3": ""
+    },
+    {
+      "keyName": "光",
+      "multiLanguageTitle": {
+        "code": "",
+        "chinese": "",
+        "chineseTraditional": "",
+        "english": "",
+        "japanese": "",
+        "korean": ""
+      },
+      "kindOfKey": 2,
+      "unlockTimes": 1,
+      "getSong": -6,
+      "getType": -1,
+      "getPower": 30,
+      "getInfo1": "",
+      "getInfo2": "",
+      "getInfo3": ""
+    },
+    {
+      "keyName": "Winter ↑cube↓",
+      "multiLanguageTitle": {
+        "code": "",
+        "chinese": "",
+        "chineseTraditional": "",
+        "english": "",
+        "japanese": "",
+        "korean": ""
+      },
+      "kindOfKey": 2,
+      "unlockTimes": 1,
+      "getSong": -7,
+      "getType": -1,
+      "getPower": 30,
+      "getInfo1": "",
+      "getInfo2": "",
+      "getInfo3": ""
+    },
+    {
+      "keyName": "Cipher : /2&//<|0",
+      "multiLanguageTitle": {
+        "code": "",
+        "chinese": "",
+        "chineseTraditional": "",
+        "english": "",
+        "japanese": "",
+        "korean": ""
+      },
+      "kindOfKey": 2,
+      "unlockTimes": 1,
+      "getSong": -8,
+      "getType": -1,
+      "getPower": 30,
+      "getInfo1": "",
+      "getInfo2": "",
+      "getInfo3": ""
+    },
+    {
+      "keyName": "混乱-Confusion",
+      "multiLanguageTitle": {
+        "code": "",
+        "chinese": "",
+        "chineseTraditional": "",
+        "english": "",
+        "japanese": "",
+        "korean": ""
+      },
+      "kindOfKey": 2,
+      "unlockTimes": 1,
+      "getSong": -9,
+      "getType": -1,
+      "getPower": 30,
+      "getInfo1": "",
+      "getInfo2": "",
+      "getInfo3": ""
+    },
+    {
+      "keyName": "FULi AUTO SHOOTER",
+      "multiLanguageTitle": {
+        "code": "",
+        "chinese": "",
+        "chineseTraditional": "",
+        "english": "",
+        "japanese": "",
+        "korean": ""
+      },
+      "kindOfKey": 2,
+      "unlockTimes": 1,
+      "getSong": -10,
+      "getType": -1,
+      "getPower": 30,
+      "getInfo1": "",
+      "getInfo2": "",
+      "getInfo3": ""
+    },
+    {
+      "keyName": "HumaN",
+      "multiLanguageTitle": {
+        "code": "",
+        "chinese": "",
+        "chineseTraditional": "",
+        "english": "",
+        "japanese": "",
+        "korean": ""
+      },
+      "kindOfKey": 2,
+      "unlockTimes": 1,
+      "getSong": -11,
+      "getType": -1,
+      "getPower": 30,
+      "getInfo1": "",
+      "getInfo2": "",
+      "getInfo3": ""
+    },
+    {
+      "keyName": "[PRAW]",
+      "multiLanguageTitle": {
+        "code": "",
+        "chinese": "",
+        "chineseTraditional": "",
+        "english": "",
+        "japanese": "",
+        "korean": ""
+      },
+      "kindOfKey": 2,
+      "unlockTimes": 1,
+      "getSong": -12,
+      "getType": -1,
+      "getPower": 30,
+      "getInfo1": "",
+      "getInfo2": "",
+      "getInfo3": ""
+    },
+    {
+      "keyName": "Pixel Rebelz",
+      "multiLanguageTitle": {
+        "code": "",
+        "chinese": "",
+        "chineseTraditional": "",
+        "english": "",
+        "japanese": "",
+        "korean": ""
+      },
+      "kindOfKey": 2,
+      "unlockTimes": 1,
+      "getSong": -13,
+      "getType": -1,
+      "getPower": 30,
+      "getInfo1": "",
+      "getInfo2": "",
+      "getInfo3": ""
+    },
+    {
+      "keyName": "Cereris",
+      "multiLanguageTitle": {
+        "code": "",
+        "chinese": "",
+        "chineseTraditional": "",
+        "english": "",
+        "japanese": "",
+        "korean": ""
+      },
+      "kindOfKey": 2,
+      "unlockTimes": 1,
+      "getSong": -14,
+      "getType": -1,
+      "getPower": 30,
+      "getInfo1": "",
+      "getInfo2": "",
+      "getInfo3": ""
+    },
+    {
+      "keyName": "Non-Melodic Ragez (MUG Edit)",
+      "multiLanguageTitle": {
+        "code": "",
+        "chinese": "",
+        "chineseTraditional": "",
+        "english": "",
+        "japanese": "",
+        "korean": ""
+      },
+      "kindOfKey": 2,
+      "unlockTimes": 1,
+      "getSong": -15,
+      "getType": -1,
+      "getPower": 30,
+      "getInfo1": "",
+      "getInfo2": "",
+      "getInfo3": ""
+    },
+    {
+      "keyName": "Sultan Rage",
+      "multiLanguageTitle": {
+        "code": "",
+        "chinese": "",
+        "chineseTraditional": "",
+        "english": "",
+        "japanese": "",
+        "korean": ""
+      },
+      "kindOfKey": 2,
+      "unlockTimes": 1,
+      "getSong": -16,
+      "getType": -1,
+      "getPower": 30,
+      "getInfo1": "",
+      "getInfo2": "",
+      "getInfo3": ""
+    },
+    {
+      "keyName": "Class Memories",
+      "multiLanguageTitle": {
+        "code": "",
+        "chinese": "",
+        "chineseTraditional": "",
+        "english": "",
+        "japanese": "",
+        "korean": ""
+      },
+      "kindOfKey": 2,
+      "unlockTimes": 1,
+      "getSong": -17,
+      "getType": -1,
+      "getPower": 30,
+      "getInfo1": "",
+      "getInfo2": "",
+      "getInfo3": ""
+    },
+    {
+      "keyName": "-SURREALISM-",
+      "multiLanguageTitle": {
+        "code": "",
+        "chinese": "",
+        "chineseTraditional": "",
+        "english": "",
+        "japanese": "",
+        "korean": ""
+      },
+      "kindOfKey": 2,
+      "unlockTimes": 1,
+      "getSong": -18,
+      "getType": -1,
+      "getPower": 30,
+      "getInfo1": "",
+      "getInfo2": "",
+      "getInfo3": ""
+    },
+    {
+      "keyName": "Bonus Time",
+      "multiLanguageTitle": {
+        "code": "",
+        "chinese": "",
+        "chineseTraditional": "",
+        "english": "",
+        "japanese": "",
+        "korean": ""
+      },
+      "kindOfKey": 2,
+      "unlockTimes": 1,
+      "getSong": -19,
+      "getType": -1,
+      "getPower": 30,
+      "getInfo1": "",
+      "getInfo2": "",
+      "getInfo3": ""
+    },
+    {
+      "keyName": "Energy Synergy Matrix",
+      "multiLanguageTitle": {
+        "code": "",
+        "chinese": "",
+        "chineseTraditional": "",
+        "english": "",
+        "japanese": "",
+        "korean": ""
+      },
+      "kindOfKey": 2,
+      "unlockTimes": 1,
+      "getSong": -20,
+      "getType": -1,
+      "getPower": 30,
+      "getInfo1": "",
+      "getInfo2": "",
+      "getInfo3": ""
+    },
+    {
+      "keyName": "NYA!!!",
+      "multiLanguageTitle": {
+        "code": "",
+        "chinese": "",
+        "chineseTraditional": "",
+        "english": "",
+        "japanese": "",
+        "korean": ""
+      },
+      "kindOfKey": 2,
+      "unlockTimes": 1,
+      "getSong": -21,
+      "getType": -1,
+      "getPower": 30,
+      "getInfo1": "",
+      "getInfo2": "",
+      "getInfo3": ""
+    },
+    {
+      "keyName": "JunXion Between Life And Death(VIP Mix)",
+      "multiLanguageTitle": {
+        "code": "",
+        "chinese": "",
+        "chineseTraditional": "",
+        "english": "",
+        "japanese": "",
+        "korean": ""
+      },
+      "kindOfKey": 2,
+      "unlockTimes": 1,
+      "getSong": -22,
+      "getType": -1,
+      "getPower": 30,
+      "getInfo1": "",
+      "getInfo2": "",
+      "getInfo3": ""
+    },
+    {
+      "keyName": "cryout",
+      "multiLanguageTitle": {
+        "code": "",
+        "chinese": "",
+        "chineseTraditional": "",
+        "english": "",
+        "japanese": "",
+        "korean": ""
+      },
+      "kindOfKey": 2,
+      "unlockTimes": 1,
+      "getSong": -23,
+      "getType": -1,
+      "getPower": 30,
+      "getInfo1": "",
+      "getInfo2": "",
+      "getInfo3": ""
+    },
+    {
+      "keyName": "Reimei",
+      "multiLanguageTitle": {
+        "code": "",
+        "chinese": "",
+        "chineseTraditional": "",
+        "english": "",
+        "japanese": "",
+        "korean": ""
+      },
+      "kindOfKey": 2,
+      "unlockTimes": 1,
+      "getSong": -24,
+      "getType": -1,
+      "getPower": 30,
+      "getInfo1": "",
+      "getInfo2": "",
+      "getInfo3": ""
+    },
+    {
+      "keyName": "尊師 ～The Guru～",
+      "multiLanguageTitle": {
+        "code": "",
+        "chinese": "",
+        "chineseTraditional": "",
+        "english": "",
+        "japanese": "",
+        "korean": ""
+      },
+      "kindOfKey": 2,
+      "unlockTimes": 1,
+      "getSong": -25,
+      "getType": -1,
+      "getPower": 30,
+      "getInfo1": "",
+      "getInfo2": "",
+      "getInfo3": ""
+    },
+    {
+      "keyName": "Spasmodic",
+      "multiLanguageTitle": {
+        "code": "",
+        "chinese": "",
+        "chineseTraditional": "",
+        "english": "",
+        "japanese": "",
+        "korean": ""
+      },
+      "kindOfKey": 2,
+      "unlockTimes": 1,
+      "getSong": -26,
+      "getType": -1,
+      "getPower": 30,
+      "getInfo1": "",
+      "getInfo2": "",
+      "getInfo3": ""
+    },
+    {
+      "keyName": "Leave All Behind",
+      "multiLanguageTitle": {
+        "code": "",
+        "chinese": "",
+        "chineseTraditional": "",
+        "english": "",
+        "japanese": "",
+        "korean": ""
+      },
+      "kindOfKey": 2,
+      "unlockTimes": 1,
+      "getSong": -27,
+      "getType": -1,
+      "getPower": 30,
+      "getInfo1": "",
+      "getInfo2": "",
+      "getInfo3": ""
+    },
+    {
+      "keyName": "Colorful Days♪",
+      "multiLanguageTitle": {
+        "code": "",
+        "chinese": "",
+        "chineseTraditional": "",
+        "english": "",
+        "japanese": "",
+        "korean": ""
+      },
+      "kindOfKey": 2,
+      "unlockTimes": 1,
+      "getSong": -28,
+      "getType": -1,
+      "getPower": 30,
+      "getInfo1": "",
+      "getInfo2": "",
+      "getInfo3": ""
+    },
+    {
+      "keyName": "micro.wav",
+      "multiLanguageTitle": {
+        "code": "",
+        "chinese": "",
+        "chineseTraditional": "",
+        "english": "",
+        "japanese": "",
+        "korean": ""
+      },
+      "kindOfKey": 2,
+      "unlockTimes": 1,
+      "getSong": -29,
+      "getType": -1,
+      "getPower": 30,
+      "getInfo1": "",
+      "getInfo2": "",
+      "getInfo3": ""
+    },
+    {
+      "keyName": "重生",
+      "multiLanguageTitle": {
+        "code": "",
+        "chinese": "",
+        "chineseTraditional": "",
+        "english": "",
+        "japanese": "",
+        "korean": ""
+      },
+      "kindOfKey": 2,
+      "unlockTimes": 1,
+      "getSong": -30,
+      "getType": -1,
+      "getPower": 30,
+      "getInfo1": "",
+      "getInfo2": "",
+      "getInfo3": ""
+    },
+    {
+      "keyName": "NO ONE YES MAN",
+      "multiLanguageTitle": {
+        "code": "",
+        "chinese": "",
+        "chineseTraditional": "",
+        "english": "",
+        "japanese": "",
+        "korean": ""
+      },
+      "kindOfKey": 2,
+      "unlockTimes": 1,
+      "getSong": -31,
+      "getType": -1,
+      "getPower": 30,
+      "getInfo1": "",
+      "getInfo2": "",
+      "getInfo3": ""
+    },
+    {
+      "keyName": "望影の方舟Six",
+      "multiLanguageTitle": {
+        "code": "",
+        "chinese": "",
+        "chineseTraditional": "",
+        "english": "",
+        "japanese": "",
+        "korean": ""
+      },
+      "kindOfKey": 2,
+      "unlockTimes": 1,
+      "getSong": -32,
+      "getType": -1,
+      "getPower": 30,
+      "getInfo1": "",
+      "getInfo2": "",
+      "getInfo3": ""
+    },
+    {
+      "keyName": "Igallta",
+      "multiLanguageTitle": {
+        "code": "",
+        "chinese": "",
+        "chineseTraditional": "",
+        "english": "",
+        "japanese": "",
+        "korean": ""
+      },
+      "kindOfKey": 2,
+      "unlockTimes": 1,
+      "getSong": -33,
+      "getType": -1,
+      "getPower": 30,
+      "getInfo1": "",
+      "getInfo2": "",
+      "getInfo3": ""
+    },
+    {
+      "keyName": "Clock Paradox",
+      "multiLanguageTitle": {
+        "code": "",
+        "chinese": "",
+        "chineseTraditional": "",
+        "english": "",
+        "japanese": "",
+        "korean": ""
+      },
+      "kindOfKey": 2,
+      "unlockTimes": 1,
+      "getSong": -34,
+      "getType": -1,
+      "getPower": 30,
+      "getInfo1": "",
+      "getInfo2": "",
+      "getInfo3": ""
+    },
+    {
+      "keyName": "Chronologika",
+      "multiLanguageTitle": {
+        "code": "",
+        "chinese": "",
+        "chineseTraditional": "",
+        "english": "",
+        "japanese": "",
+        "korean": ""
+      },
+      "kindOfKey": 2,
+      "unlockTimes": 1,
+      "getSong": -35,
+      "getType": -1,
+      "getPower": 30,
+      "getInfo1": "",
+      "getInfo2": "",
+      "getInfo3": ""
+    },
+    {
+      "keyName": "Nick of Time",
+      "multiLanguageTitle": {
+        "code": "",
+        "chinese": "",
+        "chineseTraditional": "",
+        "english": "",
+        "japanese": "",
+        "korean": ""
+      },
+      "kindOfKey": 2,
+      "unlockTimes": 1,
+      "getSong": -36,
+      "getType": -1,
+      "getPower": 30,
+      "getInfo1": "",
+      "getInfo2": "",
+      "getInfo3": ""
+    },
+    {
+      "keyName": "Chronomia",
+      "multiLanguageTitle": {
+        "code": "",
+        "chinese": "",
+        "chineseTraditional": "",
+        "english": "",
+        "japanese": "",
+        "korean": ""
+      },
+      "kindOfKey": 2,
+      "unlockTimes": 1,
+      "getSong": -37,
+      "getType": -1,
+      "getPower": 30,
+      "getInfo1": "",
+      "getInfo2": "",
+      "getInfo3": ""
+    },
+    {
+      "keyName": "Chronos Collapse - La Campanella",
+      "multiLanguageTitle": {
+        "code": "",
+        "chinese": "",
+        "chineseTraditional": "",
+        "english": "",
+        "japanese": "",
+        "korean": ""
+      },
+      "kindOfKey": 2,
+      "unlockTimes": 1,
+      "getSong": -38,
+      "getType": -1,
+      "getPower": 30,
+      "getInfo1": "",
+      "getInfo2": "",
+      "getInfo3": ""
+    },
+    {
+      "keyName": "Rrhar'il",
+      "multiLanguageTitle": {
+        "code": "",
+        "chinese": "",
+        "chineseTraditional": "",
+        "english": "",
+        "japanese": "",
+        "korean": ""
+      },
+      "kindOfKey": 2,
+      "unlockTimes": 1,
+      "getSong": -39,
+      "getType": -1,
+      "getPower": 30,
+      "getInfo1": "",
+      "getInfo2": "",
+      "getInfo3": ""
+    },
+    {
+      "keyName": "Doppelganger",
+      "multiLanguageTitle": {
+        "code": "",
+        "chinese": "",
+        "chineseTraditional": "",
+        "english": "",
+        "japanese": "",
+        "korean": ""
+      },
+      "kindOfKey": 2,
+      "unlockTimes": 1,
+      "getSong": -10001,
+      "getType": -1,
+      "getPower": 30,
+      "getInfo1": "",
+      "getInfo2": "",
+      "getInfo3": ""
+    },
+    {
+      "keyName": "もぺもぺ",
+      "multiLanguageTitle": {
+        "code": "",
+        "chinese": "",
+        "chineseTraditional": "",
+        "english": "",
+        "japanese": "",
+        "korean": ""
+      },
+      "kindOfKey": 2,
+      "unlockTimes": 1,
+      "getSong": -10002,
+      "getType": -1,
+      "getPower": 30,
+      "getInfo1": "",
+      "getInfo2": "",
+      "getInfo3": ""
+    },
+    {
+      "keyName": "MARENOL",
+      "multiLanguageTitle": {
+        "code": "",
+        "chinese": "",
+        "chineseTraditional": "",
+        "english": "",
+        "japanese": "",
+        "korean": ""
+      },
+      "kindOfKey": 2,
+      "unlockTimes": 1,
+      "getSong": -10003,
+      "getType": -1,
+      "getPower": 30,
+      "getInfo1": "",
+      "getInfo2": "",
+      "getInfo3": ""
+    },
+    {
+      "keyName": "萤火虫の怨",
+      "multiLanguageTitle": {
+        "code": "",
+        "chinese": "",
+        "chineseTraditional": "",
+        "english": "",
+        "japanese": "",
+        "korean": ""
+      },
+      "kindOfKey": 2,
+      "unlockTimes": 1,
+      "getSong": -10004,
+      "getType": -1,
+      "getPower": 30,
+      "getInfo1": "",
+      "getInfo2": "",
+      "getInfo3": ""
+    },
+    {
+      "keyName": "万吨匿名信",
+      "multiLanguageTitle": {
+        "code": "",
+        "chinese": "",
+        "chineseTraditional": "",
+        "english": "",
+        "japanese": "",
+        "korean": ""
+      },
+      "kindOfKey": 2,
+      "unlockTimes": 1,
+      "getSong": -10005,
+      "getType": -1,
+      "getPower": 30,
+      "getInfo1": "",
+      "getInfo2": "",
+      "getInfo3": ""
+    },
+    {
+      "keyName": "风屿",
+      "multiLanguageTitle": {
+        "code": "",
+        "chinese": "",
+        "chineseTraditional": "",
+        "english": "",
+        "japanese": "",
+        "korean": ""
+      },
+      "kindOfKey": 2,
+      "unlockTimes": 1,
+      "getSong": -10006,
+      "getType": -1,
+      "getPower": 30,
+      "getInfo1": "",
+      "getInfo2": "",
+      "getInfo3": ""
+    },
+    {
+      "keyName": "dB doll",
+      "multiLanguageTitle": {
+        "code": "",
+        "chinese": "",
+        "chineseTraditional": "",
+        "english": "",
+        "japanese": "",
+        "korean": ""
+      },
+      "kindOfKey": 2,
+      "unlockTimes": 1,
+      "getSong": -10007,
+      "getType": -1,
+      "getPower": 30,
+      "getInfo1": "",
+      "getInfo2": "",
+      "getInfo3": ""
+    },
+    {
+      "keyName": "Dash",
+      "multiLanguageTitle": {
+        "code": "",
+        "chinese": "",
+        "chineseTraditional": "",
+        "english": "",
+        "japanese": "",
+        "korean": ""
+      },
+      "kindOfKey": 2,
+      "unlockTimes": 1,
+      "getSong": -10008,
+      "getType": -1,
+      "getPower": 30,
+      "getInfo1": "",
+      "getInfo2": "",
+      "getInfo3": ""
+    },
+    {
+      "keyName": "云女孩",
+      "multiLanguageTitle": {
+        "code": "",
+        "chinese": "",
+        "chineseTraditional": "",
+        "english": "",
+        "japanese": "",
+        "korean": ""
+      },
+      "kindOfKey": 2,
+      "unlockTimes": 1,
+      "getSong": -10009,
+      "getType": -1,
+      "getPower": 30,
+      "getInfo1": "",
+      "getInfo2": "",
+      "getInfo3": ""
+    },
+    {
+      "keyName": "Drop It",
+      "multiLanguageTitle": {
+        "code": "",
+        "chinese": "",
+        "chineseTraditional": "",
+        "english": "",
+        "japanese": "",
+        "korean": ""
+      },
+      "kindOfKey": 2,
+      "unlockTimes": 1,
+      "getSong": -10010,
+      "getType": -1,
+      "getPower": 30,
+      "getInfo1": "",
+      "getInfo2": "",
+      "getInfo3": ""
+    },
+    {
+      "keyName": "RIPPER",
+      "multiLanguageTitle": {
+        "code": "",
+        "chinese": "",
+        "chineseTraditional": "",
+        "english": "",
+        "japanese": "",
+        "korean": ""
+      },
+      "kindOfKey": 2,
+      "unlockTimes": 1,
+      "getSong": -10011,
+      "getType": -1,
+      "getPower": 30,
+      "getInfo1": "",
+      "getInfo2": "",
+      "getInfo3": ""
+    },
+    {
+      "keyName": "Aphasia",
+      "multiLanguageTitle": {
+        "code": "",
+        "chinese": "",
+        "chineseTraditional": "",
+        "english": "",
+        "japanese": "",
+        "korean": ""
+      },
+      "kindOfKey": 2,
+      "unlockTimes": 1,
+      "getSong": -10012,
+      "getType": -1,
+      "getPower": 30,
+      "getInfo1": "",
+      "getInfo2": "",
+      "getInfo3": ""
+    },
+    {
+      "keyName": "开心病",
+      "multiLanguageTitle": {
+        "code": "",
+        "chinese": "",
+        "chineseTraditional": "",
+        "english": "",
+        "japanese": "",
+        "korean": ""
+      },
+      "kindOfKey": 2,
+      "unlockTimes": 1,
+      "getSong": -10013,
+      "getType": -1,
+      "getPower": 30,
+      "getInfo1": "",
+      "getInfo2": "",
+      "getInfo3": ""
+    },
+    {
+      "keyName": "華灯爱",
+      "multiLanguageTitle": {
+        "code": "",
+        "chinese": "",
+        "chineseTraditional": "",
+        "english": "",
+        "japanese": "",
+        "korean": ""
+      },
+      "kindOfKey": 2,
+      "unlockTimes": 1,
+      "getSong": -10014,
+      "getType": -1,
+      "getPower": 30,
+      "getInfo1": "",
+      "getInfo2": "",
+      "getInfo3": ""
+    },
+    {
+      "keyName": "Find_Me",
+      "multiLanguageTitle": {
+        "code": "",
+        "chinese": "",
+        "chineseTraditional": "",
+        "english": "",
+        "japanese": "",
+        "korean": ""
+      },
+      "kindOfKey": 2,
+      "unlockTimes": 1,
+      "getSong": -10015,
+      "getType": -1,
+      "getPower": 30,
+      "getInfo1": "",
+      "getInfo2": "",
+      "getInfo3": ""
+    },
+    {
+      "keyName": "Sein",
+      "multiLanguageTitle": {
+        "code": "",
+        "chinese": "",
+        "chineseTraditional": "",
+        "english": "",
+        "japanese": "",
+        "korean": ""
+      },
+      "kindOfKey": 2,
+      "unlockTimes": 1,
+      "getSong": -10016,
+      "getType": -1,
+      "getPower": 30,
+      "getInfo1": "",
+      "getInfo2": "",
+      "getInfo3": ""
+    },
+    {
+      "keyName": "狂喜蘭舞",
+      "multiLanguageTitle": {
+        "code": "",
+        "chinese": "",
+        "chineseTraditional": "",
+        "english": "",
+        "japanese": "",
+        "korean": ""
+      },
+      "kindOfKey": 2,
+      "unlockTimes": 1,
+      "getSong": -10017,
+      "getType": -1,
+      "getPower": 30,
+      "getInfo1": "",
+      "getInfo2": "",
+      "getInfo3": ""
+    },
+    {
+      "keyName": "Sparkle New Life",
+      "multiLanguageTitle": {
+        "code": "",
+        "chinese": "",
+        "chineseTraditional": "",
+        "english": "",
+        "japanese": "",
+        "korean": ""
+      },
+      "kindOfKey": 2,
+      "unlockTimes": 1,
+      "getSong": -10018,
+      "getType": -1,
+      "getPower": 30,
+      "getInfo1": "",
+      "getInfo2": "",
+      "getInfo3": ""
+    },
+    {
+      "keyName": "Khronostasis Katharsis",
+      "multiLanguageTitle": {
+        "code": "",
+        "chinese": "",
+        "chineseTraditional": "",
+        "english": "",
+        "japanese": "",
+        "korean": ""
+      },
+      "kindOfKey": 2,
+      "unlockTimes": 1,
+      "getSong": -10019,
+      "getType": -1,
+      "getPower": 30,
+      "getInfo1": "",
+      "getInfo2": "",
+      "getInfo3": ""
+    },
+    {
+      "keyName": "Snow Desert",
+      "multiLanguageTitle": {
+        "code": "",
+        "chinese": "",
+        "chineseTraditional": "",
+        "english": "",
+        "japanese": "",
+        "korean": ""
+      },
+      "kindOfKey": 2,
+      "unlockTimes": 1,
+      "getSong": -10020,
+      "getType": -1,
+      "getPower": 30,
+      "getInfo1": "",
+      "getInfo2": "",
+      "getInfo3": ""
+    },
+    {
+      "keyName": "Burn",
+      "multiLanguageTitle": {
+        "code": "",
+        "chinese": "",
+        "chineseTraditional": "",
+        "english": "",
+        "japanese": "",
+        "korean": ""
+      },
+      "kindOfKey": 2,
+      "unlockTimes": 1,
+      "getSong": -10021,
+      "getType": -1,
+      "getPower": 30,
+      "getInfo1": "",
+      "getInfo2": "",
+      "getInfo3": ""
+    },
+    {
+      "keyName": "Aleph-0",
+      "multiLanguageTitle": {
+        "code": "",
+        "chinese": "",
+        "chineseTraditional": "",
+        "english": "",
+        "japanese": "",
+        "korean": ""
+      },
+      "kindOfKey": 2,
+      "unlockTimes": 1,
+      "getSong": -10022,
+      "getType": -1,
+      "getPower": 30,
+      "getInfo1": "",
+      "getInfo2": "",
+      "getInfo3": ""
+    },
+    {
+      "keyName": "Next Time",
+      "multiLanguageTitle": {
+        "code": "",
+        "chinese": "",
+        "chineseTraditional": "",
+        "english": "",
+        "japanese": "",
+        "korean": ""
+      },
+      "kindOfKey": 2,
+      "unlockTimes": 1,
+      "getSong": -10023,
+      "getType": -1,
+      "getPower": 30,
+      "getInfo1": "",
+      "getInfo2": "",
+      "getInfo3": ""
+    },
+    {
+      "keyName": "Rubbish Sorting",
+      "multiLanguageTitle": {
+        "code": "",
+        "chinese": "",
+        "chineseTraditional": "",
+        "english": "",
+        "japanese": "",
+        "korean": ""
+      },
+      "kindOfKey": 2,
+      "unlockTimes": 1,
+      "getSong": -10024,
+      "getType": -1,
+      "getPower": 30,
+      "getInfo1": "",
+      "getInfo2": "",
+      "getInfo3": ""
+    },
+    {
+      "keyName": "Another Me",
+      "multiLanguageTitle": {
+        "code": "",
+        "chinese": "",
+        "chineseTraditional": "",
+        "english": "",
+        "japanese": "",
+        "korean": ""
+      },
+      "kindOfKey": 2,
+      "unlockTimes": 1,
+      "getSong": -10025,
+      "getType": -1,
+      "getPower": 30,
+      "getInfo1": "",
+      "getInfo2": "",
+      "getInfo3": ""
+    },
+    {
+      "keyName": "mechanted",
+      "multiLanguageTitle": {
+        "code": "",
+        "chinese": "",
+        "chineseTraditional": "",
+        "english": "",
+        "japanese": "",
+        "korean": ""
+      },
+      "kindOfKey": 2,
+      "unlockTimes": 1,
+      "getSong": -10026,
+      "getType": -1,
+      "getPower": 30,
+      "getInfo1": "",
+      "getInfo2": "",
+      "getInfo3": ""
+    },
+    {
+      "keyName": "life flashes before weeb eyes",
+      "multiLanguageTitle": {
+        "code": "",
+        "chinese": "",
+        "chineseTraditional": "",
+        "english": "",
+        "japanese": "",
+        "korean": ""
+      },
+      "kindOfKey": 2,
+      "unlockTimes": 1,
+      "getSong": -10027,
+      "getType": -1,
+      "getPower": 30,
+      "getInfo1": "",
+      "getInfo2": "",
+      "getInfo3": ""
+    },
+    {
+      "keyName": "Break Through The Barrier",
+      "multiLanguageTitle": {
+        "code": "",
+        "chinese": "",
+        "chineseTraditional": "",
+        "english": "",
+        "japanese": "",
+        "korean": ""
+      },
+      "kindOfKey": 2,
+      "unlockTimes": 1,
+      "getSong": -10028,
+      "getType": -1,
+      "getPower": 30,
+      "getInfo1": "",
+      "getInfo2": "",
+      "getInfo3": ""
+    },
+    {
+      "keyName": "Chronostasis",
+      "multiLanguageTitle": {
+        "code": "",
+        "chinese": "",
+        "chineseTraditional": "",
+        "english": "",
+        "japanese": "",
+        "korean": ""
+      },
+      "kindOfKey": 2,
+      "unlockTimes": 1,
+      "getSong": -10029,
+      "getType": -1,
+      "getPower": 30,
+      "getInfo1": "",
+      "getInfo2": "",
+      "getInfo3": ""
+    },
+    {
+      "keyName": "Dead Soul",
+      "multiLanguageTitle": {
+        "code": "",
+        "chinese": "",
+        "chineseTraditional": "",
+        "english": "",
+        "japanese": "",
+        "korean": ""
+      },
+      "kindOfKey": 2,
+      "unlockTimes": 1,
+      "getSong": -10030,
+      "getType": -1,
+      "getPower": 30,
+      "getInfo1": "",
+      "getInfo2": "",
+      "getInfo3": ""
+    },
+    {
+      "keyName": "Infinity Heaven",
+      "multiLanguageTitle": {
+        "code": "",
+        "chinese": "",
+        "chineseTraditional": "",
+        "english": "",
+        "japanese": "",
+        "korean": ""
+      },
+      "kindOfKey": 2,
+      "unlockTimes": 1,
+      "getSong": -10031,
+      "getType": -1,
+      "getPower": 30,
+      "getInfo1": "",
+      "getInfo2": "",
+      "getInfo3": ""
+    },
+    {
+      "keyName": "Disorder",
+      "multiLanguageTitle": {
+        "code": "",
+        "chinese": "",
+        "chineseTraditional": "",
+        "english": "",
+        "japanese": "",
+        "korean": ""
+      },
+      "kindOfKey": 2,
+      "unlockTimes": 1,
+      "getSong": -10032,
+      "getType": -1,
+      "getPower": 30,
+      "getInfo1": "",
+      "getInfo2": "",
+      "getInfo3": ""
+    },
+    {
+      "keyName": "CROSS†SOUL",
+      "multiLanguageTitle": {
+        "code": "",
+        "chinese": "",
+        "chineseTraditional": "",
+        "english": "",
+        "japanese": "",
+        "korean": ""
+      },
+      "kindOfKey": 2,
+      "unlockTimes": 1,
+      "getSong": -10033,
+      "getType": -1,
+      "getPower": 30,
+      "getInfo1": "",
+      "getInfo2": "",
+      "getInfo3": ""
+    },
+    {
+      "keyName": "Speed Up!",
+      "multiLanguageTitle": {
+        "code": "",
+        "chinese": "",
+        "chineseTraditional": "",
+        "english": "",
+        "japanese": "",
+        "korean": ""
+      },
+      "kindOfKey": 2,
+      "unlockTimes": 1,
+      "getSong": -10034,
+      "getType": -1,
+      "getPower": 30,
+      "getInfo1": "",
+      "getInfo2": "",
+      "getInfo3": ""
+    },
+    {
+      "keyName": "Magenta Potion",
+      "multiLanguageTitle": {
+        "code": "",
+        "chinese": "",
+        "chineseTraditional": "",
+        "english": "",
+        "japanese": "",
+        "korean": ""
+      },
+      "kindOfKey": 2,
+      "unlockTimes": 1,
+      "getSong": -10035,
+      "getType": -1,
+      "getPower": 30,
+      "getInfo1": "",
+      "getInfo2": "",
+      "getInfo3": ""
+    },
+    {
+      "keyName": "Get Back",
+      "multiLanguageTitle": {
+        "code": "",
+        "chinese": "",
+        "chineseTraditional": "",
+        "english": "",
+        "japanese": "",
+        "korean": ""
+      },
+      "kindOfKey": 2,
+      "unlockTimes": 1,
+      "getSong": -10036,
+      "getType": -1,
+      "getPower": 30,
+      "getInfo1": "",
+      "getInfo2": "",
+      "getInfo3": ""
+    },
+    {
+      "keyName": "Palescreen",
+      "multiLanguageTitle": {
+        "code": "",
+        "chinese": "",
+        "chineseTraditional": "",
+        "english": "",
+        "japanese": "",
+        "korean": ""
+      },
+      "kindOfKey": 2,
+      "unlockTimes": 1,
+      "getSong": -10037,
+      "getType": -1,
+      "getPower": 30,
+      "getInfo1": "",
+      "getInfo2": "",
+      "getInfo3": ""
+    },
+    {
+      "keyName": "GOODTEK",
+      "multiLanguageTitle": {
+        "code": "",
+        "chinese": "",
+        "chineseTraditional": "",
+        "english": "",
+        "japanese": "",
+        "korean": ""
+      },
+      "kindOfKey": 2,
+      "unlockTimes": 1,
+      "getSong": -10038,
+      "getType": -1,
+      "getPower": 30,
+      "getInfo1": "",
+      "getInfo2": "",
+      "getInfo3": ""
+    },
+    {
+      "keyName": "GOODBOUNCE",
+      "multiLanguageTitle": {
+        "code": "",
+        "chinese": "",
+        "chineseTraditional": "",
+        "english": "",
+        "japanese": "",
+        "korean": ""
+      },
+      "kindOfKey": 2,
+      "unlockTimes": 1,
+      "getSong": -10039,
+      "getType": -1,
+      "getPower": 30,
+      "getInfo1": "",
+      "getInfo2": "",
+      "getInfo3": ""
+    },
+    {
+      "keyName": "GOODWORLD",
+      "multiLanguageTitle": {
+        "code": "",
+        "chinese": "",
+        "chineseTraditional": "",
+        "english": "",
+        "japanese": "",
+        "korean": ""
+      },
+      "kindOfKey": 2,
+      "unlockTimes": 1,
+      "getSong": -10040,
+      "getType": -1,
+      "getPower": 30,
+      "getInfo1": "",
+      "getInfo2": "",
+      "getInfo3": ""
+    },
+    {
+      "keyName": "GOODFORTUNE",
+      "multiLanguageTitle": {
+        "code": "",
+        "chinese": "",
+        "chineseTraditional": "",
+        "english": "",
+        "japanese": "",
+        "korean": ""
+      },
+      "kindOfKey": 2,
+      "unlockTimes": 1,
+      "getSong": -10041,
+      "getType": -1,
+      "getPower": 30,
+      "getInfo1": "",
+      "getInfo2": "",
+      "getInfo3": ""
+    },
+    {
+      "keyName": "GOODRAGE",
+      "multiLanguageTitle": {
+        "code": "",
+        "chinese": "",
+        "chineseTraditional": "",
+        "english": "",
+        "japanese": "",
+        "korean": ""
+      },
+      "kindOfKey": 2,
+      "unlockTimes": 1,
+      "getSong": -10042,
+      "getType": -1,
+      "getPower": 30,
+      "getInfo1": "",
+      "getInfo2": "",
+      "getInfo3": ""
+    },
+    {
+      "keyName": "The Mountain Eater",
+      "multiLanguageTitle": {
+        "code": "",
+        "chinese": "",
+        "chineseTraditional": "",
+        "english": "",
+        "japanese": "",
+        "korean": ""
+      },
+      "kindOfKey": 2,
+      "unlockTimes": 1,
+      "getSong": -10043,
+      "getType": -1,
+      "getPower": 30,
+      "getInfo1": "",
+      "getInfo2": "",
+      "getInfo3": ""
+    },
+    {
+      "keyName": "Orthodox",
+      "multiLanguageTitle": {
+        "code": "",
+        "chinese": "",
+        "chineseTraditional": "",
+        "english": "",
+        "japanese": "",
+        "korean": ""
+      },
+      "kindOfKey": 2,
+      "unlockTimes": 1,
+      "getSong": -10044,
+      "getType": -1,
+      "getPower": 30,
+      "getInfo1": "",
+      "getInfo2": "",
+      "getInfo3": ""
+    },
+    {
+      "keyName": "End Me",
+      "multiLanguageTitle": {
+        "code": "",
+        "chinese": "",
+        "chineseTraditional": "",
+        "english": "",
+        "japanese": "",
+        "korean": ""
+      },
+      "kindOfKey": 2,
+      "unlockTimes": 1,
+      "getSong": -10045,
+      "getType": -1,
+      "getPower": 30,
+      "getInfo1": "",
+      "getInfo2": "",
+      "getInfo3": ""
+    },
+    {
+      "keyName": "Parallel Retrogression(Game Ver.)",
+      "multiLanguageTitle": {
+        "code": "",
+        "chinese": "",
+        "chineseTraditional": "",
+        "english": "",
+        "japanese": "",
+        "korean": ""
+      },
+      "kindOfKey": 2,
+      "unlockTimes": 1,
+      "getSong": -10046,
+      "getType": -1,
+      "getPower": 30,
+      "getInfo1": "",
+      "getInfo2": "",
+      "getInfo3": ""
+    },
+    {
+      "keyName": "Starduster",
+      "multiLanguageTitle": {
+        "code": "",
+        "chinese": "",
+        "chineseTraditional": "",
+        "english": "",
+        "japanese": "",
+        "korean": ""
+      },
+      "kindOfKey": 2,
+      "unlockTimes": 1,
+      "getSong": -10047,
+      "getType": -1,
+      "getPower": 30,
+      "getInfo1": "",
+      "getInfo2": "",
+      "getInfo3": ""
+    },
+    {
+      "keyName": "Electron",
+      "multiLanguageTitle": {
+        "code": "",
+        "chinese": "",
+        "chineseTraditional": "",
+        "english": "",
+        "japanese": "",
+        "korean": ""
+      },
+      "kindOfKey": 2,
+      "unlockTimes": 1,
+      "getSong": -10048,
+      "getType": -1,
+      "getPower": 30,
+      "getInfo1": "",
+      "getInfo2": "",
+      "getInfo3": ""
+    },
+    {
+      "keyName": "SIGMA",
+      "multiLanguageTitle": {
+        "code": "",
+        "chinese": "",
+        "chineseTraditional": "",
+        "english": "",
+        "japanese": "",
+        "korean": ""
+      },
+      "kindOfKey": 2,
+      "unlockTimes": 1,
+      "getSong": -10049,
+      "getType": -1,
+      "getPower": 30,
+      "getInfo1": "",
+      "getInfo2": "",
+      "getInfo3": ""
+    },
+    {
+      "keyName": "Hardcore Kwaya",
+      "multiLanguageTitle": {
+        "code": "",
+        "chinese": "",
+        "chineseTraditional": "",
+        "english": "",
+        "japanese": "",
+        "korean": ""
+      },
+      "kindOfKey": 2,
+      "unlockTimes": 1,
+      "getSong": -10050,
+      "getType": -1,
+      "getPower": 30,
+      "getInfo1": "",
+      "getInfo2": "",
+      "getInfo3": ""
+    },
+    {
+      "keyName": "Aventyr",
+      "multiLanguageTitle": {
+        "code": "",
+        "chinese": "",
+        "chineseTraditional": "",
+        "english": "",
+        "japanese": "",
+        "korean": ""
+      },
+      "kindOfKey": 2,
+      "unlockTimes": 1,
+      "getSong": -10051,
+      "getType": -1,
+      "getPower": 30,
+      "getInfo1": "",
+      "getInfo2": "",
+      "getInfo3": ""
+    },
+    {
+      "keyName": "Trane",
+      "multiLanguageTitle": {
+        "code": "",
+        "chinese": "",
+        "chineseTraditional": "",
+        "english": "",
+        "japanese": "",
+        "korean": ""
+      },
+      "kindOfKey": 2,
+      "unlockTimes": 1,
+      "getSong": -10052,
+      "getType": -1,
+      "getPower": 30,
+      "getInfo1": "",
+      "getInfo2": "",
+      "getInfo3": ""
+    },
+    {
+      "keyName": "雪降り、メリクリ",
+      "multiLanguageTitle": {
+        "code": "",
+        "chinese": "",
+        "chineseTraditional": "",
+        "english": "",
+        "japanese": "",
+        "korean": ""
+      },
+      "kindOfKey": 2,
+      "unlockTimes": 1,
+      "getSong": -10053,
+      "getType": -1,
+      "getPower": 30,
+      "getInfo1": "",
+      "getInfo2": "",
+      "getInfo3": ""
+    },
+    {
+      "keyName": "Cervelle Connexion",
+      "multiLanguageTitle": {
+        "code": "",
+        "chinese": "",
+        "chineseTraditional": "",
+        "english": "",
+        "japanese": "",
+        "korean": ""
+      },
+      "kindOfKey": 2,
+      "unlockTimes": 1,
+      "getSong": -10054,
+      "getType": -1,
+      "getPower": 30,
+      "getInfo1": "",
+      "getInfo2": "",
+      "getInfo3": ""
+    },
+    {
+      "keyName": "modulus",
+      "multiLanguageTitle": {
+        "code": "",
+        "chinese": "",
+        "chineseTraditional": "",
+        "english": "",
+        "japanese": "",
+        "korean": ""
+      },
+      "kindOfKey": 2,
+      "unlockTimes": 1,
+      "getSong": -10055,
+      "getType": -1,
+      "getPower": 30,
+      "getInfo1": "",
+      "getInfo2": "",
+      "getInfo3": ""
+    },
+    {
+      "keyName": "Shadow",
+      "multiLanguageTitle": {
+        "code": "",
+        "chinese": "",
+        "chineseTraditional": "",
+        "english": "",
+        "japanese": "",
+        "korean": ""
+      },
+      "kindOfKey": 2,
+      "unlockTimes": 1,
+      "getSong": -10056,
+      "getType": -1,
+      "getPower": 30,
+      "getInfo1": "",
+      "getInfo2": "",
+      "getInfo3": ""
+    },
+    {
+      "keyName": "Wavetapper",
+      "multiLanguageTitle": {
+        "code": "",
+        "chinese": "",
+        "chineseTraditional": "",
+        "english": "",
+        "japanese": "",
+        "korean": ""
+      },
+      "kindOfKey": 2,
+      "unlockTimes": 1,
+      "getSong": -10057,
+      "getType": -1,
+      "getPower": 30,
+      "getInfo1": "",
+      "getInfo2": "",
+      "getInfo3": ""
+    },
+    {
+      "keyName": "大和撫子 -Wild Dances-",
+      "multiLanguageTitle": {
+        "code": "",
+        "chinese": "",
+        "chineseTraditional": "",
+        "english": "",
+        "japanese": "",
+        "korean": ""
+      },
+      "kindOfKey": 2,
+      "unlockTimes": 1,
+      "getSong": -10058,
+      "getType": -1,
+      "getPower": 30,
+      "getInfo1": "",
+      "getInfo2": "",
+      "getInfo3": ""
+    },
+    {
+      "keyName": "Eltaw",
+      "multiLanguageTitle": {
+        "code": "",
+        "chinese": "",
+        "chineseTraditional": "",
+        "english": "",
+        "japanese": "",
+        "korean": ""
+      },
+      "kindOfKey": 2,
+      "unlockTimes": 1,
+      "getSong": -10059,
+      "getType": -1,
+      "getPower": 30,
+      "getInfo1": "",
+      "getInfo2": "",
+      "getInfo3": ""
+    },
+    {
+      "keyName": "Initialize",
+      "multiLanguageTitle": {
+        "code": "",
+        "chinese": "",
+        "chineseTraditional": "",
+        "english": "",
+        "japanese": "",
+        "korean": ""
+      },
+      "kindOfKey": 2,
+      "unlockTimes": 1,
+      "getSong": -10060,
+      "getType": -1,
+      "getPower": 30,
+      "getInfo1": "",
+      "getInfo2": "",
+      "getInfo3": ""
+    },
+    {
+      "keyName": "桜樹街道",
+      "multiLanguageTitle": {
+        "code": "",
+        "chinese": "",
+        "chineseTraditional": "",
+        "english": "",
+        "japanese": "",
+        "korean": ""
+      },
+      "kindOfKey": 2,
+      "unlockTimes": 1,
+      "getSong": -10061,
+      "getType": -1,
+      "getPower": 30,
+      "getInfo1": "",
+      "getInfo2": "",
+      "getInfo3": ""
+    },
+    {
+      "keyName": "Get Ready!! ",
+      "multiLanguageTitle": {
+        "code": "",
+        "chinese": "",
+        "chineseTraditional": "",
+        "english": "",
+        "japanese": "",
+        "korean": ""
+      },
+      "kindOfKey": 2,
+      "unlockTimes": 1,
+      "getSong": -10062,
+      "getType": -1,
+      "getPower": 30,
+      "getInfo1": "",
+      "getInfo2": "",
+      "getInfo3": ""
+    },
+    {
+      "keyName": "volcanic",
+      "multiLanguageTitle": {
+        "code": "",
+        "chinese": "",
+        "chineseTraditional": "",
+        "english": "",
+        "japanese": "",
+        "korean": ""
+      },
+      "kindOfKey": 2,
+      "unlockTimes": 1,
+      "getSong": -10063,
+      "getType": -1,
+      "getPower": 30,
+      "getInfo1": "",
+      "getInfo2": "",
+      "getInfo3": ""
+    },
+    {
+      "keyName": "Better Graphic Animation",
+      "multiLanguageTitle": {
+        "code": "",
+        "chinese": "",
+        "chineseTraditional": "",
+        "english": "",
+        "japanese": "",
+        "korean": ""
+      },
+      "kindOfKey": 2,
+      "unlockTimes": 1,
+      "getSong": -10064,
+      "getType": -1,
+      "getPower": 30,
+      "getInfo1": "",
+      "getInfo2": "",
+      "getInfo3": ""
+    },
+    {
+      "keyName": "XING",
+      "multiLanguageTitle": {
+        "code": "",
+        "chinese": "",
+        "chineseTraditional": "",
+        "english": "",
+        "japanese": "",
+        "korean": ""
+      },
+      "kindOfKey": 2,
+      "unlockTimes": 1,
+      "getSong": -10065,
+      "getType": -1,
+      "getPower": 30,
+      "getInfo1": "",
+      "getInfo2": "",
+      "getInfo3": ""
+    },
+    {
+      "keyName": "Final Step!",
+      "multiLanguageTitle": {
+        "code": "",
+        "chinese": "",
+        "chineseTraditional": "",
+        "english": "",
+        "japanese": "",
+        "korean": ""
+      },
+      "kindOfKey": 2,
+      "unlockTimes": 1,
+      "getSong": -10066,
+      "getType": -1,
+      "getPower": 30,
+      "getInfo1": "",
+      "getInfo2": "",
+      "getInfo3": ""
+    },
+    {
+      "keyName": "Cthugha",
+      "multiLanguageTitle": {
+        "code": "",
+        "chinese": "",
+        "chineseTraditional": "",
+        "english": "",
+        "japanese": "",
+        "korean": ""
+      },
+      "kindOfKey": 2,
+      "unlockTimes": 1,
+      "getSong": -10067,
+      "getType": -1,
+      "getPower": 30,
+      "getInfo1": "",
+      "getInfo2": "",
+      "getInfo3": ""
+    },
+    {
+      "keyName": "With You",
+      "multiLanguageTitle": {
+        "code": "",
+        "chinese": "",
+        "chineseTraditional": "",
+        "english": "",
+        "japanese": "",
+        "korean": ""
+      },
+      "kindOfKey": 2,
+      "unlockTimes": 1,
+      "getSong": -10068,
+      "getType": -1,
+      "getPower": 30,
+      "getInfo1": "",
+      "getInfo2": "",
+      "getInfo3": ""
+    },
+    {
+      "keyName": "Unorthodox Thoughts",
+      "multiLanguageTitle": {
+        "code": "",
+        "chinese": "",
+        "chineseTraditional": "",
+        "english": "",
+        "japanese": "",
+        "korean": ""
+      },
+      "kindOfKey": 2,
+      "unlockTimes": 1,
+      "getSong": -10069,
+      "getType": -1,
+      "getPower": 30,
+      "getInfo1": "",
+      "getInfo2": "",
+      "getInfo3": ""
+    },
+    {
+      "keyName": "Apocalyptic",
+      "multiLanguageTitle": {
+        "code": "",
+        "chinese": "",
+        "chineseTraditional": "",
+        "english": "",
+        "japanese": "",
+        "korean": ""
+      },
+      "kindOfKey": 2,
+      "unlockTimes": 1,
+      "getSong": -10070,
+      "getType": -1,
+      "getPower": 30,
+      "getInfo1": "",
+      "getInfo2": "",
+      "getInfo3": ""
+    },
+    {
+      "keyName": "游园地",
+      "multiLanguageTitle": {
+        "code": "",
+        "chinese": "",
+        "chineseTraditional": "",
+        "english": "",
+        "japanese": "",
+        "korean": ""
+      },
+      "kindOfKey": 2,
+      "unlockTimes": 1,
+      "getSong": -10071,
+      "getType": -1,
+      "getPower": 30,
+      "getInfo1": "",
+      "getInfo2": "",
+      "getInfo3": ""
+    },
+    {
+      "keyName": "energy trixxx",
+      "multiLanguageTitle": {
+        "code": "",
+        "chinese": "",
+        "chineseTraditional": "",
+        "english": "",
+        "japanese": "",
+        "korean": ""
+      },
+      "kindOfKey": 2,
+      "unlockTimes": 1,
+      "getSong": -10072,
+      "getType": -1,
+      "getPower": 30,
+      "getInfo1": "",
+      "getInfo2": "",
+      "getInfo3": ""
+    },
+    {
+      "keyName": "Nhelv",
+      "multiLanguageTitle": {
+        "code": "",
+        "chinese": "",
+        "chineseTraditional": "",
+        "english": "",
+        "japanese": "",
+        "korean": ""
+      },
+      "kindOfKey": 2,
+      "unlockTimes": 1,
+      "getSong": -10073,
+      "getType": -1,
+      "getPower": 30,
+      "getInfo1": "",
+      "getInfo2": "",
+      "getInfo3": ""
+    },
+    {
+      "keyName": "-Arkhei-",
+      "multiLanguageTitle": {
+        "code": "",
+        "chinese": "",
+        "chineseTraditional": "",
+        "english": "",
+        "japanese": "",
+        "korean": ""
+      },
+      "kindOfKey": 2,
+      "unlockTimes": 1,
+      "getSong": -10074,
+      "getType": -1,
+      "getPower": 30,
+      "getInfo1": "",
+      "getInfo2": "",
+      "getInfo3": ""
+    },
+    {
+      "keyName": "Kerberos",
+      "multiLanguageTitle": {
+        "code": "",
+        "chinese": "",
+        "chineseTraditional": "",
+        "english": "",
+        "japanese": "",
+        "korean": ""
+      },
+      "kindOfKey": 2,
+      "unlockTimes": 1,
+      "getSong": -10075,
+      "getType": -1,
+      "getPower": 30,
+      "getInfo1": "",
+      "getInfo2": "",
+      "getInfo3": ""
+    },
+    {
+      "keyName": "ρars/ey",
+      "multiLanguageTitle": {
+        "code": "",
+        "chinese": "",
+        "chineseTraditional": "",
+        "english": "",
+        "japanese": "",
+        "korean": ""
+      },
+      "kindOfKey": 2,
+      "unlockTimes": 1,
+      "getSong": -10076,
+      "getType": -1,
+      "getPower": 30,
+      "getInfo1": "",
+      "getInfo2": "",
+      "getInfo3": ""
+    },
+    {
+      "keyName": "Concvssion",
+      "multiLanguageTitle": {
+        "code": "",
+        "chinese": "",
+        "chineseTraditional": "",
+        "english": "",
+        "japanese": "",
+        "korean": ""
+      },
+      "kindOfKey": 2,
+      "unlockTimes": 1,
+      "getSong": -10077,
+      "getType": -1,
+      "getPower": 30,
+      "getInfo1": "",
+      "getInfo2": "",
+      "getInfo3": ""
+    },
+    {
+      "keyName": "ジングルベル(Jingle Bell)",
+      "multiLanguageTitle": {
+        "code": "",
+        "chinese": "",
+        "chineseTraditional": "",
+        "english": "",
+        "japanese": "",
+        "korean": ""
+      },
+      "kindOfKey": 2,
+      "unlockTimes": 1,
+      "getSong": -10078,
+      "getType": -1,
+      "getPower": 30,
+      "getInfo1": "",
+      "getInfo2": "",
+      "getInfo3": ""
+    },
+    {
+      "keyName": "Time to Night Sky (feat. Lee Yu Jin)",
+      "multiLanguageTitle": {
+        "code": "",
+        "chinese": "",
+        "chineseTraditional": "",
+        "english": "",
+        "japanese": "",
+        "korean": ""
+      },
+      "kindOfKey": 2,
+      "unlockTimes": 1,
+      "getSong": -10079,
+      "getType": -1,
+      "getPower": 30,
+      "getInfo1": "",
+      "getInfo2": "",
+      "getInfo3": ""
+    },
+    {
+      "keyName": "HAZARD",
+      "multiLanguageTitle": {
+        "code": "",
+        "chinese": "",
+        "chineseTraditional": "",
+        "english": "",
+        "japanese": "",
+        "korean": ""
+      },
+      "kindOfKey": 2,
+      "unlockTimes": 1,
+      "getSong": -10080,
+      "getType": -1,
+      "getPower": 30,
+      "getInfo1": "",
+      "getInfo2": "",
+      "getInfo3": ""
+    },
+    {
+      "keyName": "Don't Never Around",
+      "multiLanguageTitle": {
+        "code": "",
+        "chinese": "",
+        "chineseTraditional": "",
+        "english": "",
+        "japanese": "",
+        "korean": ""
+      },
+      "kindOfKey": 2,
+      "unlockTimes": 1,
+      "getSong": -10082,
+      "getType": -1,
+      "getPower": 30,
+      "getInfo1": "",
+      "getInfo2": "",
+      "getInfo3": ""
+    },
+    {
+      "keyName": "RESSiSTANCE",
+      "multiLanguageTitle": {
+        "code": "",
+        "chinese": "",
+        "chineseTraditional": "",
+        "english": "",
+        "japanese": "",
+        "korean": ""
+      },
+      "kindOfKey": 2,
+      "unlockTimes": 1,
+      "getSong": -10083,
+      "getType": -1,
+      "getPower": 30,
+      "getInfo1": "",
+      "getInfo2": "",
+      "getInfo3": ""
+    },
+    {
+      "keyName": "Ποσειδών",
+      "multiLanguageTitle": {
+        "code": "",
+        "chinese": "",
+        "chineseTraditional": "",
+        "english": "",
+        "japanese": "",
+        "korean": ""
+      },
+      "kindOfKey": 2,
+      "unlockTimes": 1,
+      "getSong": -20001,
+      "getType": -1,
+      "getPower": 30,
+      "getInfo1": "",
+      "getInfo2": "",
+      "getInfo3": ""
+    },
+    {
+      "keyName": "WATER",
+      "multiLanguageTitle": {
+        "code": "",
+        "chinese": "",
+        "chineseTraditional": "",
+        "english": "",
+        "japanese": "",
+        "korean": ""
+      },
+      "kindOfKey": 2,
+      "unlockTimes": 1,
+      "getSong": -20002,
+      "getType": -1,
+      "getPower": 30,
+      "getInfo1": "",
+      "getInfo2": "",
+      "getInfo3": ""
+    },
+    {
+      "keyName": "Miracle Forest (VIP Mix)",
+      "multiLanguageTitle": {
+        "code": "",
+        "chinese": "",
+        "chineseTraditional": "",
+        "english": "",
+        "japanese": "",
+        "korean": ""
+      },
+      "kindOfKey": 2,
+      "unlockTimes": 1,
+      "getSong": -20003,
+      "getType": -1,
+      "getPower": 30,
+      "getInfo1": "",
+      "getInfo2": "",
+      "getInfo3": ""
+    },
+    {
+      "keyName": "MOBILYS",
+      "multiLanguageTitle": {
+        "code": "",
+        "chinese": "",
+        "chineseTraditional": "",
+        "english": "",
+        "japanese": "",
+        "korean": ""
+      },
+      "kindOfKey": 2,
+      "unlockTimes": 1,
+      "getSong": -20004,
+      "getType": -1,
+      "getPower": 30,
+      "getInfo1": "",
+      "getInfo2": "",
+      "getInfo3": ""
+    },
+    {
+      "keyName": "Lyrith -迷宮リリス-",
+      "multiLanguageTitle": {
+        "code": "",
+        "chinese": "",
+        "chineseTraditional": "",
+        "english": "",
+        "japanese": "",
+        "korean": ""
+      },
+      "kindOfKey": 2,
+      "unlockTimes": 1,
+      "getSong": -20005,
+      "getType": -1,
+      "getPower": 30,
+      "getInfo1": "",
+      "getInfo2": "",
+      "getInfo3": ""
+    },
+    {
+      "keyName": "Introduction",
+      "multiLanguageTitle": {
+        "code": "",
+        "chinese": "",
+        "chineseTraditional": "",
+        "english": "",
+        "japanese": "",
+        "korean": ""
+      },
+      "kindOfKey": 2,
+      "unlockTimes": 1,
+      "getSong": -30001,
+      "getType": -1,
+      "getPower": 1,
+      "getInfo1": "",
+      "getInfo2": "",
+      "getInfo3": ""
+    },
+    {
+      "keyName": "Introduction",
+      "multiLanguageTitle": {
+        "code": "",
+        "chinese": "",
+        "chineseTraditional": "",
+        "english": "",
+        "japanese": "",
+        "korean": ""
+      },
+      "kindOfKey": 2,
+      "unlockTimes": 1,
+      "getSong": -30001,
+      "getType": -1,
+      "getPower": 30,
+      "getInfo1": "",
+      "getInfo2": "",
+      "getInfo3": ""
+    },
+    {
+      "keyName": "Introduction",
+      "multiLanguageTitle": {
+        "code": "",
+        "chinese": "",
+        "chineseTraditional": "",
+        "english": "",
+        "japanese": "",
+        "korean": ""
+      },
+      "kindOfKey": 3,
+      "unlockTimes": 1,
+      "getSong": 0,
+      "getType": -1,
+      "getPower": 1,
+      "getInfo1": "",
+      "getInfo2": "",
+      "getInfo3": ""
+    },
+    {
+      "keyName": "Glaciaxion",
+      "multiLanguageTitle": {
+        "code": "",
+        "chinese": "",
+        "chineseTraditional": "",
+        "english": "",
+        "japanese": "",
+        "korean": ""
+      },
+      "kindOfKey": 3,
+      "unlockTimes": 1,
+      "getSong": -1,
+      "getType": -1,
+      "getPower": 10,
+      "getInfo1": "",
+      "getInfo2": "",
+      "getInfo3": ""
+    },
+    {
+      "keyName": "Eradication Catastrophe",
+      "multiLanguageTitle": {
+        "code": "",
+        "chinese": "",
+        "chineseTraditional": "",
+        "english": "",
+        "japanese": "",
+        "korean": ""
+      },
+      "kindOfKey": 3,
+      "unlockTimes": 1,
+      "getSong": -2,
+      "getType": -1,
+      "getPower": 10,
+      "getInfo1": "",
+      "getInfo2": "",
+      "getInfo3": ""
+    },
+    {
+      "keyName": "Credits",
+      "multiLanguageTitle": {
+        "code": "",
+        "chinese": "",
+        "chineseTraditional": "",
+        "english": "",
+        "japanese": "",
+        "korean": ""
+      },
+      "kindOfKey": 3,
+      "unlockTimes": 1,
+      "getSong": -3,
+      "getType": -1,
+      "getPower": 10,
+      "getInfo1": "",
+      "getInfo2": "",
+      "getInfo3": ""
+    },
+    {
+      "keyName": "Dlyrotz",
+      "multiLanguageTitle": {
+        "code": "",
+        "chinese": "",
+        "chineseTraditional": "",
+        "english": "",
+        "japanese": "",
+        "korean": ""
+      },
+      "kindOfKey": 3,
+      "unlockTimes": 1,
+      "getSong": -4,
+      "getType": -1,
+      "getPower": 10,
+      "getInfo1": "",
+      "getInfo2": "",
+      "getInfo3": ""
+    },
+    {
+      "keyName": "Engine x Start!! (melody mix)",
+      "multiLanguageTitle": {
+        "code": "",
+        "chinese": "",
+        "chineseTraditional": "",
+        "english": "",
+        "japanese": "",
+        "korean": ""
+      },
+      "kindOfKey": 3,
+      "unlockTimes": 1,
+      "getSong": -5,
+      "getType": -1,
+      "getPower": 5,
+      "getInfo1": "",
+      "getInfo2": "",
+      "getInfo3": ""
+    },
+    {
+      "keyName": "光",
+      "multiLanguageTitle": {
+        "code": "",
+        "chinese": "",
+        "chineseTraditional": "",
+        "english": "",
+        "japanese": "",
+        "korean": ""
+      },
+      "kindOfKey": 3,
+      "unlockTimes": 1,
+      "getSong": -6,
+      "getType": -1,
+      "getPower": 10,
+      "getInfo1": "",
+      "getInfo2": "",
+      "getInfo3": ""
+    },
+    {
+      "keyName": "Winter ↑cube↓",
+      "multiLanguageTitle": {
+        "code": "",
+        "chinese": "",
+        "chineseTraditional": "",
+        "english": "",
+        "japanese": "",
+        "korean": ""
+      },
+      "kindOfKey": 3,
+      "unlockTimes": 1,
+      "getSong": -7,
+      "getType": -1,
+      "getPower": 10,
+      "getInfo1": "",
+      "getInfo2": "",
+      "getInfo3": ""
+    },
+    {
+      "keyName": "Cipher : /2&//<|0",
+      "multiLanguageTitle": {
+        "code": "",
+        "chinese": "",
+        "chineseTraditional": "",
+        "english": "",
+        "japanese": "",
+        "korean": ""
+      },
+      "kindOfKey": 3,
+      "unlockTimes": 1,
+      "getSong": -8,
+      "getType": -1,
+      "getPower": 10,
+      "getInfo1": "",
+      "getInfo2": "",
+      "getInfo3": ""
+    },
+    {
+      "keyName": "混乱-Confusion",
+      "multiLanguageTitle": {
+        "code": "",
+        "chinese": "",
+        "chineseTraditional": "",
+        "english": "",
+        "japanese": "",
+        "korean": ""
+      },
+      "kindOfKey": 3,
+      "unlockTimes": 1,
+      "getSong": -9,
+      "getType": -1,
+      "getPower": 10,
+      "getInfo1": "",
+      "getInfo2": "",
+      "getInfo3": ""
+    },
+    {
+      "keyName": "FULi AUTO SHOOTER",
+      "multiLanguageTitle": {
+        "code": "",
+        "chinese": "",
+        "chineseTraditional": "",
+        "english": "",
+        "japanese": "",
+        "korean": ""
+      },
+      "kindOfKey": 3,
+      "unlockTimes": 1,
+      "getSong": -10,
+      "getType": -1,
+      "getPower": 5,
+      "getInfo1": "",
+      "getInfo2": "",
+      "getInfo3": ""
+    },
+    {
+      "keyName": "HumaN",
+      "multiLanguageTitle": {
+        "code": "",
+        "chinese": "",
+        "chineseTraditional": "",
+        "english": "",
+        "japanese": "",
+        "korean": ""
+      },
+      "kindOfKey": 3,
+      "unlockTimes": 1,
+      "getSong": -11,
+      "getType": -1,
+      "getPower": 10,
+      "getInfo1": "",
+      "getInfo2": "",
+      "getInfo3": ""
+    },
+    {
+      "keyName": "[PRAW]",
+      "multiLanguageTitle": {
+        "code": "",
+        "chinese": "",
+        "chineseTraditional": "",
+        "english": "",
+        "japanese": "",
+        "korean": ""
+      },
+      "kindOfKey": 3,
+      "unlockTimes": 1,
+      "getSong": -12,
+      "getType": -1,
+      "getPower": 10,
+      "getInfo1": "",
+      "getInfo2": "",
+      "getInfo3": ""
+    },
+    {
+      "keyName": "Pixel Rebelz1",
+      "multiLanguageTitle": {
+        "code": "",
+        "chinese": "",
+        "chineseTraditional": "",
+        "english": "",
+        "japanese": "",
+        "korean": ""
+      },
+      "kindOfKey": 3,
+      "unlockTimes": 1,
+      "getSong": -13,
+      "getType": -1,
+      "getPower": 10,
+      "getInfo1": "",
+      "getInfo2": "",
+      "getInfo3": ""
+    },
+    {
+      "keyName": "Pixel Rebelz2",
+      "multiLanguageTitle": {
+        "code": "",
+        "chinese": "",
+        "chineseTraditional": "",
+        "english": "",
+        "japanese": "",
+        "korean": ""
+      },
+      "kindOfKey": 3,
+      "unlockTimes": 1,
+      "getSong": -13,
+      "getType": -1,
+      "getPower": 10,
+      "getInfo1": "",
+      "getInfo2": "",
+      "getInfo3": ""
+    },
+    {
+      "keyName": "Pixel Rebelz3",
+      "multiLanguageTitle": {
+        "code": "",
+        "chinese": "",
+        "chineseTraditional": "",
+        "english": "",
+        "japanese": "",
+        "korean": ""
+      },
+      "kindOfKey": 3,
+      "unlockTimes": 1,
+      "getSong": -13,
+      "getType": -1,
+      "getPower": 10,
+      "getInfo1": "",
+      "getInfo2": "",
+      "getInfo3": ""
+    },
+    {
+      "keyName": "Cereris2",
+      "multiLanguageTitle": {
+        "code": "",
+        "chinese": "",
+        "chineseTraditional": "",
+        "english": "",
+        "japanese": "",
+        "korean": ""
+      },
+      "kindOfKey": 3,
+      "unlockTimes": 1,
+      "getSong": -14,
+      "getType": -1,
+      "getPower": 5,
+      "getInfo1": "",
+      "getInfo2": "",
+      "getInfo3": ""
+    },
+    {
+      "keyName": "Cereris3",
+      "multiLanguageTitle": {
+        "code": "",
+        "chinese": "",
+        "chineseTraditional": "",
+        "english": "",
+        "japanese": "",
+        "korean": ""
+      },
+      "kindOfKey": 3,
+      "unlockTimes": 1,
+      "getSong": -14,
+      "getType": -1,
+      "getPower": 5,
+      "getInfo1": "",
+      "getInfo2": "",
+      "getInfo3": ""
+    },
+    {
+      "keyName": "Cereris1",
+      "multiLanguageTitle": {
+        "code": "",
+        "chinese": "",
+        "chineseTraditional": "",
+        "english": "",
+        "japanese": "",
+        "korean": ""
+      },
+      "kindOfKey": 3,
+      "unlockTimes": 1,
+      "getSong": -14,
+      "getType": -1,
+      "getPower": 10,
+      "getInfo1": "",
+      "getInfo2": "",
+      "getInfo3": ""
+    },
+    {
+      "keyName": "Non-Melodic Ragez (MUG Edit)",
+      "multiLanguageTitle": {
+        "code": "",
+        "chinese": "",
+        "chineseTraditional": "",
+        "english": "",
+        "japanese": "",
+        "korean": ""
+      },
+      "kindOfKey": 3,
+      "unlockTimes": 1,
+      "getSong": -15,
+      "getType": -1,
+      "getPower": 5,
+      "getInfo1": "",
+      "getInfo2": "",
+      "getInfo3": ""
+    },
+    {
+      "keyName": "Sultan Rage",
+      "multiLanguageTitle": {
+        "code": "",
+        "chinese": "",
+        "chineseTraditional": "",
+        "english": "",
+        "japanese": "",
+        "korean": ""
+      },
+      "kindOfKey": 3,
+      "unlockTimes": 1,
+      "getSong": -16,
+      "getType": -1,
+      "getPower": 10,
+      "getInfo1": "",
+      "getInfo2": "",
+      "getInfo3": ""
+    },
+    {
+      "keyName": "Class Memories",
+      "multiLanguageTitle": {
+        "code": "",
+        "chinese": "",
+        "chineseTraditional": "",
+        "english": "",
+        "japanese": "",
+        "korean": ""
+      },
+      "kindOfKey": 3,
+      "unlockTimes": 1,
+      "getSong": -17,
+      "getType": -1,
+      "getPower": 10,
+      "getInfo1": "",
+      "getInfo2": "",
+      "getInfo3": ""
+    },
+    {
+      "keyName": "-SURREALISM-",
+      "multiLanguageTitle": {
+        "code": "",
+        "chinese": "",
+        "chineseTraditional": "",
+        "english": "",
+        "japanese": "",
+        "korean": ""
+      },
+      "kindOfKey": 3,
+      "unlockTimes": 1,
+      "getSong": -18,
+      "getType": -1,
+      "getPower": 10,
+      "getInfo1": "",
+      "getInfo2": "",
+      "getInfo3": ""
+    },
+    {
+      "keyName": "Bonus Time",
+      "multiLanguageTitle": {
+        "code": "",
+        "chinese": "",
+        "chineseTraditional": "",
+        "english": "",
+        "japanese": "",
+        "korean": ""
+      },
+      "kindOfKey": 3,
+      "unlockTimes": 1,
+      "getSong": -19,
+      "getType": -1,
+      "getPower": 10,
+      "getInfo1": "",
+      "getInfo2": "",
+      "getInfo3": ""
+    },
+    {
+      "keyName": "Energy Synergy Matrix1",
+      "multiLanguageTitle": {
+        "code": "",
+        "chinese": "",
+        "chineseTraditional": "",
+        "english": "",
+        "japanese": "",
+        "korean": ""
+      },
+      "kindOfKey": 3,
+      "unlockTimes": 1,
+      "getSong": -20,
+      "getType": -1,
+      "getPower": 5,
+      "getInfo1": "",
+      "getInfo2": "",
+      "getInfo3": ""
+    },
+    {
+      "keyName": "Energy Synergy Matrix3",
+      "multiLanguageTitle": {
+        "code": "",
+        "chinese": "",
+        "chineseTraditional": "",
+        "english": "",
+        "japanese": "",
+        "korean": ""
+      },
+      "kindOfKey": 3,
+      "unlockTimes": 1,
+      "getSong": -20,
+      "getType": -1,
+      "getPower": 5,
+      "getInfo1": "",
+      "getInfo2": "",
+      "getInfo3": ""
+    },
+    {
+      "keyName": "Energy Synergy Matrix2",
+      "multiLanguageTitle": {
+        "code": "",
+        "chinese": "",
+        "chineseTraditional": "",
+        "english": "",
+        "japanese": "",
+        "korean": ""
+      },
+      "kindOfKey": 3,
+      "unlockTimes": 1,
+      "getSong": -20,
+      "getType": -1,
+      "getPower": 10,
+      "getInfo1": "",
+      "getInfo2": "",
+      "getInfo3": ""
+    },
+    {
+      "keyName": "Doppelganger1",
+      "multiLanguageTitle": {
+        "code": "",
+        "chinese": "",
+        "chineseTraditional": "",
+        "english": "",
+        "japanese": "",
+        "korean": ""
+      },
+      "kindOfKey": 3,
+      "unlockTimes": 1,
+      "getSong": -10001,
+      "getType": -1,
+      "getPower": 10,
+      "getInfo1": "",
+      "getInfo2": "",
+      "getInfo3": ""
+    },
+    {
+      "keyName": "Doppelganger2",
+      "multiLanguageTitle": {
+        "code": "",
+        "chinese": "",
+        "chineseTraditional": "",
+        "english": "",
+        "japanese": "",
+        "korean": ""
+      },
+      "kindOfKey": 3,
+      "unlockTimes": 1,
+      "getSong": -10001,
+      "getType": -1,
+      "getPower": 10,
+      "getInfo1": "",
+      "getInfo2": "",
+      "getInfo3": ""
+    },
+    {
+      "keyName": "もぺもぺ2",
+      "multiLanguageTitle": {
+        "code": "",
+        "chinese": "",
+        "chineseTraditional": "",
+        "english": "",
+        "japanese": "",
+        "korean": ""
+      },
+      "kindOfKey": 3,
+      "unlockTimes": 1,
+      "getSong": -10002,
+      "getType": -1,
+      "getPower": 5,
+      "getInfo1": "",
+      "getInfo2": "",
+      "getInfo3": ""
+    },
+    {
+      "keyName": "もぺもぺ1",
+      "multiLanguageTitle": {
+        "code": "",
+        "chinese": "",
+        "chineseTraditional": "",
+        "english": "",
+        "japanese": "",
+        "korean": ""
+      },
+      "kindOfKey": 3,
+      "unlockTimes": 1,
+      "getSong": -10002,
+      "getType": -1,
+      "getPower": 10,
+      "getInfo1": "",
+      "getInfo2": "",
+      "getInfo3": ""
+    },
+    {
+      "keyName": "MARENOL",
+      "multiLanguageTitle": {
+        "code": "",
+        "chinese": "",
+        "chineseTraditional": "",
+        "english": "",
+        "japanese": "",
+        "korean": ""
+      },
+      "kindOfKey": 3,
+      "unlockTimes": 1,
+      "getSong": -10003,
+      "getType": -1,
+      "getPower": 10,
+      "getInfo1": "",
+      "getInfo2": "",
+      "getInfo3": ""
+    },
+    {
+      "keyName": "萤火虫の怨1",
+      "multiLanguageTitle": {
+        "code": "",
+        "chinese": "",
+        "chineseTraditional": "",
+        "english": "",
+        "japanese": "",
+        "korean": ""
+      },
+      "kindOfKey": 3,
+      "unlockTimes": 1,
+      "getSong": -10004,
+      "getType": -1,
+      "getPower": 10,
+      "getInfo1": "",
+      "getInfo2": "",
+      "getInfo3": ""
+    },
+    {
+      "keyName": "萤火虫の怨2",
+      "multiLanguageTitle": {
+        "code": "",
+        "chinese": "",
+        "chineseTraditional": "",
+        "english": "",
+        "japanese": "",
+        "korean": ""
+      },
+      "kindOfKey": 3,
+      "unlockTimes": 1,
+      "getSong": -10004,
+      "getType": -1,
+      "getPower": 10,
+      "getInfo1": "",
+      "getInfo2": "",
+      "getInfo3": ""
+    },
+    {
+      "keyName": "万吨匿名信",
+      "multiLanguageTitle": {
+        "code": "",
+        "chinese": "",
+        "chineseTraditional": "",
+        "english": "",
+        "japanese": "",
+        "korean": ""
+      },
+      "kindOfKey": 3,
+      "unlockTimes": 1,
+      "getSong": -10005,
+      "getType": -1,
+      "getPower": 10,
+      "getInfo1": "",
+      "getInfo2": "",
+      "getInfo3": ""
+    },
+    {
+      "keyName": "风屿",
+      "multiLanguageTitle": {
+        "code": "",
+        "chinese": "",
+        "chineseTraditional": "",
+        "english": "",
+        "japanese": "",
+        "korean": ""
+      },
+      "kindOfKey": 3,
+      "unlockTimes": 1,
+      "getSong": -10006,
+      "getType": -1,
+      "getPower": 10,
+      "getInfo1": "",
+      "getInfo2": "",
+      "getInfo3": ""
+    },
+    {
+      "keyName": "dB doll",
+      "multiLanguageTitle": {
+        "code": "",
+        "chinese": "",
+        "chineseTraditional": "",
+        "english": "",
+        "japanese": "",
+        "korean": ""
+      },
+      "kindOfKey": 3,
+      "unlockTimes": 1,
+      "getSong": -10007,
+      "getType": -1,
+      "getPower": 10,
+      "getInfo1": "",
+      "getInfo2": "",
+      "getInfo3": ""
+    },
+    {
+      "keyName": "Dash",
+      "multiLanguageTitle": {
+        "code": "",
+        "chinese": "",
+        "chineseTraditional": "",
+        "english": "",
+        "japanese": "",
+        "korean": ""
+      },
+      "kindOfKey": 3,
+      "unlockTimes": 1,
+      "getSong": -10008,
+      "getType": -1,
+      "getPower": 10,
+      "getInfo1": "",
+      "getInfo2": "",
+      "getInfo3": ""
+    },
+    {
+      "keyName": "云女孩",
+      "multiLanguageTitle": {
+        "code": "",
+        "chinese": "",
+        "chineseTraditional": "",
+        "english": "",
+        "japanese": "",
+        "korean": ""
+      },
+      "kindOfKey": 3,
+      "unlockTimes": 1,
+      "getSong": -10009,
+      "getType": -1,
+      "getPower": 10,
+      "getInfo1": "",
+      "getInfo2": "",
+      "getInfo3": ""
+    },
+    {
+      "keyName": "Drop It",
+      "multiLanguageTitle": {
+        "code": "",
+        "chinese": "",
+        "chineseTraditional": "",
+        "english": "",
+        "japanese": "",
+        "korean": ""
+      },
+      "kindOfKey": 3,
+      "unlockTimes": 1,
+      "getSong": -10010,
+      "getType": -1,
+      "getPower": 10,
+      "getInfo1": "",
+      "getInfo2": "",
+      "getInfo3": ""
+    },
+    {
+      "keyName": "RIPPER",
+      "multiLanguageTitle": {
+        "code": "",
+        "chinese": "",
+        "chineseTraditional": "",
+        "english": "",
+        "japanese": "",
+        "korean": ""
+      },
+      "kindOfKey": 3,
+      "unlockTimes": 1,
+      "getSong": -10011,
+      "getType": -1,
+      "getPower": 10,
+      "getInfo1": "",
+      "getInfo2": "",
+      "getInfo3": ""
+    },
+    {
+      "keyName": "Aphasia",
+      "multiLanguageTitle": {
+        "code": "",
+        "chinese": "",
+        "chineseTraditional": "",
+        "english": "",
+        "japanese": "",
+        "korean": ""
+      },
+      "kindOfKey": 3,
+      "unlockTimes": 1,
+      "getSong": -10012,
+      "getType": -1,
+      "getPower": 10,
+      "getInfo1": "",
+      "getInfo2": "",
+      "getInfo3": ""
+    },
+    {
+      "keyName": "开心病1",
+      "multiLanguageTitle": {
+        "code": "",
+        "chinese": "",
+        "chineseTraditional": "",
+        "english": "",
+        "japanese": "",
+        "korean": ""
+      },
+      "kindOfKey": 3,
+      "unlockTimes": 1,
+      "getSong": -10013,
+      "getType": -1,
+      "getPower": 10,
+      "getInfo1": "",
+      "getInfo2": "",
+      "getInfo3": ""
+    },
+    {
+      "keyName": "开心病2",
+      "multiLanguageTitle": {
+        "code": "",
+        "chinese": "",
+        "chineseTraditional": "",
+        "english": "",
+        "japanese": "",
+        "korean": ""
+      },
+      "kindOfKey": 3,
+      "unlockTimes": 1,
+      "getSong": -10013,
+      "getType": -1,
+      "getPower": 10,
+      "getInfo1": "",
+      "getInfo2": "",
+      "getInfo3": ""
+    },
+    {
+      "keyName": "華灯爱1",
+      "multiLanguageTitle": {
+        "code": "",
+        "chinese": "",
+        "chineseTraditional": "",
+        "english": "",
+        "japanese": "",
+        "korean": ""
+      },
+      "kindOfKey": 3,
+      "unlockTimes": 1,
+      "getSong": -10014,
+      "getType": -1,
+      "getPower": 10,
+      "getInfo1": "",
+      "getInfo2": "",
+      "getInfo3": ""
+    },
+    {
+      "keyName": "華灯爱2",
+      "multiLanguageTitle": {
+        "code": "",
+        "chinese": "",
+        "chineseTraditional": "",
+        "english": "",
+        "japanese": "",
+        "korean": ""
+      },
+      "kindOfKey": 3,
+      "unlockTimes": 1,
+      "getSong": -10014,
+      "getType": -1,
+      "getPower": 10,
+      "getInfo1": "",
+      "getInfo2": "",
+      "getInfo3": ""
+    }
+  ]
+}
