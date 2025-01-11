@@ -1,7 +1,7 @@
 {
   "m_GameObject": {
     "m_FileID": 0,
-    "m_PathID": 46
+    "m_PathID": 55
   },
   "m_Enabled": 1,
   "m_Script": {
@@ -10,8 +10,8 @@
   },
   "m_Name": "",
   "song": {
-    "m_FileID": 2,
-    "m_PathID": 629
+    "m_FileID": 7,
+    "m_PathID": 17
   },
   "songDrawing": {
     "m_FileID": 0,
@@ -23,16 +23,16 @@
   },
   "chart": [
     {
-      "m_FileID": 2,
-      "m_PathID": 616
+      "m_FileID": 7,
+      "m_PathID": 12
     },
     {
-      "m_FileID": 2,
-      "m_PathID": 617
+      "m_FileID": 7,
+      "m_PathID": 15
     },
     {
-      "m_FileID": 2,
-      "m_PathID": 623
+      "m_FileID": 7,
+      "m_PathID": 11
     },
     {
       "m_FileID": 0,
@@ -40,8 +40,8 @@
     }
   ],
   "songsDifficulty": [
-    "5",
-    "9",
+    "3",
+    "8",
     "13",
     ""
   ],
@@ -51,11 +51,11 @@
     "IN",
     "AT"
   ],
-  "songsname": "華灯爱",
+  "songsname": "JunXion Between Life And Death(VIP Mix)",
   "songsID": "",
-  "music": "闫东炜",
+  "music": "1N6Fs",
   "illustration": "IvyTowers",
-  "noteDesign": "Gausbon",
+  "noteDesign": "鲲&壹佰九十八",
   "specailIllustratior": [
     "",
     "",
@@ -75,11 +75,11 @@
     0,
     0
   ],
-  "previewTime": 82.0,
+  "previewTime": 111.219,
   "stopBeforeBegan": false,
   "lockIcon": {
     "m_FileID": 0,
-    "m_PathID": 17
+    "m_PathID": 24
   },
   "locked": true,
   "isEnable": true,
