@@ -6,7 +6,7 @@
   "m_Enabled": 1,
   "m_Script": {
     "m_FileID": 1,
-    "m_PathID": 2790
+    "m_PathID": 2794
   },
   "m_Name": "",
   "isGameServiceAvailable": true,
@@ -44,18 +44,18 @@
   },
   "sceneSwitchMask": {
     "m_FileID": 0,
-    "m_PathID": 147
+    "m_PathID": 157
   },
   "noteCodes": [],
   "nowChallengeIndex": 0,
   "challengeSongItems": [],
   "moneyControl": {
     "m_FileID": 0,
-    "m_PathID": 125
+    "m_PathID": 134
   },
   "getCollectionControl": {
     "m_FileID": 0,
-    "m_PathID": 126
+    "m_PathID": 135
   },
   "hitFxIsOn": true,
   "offset": 0.0,
@@ -75,29 +75,41 @@
         "banner": "Single",
         "songs": [
           {
-            "songsId": "PoisonANDORAffection.LeaF.0",
+            "songsId": "零號車輛.seatrus.0",
             "unlockType": 1,
             "unlockInfo": [
               "4"
             ],
+            "secretType": 0,
+            "secretInfo": []
+          },
+          {
+            "songsId": "Random.SobremSilentroom.0",
+            "unlockType": 1,
+            "unlockInfo": [
+              "4"
+            ],
+            "secretType": 0,
+            "secretInfo": []
+          },
+          {
+            "songsId": "PoisonANDORAffection.LeaF.0",
+            "unlockType": 1,
+            "unlockInfo": [],
             "secretType": 0,
             "secretInfo": []
           },
           {
             "songsId": "Upshift.Iriss-Frantzz.0",
             "unlockType": 1,
-            "unlockInfo": [
-              "4"
-            ],
+            "unlockInfo": [],
             "secretType": 0,
             "secretInfo": []
           },
           {
             "songsId": "インフェルノシティ.Ponchifeatはぁち.0",
             "unlockType": 1,
-            "unlockInfo": [
-              "4"
-            ],
+            "unlockInfo": [],
             "secretType": 0,
             "secretInfo": []
           },
@@ -8303,7 +8315,7 @@
         "songsName": "游园地",
         "songsTitle": "",
         "difficulty": [
-          2.8,
+          3.0,
           7.5,
           13.2,
           0.0
@@ -11346,6 +11358,130 @@
             "levelMods": []
           }
         ]
+      },
+      {
+        "songsId": "Random.SobremSilentroom.0",
+        "songsKey": "Random",
+        "songsName": "Random",
+        "songsTitle": "",
+        "difficulty": [
+          6.0,
+          11.1,
+          14.7,
+          0.0
+        ],
+        "illustrator": "Harkiadel",
+        "charter": [
+          "Barbarianerman",
+          "IMD_6",
+          "_鉄",
+          ""
+        ],
+        "composer": "Sobrem × Silentroom",
+        "levels": [
+          "EZ",
+          "HD",
+          "IN",
+          "AT"
+        ],
+        "previewTime": 78.0,
+        "unlockInfo": [
+          {
+            "unlockType": 0,
+            "unlockInfo": []
+          },
+          {
+            "unlockType": 0,
+            "unlockInfo": []
+          },
+          {
+            "unlockType": 0,
+            "unlockInfo": []
+          },
+          {
+            "unlockType": 0,
+            "unlockInfo": []
+          }
+        ],
+        "levelMods": [
+          {
+            "levelMods": []
+          },
+          {
+            "levelMods": []
+          },
+          {
+            "levelMods": []
+          },
+          {
+            "levelMods": []
+          },
+          {
+            "levelMods": []
+          }
+        ]
+      },
+      {
+        "songsId": "零號車輛.seatrus.0",
+        "songsKey": "零號車輛",
+        "songsName": "零號車輛",
+        "songsTitle": "",
+        "difficulty": [
+          7.0,
+          12.8,
+          15.8,
+          0.0
+        ],
+        "illustrator": "2AI4wU4",
+        "charter": [
+          "零號宇夜",
+          "壹號阿爽",
+          "Pcat【零】198",
+          ""
+        ],
+        "composer": "seatrus",
+        "levels": [
+          "EZ",
+          "HD",
+          "IN",
+          "AT"
+        ],
+        "previewTime": 73.0,
+        "unlockInfo": [
+          {
+            "unlockType": 0,
+            "unlockInfo": []
+          },
+          {
+            "unlockType": 0,
+            "unlockInfo": []
+          },
+          {
+            "unlockType": 0,
+            "unlockInfo": []
+          },
+          {
+            "unlockType": 0,
+            "unlockInfo": []
+          }
+        ],
+        "levelMods": [
+          {
+            "levelMods": []
+          },
+          {
+            "levelMods": []
+          },
+          {
+            "levelMods": []
+          },
+          {
+            "levelMods": []
+          },
+          {
+            "levelMods": []
+          }
+        ]
       }
     ],
     "sideStorySongs": [
@@ -14067,6 +14203,30 @@
       "unlockTimes": 1
     },
     {
+      "keyName": "Random",
+      "unlockedTimes": 0,
+      "kindOfKey": 0,
+      "unlockTimes": 1
+    },
+    {
+      "keyName": "Random",
+      "unlockedTimes": 0,
+      "kindOfKey": 2,
+      "unlockTimes": 1
+    },
+    {
+      "keyName": "零號車輛",
+      "unlockedTimes": 0,
+      "kindOfKey": 0,
+      "unlockTimes": 1
+    },
+    {
+      "keyName": "零號車輛",
+      "unlockedTimes": 0,
+      "kindOfKey": 2,
+      "unlockTimes": 1
+    },
+    {
       "keyName": "Ποσειδών",
       "unlockedTimes": 0,
       "kindOfKey": 2,
@@ -15845,637 +16005,637 @@
       "kayName": "Glaciaxion",
       "image": {
         "m_FileID": 2,
-        "m_PathID": 142
+        "m_PathID": 145
       }
     },
     {
       "kayName": "Eradication Catastrophe",
       "image": {
         "m_FileID": 2,
-        "m_PathID": 158
+        "m_PathID": 161
       }
     },
     {
       "kayName": "Credits",
       "image": {
         "m_FileID": 2,
-        "m_PathID": 186
+        "m_PathID": 189
       }
     },
     {
       "kayName": "Dlyrotz",
       "image": {
         "m_FileID": 2,
-        "m_PathID": 219
+        "m_PathID": 225
       }
     },
     {
       "kayName": "Engine x Start!! (melody mix)",
       "image": {
         "m_FileID": 2,
-        "m_PathID": 145
+        "m_PathID": 148
       }
     },
     {
       "kayName": "光",
       "image": {
         "m_FileID": 2,
-        "m_PathID": 163
+        "m_PathID": 166
       }
     },
     {
       "kayName": "Winter ↑cube↓",
       "image": {
         "m_FileID": 2,
-        "m_PathID": 178
+        "m_PathID": 181
       }
     },
     {
       "kayName": "Cipher : /2&//<|0",
       "image": {
         "m_FileID": 2,
-        "m_PathID": 195
+        "m_PathID": 198
       }
     },
     {
       "kayName": "混乱-Confusion",
       "image": {
         "m_FileID": 2,
-        "m_PathID": 204
+        "m_PathID": 208
       }
     },
     {
       "kayName": "FULi AUTO SHOOTER",
       "image": {
         "m_FileID": 2,
-        "m_PathID": 147
+        "m_PathID": 150
       }
     },
     {
       "kayName": "HumaN",
       "image": {
         "m_FileID": 2,
-        "m_PathID": 180
+        "m_PathID": 183
       }
     },
     {
       "kayName": "[PRAW]",
       "image": {
         "m_FileID": 2,
-        "m_PathID": 184
+        "m_PathID": 187
       }
     },
     {
       "kayName": "Pixel Rebelz1",
       "image": {
         "m_FileID": 2,
-        "m_PathID": 194
+        "m_PathID": 197
       }
     },
     {
       "kayName": "Pixel Rebelz2",
       "image": {
         "m_FileID": 2,
-        "m_PathID": 164
+        "m_PathID": 167
       }
     },
     {
       "kayName": "Pixel Rebelz3",
       "image": {
         "m_FileID": 2,
-        "m_PathID": 166
+        "m_PathID": 169
       }
     },
     {
       "kayName": "Cereris1",
       "image": {
         "m_FileID": 2,
-        "m_PathID": 206
+        "m_PathID": 211
       }
     },
     {
       "kayName": "Cereris2",
       "image": {
         "m_FileID": 2,
-        "m_PathID": 173
+        "m_PathID": 176
       }
     },
     {
       "kayName": "Cereris3",
       "image": {
         "m_FileID": 2,
-        "m_PathID": 155
+        "m_PathID": 158
       }
     },
     {
       "kayName": "Non-Melodic Ragez (MUG Edit)",
       "image": {
         "m_FileID": 2,
-        "m_PathID": 202
+        "m_PathID": 206
       }
     },
     {
       "kayName": "Sultan Rage",
       "image": {
         "m_FileID": 2,
-        "m_PathID": 161
+        "m_PathID": 164
       }
     },
     {
       "kayName": "Class Memories",
       "image": {
         "m_FileID": 2,
-        "m_PathID": 229
+        "m_PathID": 235
       }
     },
     {
       "kayName": "-SURREALISM-",
       "image": {
         "m_FileID": 2,
-        "m_PathID": 182
+        "m_PathID": 185
       }
     },
     {
       "kayName": "Bonus Time",
       "image": {
         "m_FileID": 2,
-        "m_PathID": 223
+        "m_PathID": 229
       }
     },
     {
       "kayName": "Energy Synergy Matrix1",
       "image": {
         "m_FileID": 2,
-        "m_PathID": 134
+        "m_PathID": 137
       }
     },
     {
       "kayName": "Energy Synergy Matrix2",
       "image": {
         "m_FileID": 2,
-        "m_PathID": 205
+        "m_PathID": 210
       }
     },
     {
       "kayName": "Energy Synergy Matrix3",
       "image": {
         "m_FileID": 2,
-        "m_PathID": 151
+        "m_PathID": 154
       }
     },
     {
       "kayName": "Doppelganger1",
       "image": {
         "m_FileID": 2,
-        "m_PathID": 203
+        "m_PathID": 207
       }
     },
     {
       "kayName": "Doppelganger2",
       "image": {
         "m_FileID": 2,
-        "m_PathID": 141
+        "m_PathID": 144
       }
     },
     {
       "kayName": "もぺもぺ1",
       "image": {
         "m_FileID": 2,
-        "m_PathID": 187
+        "m_PathID": 190
       }
     },
     {
       "kayName": "もぺもぺ2",
       "image": {
         "m_FileID": 2,
-        "m_PathID": 221
+        "m_PathID": 227
       }
     },
     {
       "kayName": "MARENOL",
       "image": {
         "m_FileID": 2,
-        "m_PathID": 168
+        "m_PathID": 171
       }
     },
     {
       "kayName": "萤火虫の怨1",
       "image": {
         "m_FileID": 2,
-        "m_PathID": 227
+        "m_PathID": 233
       }
     },
     {
       "kayName": "萤火虫の怨2",
       "image": {
         "m_FileID": 2,
-        "m_PathID": 188
+        "m_PathID": 191
       }
     },
     {
       "kayName": "万吨匿名信",
       "image": {
         "m_FileID": 2,
-        "m_PathID": 201
+        "m_PathID": 205
       }
     },
     {
       "kayName": "风屿",
       "image": {
         "m_FileID": 2,
-        "m_PathID": 170
+        "m_PathID": 173
       }
     },
     {
       "kayName": "Aphasia",
       "image": {
         "m_FileID": 2,
-        "m_PathID": 200
+        "m_PathID": 203
       }
     },
     {
       "kayName": "華灯爱1",
       "image": {
         "m_FileID": 2,
-        "m_PathID": 153
+        "m_PathID": 156
       }
     },
     {
       "kayName": "華灯爱2",
       "image": {
         "m_FileID": 2,
-        "m_PathID": 207
+        "m_PathID": 212
       }
     },
     {
       "kayName": "dB doll",
       "image": {
         "m_FileID": 2,
-        "m_PathID": 144
+        "m_PathID": 147
       }
     },
     {
       "kayName": "Dash",
       "image": {
         "m_FileID": 2,
-        "m_PathID": 226
+        "m_PathID": 232
       }
     },
     {
       "kayName": "云女孩",
       "image": {
         "m_FileID": 2,
-        "m_PathID": 148
+        "m_PathID": 151
       }
     },
     {
       "kayName": "Drop It",
       "image": {
         "m_FileID": 2,
-        "m_PathID": 140
+        "m_PathID": 143
       }
     },
     {
       "kayName": "RIPPER",
       "image": {
         "m_FileID": 2,
-        "m_PathID": 211
+        "m_PathID": 216
       }
     },
     {
       "kayName": "开心病1",
       "image": {
         "m_FileID": 2,
-        "m_PathID": 215
+        "m_PathID": 221
       }
     },
     {
       "kayName": "开心病2",
       "image": {
         "m_FileID": 2,
-        "m_PathID": 224
+        "m_PathID": 230
       }
     },
     {
       "kayName": "Introduction",
       "image": {
         "m_FileID": 2,
-        "m_PathID": 150
+        "m_PathID": 153
       }
     },
     {
       "kayName": "Find_Me",
       "image": {
         "m_FileID": 2,
-        "m_PathID": 228
+        "m_PathID": 234
       }
     },
     {
       "kayName": "Sein",
       "image": {
         "m_FileID": 2,
-        "m_PathID": 213
+        "m_PathID": 219
       }
     },
     {
       "kayName": "狂喜蘭舞1",
       "image": {
         "m_FileID": 2,
-        "m_PathID": 152
+        "m_PathID": 155
       }
     },
     {
       "kayName": "狂喜蘭舞2",
       "image": {
         "m_FileID": 2,
-        "m_PathID": 216
+        "m_PathID": 222
       }
     },
     {
       "kayName": "Sparkle New Life",
       "image": {
         "m_FileID": 2,
-        "m_PathID": 157
+        "m_PathID": 160
       }
     },
     {
       "kayName": "Khronostasis Katharsis",
       "image": {
         "m_FileID": 2,
-        "m_PathID": 139
+        "m_PathID": 142
       }
     },
     {
       "kayName": "Geopelia 1 -by cycats",
       "image": {
         "m_FileID": 2,
-        "m_PathID": 192
+        "m_PathID": 195
       }
     },
     {
       "kayName": "Geopelia 2 -by cycats",
       "image": {
         "m_FileID": 2,
-        "m_PathID": 146
+        "m_PathID": 149
       }
     },
     {
       "kayName": "Engine x Start!! extra 1 -by cycats",
       "image": {
         "m_FileID": 2,
-        "m_PathID": 171
+        "m_PathID": 174
       }
     },
     {
       "kayName": "FULi AUTO SHOOTER extra 1 -by cycats",
       "image": {
         "m_FileID": 2,
-        "m_PathID": 177
+        "m_PathID": 180
       }
     },
     {
       "kayName": "Non-Melodic Ragez extra 1 -by cycats",
       "image": {
         "m_FileID": 2,
-        "m_PathID": 159
+        "m_PathID": 162
       }
     },
     {
       "kayName": "RIPPER extra 1 -by cycats",
       "image": {
         "m_FileID": 2,
-        "m_PathID": 137
+        "m_PathID": 140
       }
     },
     {
       "kayName": "RIPPER extra 2 -by 何呵",
       "image": {
         "m_FileID": 2,
-        "m_PathID": 179
+        "m_PathID": 182
       }
     },
     {
       "kayName": "Marenol extra 1 -by 喵n葵",
       "image": {
         "m_FileID": 2,
-        "m_PathID": 174
+        "m_PathID": 177
       }
     },
     {
       "kayName": "云女孩 extra 1 -by 御坂果子",
       "image": {
         "m_FileID": 2,
-        "m_PathID": 210
+        "m_PathID": 215
       }
     },
     {
       "kayName": "Geopelia in WEPLAY -by 海产",
       "image": {
         "m_FileID": 2,
-        "m_PathID": 143
+        "m_PathID": 146
       }
     },
     {
       "kayName": "Geopelia 3 -by 何呵",
       "image": {
         "m_FileID": 2,
-        "m_PathID": 169
+        "m_PathID": 172
       }
     },
     {
       "kayName": "Christmas -2019",
       "image": {
         "m_FileID": 2,
-        "m_PathID": 185
+        "m_PathID": 188
       }
     },
     {
       "kayName": "Snow Desert",
       "image": {
         "m_FileID": 2,
-        "m_PathID": 225
+        "m_PathID": 231
       }
     },
     {
       "kayName": "Burn",
       "image": {
         "m_FileID": 2,
-        "m_PathID": 214
+        "m_PathID": 220
       }
     },
     {
       "kayName": "Feast远东之宴1",
       "image": {
         "m_FileID": 2,
-        "m_PathID": 165
+        "m_PathID": 168
       }
     },
     {
       "kayName": "Feast远东之宴2",
       "image": {
         "m_FileID": 2,
-        "m_PathID": 149
+        "m_PathID": 152
       }
     },
     {
       "kayName": "Feast远东之宴3",
       "image": {
         "m_FileID": 2,
-        "m_PathID": 136
+        "m_PathID": 139
       }
     },
     {
       "kayName": "Feast远东之宴4",
       "image": {
         "m_FileID": 2,
-        "m_PathID": 138
+        "m_PathID": 141
       }
     },
     {
       "kayName": "Feast远东之宴5",
       "image": {
         "m_FileID": 2,
-        "m_PathID": 162
+        "m_PathID": 165
       }
     },
     {
       "kayName": "Feast远东之宴6",
       "image": {
         "m_FileID": 2,
-        "m_PathID": 175
+        "m_PathID": 178
       }
     },
     {
       "kayName": "Feast远东之宴7",
       "image": {
         "m_FileID": 2,
-        "m_PathID": 198
+        "m_PathID": 201
       }
     },
     {
       "kayName": "Feast远东之宴8",
       "image": {
         "m_FileID": 2,
-        "m_PathID": 197
+        "m_PathID": 200
       }
     },
     {
       "kayName": "Feast远东之宴9",
       "image": {
         "m_FileID": 2,
-        "m_PathID": 222
+        "m_PathID": 228
       }
     },
     {
       "kayName": "瓷岁1",
       "image": {
         "m_FileID": 2,
-        "m_PathID": 190
+        "m_PathID": 193
       }
     },
     {
       "kayName": "瓷岁2",
       "image": {
         "m_FileID": 2,
-        "m_PathID": 193
+        "m_PathID": 196
       }
     },
     {
       "kayName": "瓷岁3",
       "image": {
         "m_FileID": 2,
-        "m_PathID": 156
+        "m_PathID": 159
       }
     },
     {
       "kayName": "瓷岁4",
       "image": {
         "m_FileID": 2,
-        "m_PathID": 191
+        "m_PathID": 194
       }
     },
     {
       "kayName": "瓷岁5",
       "image": {
         "m_FileID": 2,
-        "m_PathID": 196
+        "m_PathID": 199
       }
     },
     {
       "kayName": "瓷岁6",
       "image": {
         "m_FileID": 2,
-        "m_PathID": 183
+        "m_PathID": 186
       }
     },
     {
       "kayName": "瓷岁7",
       "image": {
         "m_FileID": 2,
-        "m_PathID": 132
+        "m_PathID": 135
       }
     },
     {
       "kayName": "盏茗1",
       "image": {
         "m_FileID": 2,
-        "m_PathID": 160
+        "m_PathID": 163
       }
     },
     {
       "kayName": "盏茗2",
       "image": {
         "m_FileID": 2,
-        "m_PathID": 220
+        "m_PathID": 226
       }
     },
     {
       "kayName": "盏茗3",
       "image": {
         "m_FileID": 2,
-        "m_PathID": 209
+        "m_PathID": 214
       }
     },
     {
       "kayName": "青芽",
       "image": {
         "m_FileID": 2,
-        "m_PathID": 154
+        "m_PathID": 157
       }
     },
     {
       "kayName": "Feast远东之宴-Special1",
       "image": {
         "m_FileID": 2,
-        "m_PathID": 218
+        "m_PathID": 224
       }
     },
     {
       "kayName": "Feast远东之宴-Special2",
       "image": {
         "m_FileID": 2,
-        "m_PathID": 217
+        "m_PathID": 223
       }
     },
     {
       "kayName": "瓷岁-Special",
       "image": {
         "m_FileID": 2,
-        "m_PathID": 208
+        "m_PathID": 213
       }
     },
     {
       "kayName": "盏茗-Special",
       "image": {
         "m_FileID": 2,
-        "m_PathID": 199
+        "m_PathID": 202
       }
     },
     {
       "kayName": "青芽-Special",
       "image": {
         "m_FileID": 2,
-        "m_PathID": 172
+        "m_PathID": 175
       }
     }
   ]

@@ -6,7 +6,7 @@
   "m_Enabled": 1,
   "m_Script": {
     "m_FileID": 1,
-    "m_PathID": 1694
+    "m_PathID": 1696
   },
   "m_Name": "",
   "collectionGetItems": [
@@ -6084,6 +6084,44 @@
       "kindOfKey": 2,
       "unlockTimes": 1,
       "getSong": -10118,
+      "getType": -1,
+      "getPower": 30,
+      "getInfo1": "",
+      "getInfo2": "",
+      "getInfo3": ""
+    },
+    {
+      "keyName": "Random",
+      "multiLanguageTitle": {
+        "code": "",
+        "chinese": "",
+        "chineseTraditional": "",
+        "english": "",
+        "japanese": "",
+        "korean": ""
+      },
+      "kindOfKey": 2,
+      "unlockTimes": 1,
+      "getSong": -10119,
+      "getType": -1,
+      "getPower": 30,
+      "getInfo1": "",
+      "getInfo2": "",
+      "getInfo3": ""
+    },
+    {
+      "keyName": "零號車輛",
+      "multiLanguageTitle": {
+        "code": "",
+        "chinese": "",
+        "chineseTraditional": "",
+        "english": "",
+        "japanese": "",
+        "korean": ""
+      },
+      "kindOfKey": 2,
+      "unlockTimes": 1,
+      "getSong": -10120,
       "getType": -1,
       "getPower": 30,
       "getInfo1": "",
