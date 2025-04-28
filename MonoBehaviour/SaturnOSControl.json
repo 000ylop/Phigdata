@@ -73,7 +73,7 @@
     "startIndex": 0,
     "endIndex": 0,
     "excludedFiles": [],
-    "cover": "Assets/Tracks/#ChapterCover/IllustrationsCover.png",
+    "cover": "Assets/Tracks/#ChapterCover/IllustrationsCover.jpg",
     "files": [
       {
         "key": "",
@@ -166,7 +166,7 @@
           "end": 10137
         }
       ],
-      "cover": "Assets/Tracks/#ChapterCover/Single.png",
+      "cover": "Assets/Tracks/#ChapterCover/Single.jpg",
       "files": [
         {
           "key": "mope1",
@@ -195,7 +195,7 @@
             "chinese": "来自《清醒者日报》677年12月7日刊，被人私自带出图书馆，再被发现已经沾满不明液体。\\n\n\\n\n都市传奇专栏：\\n\n      “感谢读者们一直以来的支持，今日叶子将向您讲述白林中心城附近，那片神秘花海的故事······\\n\n     白林本没有花海，人们用血肉铺平了贫瘠的土地，才就此百花齐放。\\n\n        ············\\n\n       故事到此结束，希望大家喜欢，我们下期再见。”",
             "chineseTraditional": "來自《清醒者日報》677年12月7日刊，被人私自帶出圖書館。被發現後已經沾滿了不明液體。\\n\r\n\\n\r\n都市傳奇專欄：\\n\r\n「感謝讀者們一直以來的支持，今日葉子我將向您講述白林中心城附近，那片神秘花海的故事······\\n\r\n白林本沒有花海，人們用血肉鋪平了貧瘠的土地，才就此百花齊放。\\n\r\n············\\n\r\n故事到此結束，希望大家喜歡，我們下次再見。」",
             "english": "On December 7th, the 677th issue of Sober Daily was secretly taken out of the Library. Upon recovery, it was covered in a liquid of unknown origin.\\n\r\nEn excerpt from the magazine reads: \\n\r\nUrban Legends Column\\n\r\n Dear readers, thank you for your continued support. Today Leaf will tell you a story about the flower oceans in the center of Bailin City. \\n\r\n\"Back when Bailin was just an unexceptional settlement, people had used flesh and blood to pave the barren land. Shortly after, hundreds upon hundreds of flowers have blossomed there, completely saturating the landscape. \\n\r\n...\\n\r\nThats the end of the story. I hope everyone liked it. See you next time.\"",
-            "japanese": "《正気者新聞》677年12月7日刊より、誰かに勝手に図書館から持ち出され、再び発見した時には未知の液体で覆われていた\\n\r\n　\\n\r\n都市伝説コラム；\\n\r\n 「読者の皆様、いつも応援頂きありがとうございます。きょう葉子は白林中心城付近にある神秘的な花の海の物語について話したいと思います……」\\n\r\n「もともと、白林に花などありませんでした。人々は肉と血で不毛の地を養ってからやっと花が咲きました。」\\n\r\n「 .......」\\n\r\n 「これで物語は終わりです。皆様が気に入ってくれると幸いです、次回もまたお会いしましょう。」",
+            "japanese": "《正気者新聞》677年12月7日刊より、誰かに勝手に図書館から持ち出され、再び発見した時には未知の液体で覆われていた\\n\r\n　\\n\r\n都市伝説コラム；\\n\r\n「読者の皆様、いつも応援頂きありがとうございます。きょう葉子は白林中心城付近にある神秘的な花の海の物語について話したいと思います……」\\n\r\n「もともと、白林に花などありませんでした。人々は肉と血で不毛の地を養ってからやっと花が咲きました。」\\n\r\n「 .......」\\n\r\n 「これで物語は終わりです。皆様が気に入ってくれると幸いです、次回もまたお会いしましょう。」",
             "korean": "12월 7일, Sober Daily 677호가 도서관에 비밀리에 반출되었다. 회수 당시에는 뭔지 모를 액체로 덮여 있었다.\\n\r\n잡지에서 추출한 내용은 다음과 같다. \\n\r\n도시 전설 칼럼\\n\r\n독자 여러분, 지속적인 성원에 감사드립니다. 오늘 리프에서는 하얀 숲 중심에 있는 꽃바다에 대한 이야기를 들려드리겠습니다.\\n\r\n\"하얀 숲이 그저 평범한 마을이었을 때, 사람들은 살과 피로 척박한 땅을 포장했습니다. 얼마 지나지 않아 그곳에는 수백 송이의 꽃이 피어나 풍경을 가득 채웠습니다. \\n\r\n...\\n\r\n이게 이야기의 끝입니다. 모두가 좋아했으면 좋겠습니다. 다음에 또 만나요.\""
           },
           "properties": {
@@ -468,7 +468,7 @@
             "chinese": "风吹花海，推排若浪，两人立于大地之上，相视一笑。\\n\r\n“我们做到了。”\\n\r\n“是你做到了。”蒙面人看着女孩裙下的眼球，它们蠢蠢欲动，探头探脑，似乎在思考眼前的男人会是他们下一个同伴吗。\\n\r\n“你是来带我走的吧。”\\n\r\n“对。”\\n\r\n女孩儿在花田里不知度过了多少岁月，又不知吃了多少血肉，她渐渐长大，也终于迎来她的宿命。蒙面人拿出玻璃瓶，她散作无数花瓣，倒吸入瓶，花瓣染红了水，女孩又显现出她的模样，渐渐下沉，像一片失去生机的树叶，析出所有的汁液，只留下透明的茎脉，发现她，透过她，再忘记她。\\n\r\n“又回收了一个，还剩...”\\n\r\n蒙面人打开档案快速翻动，档案几乎每页都画上了巨大的红叉，突然他的手指停留，泛黄的照片映入眼帘，那是两个青春洋溢的少女，也是他下次的目标。",
             "chineseTraditional": "風吹花海，推排若浪，兩人立於大地之上，相視一笑。\\n\r\n「我們做到了。」\\n\r\n「是你做到了。」蒙面人看著女孩裙下的眼球。它們蠢蠢欲動，探頭探腦，似乎在思考眼前的男人會是他們下一個同伴嗎？\\n\r\n「你是來帶我走的吧。」\\n\r\n「對。」\\n\r\n女孩在花田裡不知度過了多少歲月，又不知吃了多少血肉，她漸漸長大，也終於迎來她的宿命。蒙面人拿出玻璃瓶，她散作無數花瓣，倒吸入瓶，花瓣染紅了水，女孩又顯現出她的模樣，漸漸下沉，像一片失去生機的樹葉，析出所有的汁液，只留下透明的莖脈，發現她，透過她，再忘記她。\\n\r\n「又回收了一個，還剩···」\\n\r\n蒙面人打開檔案快速翻動，檔案幾乎每頁都畫上了巨大的紅叉，突然他的手指停留。泛黃的照片映入眼簾，那是兩個青春洋溢的少女，是他下次的目標。",
             "english": "As the wind blows over the flower ocean, it creates flower waves. Two people overlooked these movements and smiled at each other.\\n\r\n\"We did it.”\\n\r\n\"No. You did it.\" \\n\r\nThe masked man looked at the eyeballs under the girl's skirt. They were ready to move and reach out for him. It seems that he's thinking about whether the man in front of him will be their next companion.\\n\r\n\"You are here to pick me up, right?” \\n\r\n\"Correct.\" \\n\r\nI don’t know how many years the girl has spent in the flower field, nor do I know how much flesh and blood she has consumed in that time. She gradually grows bigger. Inching towards her destiny.\\n\r\n The masked man took out a glass bottle. She began to drown in it, and scattered into thousands of petals. The petals dyed the water red. The girl showed her visage one last time, gradually sinking, like a leaf that had lost its vitality, leaving only the transparent stem veins. He found her, threw her away, and forgot her. \\n\r\n\"Another one was recovered. Let's see who's left...\" \\n\r\nThe masked man opened a file and through it quickly. Almost every page was marked with a large red cross.His fingers stayed, and a faded photo came into his view. It depicted two young girls.They were his next goal.",
-            "japanese": "風は吹き、花は波の如く。二人は大地に立ち、見つめ合い、笑い出す。 「やったね」 \\n\r\n「君の功績だよ。」覆面の人が、女の子のスカートの下にある目を見た。それらは蠢き、模索している。目の前の男は次の仲間なのか、と考えているようだ。\\n\r\n「私を連れて行くんでしょ」\\n\r\n「そう。」\\n\r\n 女の子はどのくらいこの花畑にいたか、どれだけの血肉を食べたかを覚えていない。彼女は成長し、その宿命を迎えた。覆面の人はガラス瓶を取り出し、彼女は無数の花びらとなって瓶に吸い込まれた。花びらは水を赤く染め、彼女の様子が再び現れ、枯れ葉のようにゆっくりと沈んでいく。あらゆる汁液を析出し、透明の枝だけを残して、彼女を見つけて、すり抜けて、そして忘れて。\\n\r\n「これでまた一つ回収できた、残りは..」\\n\r\n覆面の人はファイルを開いてみると、ほどんどどのページにも赤いバツが大きく書かれている。ふと、彼の指が止まった。一枚黄ばんだ写真が視界に入ってきた。写真には二人の若くて元気な少女が映っている、これが彼の次のターゲットであった。",
+            "japanese": "風は吹き、花は波の如く。二人は大地に立ち、見つめ合い、笑い出す。 「やったね」 \\n\r\n「君の功績だよ。」覆面の人が、女の子のスカートの下にある目を見た。それらは蠢き、模索している。目の前の男は次の仲間なのか、と考えているようだ。\\n\r\n「私を連れて行くんでしょ」\\n\r\n「そう。」\\n\r\n女の子はどのくらいこの花畑にいたか、どれだけの血肉を食べたかを覚えていない。彼女は成長し、その宿命を迎えた。覆面の人はガラス瓶を取り出し、彼女は無数の花びらとなって瓶に吸い込まれた。花びらは水を赤く染め、彼女の様子が再び現れ、枯れ葉のようにゆっくりと沈んでいく。あらゆる汁液を析出し、透明の枝だけを残して、彼女を見つけて、すり抜けて、そして忘れて。\\n\r\n「これでまた一つ回収できた、残りは..」\\n\r\n覆面の人はファイルを開いてみると、ほどんどどのページにも赤いバツが大きく書かれている。ふと、彼の指が止まった。一枚黄ばんだ写真が視界に入ってきた。写真には二人の若くて元気な少女が映っている、これが彼の次のターゲットであった。",
             "korean": "꽃밭 위로 바람이 불면서 꽃파도가 생겼다. 두 사람은 이런 움직임을 무시하고 서로 미소를 지었다.\\n\r\n\"우리가 해냈어요.\"\\n\r\n\"아니야. 너가 해낸거야.\"  \\n\r\n가면을 쓴 남자는 소녀의 치마 아래에 있는 눈알을 바라보았다. 그것들은 움직여서 그 사람에게 달려들 준비가 되어 있었다. 그것은 자신 앞에 있는 남자가 다음 양분으로 할 지 고민하고 있는 것 같았다.\\n\r\n\"나를 데리러 온거죠?\"  \\n\r\n\"맞아.\"  \\n\r\n난 소녀가 꽃밭에서 몇 년을 보냈는지도 모르고, 그 동안 얼마나 많은 살과 피를 소비했는지 모른다. 그녀는 점점 커진다. 그녀의 운명을 향해 조금씩 나아가고 있다.\\n\r\n가면을 쓴 남자가 유리병을 꺼냈다. 그녀는 그 속에 빠져들기 시작했고, 수천 장의 꽃잎으로 흩어졌다. 꽃잎이 물을 붉게 물들였다. 소녀는 시든 나뭇잎처럼 점점 가라앉고 투명한 줄기맥만 남은 모습을 마지막으로 보여주었다. 그는 그녀를 발견하고, 버리고, 잊어버렸다.\\n\r\n\"한 명 더 돌아갔습니다. 누가 남았는지 살펴보겠습니다...\" \\n\r\n가면을 쓴 남자는 파일을 열어 재빨리 훑어보았다. 거의 모든 페이지에 커다란 빨간색 십자가가 그려져 있었다. 그의 손가락이 멈췄고, 빛바랜 사진이 그의 눈에 들어왔다. 두 어린 소녀같다. 그 애들이 다음 목표였다.\n\n"
           },
           "properties": {
@@ -1520,7 +1520,7 @@
       "startIndex": 0,
       "endIndex": 5,
       "excludedFiles": [],
-      "cover": "Assets/Tracks/Dlyrotz.Likey.0/Illustration.png",
+      "cover": "Assets/Tracks/Dlyrotz.Likey.0/Illustration.jpg",
       "files": [
         {
           "key": "shijian0",
@@ -3342,7 +3342,7 @@
       "startIndex": 6,
       "endIndex": 10,
       "excludedFiles": [],
-      "cover": "Assets/Tracks/光.姜米條.0/Illustration.png",
+      "cover": "Assets/Tracks/光.姜米條.0/Illustration.jpg",
       "files": [
         {
           "key": "shijian7",
@@ -5125,7 +5125,7 @@
       "startIndex": 11,
       "endIndex": 15,
       "excludedFiles": [],
-      "cover": "Assets/Tracks/HumaN.SOTUI.0/Illustration.png",
+      "cover": "Assets/Tracks/HumaN.SOTUI.0/Illustration.jpg",
       "files": [
         {
           "key": "shijian12",
@@ -5230,7 +5230,7 @@
           "content": {
             "code": "",
             "chinese": "奔跑，蹦跳，游嬉，在橄榄山上。\\n\n海风吹角，巨兽鲸鸣，\\n\n在橄榄山上，碎石，烂布，菖蒲。\\n\n紫的，黑的，油光的，卵石，\\n\n透得水冰，润得羊脂。\\n\n枝晶，霜花，微观，菌体，\\n\n水份渗透，根深茎营。\\n\n流体的，原子的，电离的，撞击可见的，\\n\n再进入，再深入，再融入，\\n\n凝视不可分割的介质，\\n\n那是否，\\n\n是现实的本质，\\n\n抑或像素的锯齿。",
-            "chineseTraditional": "奔跑，蹦跳，遊戲，在橄欖山上。\\n\r\n海風吹角，巨獸驚鳴，\\n\r\n 在橄欖山上，碎石，爛布，菖蒲。\\n\r\n紫的，黑的，油光的，卵石，\\n\r\n透得水冰，潤得羊脂。\\n\r\n 枝晶，霜花，微觀，菌體，\\n\r\n水份滲透，根深莖營。\\n\r\n 流體的，原子的，電離的，撞擊可見的，\\n\r\n再進入，再深入，再融入，\\n\r\n凝視不可分割的介質，\\n\r\n 那是否，\\n\r\n是現實的本質，\\n\r\n 亦或圖元的鋸齒。",
+            "chineseTraditional": "奔跑，蹦跳，遊戲，在橄欖山上。\\n\r\n海風吹角，巨獸驚鳴，\\n\r\n在橄欖山上，碎石，爛布，菖蒲。\\n\r\n紫的，黑的，油光的，卵石，\\n\r\n透得水冰，潤得羊脂。\\n\r\n枝晶，霜花，微觀，菌體，\\n\r\n水份滲透，根深莖營。\\n\r\n流體的，原子的，電離的，撞擊可見的，\\n\r\n再進入，再深入，再融入，\\n\r\n凝視不可分割的介質，\\n\r\n那是否，\\n\r\n是現實的本質，\\n\r\n亦或圖元的鋸齒。",
             "english": "Run, jump, wander, on the olive mountain.\\n\nSea breezes through the horn, the giant beast shrieks,\\n\nOn the olive mountain, broken gravels, rotten cloths, wilted calami.\\n\nPurple, black, shiny pebbles, \\n\nTranslucent as ice, greasy as butter.\\n\nCrystals, frosts, microscopic, fungus,\\n\nWater penetrates deep into the stems and roots.\\n\nFluid, atomic, ionised, visible on collision,\\n\nRe-enter, re-deepen, re-merge,\\n\nGaze into the indivisible media,\\n\nIs that,\\n\nThe essence of reality,\\n\nOr pixelated serration.",
             "japanese": "オリーブの山の上で走り、跳び、遊びまわる。\\n\n海風がその角に当たり、巨獣は声を上げる。\\n\n砕石、布切れ、菖蒲がオリーブの山の上に。\\n\n紫色の、黒色の、照り返す礫、\\n\n水に沈み、脂に潤う。\\n\n結晶、霜花、微視、菌体、\\n\n水に滲み、根を生やす。\\n\n流体の、原子の、電離した、ぶつかれば見えるもの、\\n\n再び入り、より深く、いっそう溶けあい、\\n\n離れることのない媒質に目を凝らす。\\n\nそれは、\\n\n現実の本質か、\\n\nあるいは、絵素のエイリアスか。",
             "korean": "올리브 산에서 달리고, 점프하고, 방황한다.\\n\r\n뿔을 통해 바닷바람이 불고, 거대한 짐승이 비명을 지르고,\\n\r\n올리브 산에는 깨진 자갈, 썩은 천, 시든 오징어가 있다.\\n\r\n보라색, 검정색, 반짝이는 자갈, \\n\r\n얼음처럼 반투명하고 버터처럼 기름기가 많다.\\n\r\n크리스탈, 서리, 미세한, 곰팡이,\\n\r\n물은 줄기와 뿌리 깊숙이 침투한다.\\n\r\n유체, 원자, 이온화, 충돌 표시,\\n\r\n재입력, 재심화, 재병합\\n\r\n분할할 수 없는 매체를 응시하는것.\\n\r\n그것이,\\n\r\n현실의 본 모습인가,\\n\r\n즉 픽셀화된 톱니라는건가."
@@ -5308,7 +5308,7 @@
           "content": {
             "code": "",
             "chinese": "夜晚，牛嚼云丹。\\n\n于海岸，\\n\n背上行囊，\\n\n流浪人，\\n\n在寻找答案。\\n\n飞轴转动，\\n\n故事承前。\\n\n\\n\n入世沉浮风渡，\\n\n淘沙运浪空留。\\n\n月上柳梢，\\n\n子午。\\n",
-            "chineseTraditional": "夜晚，牛嚼雲丹。 \\n\n於海岸，\\n\n 背上行囊，\\n\n 流浪人，\\n\n在尋找答案。 \\n\n 飛軸轉動，\\n\n故事承前。 \\n\n \\n\n 入世沉浮風渡，\\n\n淘沙運浪空留。 \\n\n 月上柳梢，\\n\n子午。 \\n",
+            "chineseTraditional": "夜晚，牛嚼雲丹。 \\n\n於海岸，\\n\n背上行囊，\\n\n 流浪人，\\n\n在尋找答案。 \\n\n 飛軸轉動，\\n\n故事承前。 \\n\n \\n\n 入世沉浮風渡，\\n\n淘沙運浪空留。 \\n\n 月上柳梢，\\n\n子午。 \\n",
             "english": "",
             "japanese": "",
             "korean": "밤에는 소가 구름알약을 씹는다.\\n\n해안에서는,\\n\n짐을 등에 진,\\n\n방랑자가,\\n\n답을 찾고 있다.\\n\n비행 축이 회전하며,\\n\n이야기는 계속된다.\\n\n\\n\n세상에 들어서면서 우여곡절을 겪으며,\\n\n파도가 모래를 씻겨 내리며 운반하면 빈 공간만 남게 된다.\\n\n달 위의 버드나무 가지,\\n\n지우.\\n"
@@ -5347,7 +5347,7 @@
           "content": {
             "code": "",
             "chinese": "冰封·53.A.P\\n\n\\n\n“握住缰绳，熟悉马的呼吸，想象你要去的地方。”\\n\n冬日里，她教导着“我”操控梦魇马的办法，“我”闭目畅想，看见了漫天的飘雪，和远处不断浮动的幻影，便张开了眼睛。\\n\n“我做不到。”\\n\n“你看到了什么？”\\n\n“我”再次闭上眼睛，雪停了，落日似雁阵，向北徐行，鳞云流散，他站在空中，云的河流从身侧流过，扑面而来的水汽洗清他浑浊的双眼，并揭开了传说的面纱，那巨塔倒悬在天际，幻想是它的血肉，钢铁是它的骨骼，“我”看向塔，塔的住民也看向他，停止了耕作，生锈的镰刀上，闪过一抹寒光。\\n\n“我，什么也没看到。”",
-            "chineseTraditional": "冰封·53.A.P\\n\n \\n\n 「握住韁繩，熟悉馬的呼吸，想像你要去的地方。」\\n\n冬日裡，她教導著「我」控制夢魘馬的辦法，「我」閉目暢想，看見了漫天的飄雪，和遠處不斷浮動的幻影，便張開了眼睛。\\n\n「我做不到。」\\n\n 「你看到了什麼？」\\n\n「我」再次閉上眼睛，雪停了，落日似雁陣，向北徐行，鱗雲流散，他站在空中，雲的河流從身側流過，撲面而來的水氣洗清他渾濁的雙眼，並揭開了傳說的面紗，那巨塔倒懸在天際，幻想是它的血肉，鋼鐵是它的骨骼，「我」看向塔，塔的住民也看向他，停止了耕作。生鏽的鐮刀上，閃過一抹寒光。\\n\n「我，什麼也沒看到。」",
+            "chineseTraditional": "冰封·53.A.P\\n\n \\n\n 「握住韁繩，熟悉馬的呼吸，想像你要去的地方。」\\n\n冬日裡，她教導著「我」控制夢魘馬的辦法，「我」閉目暢想，看見了漫天的飄雪，和遠處不斷浮動的幻影，便張開了眼睛。\\n\n「我做不到。」\\n\n「你看到了什麼？」\\n\n「我」再次閉上眼睛，雪停了，落日似雁陣，向北徐行，鱗雲流散，他站在空中，雲的河流從身側流過，撲面而來的水氣洗清他渾濁的雙眼，並揭開了傳說的面紗，那巨塔倒懸在天際，幻想是它的血肉，鋼鐵是它的骨骼，「我」看向塔，塔的住民也看向他，停止了耕作。生鏽的鐮刀上，閃過一抹寒光。\\n\n「我，什麼也沒看到。」",
             "english": "Glaciaxia-53.A.P\\n\n\\n\n\"Hold the reins, get familiar with the horse's breathing, and imagine where you want to go.\"\\n\nOn a day in winter, she's teaching \"me\" the method to control the ghast horse. \"I\" closed my eyes, imagined the drifting snow, and floating phantom in the distance, then opened my eyes.\\n\n\"I can't do it.\"\\n\n\"What did you see?\"\\n\n\"I\" closed my eyes once more. The snow had stopped. The sun set like a horde of migratory wild geese heading towards north, cirrocumulus clouds scattered around it. He stood in the air, streams of clouds flew by his side. The giant tower hung upside down in the sky. Its flesh was made of whims and bones of steel. \"I\" looked at the tower, and the residents of the tower looked at him, stopped cultivating. A cold light of reflection flashed from the blade of their rusty scythes. \\n\n\"I, saw nothing.\"",
             "japanese": "氷封·53.A.P\\n\n\\n\n「手綱を掴んで、馬の呼吸を聞きながら、行きたい場所を想像するんだ。」\\n\n冬の日、彼女は『私』に魘馬(えんば)の乗り方を教えてくれている。『私』は目を瞑って想像した。しかし降り積もる雪と遠くで漂う幻影ばかりが脳内に浮ぶため、目を開けた。\\n\n「できない。」\\n\n「何が見えた？」\\n\n『私』は再び目を閉じた。雪は止み、夕日は雁のごとく北へ移る。雲が流れていく中、彼は空中に立ち、雲の川がその両側を通り抜けた。顔に降りかかる水気は彼の濁った両目を洗浄し、伝説の中身を明かした。あの巨大な塔は逆さに空に掛っている、幻想はその血肉となり、鋼鉄はその骨格を成す。『私』はあの塔を見た。塔の住民たちも彼を見て、耕作する手が止まった。冷たい光は錆びた鎌を照らしては消えていった。\\n\n「…何も見えなかった。」",
             "korean": "빙하-53.A.P\\n\r\n\\n\r\n\"고삐를 잡고 말의 호흡에 적응 한 뒤에 어디로 가고 싶은지 상상해 보세요.\"\\n\r\n어느 겨울날, 그녀는 \"나\"에게 가스트 말을 조종하는 방법을 가르쳐주고 있다. \"나\"는 눈을 감고, 떠다니는 눈과 저 멀리 떠다니는 유령을 상상하며 눈을 떴다.\\n\r\n\"전 할 수 없어요.\"\\n\r\n\"뭘 보셨나요?\"\\n\r\n\"나\"는 다시 한 번 눈을 감았다. 눈이 그쳤다. 해는 북쪽으로 이동하는 기러기 무리처럼 졌고, 권적운 구름이 그 주위로 흩어졌다. 그는 공중에 서 있었고 구름의 흐름이 그의 옆으로 날아갔다. 거대한 탑이 하늘에 거꾸로 매달려 있었다. 그 살은 강철 뼈와 변덕으로 만들어졌다. \"나\"는 탑을 바라보았고 탑의 주민들은 그를 바라보며 경작을 멈췄다. 녹슨 낫의 칼날에서 차가운 반사광이 빛났다.\\n\r\n\"나, 아무것도 못 봤어.\""
@@ -5464,7 +5464,7 @@
           "content": {
             "code": "",
             "chinese": "冰封·60.A.P\\n\n\\n\n天地同色，皓白渺茫，囚人跪于地上，浅唱古调。\\n\n空气剥夺他的体温，低温阻碍他的思考，感光细胞抽搐着发挥作用，眼前黑中泛亮，肆意扭动的人面怪物，正出现在现实中，还是他的梦里。\\n\n“……”\\n\n说些什么吧，说些什么吧！告诉他，冰封世界上，还有人类呼吸，生命的诗篇仍在咏唱，还有他们坚守的家园，人们建塔并非为离开，他们只是，只是……\\n\n“你要死了，如我们般，被人类处死。”\\n\n“没有未来，永远地游荡，在雪原之上，一遍一遍重复，轮回。”\\n\n“像个。”\\n\n“人类一样。”\\n",
-            "chineseTraditional": "冰封·60.A.P\\n\r\n \\n\r\n 天地同色，皓白渺茫，囚人跪於地上，淺唱古調。\\n\r\n空氣剝奪他的體溫，低溫阻礙他的思考，感光細胞抽搐著發揮作用，眼前黑中泛亮，肆意扭動的人面怪物，正出現在現實中，還是他的夢裡。\\n\r\n“……”\\n\r\n 說些什麼吧，說些什麼吧！告訴他，冰封世界上，還有人類呼吸，生命的詩篇仍在詠唱，還有他們堅守的家園，人們建塔並非為了離開，他們只是，只是……\\n\r\n「你要死了，如我們般，被人類處死。」\\n\r\n「沒有未來，永遠地遊蕩，在雪原之上，一遍一遍重複，輪回。」\\n\r\n「像個。」",
+            "chineseTraditional": "冰封·60.A.P\\n\r\n \\n\r\n 天地同色，皓白渺茫，囚人跪於地上，淺唱古調。\\n\r\n空氣剝奪他的體溫，低溫阻礙他的思考，感光細胞抽搐著發揮作用，眼前黑中泛亮，肆意扭動的人面怪物，正出現在現實中，還是他的夢裡。\\n\r\n“……”\\n\r\n說些什麼吧，說些什麼吧！告訴他，冰封世界上，還有人類呼吸，生命的詩篇仍在詠唱，還有他們堅守的家園，人們建塔並非為了離開，他們只是，只是……\\n\r\n「你要死了，如我們般，被人類處死。」\\n\r\n「沒有未來，永遠地遊蕩，在雪原之上，一遍一遍重複，輪回。」\\n\r\n「像個。」",
             "english": "Glaciaxia-60.A.P\\n\r\n\\n\r\nThe sky and earth shared the same colour, white and vague. The prisoners kneeled on the ground, humming the ancient tone.\\n\r\nAir stripped away his body heat, and the hyperthermia deprived his thoughts. The photoreceptor cells twisted and struggled to function. The darkness in his eyes glowed with light. The recklessly writhing monsters with human faces, are appearing into reality, or his dreams.\\n\r\n\"……\"\\n\r\nSay something, say something! Tell him, that in the world of Glaciaxia, there were still men breathing, that the poem of life was still being chanted. And the homeland they stood up to. People built the tower not just to leave, they just, just……\\n\r\n\"You are going to die, just like us, put to death by human.\"\\n\r\n\"There is no future, but wandering forever, on the snowy field, over and over again, reincarnating.\"\\n\r\n\"Just like.\"",
             "japanese": "氷封·60.A.P\\n\r\n\\n\r\n空も土も見渡す限り白く染まっている。囚人は地に跪き、古の歌を口ずさむ。\\n\r\n大気は彼の体温を奪い、低温は彼の思考を妨げる。感光細胞は痙攣しつつも作用を発揮し、真っ暗な視界の中に光が灯される。体をくねらせる人面の怪物、ここは夢か、うつつか。\\n\r\n「……」\\n\r\n口を動かすんだ、声に出して言うんだ！凍り付いた世界にまだ人類がいることを、生命の唄はまだ歌われ続けていることを、彼らが守り続けた故郷がまだ存在することをこいつに教えるんだ。人類が塔を建てたのは離れるためではない。彼らはただ、ただ……\\n\r\n「お前はもうじき死ぬ。我々のように、人類に処刑される。」\\n\r\n「未来も見えずに永遠にさまよい続ける。雪原の上で、何度も繰り返していく、輪廻する。」\\n\r\n「まるで。」",
             "korean": "빙하-60.A.P\\n\r\n\\n\r\n하늘과 땅은 같은 색, 하얗고 흐릿한 색을 공유한다. 죄수들은 땅바닥에 무릎을 꿇고 고대의 음악을 흥얼거렸다.\\n\r\n공기는 그들의 체온을 빼앗아갔고, 고열은 그의 생각을 빼앗아갔다. 광수용기 세포가 뒤틀리고 그것의 기능을 하기 위해 애쓰고 있다. 그의 눈 속의 어둠이 빛으로 빛났다. 인간의 얼굴을 하고 마구 몸부림치는 괴물들이 현실, 즉 그의 꿈에 나타나고 있다.\\n\r\n\"……\"\\n\r\n말해보세요, 말해보시라고요! 빙하 세계에서는 아직도 인간들이 숨을 쉬고 있고, 생명의 시가 여전히 낭송되고 있다고 그에게 말해주세요. 그리고 그들이 맞섰던 조국도요. 사람들은 그냥 떠나기 위해서 탑을 쌓은 것이 아니라 그냥, 그냥…\\n\r\n\"당신도 우리처럼 인간에 의해 죽게 될 겁니다.\"\\n\r\n\"미래는 없어요. 하지만 눈 덮인 들판을 영원히 헤매며 계속해서 환생할거에요.\"\\n\r\n\"마치.\""
@@ -5542,7 +5542,7 @@
           "content": {
             "code": "",
             "chinese": "港湾·740.A.P\\n\n\\n\n“我想去冰封层。”\\n\n“你决定好了。”\\n\n“决定好了。”\\n\n“毕竟是志愿行为，我也没法阻止你……你真的决定好了吗？决定好见他们了吗。”\\n\n“他们不是真的他们，你我都知道，过去的人类种已经灭亡了。”\\n\n“确实，新的冰封巡逻队安全无害，但它们毕竟是异想之物，变数太大。”\\n\n“像素塔的变数，只有人类。你是怕我回去，做些多余的事。”\\n\n“总队长，我们无法再承受一次牛肚谷战役。”\\n\n“不会的，他们已经不在了。”",
-            "chineseTraditional": "港灣·740.A.P\\n\r\n \\n\r\n 「我想去冰封層。」\\n\r\n「你決定好了？」\\n\r\n 「決定好了。」\\n\r\n「畢竟是志願行為，我也無法阻止你……你真的確定了嗎？決定好見他們了嗎。」\\n\r\n「他們不是真的他們，你我都知道，過去的人類種族已經滅亡了。」\\n\r\n「確實，新的冰封巡邏隊安全無害，但它們畢竟是異想之物，變數太大。」\\n\r\n「像素塔的變數，只有人類。你是怕我回去，做些多餘的事。」\\n\r\n「組長，我們無法再承受一次牛肚穀戰役。」\\n\r\n「不會的，他們已經不在了。」",
+            "chineseTraditional": "港灣·740.A.P\\n\r\n \\n\r\n 「我想去冰封層。」\\n\r\n「你決定好了？」\\n\r\n「決定好了。」\\n\r\n「畢竟是志願行為，我也無法阻止你……你真的確定了嗎？決定好見他們了嗎。」\\n\r\n「他們不是真的他們，你我都知道，過去的人類種族已經滅亡了。」\\n\r\n「確實，新的冰封巡邏隊安全無害，但它們畢竟是異想之物，變數太大。」\\n\r\n「像素塔的變數，只有人類。你是怕我回去，做些多餘的事。」\\n\r\n「組長，我們無法再承受一次牛肚穀戰役。」\\n\r\n「不會的，他們已經不在了。」",
             "english": "Harbour-740.A.P\\n\r\n\\n\r\n\"I want to go to the Glaciaxia.'\\n\r\n\"You have made the decision.\"\\n\r\n\"I've made my mind.\"\\n\r\n\"It's a voluntary action, so I can't stop you……are you really sure? Ready to meet them?\"\\n\r\n\"They are not real them, we both know it. The past human species has already gone extinct.\"\\n\r\n\"Indeed. The new Glaciaxia patrol is harmless, but they are still whims. There're just too many uncertainties.\"\\n\r\n\"The only uncertainly to the pixel tower, is human. You are afraid of me going back and do something uncalled for.\"\\n\r\n\"Captain, we cannot afford another battle of Cowbelly valley.\"\\n\r\n\"We won't. They are not there anymore.“",
             "japanese": "ヘブン·740.A.P\\n\n\\n\n「私、氷封層に行きたい。」\\n\n「覚悟できたのか？」\\n\n「できてる。」\\n\n「なにせボランティア活動だから、あんたを止めることもできないけど……本当に決めたの？彼らに会うって？」\\n\n「彼らは本当の彼らじゃない、私たちも知ってるでしょ。過去の人類は滅亡した。」\\n\n「確かに、新しくできた氷封偵察隊はとても安全だ。だが所詮は異想の物だから、未知数が多いよ。」\\n\n「ピクセルタワーにおける未知数は、人類しかない。お前は私があそこに戻って余計なことをするのを恐れているでしょ。」\\n\n「総隊長、我々にもう一回牛ハチノス谷の戦いに耐えられる余裕なんてないんだ。」\\n\n「大丈夫だ。だって彼らはもう、いないんだから。」",
             "korean": "항구-740.A.P\\n\r\n\\n\r\n\"빙하에 가고 싶어요.\"\\n\r\n\"결정을 내렸나요.\"\\n\r\n\"결정했습니다.\"\\n\r\n\"자발적인 행동이므로 막을 수는 없습니다…정말로요? 만날 준비가 되신건가요?\"\\n\r\n\"그들은 실제가 아닙니다. 우리 둘 다 알고 있습니다. 과거 인류 종들은 이미 멸종했습니다.\"\\n\r\n\"맞습니다. 새로운 빙하 순찰대는 무해하지만 여전히 변덕스럽습니다. 불확실성이 너무 많습니다.\"\\n\r\n\"픽셀 타워에 불확실한 유일한 것은 인간뿐입니다. 당신은 제가 돌아가서 불필요한 일을 하는 것을 두려워하는거죠.\"\\n\r\n\"선장님, 저희는 카우벨리 계곡에서 또 다른 전투를 벌일 여유가 없습니다.\"\\n\r\n\"우리는 그러지 않을겁니다. 그들은 더 이상 거기에 없습니다.\""
@@ -5582,7 +5582,7 @@
       "startIndex": 16,
       "endIndex": 20,
       "excludedFiles": [],
-      "cover": "Assets/Tracks/#ChapterCover/MainStory4.png",
+      "cover": "Assets/Tracks/#ChapterCover/MainStory4.jpg",
       "files": [
         {
           "key": "shijian17",
@@ -5609,7 +5609,7 @@
           "content": {
             "code": "",
             "chinese": "必然的背叛，无非发生早晚，\\n\n耳边的轻语，忿恨溢出言喻，\\n\n她逃不了了，\\n\n她只能飞向天空，\\n\n飞向无人问津的孤岛，\\n\n萧条冷清的大街，\\n\n把歌声卖给现实，\\n\n将过去关在过去，\\n\n让未来回归山野，\\n\n回归那羚羊粘了雪花的墨眼。",
-            "chineseTraditional": "必然的背叛，無非發生早晚，\\n\n耳邊的輕語，忿恨溢出言喻，\\n\n她逃不了了，\\n\n 她只能飛向天空，\\n\n飛向無人問津的孤島，\\n\n 蕭條冷清的大街，\\n\n把歌聲賣給現實，\\n\n 將過去關在過去，\\n\n讓未來回歸山野，\\n\n 回歸那羚羊貼了雪花的墨眼。 ",
+            "chineseTraditional": "必然的背叛，無非發生早晚，\\n\n耳邊的輕語，忿恨溢出言喻，\\n\n她逃不了了，\\n\n她只能飛向天空，\\n\n飛向無人問津的孤島，\\n\n蕭條冷清的大街，\\n\n把歌聲賣給現實，\\n\n將過去關在過去，\\n\n讓未來回歸山野，\\n\n回歸那羚羊貼了雪花的墨眼。 ",
             "english": "",
             "japanese": "必然的な裏切り、起こるのは時間の問題に過ぎない。\\n\n耳元のささやき、怒りと恨みが言葉と化し溢れ出す。\\n\n彼女はもう逃れない、\\n\n空に向かって飛び立ち、\\n\n誰も知らない孤島へと行くしかない。\\n\n静寂な街道、\\n\n歌声を現実に売りつけ、\\n\n過去を過去に閉じ込み、\\n\n未来を山野に帰らす。\\n\n再び、羚羊の目に雪の花が降りつく。",
             "korean": "필연적인 배신은, 조만간 일어날 것이며,\\n\n귓가에 속삭이고, 분노가 말로 넘쳐나며,\\n\n그녀는 탈출할 수 없고,\\n\n오로지 하늘로 날 수 있으며,\\n\n아무도 관심을 두지 않는 외딴섬으로 날아가,\\n\n황량한 거리에서,\\n\n당신의 노래하는 목소리를 현실로 팔아보고,\\n\n과거는 과거에 간직하여,\\n\n미래가 산과 들로 돌아가도록 하고,\\n\n눈송이로 뒤덮인 영양의 잉크 눈으로 돌아간다."
@@ -6544,7 +6544,7 @@
           "category": "bold",
           "content": {
             "code": "",
-            "chinese": "“莲渡，你很纯粹。”\\n\n“说什么鬼话。”\\n\n “就是，我有点东西想给你，但是我不确定你怎么想。”\\n\n“你刚刚还说我很纯粹。”\\n\n“你确实很纯粹，但我不确定你的水平如何。”\\n\n“你在小瞧我。” \\n\n“我没有，你是了解我的。人在这里可以使用一种很特别的力量，但是如果没有办法掌握它，这种力量就会反过来危害到你。所以我需要确定你心灵的深度，也是为了你的安全着想。” \\n\n“不仅是异想的力量？”\\n\n“取决于你的本质。取决于你如何认识这个世界，如何认识这里，如何做出每一个决定。一般人只会盲目地活着，甚至不明白自己为什么会笑，为什么会发怒。就像你也许没意识到，你绝对不会进行没有准备的战斗。我知道你不是一般人，但我不确定你能否承担这种力量。”",
+            "chinese": "“莲渡，你很纯粹。”\\n\n“说什么鬼话。”\\n\n“就是，我有点东西想给你，但是我不确定你怎么想。”\\n\n“你刚刚还说我很纯粹。”\\n\n“你确实很纯粹，但我不确定你的水平如何。”\\n\n“你在小瞧我。” \\n\n“我没有，你是了解我的。人在这里可以使用一种很特别的力量，但是如果没有办法掌握它，这种力量就会反过来危害到你。所以我需要确定你心灵的深度，也是为了你的安全着想。” \\n\n“不仅是异想的力量？”\\n\n“取决于你的本质。取决于你如何认识这个世界，如何认识这里，如何做出每一个决定。一般人只会盲目地活着，甚至不明白自己为什么会笑，为什么会发怒。就像你也许没意识到，你绝对不会进行没有准备的战斗。我知道你不是一般人，但我不确定你能否承担这种力量。”",
             "chineseTraditional": "「蓮渡，你很單純。」\\n\n「說什麼鬼話。」\\n\n「就是，我有點東西想給你，但是我不確定你怎麼想。」\\n\n「你剛剛還說我很單純。」\\n\n「你確實很單純，但我不確定你的水準如何。」\\n\n「你在小瞧我。」\\n\n「我沒有，你瞭解我。人在這裡可以使用一種很特別的力量，但是如果沒有辦法掌握它，這種力量就會反過來危害到你。所以我需要確定你心靈的深度，也是為了你的安全著想。」 \\n\n「不僅是異想的力量？」\\n\n「取決於你的本質。取決於你如何認識這個世界，如何認識這裡，如何做出每一個決定。一般人只會盲目地活著，甚至不明白自己為什麼會笑，為什麼會發怒。就像你也許沒意識到，你絕對不會進行沒有準備的戰鬥。我知道你不是一般人，但我不確定你能否承擔這種力量。」",
             "english": "",
             "japanese": "「スルダン、君は純粋な人だ。」\\n\n「でたらめを言うな。」\\n\n「その、渡したいものがあるんだけど、君がどう受け入れるかがいまいち予測できなくてさ。」\\n\n「さっき純粋といったはずだが。」\\n\n「君は確かに純粋だ、だがどこまでかはわからないもので。」\\n\n「舐めてる。」\\n\n「いや、私という人を君はよく知ってるだろう。この場所で人間は特殊な力を扱えるんだ。だがうまく抑えることができないと、それはかえって君自身を食らう。だから君の心を確かめたのも君のためだ。」\\n\n「異想の力だけじゃないのか？」\\n\n「君の本質、君がどういう風にこの世界を認識し、どういう風にここを認識し、そしてどういう風に決断を下すかによる。普通の人は何も考えずに生きていることが多い、自分がなぜ笑うのか、なぜ怒るのかさえも知らずに。君が無謀で戦いに挑むことは決してない、君自身がそれを認識していないだけだ。これらは同じことさ。君はただならぬ者であることは知ってるが、この力に耐えれるかどうかがわからないんだ。」",
@@ -7091,7 +7091,7 @@
           "content": {
             "code": "",
             "chinese": "一道彩虹指引着他们前进的道路，直到管道迷宫的尽头，一路走来道路两边鲜花绽放，幽香四溢，旷无天地间，白茫茫空荡荡，却不压抑，心中敞亮。\\n\n“这里也要投币吗？”\\n\n不知去哪儿的鸠，回到队伍之中，她指着远方藤蔓缠绕的售货机，手里拿着一枚游戏币。\\n\n同行的素檀，还没接受Gino不过几下操作便通过游戏的事实，他以前也尝试过同样的路线，却没达成同样的结果。\\n\n“有人在和我作对。”\\n\n“嗯？”鸠回头，不解得问道。\\n\n“我不能再过去了，你们看不出来吗。”素檀展示手腕上的锁链，那物什有形亦无形，束缚着它使命中的猎物。\\n\nGino回答他：“你不想离开这里。”\\n\n“你从哪里得出的结论？”\\n\n“像素塔是个心想事成的世界，在这里你可以成为任何人。你理应能做到一切，但你不愿意这么行动。”\\n\n此时，鸠已走到售货机前，她按下“管道迷宫纪念章”的按钮，很快一包塑料包装的小物件掉了出来。她拆开包装，立刻走到素檀身边把印章盖在了锁链之上，这锁链瞬时应声破碎脱落。\\n\n“走吧，离开这里。”",
-            "chineseTraditional": "一道彩虹指引著他們前進的道路，直到管道迷宮的盡頭，一路走來道路兩邊鮮花綻放，幽香四溢，曠無天地間，白茫茫空蕩蕩，卻不壓抑，心中敞亮。\\n\n「這裡也要投幣嗎？」\\n\n 不知去哪兒的鳩，回到隊伍之中，她指著遠方藤蔓纏繞的販賣機，手裡拿著一枚遊戲幣。\\n\n同行的素檀，還沒接受Gino不過幾下操作便通過遊戲的事實，他以前也嘗試過同樣的路線，卻沒達成同樣的結果。\\n\n「有人在和我作對。」\\n\n 「嗯？」鳩回頭，不解得問道。\\n\n「我不能再過去了，你們看不出來嗎。」素檀展示手腕上的鎖鏈，那物時有形亦無形，束縛著它使命中的獵物。\\n\nGino回答他：「你不想離開這裡。」\\n\n「你從哪裡得出的結論？」\\n\n「像素塔是個心想事成的世界，在這裡你可以成為任何人。你理應能做到一切，但你不願意這麼行動。」\\n\n此時，鳩已走到販賣機前，她按下「管道迷宮紀念章」的按鈕，很快一包塑膠包裝的小物件掉了出來。她拆開包裝，立刻走到素檀身邊把印章蓋在了鎖鏈之上，這鎖鏈暫態應聲破碎脫落。\\n\\n\n「走吧，離開這裡。」\n",
+            "chineseTraditional": "一道彩虹指引著他們前進的道路，直到管道迷宮的盡頭，一路走來道路兩邊鮮花綻放，幽香四溢，曠無天地間，白茫茫空蕩蕩，卻不壓抑，心中敞亮。\\n\n「這裡也要投幣嗎？」\\n\n不知去哪兒的鳩，回到隊伍之中，她指著遠方藤蔓纏繞的販賣機，手裡拿著一枚遊戲幣。\\n\n同行的素檀，還沒接受Gino不過幾下操作便通過遊戲的事實，他以前也嘗試過同樣的路線，卻沒達成同樣的結果。\\n\n「有人在和我作對。」\\n\n「嗯？」鳩回頭，不解得問道。\\n\n「我不能再過去了，你們看不出來嗎。」素檀展示手腕上的鎖鏈，那物時有形亦無形，束縛著它使命中的獵物。\\n\nGino回答他：「你不想離開這裡。」\\n\n「你從哪裡得出的結論？」\\n\n「像素塔是個心想事成的世界，在這裡你可以成為任何人。你理應能做到一切，但你不願意這麼行動。」\\n\n此時，鳩已走到販賣機前，她按下「管道迷宮紀念章」的按鈕，很快一包塑膠包裝的小物件掉了出來。她拆開包裝，立刻走到素檀身邊把印章蓋在了鎖鏈之上，這鎖鏈暫態應聲破碎脫落。\\n\\n\n「走吧，離開這裡。」\n",
             "english": "",
             "japanese": "虹がパイプ迷路の出口まで二人を導いてくれた。道の両側には鮮やかに香り出す花が咲き、周りは何もない白い空間、妙だがここにいると晴れ晴れとした気持ちになれる。\\n\n「ここもコインを入れるの？」\\n\n行き場に迷った鳩はチームに合流した。遠くの蔓に絡まっている販売機を指した手には一枚のゲームコインを持っている。\\n\n同行しているスルダンはまだGinoがいと容易くゲームをクリアしたことを納得できずにいる。彼も前に同じルートを試したことががあったが、同じ結末にはならなかった。\\n\n「何者かが私を邪魔している。」\\n\n「え？」鳩は不思議に声をあげた。\\n\n「もう先に進むことはできない。あなたたちには見えないのか。」スルダンは自分の腕に絡まっている鎖を二人に見せた。あれは実在なものとは思えないほど不安定な形で己の獲物を縛り付けている。\\n\nGinoが口を開いた：「あんたはここを離れたくない。」\\n\n「どうしてそのような結論を？」\\n\n「ピクセルタワーは思考が現実となる場所、ここでは何者にでもなれる。あんたは何もかもできたはず、それを望まなかっただけ。」\\n\n鳩は既に販売機の前まで来ている。「パイプ迷路記念スタンプ」というボタンを押すとプラスチックで包装された小物が出てきた。鳩はそれを開けて、スタンプをスルダンに縛り付けている鎖に押すと、鎖が音を立てて砕け散った。\\n\n「行こう、ここを出よう。」",
             "korean": ""
@@ -7131,7 +7131,7 @@
       "startIndex": 21,
       "endIndex": 27,
       "excludedFiles": [],
-      "cover": "Assets/Tracks/#ChapterCover/MainStory5.png",
+      "cover": "Assets/Tracks/#ChapterCover/MainStory5.jpg",
       "files": [
         {
           "key": "shijian22",
@@ -9382,7 +9382,7 @@
       "startIndex": 28,
       "endIndex": 33,
       "excludedFiles": [],
-      "cover": "Assets/Tracks/#ChapterCover/MainStory6.png",
+      "cover": "Assets/Tracks/#ChapterCover/MainStory6.jpg",
       "files": [
         {
           "key": "chongsheng",
@@ -9525,10 +9525,10 @@
           "category": "key",
           "content": {
             "code": "",
-            "chinese": "Trending：\\n\n 00:00 Genesis 8:12\\n\n 02:08 Trecheng Breth Féne 29/92/133/244/255\\n\n 04:01 二子乘舟，泛泛其景。愿言思子，中心养养。\\n\n06:31 PPPPPPhigrOS_Project_Stage_Final_VI_ArkDoom_Igallta_deciphered\\n\n08:31 久等了，接下来，请根据我的指示操作。\\n\n\\n\n HINT:\\n\n 请不要击打以下冒牌notes:\\n\nEZ:214\\n\n HD:185/398\\n\n IN:218/495/629\\n\n 敌人对「方舟Six」的侵入停止了，Igallta比我们想象的要弱。\\n\n冒牌note和其他正常note格格不入，所以数note是不必要的，请相信你的直觉。",
+            "chinese": "Trending：\\n\n 00:00 Genesis 8:12\\n\n 02:08 Trecheng Breth Féne 29/92/133/244/255\\n\n 04:01 二子乘舟，泛泛其景。愿言思子，中心养养。\\n\n06:31 PPPPPPhigrOS_Project_Stage_Final_VI_ArkDoom_Igallta_deciphered\\n\n08:31 久等了，接下来，请根据我的指示操作。\\n\n\\n\nHINT:\\n\n 请不要击打以下冒牌notes:\\n\nEZ:214\\n\nHD:185/398\\n\n IN:218/495/629\\n\n 敌人对「方舟Six」的侵入停止了，Igallta比我们想象的要弱。\\n\n冒牌note和其他正常note格格不入，所以数note是不必要的，请相信你的直觉。",
             "chineseTraditional": "Trending：\\n\r\n00:00 Genesis 8:12\\n\r\n02:08 Trecheng Breth Féne 29/92/133/244/255\\n\r\n04:01 二子乘舟，泛泛其景。愿言思子，中心养养。\\n\r\n06:31 PPPPPPhigrOS_Project_Stage_Final_VI_ArkDoom_Igallta_deciphered\\n\r\n08:31 久等了。接下來，請根據我的指示操作。\\n\r\n\\n\r\nHINT：\\n\r\n請不要敲打以下冒牌notes：\\n\r\nEZ：214\\n\r\nHD：185/398\\n\r\nIN：218/495/629\\n\r\n敵人停止侵入「方舟Six」了，Igallta比我們想像的還要弱。\\n\r\n冒牌note和其他正常note格格不入，所以數note是不必要的，請相信你的直覺。",
             "english": "Trending: \\n\r\n00:00 - Genesis 8:12\\n\r\n02:08 - Trecheng Breth Féne 29/92/133/244/255\\n\r\n04:01 - 二子乘舟，泛泛其景。愿言思子，中心养养。\\n\r\n06:31 -  PPPhigrOS_Project_Stage_Final_VI_ArkDoom_Igallta_deciphered\\n\r\n08:31 - Thank you for your waiting. Now, follow my instructions.\\n\r\n\\n\r\n[CLUE]:\\n\r\nAvoid the notes that are out of place. Don't be decieved.\\n\r\nEZ: 214\\n\r\nHD: 185/398\\n\r\nIN: 218/495/629\\n\r\nThe enemies have ceased their invasion towards the Six. Igallta is weaker than we first thought.",
-            "japanese": "Trending：\\n\r\n 00:00 Genesis 8:12\\n\r\n 02:08 Trecheng Breth Féne 29/92/133/244/255\\n\r\n 04:01 二子乘舟，泛泛其景。愿言思子，中心养养。\\n\r\n06:31 PPPPPPhigrOS_Project_Stage_Final_VI_ArkDoom_Igallta_deciphered\\n\r\n08:31 お待たせしました、これからは私の指示に従って操作してください。\\n\r\n\\n\r\n HINT:\\n\r\n 以下のコンボ数に出てくる偽のノーツに触れないでください:\\n\r\nEZ:214\\n\r\n HD:185/398\\n\r\n IN:218/495/629\\n\r\n 敵側から「方舟Six」への侵入は止まりました。Igalltaは私たちが想像したものよりも弱いです。\\n\r\n偽のノーツは他の正常ノーツとは違いがあるので，ノーツの数を数える必要はありません。自分の勘を信じてください。",
+            "japanese": "Trending：\\n\r\n 00:00 Genesis 8:12\\n\r\n 02:08 Trecheng Breth Féne 29/92/133/244/255\\n\r\n 04:01 二子乘舟，泛泛其景。愿言思子，中心养养。\\n\r\n06:31 PPPPPPhigrOS_Project_Stage_Final_VI_ArkDoom_Igallta_deciphered\\n\r\n08:31 お待たせしました、これからは私の指示に従って操作してください。\\n\r\n\\n\r\nHINT:\\n\r\n 以下のコンボ数に出てくる偽のノーツに触れないでください:\\n\r\nEZ:214\\n\r\nHD:185/398\\n\r\n IN:218/495/629\\n\r\n 敵側から「方舟Six」への侵入は止まりました。Igalltaは私たちが想像したものよりも弱いです。\\n\r\n偽のノーツは他の正常ノーツとは違いがあるので，ノーツの数を数える必要はありません。自分の勘を信じてください。",
             "korean": "트렌딩: \\n\r\n00:00 - Genesis 8:12\\n\r\n02:08 - Trecheng Breth Féne 29/92/133/244/255\\n\r\n04:01 - 2子乘舟，泛泛其景。愿言思子，中心养养。\\n\r\n06:31 - PPPPPPhigrOS_Project_Stage_Final_VI_ArkDoom_Igallta_deciphered\\n\r\n08:31 - 기다려주셔서 감사합니다. 이제부터는 제 지시에 따라 조작해주세요.\\n\r\n\\n\r\n[힌트]:\\n\r\n아래의 콤보 수에 나오는 가짜 노트를 건들지 마세요..\\n\r\nEZ: 214\\n\r\nHD: 185/398\\n\r\nIN: 218/495/629\\n\r\n적들은 방주 \"Six\"를 향한 침공을 멈췄다. Igallta는 우리가 상상한 것보다 약하다."
           },
           "properties": {
@@ -10385,7 +10385,7 @@
       "startIndex": 34,
       "endIndex": 39,
       "excludedFiles": [],
-      "cover": "Assets/Tracks/#ChapterCover/MainStory7.png",
+      "cover": "Assets/Tracks/#ChapterCover/MainStory7.jpg",
       "files": [
         {
           "key": "clockparadox",
@@ -10764,7 +10764,7 @@
       "startIndex": 40,
       "endIndex": 45,
       "excludedFiles": [],
-      "cover": "Assets/Tracks/#ChapterCover/MainStory8.png",
+      "cover": "Assets/Tracks/#ChapterCover/MainStory8.jpg",
       "files": [
         {
           "key": "shijianbaima",
@@ -11533,7 +11533,7 @@
       "startIndex": 20000,
       "endIndex": 20005,
       "excludedFiles": [],
-      "cover": "Assets/Tracks/#ChapterCover/SideStory1.png",
+      "cover": "Assets/Tracks/#ChapterCover/SideStory1.jpg",
       "files": [
         {
           "key": "zhixian10",
@@ -13045,7 +13045,7 @@
             "chineseTraditional": "監聽記錄——4月3日12：20\\n\n地點：某處餐廳\\n\n註釋：Ida Itaca和Mentus Petman的會面。Mentus Petman曾出現在奧德修斯港的出海記錄中。 \\n\n對話內容1：\\n\nIda：「你知道這首詩的含義？」 \\n\nMentus：「知道但不能明說，有人在跟踪我，你可以按照這上面的去查，我是為了尋找忘憂宮來的，希望你協助我。」 \\n\nIda：「我對忘憂宮沒有任何興趣。」 \\n\nMentus：「那你又是為何把這首詩放到謎題保管所？」 \\n\nIda：「這是兩回事。」 \\n\nMentus：「你是Itaca家的吧，我記得你。」 \\n\nIda：「那個家族與我無關。」 \\n\nMentus：「有些東西是丟不掉的。」 \\n\n對話內容2:Ida：「什麼聲音？」 \\n\nMentus：「不好，港口的人來了。」 \\n\nIda：「你幹了什麼？」 \\n\nMentus：「沒時間解釋了，快跑！」",
             "english": "Monitoring record - April 3, 12:20\\n\nLocation: Some restaurant\\n\nNote: The meeting between Ida Itaca and Mentus Petman. Mentus Petman appeared in the sailing record in Port Odysseus. \\n\nConversation 1: \\n\nIda: You know the meaning of this poem? \\n\nMentus: I know but cannot say it explicitly. Someone is following me. You can follow this to find out. I am here to find Lotos. I hope you can help me. \\n\nIda: I have no interest in Lotos. \\n\nMentus: Then why did you put this poem to the Puzzle Depository? \\n\nIda: Those are two separate matters. \\n\nMentu: You're from the Itaca family. I remember you. \\n\nIda: That family has nothing to do with me. \\n\nMentu: Some things can't be simply thrown away. \\n\nConversation 2:Ida: What's that sound? \\n\nMentu: No good. The port people are coming. \\n\nIda: What have you done? \\n\nMentu: No time to explain, run!",
             "japanese": "盗聴記録——4月3日12：20\\n\n場所：とあるレストラン\\n\n注釈：エイダ·イタカとモンタス·ペットマンが面会している場面。モンタス·ペットマンはオデシュース港の出航記録にも記録されている人物。\\n\n対話内容1：\\n\nエイダ：この歌の意味わかるの？\\n\nモンタス：わかるが、話すわけにはいかない、俺を追っている奴らがいる。これに書いてあることに基づいて調査すればわかるはずだ。俺はロートスを探すためにここに来たんだ、協力してほしい。\\n\nエイダ：ロートスに何も興味もないが。\\n\nモンタス：ではなぜこの歌をクイズ保管所に入れたんだ？\\n\nエイダ：これとそれは別よ。\\n\nモンタス：君はイタカ家の人でしょ、覚えているよ。\\n\nエイダ：私はあの家とは無関係だから。\\n\nモンタス：人には捨てられないものもあるんだよ。\\n\n対話内容2:エイダ：何の音？\\n\nモンタス：まずい、港にいた奴らが追ってきた。\\n\nエイダ：いったい何をしたんだ？\\n\nモンタス：説明する時間がない、早く逃げろ！",
-            "korean": "모니터링 기록 - 4월 3일 12:20\\n\n위치: 일부 레스토랑\\n\r\n참고사항: 아이다 아이타카와 멘투스 페트만의 만남. 멘투스 페트만은 오디세우스 항구의 항해 기록에 있었음.\\n\r\n대화 1:\\n\r\n 아이다: 이 시의 의미를 아시나요?\\n\r\n멘투스: 알고 있지만 제대로는 말할 수 없어요. 누군가 절 쫓아오고 있어요. 이것을 따라가면 알 수 있습니다. 전 로터스를 찾으러 왔습니다. 당신이 저를 도울 수 있기를 바랍니다.\\n\r\n 아이다: 전 로터스에 관심 없어요.\\n\r\n멘투스: 그럼 왜 이 시를 퍼즐 창고에 넣은거죠?\\n\r\n 아이다: 그건 별개의 문제에요.n\r\n 멘투스: 당신은 아이타카 가문 출신이잖아요. 전 당신을 기억합니다.\\n\r\n 아이다: 그 가족은 저하고 아무 관련도 없어요\\n\r\n 멘투스: 어떤 것들은 그냥 내다 버릴 수 없나보군요.\\n\r\n\\n\n대화 2:\\n\n 아이다: 그게 무슨 소리죠?\\n\r\n멘투스: 상황이 안좋아요. 항구 사람들이 오고 있어요.\\n\r\n 아이다: 무슨 짓을 한 거냐고요?\\n\r\n 멘투스: 설명할 시간이 없어요, 뛰세요!"
+            "korean": "모니터링 기록 - 4월 3일 12:20\\n\n위치: 일부 레스토랑\\n\r\n참고사항: 아이다 아이타카와 멘투스 페트만의 만남. 멘투스 페트만은 오디세우스 항구의 항해 기록에 있었음.\\n\r\n대화 1:\\n\r\n 아이다: 이 시의 의미를 아시나요?\\n\r\n멘투스: 알고 있지만 제대로는 말할 수 없어요. 누군가 절 쫓아오고 있어요. 이것을 따라가면 알 수 있습니다. 전 로터스를 찾으러 왔습니다. 당신이 저를 도울 수 있기를 바랍니다.\\n\r\n 아이다: 전 로터스에 관심 없어요.\\n\r\n멘투스: 그럼 왜 이 시를 퍼즐 창고에 넣은거죠?\\n\r\n 아이다: 그건 별개의 문제에요.n\r\n 멘투스: 당신은 아이타카 가문 출신이잖아요. 전 당신을 기억합니다.\\n\r\n 아이다: 그 가족은 저하고 아무 관련도 없어요\\n\r\n멘투스: 어떤 것들은 그냥 내다 버릴 수 없나보군요.\\n\r\n\\n\n대화 2:\\n\n 아이다: 그게 무슨 소리죠?\\n\r\n멘투스: 상황이 안좋아요. 항구 사람들이 오고 있어요.\\n\r\n 아이다: 무슨 짓을 한 거냐고요?\\n\r\n 멘투스: 설명할 시간이 없어요, 뛰세요!"
           },
           "properties": {
             "code": "",
@@ -13084,7 +13084,7 @@
             "chineseTraditional": "監聽記錄——4月3日12：20\\n\n地點：某處餐廳的包間\\n\n註釋：開頭出現卡片掉落的聲音，之後，人聲響度銳減。 \\n\n對話內容1：\\n\nBernice：「我很驚訝你會同意見我。」 \\n\n克勞爾：「在此之前，把你的包借我一下。」 \\n\nBernice：「怎麼了？這是，港區發的身份證？ 」\\n\n克勞爾：「這類竊聽器，會發出一種節奏很特殊的超聲波，儀器一測就知道。」 \\n\nBernice：「沒想到他還有這手段。」 \\n\n克勞爾：「搞偷渡，自然要謹慎些。你和Erapeter是老朋友，我也不介意你告訴他，忘憂宮的秘密，我解開了。」 \\n\nBernice：「只憑這些資料？」 \\n\n克勞爾：「當然不止。」 \\n\nBernice：「所以結論呢。」 \\n\n克勞爾：「你的判斷是正確的，忘憂宮外圍很可能是一層沒有實體的防護壁。」",
             "english": "Monitoring record - April 3, 12:20\\n\nLocation: A private room in some restaurant\\n\nNote: The sound of a card falling to the ground appeared at the beginning. From then, the human voice has sharply decreased in volume. \\n\nConversation 1: \\n\nBernice: I'm surprised you'd agree to see me. \\n\nClear: Before that, lend me your bag for a moment. \\n\nBernice: What's wrong? Is this, the identity card issued by the port? \\n\nClear: This type of wiretap, emits a very specific rhythm of ultrasound. It’s immediately detectable by instrument. \\n\nBernice: I didn't expect him to have this trick. \\n\nClear: Engaging in smuggling, naturally, you have to be more cautious. You and Erapeter are old friends, and I don't mind if you tell him, that I have solved the secret of Lotos. \\n\nBernice: With only this information? \\n\nClear: More than that, of course. \\n\nBernice: So what’s the conclusion?\\n\nClear: You are right. The outer perimeter of Lotos is likely a protective wall with no solid form.",
             "japanese": "盗聴記録——4月3日12：20\\n\n場所：とあるレストランの個室\\n\n注釈：序盤にカードが地面に落ちる音がしてから、人声の響きがが著しく弱くなった。\\n\n対話内容1：\\n\nべルネス：あなたが面会を同意したことに驚いたよ。\\n\nクレア：その前に、ちょっとそのカバン貸して。\\n\nべルネス：どうしたの？これは、港が配った身分証明カード？\\n\nクレア：この類の盗聴器はある特殊なリズムをした超音波を発する、機械で測定すればすぐわかる。\\n\nべルネス：この手があったとは。\\n\nクレア：密航というのは当然慎重にやらないといけない。君はエルパックとは長い付き合いだ、だからそいつに話しても別に構わない。俺はロートスの秘密を解き明かした。\\n\nべルネス：これらの資料だけで？\\n\nクレア：もちろん違う。\\n\nべルネス：で、結論は？\\n\nクレア：君の判断は正しかった、ロートスの外には実体のない防護壁がある可能性が非常に高い。",
-            "korean": "모니터링 기록 - 4월 3일 12:20\\n\n위치: 일부 레스토랑의 개인룸\\n\n참고: 처음에는 카드가 땅에 떨어지는 소리가 들림. 그때부터 사람 목소리의 크기가 급격히 줄어듦.\\n\n대화 1: \\n\n 버니스: 당신이 저를 만나려 했다는게 놀랍네요.\\n\n Clear: 그 전에 잠시 가방 좀 빌려주세요.\\n\n 버니스: 무슨 일인가요? 이게 항구에서 발행한 신분증인가요?\\n\n Clear: 이 유형의 도청 장치는 매우 특정한 초음파 리듬을 방출해요. 장비를 통해 즉시 감지할 수 있어요.\\n\n버니스: 그 사람이 이런 수법을 쓸 줄은 몰랐네요.\\n\n Clear: 밀수에 가담하는 것은 당연히 더 조심해야 합니다. 당신과 에라페터는 오랜 친구에요. 당신이 그에게 제가 로터스의 비밀을 풀었다고 말해도 상관은 없습니다.\\n\n 버니스: 이 정보만으로요?\\n\n Clear: 물론 그 이상입니다.\\n\n버니스: 그래서 결론은 무엇인가요?\\n\nClear: 당신 말이 맞는거 같아요. 로터스의 외곽은 견고한 형태가 없는 보호벽일 가능성이 커요."
+            "korean": "모니터링 기록 - 4월 3일 12:20\\n\n위치: 일부 레스토랑의 개인룸\\n\n참고: 처음에는 카드가 땅에 떨어지는 소리가 들림. 그때부터 사람 목소리의 크기가 급격히 줄어듦.\\n\n대화 1: \\n\n 버니스: 당신이 저를 만나려 했다는게 놀랍네요.\\n\n Clear: 그 전에 잠시 가방 좀 빌려주세요.\\n\n 버니스: 무슨 일인가요? 이게 항구에서 발행한 신분증인가요?\\n\n Clear: 이 유형의 도청 장치는 매우 특정한 초음파 리듬을 방출해요. 장비를 통해 즉시 감지할 수 있어요.\\n\n버니스: 그 사람이 이런 수법을 쓸 줄은 몰랐네요.\\n\n Clear: 밀수에 가담하는 것은 당연히 더 조심해야 합니다. 당신과 에라페터는 오랜 친구에요. 당신이 그에게 제가 로터스의 비밀을 풀었다고 말해도 상관은 없습니다.\\n\n 버니스: 이 정보만으로요?\\n\nClear: 물론 그 이상입니다.\\n\n버니스: 그래서 결론은 무엇인가요?\\n\nClear: 당신 말이 맞는거 같아요. 로터스의 외곽은 견고한 형태가 없는 보호벽일 가능성이 커요."
           },
           "properties": {
             "code": "",
@@ -13277,7 +13277,7 @@
       "startIndex": 20006,
       "endIndex": 20011,
       "excludedFiles": [],
-      "cover": "Assets/Tracks/#ChapterCover/SideStory2.png",
+      "cover": "Assets/Tracks/#ChapterCover/SideStory2.jpg",
       "files": [
         {
           "key": "zhixian20",
@@ -13929,7 +13929,7 @@
       "startIndex": 20012,
       "endIndex": 20016,
       "excludedFiles": [],
-      "cover": "Assets/Tracks/#ChapterCover/SideStory3.png",
+      "cover": "Assets/Tracks/#ChapterCover/SideStory3.jpg",
       "files": [
         {
           "key": "thiefmoon",
@@ -16687,7 +16687,7 @@
       "startIndex": 20017,
       "endIndex": 20017,
       "excludedFiles": [],
-      "cover": "Assets/Tracks/#ChapterCover/SideStory4.png",
+      "cover": "Assets/Tracks/#ChapterCover/SideStory4.jpg",
       "files": [
         {
           "key": "investigatewuxiang",
@@ -16754,7 +16754,7 @@
       "startIndex": 10133,
       "endIndex": 10137,
       "excludedFiles": [],
-      "cover": "Assets/Tracks/SATELLITE.かめりあ.0/Illustration.png",
+      "cover": "Assets/Tracks/SATELLITE.かめりあ.0/Illustration.jpg",
       "files": [
         {
           "key": "bassareusEgg",
@@ -16858,10 +16858,10 @@
           "category": "main",
           "content": {
             "code": "",
-            "chinese": "序\\n\n \\n\n二十一世纪中叶，宇宙探索热潮再启。\\n\n\\n\n人们在社交网络上激烈地讨论。少年吉诺坐在电脑前，屏幕上的新闻标题不停变换。\\n\n\\n\n“超越光速，第四次工业革命已经到来”\\n\n\\n\n“新的可移居星球完美复刻地球，应许之地的发现”\\n\n\\n\n“世界工业大会开幕，本期主题：前往宇宙”\\n\n\\n\n“先遣队成立，他们将开阔五个类地行星”\\n\n\\n\n“工业奇迹！蒸汽引擎横空出世”\\n\n\\n\n新闻上大大的蒸汽标志，逐渐变淡，变成钢印，投射到工厂正在生产的引擎上。\\n\n\\n\n流水线移动，“蒸汽”型引擎被打好标签，套壳装袋，运往各大船厂。\\n\n\\n\n飞船装载上引擎，转瞬间，引擎轰鸣，蒸汽涌动，超越宇宙第三速度，飞向深空。\\n\n\\n\n此时，货仓里，一双机械质的狐狸眼亮起。\\n\n\\n\n宇宙的深处，星河灿烂。一片黑布抖出，它意图遮蔽星河光辉，却只能蒙住人类的眼睛，创造出无边黑暗的假象，而就在这片黑暗中，片名浮出水面：\\n\n\\n\n<b>极星卫</b>\\n\n \\n\n……\n \n\n ",
-            "chineseTraditional": "序\\n\n \\n\n二十一世纪中葉，宇宙探索熱潮再啟。\\n\n\\n\n人們在社交網路上激烈地討論。少年吉諾坐在電腦前，屏幕上的新聞標題不停變換。\\n\n\\n\n“超越光速，第四次工業革命已經到來”\\n\n\\n\n“新的可移居星球完美復刻地球，應許之地的發現”\\n\n\\n\n“世界工業大會開幕，本期主题：前往宇宙”\\n\n\\n\n“先遣隊成立，他们將開闊五個類地行星”\\n\n\\n\n“工業奇蹟！蒸氣引擎横空出世”\\n\n\\n\n新聞上大大的蒸氣標誌，逐漸變淡，變成鋼印，投射到工廠正在生產的引擎上。\\n\n\\n\n流水線移動，“蒸氣”型引擎被打好標籤，套殼装袋，運往各大船廠。\\n\n\\n\n飛船裝載上引擎，轉瞬间，引擎轟鳴，蒸氣湧動，超越宇宙第三速度，飛向深空。\\n\n\\n\n此時，貨艙裡，一雙機械質的狐狸眼亮起。\\n\n\\n\n宇宙的深處，星河燦爛。一片黑布抖出，它意圖遮蔽星河光輝，卻只能蒙住人類的眼睛，創造出無邊黑暗的假象，而就在这片黑暗中，片名浮出水面：\\n\n\\n\n<b>極星衛</b>\\n\n \\n\n……\n \n\n ",
+            "chinese": "序\\n\n \\n\n二十一世纪中叶，宇宙探索热潮再启。\\n\n\\n\n人们在社交网络上激烈地讨论。少年吉诺坐在电脑前，屏幕上的新闻标题不停变换。\\n\n\\n\n“超越光速，第四次工业革命已经到来”\\n\n\\n\n“新的可移居星球完美复刻地球，应许之地的发现”\\n\n\\n\n“世界工业大会开幕，本期主题：前往宇宙”\\n\n\\n\n“先遣队成立，他们将开阔五个类地行星”\\n\n\\n\n“工业奇迹！蒸汽引擎横空出世”\\n\n\\n\n新闻上大大的蒸汽标志，逐渐变淡，变成钢印，投射到工厂正在生产的引擎上。\\n\n\\n\n流水线移动，“蒸汽”型引擎被打好标签，套壳装袋，运往各大船厂。\\n\n\\n\n飞船装载上引擎，转瞬间，引擎轰鸣，蒸汽涌动，超越宇宙第三速度，飞向深空。\\n\n\\n\n此时，货仓里，一双机械质的狐狸眼亮起。\\n\n\\n\n宇宙的深处，星河灿烂。一片黑布抖出，它意图遮蔽星河光辉，却只能蒙住人类的眼睛，创造出无边黑暗的假象，而就在这片黑暗中，片名浮出水面：\\n\n\\n\n<b>极星卫</b>\\n\n\\n\n……\n \n\n ",
+            "chineseTraditional": "序\\n\n \\n\n二十一世纪中葉，宇宙探索熱潮再啟。\\n\n\\n\n人們在社交網路上激烈地討論。少年吉諾坐在電腦前，屏幕上的新聞標題不停變換。\\n\n\\n\n“超越光速，第四次工業革命已經到來”\\n\n\\n\n“新的可移居星球完美復刻地球，應許之地的發現”\\n\n\\n\n“世界工業大會開幕，本期主题：前往宇宙”\\n\n\\n\n“先遣隊成立，他们將開闊五個類地行星”\\n\n\\n\n“工業奇蹟！蒸氣引擎横空出世”\\n\n\\n\n新聞上大大的蒸氣標誌，逐漸變淡，變成鋼印，投射到工廠正在生產的引擎上。\\n\n\\n\n流水線移動，“蒸氣”型引擎被打好標籤，套殼装袋，運往各大船廠。\\n\n\\n\n飛船裝載上引擎，轉瞬间，引擎轟鳴，蒸氣湧動，超越宇宙第三速度，飛向深空。\\n\n\\n\n此時，貨艙裡，一雙機械質的狐狸眼亮起。\\n\n\\n\n宇宙的深處，星河燦爛。一片黑布抖出，它意圖遮蔽星河光輝，卻只能蒙住人類的眼睛，創造出無邊黑暗的假象，而就在这片黑暗中，片名浮出水面：\\n\n\\n\n<b>極星衛</b>\\n\n\\n\n……\n \n\n ",
             "english": "",
-            "japanese": "序\\n\n \\n\n二十一世紀半ば、宇宙探索という欲望が再び人々の中で燃え上がった。\\n\n\\n\n熱狂する人々はネット上で熱弁を繰り返している。少年ジノはパソコンの前に座り、モニター上で移り変わるニュースのタイトルを見つめていた。\\n\n\\n\n「光速突破に成功、第四次産業革命の到来か」\\n\n\\n\n「地球と瓜二つの惑星、人類の新たな居住地を発見」\\n\n\\n\n「世界産業大会開幕、テーマ『宇宙へ』」\\n\n\\n\n「先遣隊結成、5つの地球型惑星を開拓予定」\\n\n\\n\n「産業の奇跡！画期的な発明——蒸気エンジン」\\n\n\\n\nニュースで大きく出されたスチームのロゴはだんだん浅く、やがて刻印となり、工場で製造途中のエンジンに映写される。\\n\n\\n\nラインの処理を経て、「スチーム」型エンジンはタグをつけられ包装されて、各造船所へと輸送される。\\n\n\\n\n飛行船はエンジンを搭載して起動し、轟きと蒸気を発しながら第三宇宙速度を超え、深宇宙へと飛び立つ。\\n\n\\n\nその貨物庫で、一対の金属質のキツネの目がきらりと光り出す。\\n\n\\n\n宇宙の奥底で銀河が煌めいている。黒い布が放り出され、銀河の煌めきを遮ろうとするも人々の目を遮ることしかできず、偽りの暗闇を作り出した。その暗闇の中で、タイトルが浮かび上がる：\\n\n\\n\n<b>バサレウス</b>\\n\n \\n\n……\n \n\n ",
+            "japanese": "序\\n\n \\n\n二十一世紀半ば、宇宙探索という欲望が再び人々の中で燃え上がった。\\n\n\\n\n熱狂する人々はネット上で熱弁を繰り返している。少年ジノはパソコンの前に座り、モニター上で移り変わるニュースのタイトルを見つめていた。\\n\n\\n\n「光速突破に成功、第四次産業革命の到来か」\\n\n\\n\n「地球と瓜二つの惑星、人類の新たな居住地を発見」\\n\n\\n\n「世界産業大会開幕、テーマ『宇宙へ』」\\n\n\\n\n「先遣隊結成、5つの地球型惑星を開拓予定」\\n\n\\n\n「産業の奇跡！画期的な発明——蒸気エンジン」\\n\n\\n\nニュースで大きく出されたスチームのロゴはだんだん浅く、やがて刻印となり、工場で製造途中のエンジンに映写される。\\n\n\\n\nラインの処理を経て、「スチーム」型エンジンはタグをつけられ包装されて、各造船所へと輸送される。\\n\n\\n\n飛行船はエンジンを搭載して起動し、轟きと蒸気を発しながら第三宇宙速度を超え、深宇宙へと飛び立つ。\\n\n\\n\nその貨物庫で、一対の金属質のキツネの目がきらりと光り出す。\\n\n\\n\n宇宙の奥底で銀河が煌めいている。黒い布が放り出され、銀河の煌めきを遮ろうとするも人々の目を遮ることしかできず、偽りの暗闇を作り出した。その暗闇の中で、タイトルが浮かび上がる：\\n\n\\n\n<b>バサレウス</b>\\n\n\\n\n……\n \n\n ",
             "korean": "서론\\n\n\\n\n21세기 중반, 우주 탐사에 대한 열망이 다시 사람들 사이에서 불타올랐다.\\n\n\\n\n열광하는 사람들은 인터넷에서 열변을 토하고 있었다. 지노는 컴퓨터 앞에 앉아 모니터에 뜨는 뉴스의 제목들을 바라보고 있었다.\\n\n\\n\n\"광속 돌파에 성공, 제4차 산업 혁명의 도래인가\"\\n\n\\n\n\"지구와 꼭 닮은 행성, 인류의 새로운 거주지 발견\"\\n\n\\n\n\"세계산업대회 개막, 주제는 '우주로'\"\\n\n\\n\n\"선발대 결성, 5개의 지구형 행성을 개척 예정\"\\n\n\\n\n\"산업의 기적! 획기적인 발명 - 증기 엔진\"\\n\n\\n\n뉴스에 크게 보도된 스팀 로고가 점점 희미해지다가 마침내 각인되며, 공장에서 제조 중인 엔진에 투사되었다.\\n\n\\n\n라인의 공정을 거쳐, \"스팀\"형 엔진은 태그를 붙이고 포장되어, 각 조선소로 수송됐다.\\n\n\\n\n비행선은 엔진을 탑재하고 시동을 건 다음에, 굉음과 함께 증기를 내뿜으며 제3 우주 속도를 넘어 심우주로 날아갔다.\\n\n\\n\n그 화물칸에서 한 쌍의 금속성 여우의 눈이 반짝였다.\\n\n\\n\n우주의 깊은 곳에서 은하가 반짝이고 있다. 검은 천이 던져져 은하의 반짝임을 가리려 하는데도 사람들의 눈만 가릴 뿐, 거짓 어둠을 만들어냈다. 그 어둠 속에서 제목이 보이기 시작했다:\\n\n\\n\n<b>BassAreUs</b>\\n\n\\n\n……"
           },
           "properties": {
@@ -17170,10 +17170,10 @@
           "category": "main",
           "content": {
             "code": "",
-            "chinese": "20 九仙街小巷 日 外\\n\n\\n\n吉诺：你的心脏是蒸汽引擎？\\n\n\\n\n鸠：嗯。\\n\n\\n\n吉诺：真是不可思议。\\n\n\\n\n小巷外传来整齐的脚步声，约莫有一队全副武装的士兵正在接近。鸠拉过吉诺，做最后的嘱咐。\\n\n\\n\n鸠：不是说这个的时候，朝那边走，走到尽头，会有人接应你。\\n\n\\n\n\\n\n \\n\n\\n\n \\n\n\\n\n21 载具试验场 日 外 回忆\\n\n\\n\n白裙的女孩，站在升降梯上，向镜头外问好。\\n\n\\n\n鸠：你好啊，巴萨雷乌斯，我叫鸠。\\n\n\\n\n\\n\n\\n\n22 九仙街小巷 日 外\\n\n\\n\n女子说完转身准备离开，吉诺不自觉地叫住了她。\\n\n\\n\n吉诺：鸠!\\n\n\\n\n吉诺：过会儿见。\\n\n\\n\n鸠回头笑了笑，激活右臂装置，朝敌人的方向走去。\\n\n\\n\n\\n\n\\n\n23 九仙街步道的废墟 日 外\\n\n\\n\n医疗兵正为尼格拉包扎伤口，副官清扫战场回来。\\n\n\\n\n副官：长官，没找到。\\n\n\\n\n尼格拉：他家呢。\\n\n\\n\n副官：没有人，您说是不是……\\n\n\\n\n尼格拉：他绝不可能背叛。\\n\n\\n\n副官不敢说话了。她再怎么怀疑，也不如长官一句信任。\\n\n\\n\n尼格拉：鸠还有同谋，一定是他们趁刚才的混乱绑走了尤埃。派士兵去搜，人还没走远。\\n\n\\n\n尼格拉其实也不确定自己的判断，他撑着膝盖的左手，不停敲击着咚咚咚的节奏，思考了良久。",
-            "chineseTraditional": "20 九仙街小巷 日 外\\n\n\\n\n吉諾：你的心臟是蒸汽引擎？\\n\n\\n\n鳩：嗯。\\n\n\\n\n吉諾：真是不可思議。\\n\n\\n\n小巷外傳來整齊的腳步聲，約莫有一隊全副武裝的士兵正在接近。鳩拉過吉諾，做最後的囑咐。\\n\n\\n\n鳩：不是說這個的時候，朝那邊走，走到盡頭，會有人接應你。\\n\n\\n\n\\n\n \\n\n\\n\n \\n\n\\n\n21 載具試驗場 日 外 回憶\\n\n\\n\n白裙的女孩，站在升降梯上，向镜头外问好。\\n\n\\n\n鳩：你好啊，巴薩雷烏斯，我叫鳩。\\n\n\\n\n\\n\n\\n\n22 九仙街小巷 日 外\\n\n\\n\n女子說完轉身準備離開，吉諾不自覺地叫住了她。\\n\n\\n\n吉諾：鳩!\\n\n\\n\n吉諾：過會兒見。\\n\n\\n\n鳩回頭笑了笑，激活右臂裝置，朝敵人的方向走去。\\n\n\\n\n\\n\n\\n\n23 九仙街步道的廢墟 日 外\\n\n\\n\n醫療兵正為尼格拉包紮傷口，副官清掃戰場回來。\\n\n\\n\n副官：長官，沒找到。\\n\n\\n\n尼格拉：他家呢。\\n\n\\n\n副官：沒有人，您說是不是……\\n\n\\n\n尼格拉：他絕不可能背叛。\\n\n\\n\n副官不敢說話了。她再怎麼懷疑，也不如長官一句信任。\\n\n\\n\n尼格拉：鳩還有同謀，一定是他們趁剛才的混亂綁走了尤埃。派士兵去搜，人還沒走遠。\\n\n\\n\n尼格拉其實也不確定自己的判斷，他撐著膝蓋的左手，不停敲擊著咚咚咚的節奏，思考了良久。",
+            "chinese": "20 九仙街小巷 日 外\\n\n\\n\n吉诺：你的心脏是蒸汽引擎？\\n\n\\n\n鸠：嗯。\\n\n\\n\n吉诺：真是不可思议。\\n\n\\n\n小巷外传来整齐的脚步声，约莫有一队全副武装的士兵正在接近。鸠拉过吉诺，做最后的嘱咐。\\n\n\\n\n鸠：不是说这个的时候，朝那边走，走到尽头，会有人接应你。\\n\n\\n\n\\n\n\\n\n\\n\n \\n\n\\n\n21 载具试验场 日 外 回忆\\n\n\\n\n白裙的女孩，站在升降梯上，向镜头外问好。\\n\n\\n\n鸠：你好啊，巴萨雷乌斯，我叫鸠。\\n\n\\n\n\\n\n\\n\n22 九仙街小巷 日 外\\n\n\\n\n女子说完转身准备离开，吉诺不自觉地叫住了她。\\n\n\\n\n吉诺：鸠!\\n\n\\n\n吉诺：过会儿见。\\n\n\\n\n鸠回头笑了笑，激活右臂装置，朝敌人的方向走去。\\n\n\\n\n\\n\n\\n\n23 九仙街步道的废墟 日 外\\n\n\\n\n医疗兵正为尼格拉包扎伤口，副官清扫战场回来。\\n\n\\n\n副官：长官，没找到。\\n\n\\n\n尼格拉：他家呢。\\n\n\\n\n副官：没有人，您说是不是……\\n\n\\n\n尼格拉：他绝不可能背叛。\\n\n\\n\n副官不敢说话了。她再怎么怀疑，也不如长官一句信任。\\n\n\\n\n尼格拉：鸠还有同谋，一定是他们趁刚才的混乱绑走了尤埃。派士兵去搜，人还没走远。\\n\n\\n\n尼格拉其实也不确定自己的判断，他撑着膝盖的左手，不停敲击着咚咚咚的节奏，思考了良久。",
+            "chineseTraditional": "20 九仙街小巷 日 外\\n\n\\n\n吉諾：你的心臟是蒸汽引擎？\\n\n\\n\n鳩：嗯。\\n\n\\n\n吉諾：真是不可思議。\\n\n\\n\n小巷外傳來整齊的腳步聲，約莫有一隊全副武裝的士兵正在接近。鳩拉過吉諾，做最後的囑咐。\\n\n\\n\n鳩：不是說這個的時候，朝那邊走，走到盡頭，會有人接應你。\\n\n\\n\n\\n\n\\n\n\\n\n \\n\n\\n\n21 載具試驗場 日 外 回憶\\n\n\\n\n白裙的女孩，站在升降梯上，向镜头外问好。\\n\n\\n\n鳩：你好啊，巴薩雷烏斯，我叫鳩。\\n\n\\n\n\\n\n\\n\n22 九仙街小巷 日 外\\n\n\\n\n女子說完轉身準備離開，吉諾不自覺地叫住了她。\\n\n\\n\n吉諾：鳩!\\n\n\\n\n吉諾：過會兒見。\\n\n\\n\n鳩回頭笑了笑，激活右臂裝置，朝敵人的方向走去。\\n\n\\n\n\\n\n\\n\n23 九仙街步道的廢墟 日 外\\n\n\\n\n醫療兵正為尼格拉包紮傷口，副官清掃戰場回來。\\n\n\\n\n副官：長官，沒找到。\\n\n\\n\n尼格拉：他家呢。\\n\n\\n\n副官：沒有人，您說是不是……\\n\n\\n\n尼格拉：他絕不可能背叛。\\n\n\\n\n副官不敢說話了。她再怎麼懷疑，也不如長官一句信任。\\n\n\\n\n尼格拉：鳩還有同謀，一定是他們趁剛才的混亂綁走了尤埃。派士兵去搜，人還沒走遠。\\n\n\\n\n尼格拉其實也不確定自己的判斷，他撐著膝蓋的左手，不停敲擊著咚咚咚的節奏，思考了良久。",
             "english": "",
-            "japanese": "20 九仙通り路地 昼 外\\n\n\\n\nジノ：お前の心臓は、蒸気エンジンなのか？\\n\n\\n\n鳩：うん。\\n\n\\n\nジノ：...全く不思議だ。\\n\n\\n\n揃った足音が聞こえた、おそらく一部隊の兵士がここに近づいている。鳩はジノを引き寄せて最後の言葉を伝える。\\n\n\\n\n鳩：今はこれを話している場合じゃない。あの方向を、突き当りまで行って。迎えてくれる人がそこにいる。\\n\n\\n\n\\n\n \\n\n\\n\n \\n\n\\n\n21 テストコース 昼 外 追憶\\n\n\\n\n白いワンピースの女の子が昇降台の上に立って、カメラの向こう側に挨拶をしている。\\n\n\\n\n鳩：こんにちは、バサレウス。私の名前は鳩。\\n\n\\n\n\\n\n\\n\n22 九仙通り路地 昼 外\\n\n\\n\n言葉だけを残して離れていく娘を見て、ジノは思わず呼び止めた。\\n\n\\n\nジノ：鳩！\\n\n\\n\nジノ：また後で。\\n\n\\n\n鳩は振り返って微笑んだ。そして右腕の装置を起動して、敵が来る方向へと向う。\\n\n\\n\n\\n\n\\n\n23 九仙通り歩道廃墟 昼 外\\n\n\\n\n衛生兵に傷の手当てをしてもらっている二コラのところに、あたりを駆け回った副官が戻ってきた。\\n\n\\n\n副官：見つけられませんでした。\\n\n\\n\n二コラ：彼の家は探ったのか。\\n\n\\n\n副官：誰もいませんでした。まさか……\\n\n\\n\n二コラ：彼が裏切ることはない。\\n\n\\n\n副官はこれ以上喋ることがなかった。いくら疑っても、上官の信頼には叶わないことだ。\\n\n\\n\n二コラ：鳩には協力者がいる、その人たちがどさくさに紛れてユーエをさらったんだ。兵を出せ、まだそう遠くには行っていないはずだ。\\n\n\\n\n二コラにも自分の判断は正しいかどうかがわからない。ただただ焦る気持ちを抑えて、考え込むしかなかった。",
+            "japanese": "20 九仙通り路地 昼 外\\n\n\\n\nジノ：お前の心臓は、蒸気エンジンなのか？\\n\n\\n\n鳩：うん。\\n\n\\n\nジノ：...全く不思議だ。\\n\n\\n\n揃った足音が聞こえた、おそらく一部隊の兵士がここに近づいている。鳩はジノを引き寄せて最後の言葉を伝える。\\n\n\\n\n鳩：今はこれを話している場合じゃない。あの方向を、突き当りまで行って。迎えてくれる人がそこにいる。\\n\n\\n\n\\n\n\\n\n\\n\n \\n\n\\n\n21 テストコース 昼 外 追憶\\n\n\\n\n白いワンピースの女の子が昇降台の上に立って、カメラの向こう側に挨拶をしている。\\n\n\\n\n鳩：こんにちは、バサレウス。私の名前は鳩。\\n\n\\n\n\\n\n\\n\n22 九仙通り路地 昼 外\\n\n\\n\n言葉だけを残して離れていく娘を見て、ジノは思わず呼び止めた。\\n\n\\n\nジノ：鳩！\\n\n\\n\nジノ：また後で。\\n\n\\n\n鳩は振り返って微笑んだ。そして右腕の装置を起動して、敵が来る方向へと向う。\\n\n\\n\n\\n\n\\n\n23 九仙通り歩道廃墟 昼 外\\n\n\\n\n衛生兵に傷の手当てをしてもらっている二コラのところに、あたりを駆け回った副官が戻ってきた。\\n\n\\n\n副官：見つけられませんでした。\\n\n\\n\n二コラ：彼の家は探ったのか。\\n\n\\n\n副官：誰もいませんでした。まさか……\\n\n\\n\n二コラ：彼が裏切ることはない。\\n\n\\n\n副官はこれ以上喋ることがなかった。いくら疑っても、上官の信頼には叶わないことだ。\\n\n\\n\n二コラ：鳩には協力者がいる、その人たちがどさくさに紛れてユーエをさらったんだ。兵を出せ、まだそう遠くには行っていないはずだ。\\n\n\\n\n二コラにも自分の判断は正しいかどうかがわからない。ただただ焦る気持ちを抑えて、考え込むしかなかった。",
             "korean": ""
           },
           "properties": {
